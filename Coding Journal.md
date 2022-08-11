@@ -21,3 +21,5 @@ Day 3
 Wednesday, 10 August, 2022
 
 Today was a first for my HackerRank challenges. I did not have to look at the solutions that others thought of first to figure out how they completed it, I thought of a solution simply from things I had previously done. After writing this, I still plan to look and see what others did for their solutions, simply because I feel the alternate perspectives is valuable for learning, but I am happy to see my growth in programming skills and especially my increased problem solving skills. I am really loving this 100 day challenge. I wonder how my coding skills will have improved by December of 2023 when I will actually stop my coding challenge (assuming I have a job by then at least).
+
+One thing I learned from today's coding is the importance of both stopping to carefully read the challenge and (as I think this will help) using psudocode to outline what I plan on doing. My first 2 attempts at checking what I thought was completed code, were wrong because I had not paid close enough attention to what was required in the challenge. 
