@@ -15,3 +15,9 @@ Day 2
 Tuesday, 9 August, 2022
 
 Yesterday, I struggled a lot with the list comprehension and had a hard time conceiving of even a strategy to use to solve the problem with. Today, when I first got started, I ran into the same problem, and like yesterday, I looked at what others had done to solve the problem and tried to dissect that. From there, I stopped and asked myself, "Seeing how these people solved the problem, how could I have figured it out?" From there, I immediately had ideas flowing into my mind for how I could have solved the problem and created a solution that I did not see in the discussion board for the problems. To me, this is a huge win because it means that I am starting to learn what I believe is the most important part of learning programming, specifically problem solving. 
+
+Day 3
+
+Wednesday, 10 August, 2022
+
+Today was a first for my HackerRank challenges. I did not have to look at the solutions that others thought of first to figure out how they completed it, I thought of a solution simply from things I had previously done. After writing this, I still plan to look and see what others did for their solutions, simply because I feel the alternate perspectives is valuable for learning, but I am happy to see my growth in programming skills and especially my increased problem solving skills. I am really loving this 100 day challenge. I wonder how my coding skills will have improved by December of 2023 when I will actually stop my coding challenge (assuming I have a job by then at least).
