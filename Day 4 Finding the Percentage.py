@@ -1,6 +1,7 @@
 # Work for 100 days of Code Day 4 Finding the Percentage
 # This Coding Challenge was taken from HackerRank Found at the following URL
 # https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true
+# Got help from the following video to finially figure the challenge out. 
 
 # Challenge principles
 
