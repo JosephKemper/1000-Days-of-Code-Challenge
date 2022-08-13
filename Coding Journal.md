@@ -26,6 +26,11 @@ One thing I learned from today's coding is the importance of both stopping to ca
 
 Day 4
 
-Wednesday, 11 August, 2022
+Thursday, 11 August, 2022
 
 Today, I spent a few hours watching videos trying to learn a bit more about python dictionaries. I might not have had to spend as much time learning if I had not been working at the time, but it was the best time I had so I am happy I did it. In the end, I found a video on Youtube that walked you through the problem and I realized that I was way over complicating it, and that in many ways, all I needed to do was to treat the dictionary like a list and that would have solved the problem. 
+
+Day 5
+
+Friday, 12 August, 2022
+Today, I found that some of the HackerRank challenges are terribly worded. I also got to where I wanted to know more about how functions worked, as I felt that was holding me back, so I decided to resume working ahead in my next class and was able to get two whole assignments completed. In the second of those programs (called discount.py) I even found a place where it just made sense to write funtions. We have not actually gotten to where they have taught us how to write functions yet, but I have had enough exposure to them, that I know the basics. I also know just how valuable functions will be in programming, so I am happy to see that I am starting to see the benifit of using them. 
