@@ -28,4 +28,4 @@ Day 4
 
 Wednesday, 11 August, 2022
 
-Today, I spent a few hours watching videos trying to learn a bit more about python dictionaries. It might not have had to spend as much time learning if I had not been working at the time, but it was the best time I had so I am happy I did it. In the end, I found a video on Youtube that walked you through the problem and I realized that I was way over complicating it, and that in many ways, all I needed to do was to treat the dictionary like a list and that would have solved the problem. 
+Today, I spent a few hours watching videos trying to learn a bit more about python dictionaries. I might not have had to spend as much time learning if I had not been working at the time, but it was the best time I had so I am happy I did it. In the end, I found a video on Youtube that walked you through the problem and I realized that I was way over complicating it, and that in many ways, all I needed to do was to treat the dictionary like a list and that would have solved the problem. 
