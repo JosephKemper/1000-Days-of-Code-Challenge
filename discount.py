@@ -1,3 +1,6 @@
+# Work completed for day 6 of 100 days of code challenge
+# Problem was presented as part of a CSE111 Programming with Functions class. 
+# The Assignment is the W02 Prove: Calling Functions
 # Problem Statement
 """
 You work for a retail store that wants to increase sales on Tuesday and Wednesday, 
