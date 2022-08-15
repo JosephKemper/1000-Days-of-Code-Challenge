@@ -41,3 +41,9 @@ Day 6
 Saturday, 13 August, 2022
 
 Today, I practiced working with files, while loops and if statements. I added data to a text file for the first time, which was cool. I am doing a better job at not over complicating things. Tomorrow, I am looking forward to stopping and worshipping. 
+
+Day 7
+
+Monday, 15 August, 2022
+
+Today, I practiced with creating functions. Specifically, I practiced with creating the whole program within various functions. And connected with that, I practiced with using one function inside of another. One good rule of thumb I learned that I want to remember is to try to avoid having a function longer than 20 lines of code. I would imagine that if it is getting that long it is likely better to just create a separate function. 
