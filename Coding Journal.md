@@ -47,3 +47,9 @@ Day 7
 Monday, 15 August, 2022
 
 Today, I practiced with creating functions. Specifically, I practiced with creating the whole program within various functions. And connected with that, I practiced with using one function inside of another. One good rule of thumb I learned that I want to remember is to try to avoid having a function longer than 20 lines of code. I would imagine that if it is getting that long it is likely better to just create a separate function. 
+
+Day 8
+
+Tuesday, 16 August, 2022
+
+Today, I practiced more with functions. Before I started this journey, functions were something I was just starting to experiment with, and in many ways, was uncomfortable with them, but now, I am getting ready to not only write my own functions, but to use an existing library of functions in such a way that would have left me intimidated before. I am also seeing the advantage of using notes to outline your program. The coding work I have been doing the past few days, has been work that will be due as part of a class I will be taking in September. I chose to start working on it now, because I realized that my lack of knowledge about functions was holding me back and I did not like that idea. I think that while I will still have a lot to learn, after the work I am planning on doing tomorrow, I will be happy with where I am at on functions. I will likely keep working ahead in my class, because I like that idea. I am really happy I started this 100 days of code journey. 
