@@ -53,3 +53,9 @@ Day 8
 Tuesday, 16 August, 2022
 
 Today, I practiced more with functions. Before I started this journey, functions were something I was just starting to experiment with, and in many ways, was uncomfortable with them, but now, I am getting ready to not only write my own functions, but to use an existing library of functions in such a way that would have left me intimidated before. I am also seeing the advantage of using notes to outline your program. The coding work I have been doing the past few days, has been work that will be due as part of a class I will be taking in September. I chose to start working on it now, because I realized that my lack of knowledge about functions was holding me back and I did not like that idea. I think that while I will still have a lot to learn, after the work I am planning on doing tomorrow, I will be happy with where I am at on functions. I will likely keep working ahead in my class, because I like that idea. I am really happy I started this 100 days of code journey. 
+
+Day 9
+
+Wednesday, 17 August, 2022
+
+Some days are just going to be busier than others I guess. Today was one of those busy days, but I still got my coding in. I practiced more working with functions, both writing my own and working with existing functions and libraries. Today, was a lot of deciphering code and libraries. I am trying to build a Python program that will draw and image, and this will be my first program that does not run exclusively in the terminal. It is wonderfully complex and enjoyable. I did not get the program done, but I am learning a lot more on this one so I am fine with that. The goal is not to complete a project every day, but to spend an hour coding, and while it was not all spent writing code, a lot of it was spent trying to decipher code and translate it into my needs, but I learned a lot and feel happy with the work I did. 
