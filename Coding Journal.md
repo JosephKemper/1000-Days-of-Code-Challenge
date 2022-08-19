@@ -59,3 +59,9 @@ Day 9
 Wednesday, 17 August, 2022
 
 Some days are just going to be busier than others I guess. Today was one of those busy days, but I still got my coding in. I practiced more working with functions, both writing my own and working with existing functions and libraries. Today, was a lot of deciphering code and libraries. I am trying to build a Python program that will draw and image, and this will be my first program that does not run exclusively in the terminal. It is wonderfully complex and enjoyable. I did not get the program done, but I am learning a lot more on this one so I am fine with that. The goal is not to complete a project every day, but to spend an hour coding, and while it was not all spent writing code, a lot of it was spent trying to decipher code and translate it into my needs, but I learned a lot and feel happy with the work I did. 
+
+Day 10
+
+Thursday, 18 August, 2022
+
+Today was another busy day, but I still got my coding in. It took some dedicated work, but I got my coding in. I practiced more with functions and learned about ways to make code more reusable. 
