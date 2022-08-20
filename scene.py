@@ -27,15 +27,8 @@ def main():
     draw_sun(canvas,x,y,x+diameter,y+diameter)
     
     
-    # Why is this not generating a sequence of trees
-    # Right now, it is only drawing 1 tree in the first spot
-    # Draw first row of trees. 
-    for x in range (200):
-        chance = random.randint(1,10)
-        interval = 20
-        if chance >=1:
-            draw_tree(canvas,interval,150,75)
-            x += interval
+    draw_forest(canvas)
+
   
 
 
@@ -104,7 +97,19 @@ def draw_tree(canvas, center_x,bottom,height):
         skirt_left, trunk_top,
         outline="gray20", width=1, fill="dark green")
 
+def draw_row_trees(canvas,y):
+        tree_position = random.randint(10,25)
+        for i in range (40):
+            chance = random.randint(1,10)
+            interval = 20
+            if chance >=4:
+                draw_tree(canvas,tree_position,y,75)
+            tree_position += interval
 
+def draw_forest (canvas, y=150):
+    for i in range (7):
+        draw_row_trees(canvas,y)
+        y=y-25
 
 def draw_grid (canvas, width, height, interval, color = "blue"):
     label_y = 15

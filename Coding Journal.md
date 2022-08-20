@@ -71,3 +71,11 @@ Day 11
 Friday, 19 August, 2022
 
 I got a few hours in today. I watched two whole lectures on coding from Harvard's CS50 class (via YouTube) and a bunch of shorter videos. During my actual coding time, I practiced more with functions and with for loops. I ran onto a bug with the for loop I was working with, I got the first iteration to work but nothing after that seemed to work and I am not sure why. So tomorrow, I will be trying to do some troubleshooting. 
+
+Day 12
+
+Saturday, 20 August, 2022
+
+I really love mornings! I spent an hour coding in the morning and made a lot of progress. I finally got the forest generating properly. Next, I want to generate three mountains, and the edge of a cliff that I want to put into the scene, giving the user the feel of standing on the edge of a cliff overlooking a mountain valley on the way to 3 big mountains. 
+
+The problem I had with the loop is that I was not properly handling the incramentation of the loop. I had the line of code that would increase the position of where the program was trying to draw the tree inside of the if statement that was being used to decide if a tree would be drawn, instead of at the end of the for loop itself, which meant that the position of the tree was never incramented and so the program was just drawing 30 trees right in the same position. 
