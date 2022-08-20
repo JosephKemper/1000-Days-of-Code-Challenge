@@ -65,3 +65,9 @@ Day 10
 Thursday, 18 August, 2022
 
 Today was another busy day, but I still got my coding in. It took some dedicated work, but I got my coding in. I practiced more with functions and learned about ways to make code more reusable. 
+
+Day 11
+
+Friday, 19 August, 2022
+
+I got a few hours in today. I watched two whole lectures on coding from Harvard's CS50 class (via YouTube) and a bunch of shorter videos. During my actual coding time, I practiced more with functions and with for loops. I ran onto a bug with the for loop I was working with, I got the first iteration to work but nothing after that seemed to work and I am not sure why. So tomorrow, I will be trying to do some troubleshooting. 
