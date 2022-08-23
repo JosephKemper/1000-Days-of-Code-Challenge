@@ -26,13 +26,19 @@ def main():
     diameter = 50
     draw_sun(canvas,x,y,x+diameter,y+diameter)
     
-    
+    # Next steps draw mountains. 
+    # Ideas for how mountains could look are at this link
+    # https://byui-cse.github.io/cse111-course/lesson04/gallery/monica.png
+    # I want to draw three super tall mountains in the background. 
+    draw_mountain(canvas, 150,400,scene_height)
+    draw_mountain(canvas, 200,200,scene_height)
+    draw_mountain(canvas, 200,600,scene_height)
     draw_forest(canvas)
 
   
 
 
-    draw_grid (canvas, scene_width, scene_height, 50)
+    #draw_grid (canvas, scene_width, scene_height, 50)
     # Call the finish_drawing function
     # in the draw2d.py library.
     finish_drawing(canvas)
@@ -59,6 +65,34 @@ def sun_position(scene_width=0,scene_height=0):
     if scene_height != 0:
         y = scene_height-(scene_height/10)*2 
         return y
+
+def draw_mountain(canvas, mountain_height, mountain_center, scene_height):
+    # Define the size of the mountain
+    mountain_base = scene_height/3
+    mountain_width = mountain_height *2
+    mountain_left = mountain_center - mountain_width/2
+    mountain_right = mountain_center + mountain_width/2
+    mountain_top = mountain_base + mountain_height
+
+    # Define the snow cap of the mountain
+    snow_top = mountain_height *2
+    snow_width = mountain_width*0.9
+    snow_left = mountain_center - snow_width/2
+    snow_right = mountain_center + snow_width/2
+    
+    
+    # Draw snow cap of mountain
+    draw_polygon(canvas,mountain_center, snow_top,
+        snow_right, mountain_base, snow_left, mountain_base,
+        outline="gray20", width=1, fill="floralWhite")
+
+
+    # Draw the mountain
+    draw_polygon(canvas,mountain_center, mountain_top, 
+        mountain_right, mountain_base, mountain_left, mountain_base,
+        outline="gray20", width=1, fill="antiqueWhite3")
+    
+
 
 
 def draw_sun (canvas,x,y,x1,y1,fill="yellow1"):

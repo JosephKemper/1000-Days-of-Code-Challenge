@@ -78,4 +78,10 @@ Saturday, 20 August, 2022
 
 I really love mornings! I spent an hour coding in the morning and made a lot of progress. I finally got the forest generating properly. Next, I want to generate three mountains, and the edge of a cliff that I want to put into the scene, giving the user the feel of standing on the edge of a cliff overlooking a mountain valley on the way to 3 big mountains. 
 
-The problem I had with the loop is that I was not properly handling the incramentation of the loop. I had the line of code that would increase the position of where the program was trying to draw the tree inside of the if statement that was being used to decide if a tree would be drawn, instead of at the end of the for loop itself, which meant that the position of the tree was never incramented and so the program was just drawing 30 trees right in the same position. 
+The problem I had with the loop is that I was not properly handling the incrementation of the loop. I had the line of code that would increase the position of where the program was trying to draw the tree inside of the if statement that was being used to decide if a tree would be drawn, instead of at the end of the for loop itself, which meant that the position of the tree was never incramented and so the program was just drawing 30 trees right in the same position. 
+
+Day 13
+
+Monday, 22 August, 2022
+
+I got the program I have been working with done, or at least I got it close enough. There is technically a bug with it as the mountain in the center is supposed to have snow on it, and does not, but I am ready to move on to learning new things and I can always come back to this later. I have spent enough time on this project and I am ready to start learning new things, so that is what I plan to do. 
