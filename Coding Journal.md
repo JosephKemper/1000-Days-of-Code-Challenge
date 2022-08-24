@@ -85,3 +85,9 @@ Day 13
 Monday, 22 August, 2022
 
 I got the program I have been working with done, or at least I got it close enough. There is technically a bug with it as the mountain in the center is supposed to have snow on it, and does not, but I am ready to move on to learning new things and I can always come back to this later. I have spent enough time on this project and I am ready to start learning new things, so that is what I plan to do. 
+
+Day 14
+
+Tuesday, 23 August, 2022
+
+Today, for a bit, I did not feel like practicing coding, but then I reminded myself of my dream and had a lot of fun coding. I practiced working with local and global variables as well as troubleshooting code. 
