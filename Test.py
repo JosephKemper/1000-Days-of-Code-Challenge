@@ -1,3 +1,5 @@
 x = int (input ("Enter an integer: "))
-y = float (input ("Enter a float value: "))
-print(x * y)
+y = int (input ("Enter the power: "))
+z = pow(x,y)
+print(x ** y)
+print(z)
