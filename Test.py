@@ -1,5 +1,3 @@
-x = int (input ("Enter an integer: "))
-y = int (input ("Enter the power: "))
-z = pow(x,y)
-print(x ** y)
-print(z)
+x = int(input("Enter the First #: "))
+y = int(input("Enter the Second #: "))
+print(x//y)
