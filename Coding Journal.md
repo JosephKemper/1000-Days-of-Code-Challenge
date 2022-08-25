@@ -91,3 +91,9 @@ Day 14
 Tuesday, 23 August, 2022
 
 Today, for a bit, I did not feel like practicing coding, but then I reminded myself of my dream and had a lot of fun coding. I practiced working with local and global variables as well as troubleshooting code. 
+
+Day 15
+
+Wednesday, 24 August, 2022
+
+Today, I worked more with functions, and iterating through lists. Following the assignment given in the week 4 Team activity for my next programming class (which I am working ahead in) I built a program that will calculate the storage and cost efficiency of different can sizes. I wanted to go one step farther and have the program display the can type with the highest storage efficiency and best cost efficiency but I ran out of time. Either way, I am happy with how the program turned out. I do need to get better at leaving notes in my code. 
