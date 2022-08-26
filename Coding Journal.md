@@ -97,3 +97,9 @@ Day 15
 Wednesday, 24 August, 2022
 
 Today, I worked more with functions, and iterating through lists. Following the assignment given in the week 4 Team activity for my next programming class (which I am working ahead in) I built a program that will calculate the storage and cost efficiency of different can sizes. I wanted to go one step farther and have the program display the can type with the highest storage efficiency and best cost efficiency but I ran out of time. Either way, I am happy with how the program turned out. I do need to get better at leaving notes in my code. 
+
+Day 16
+
+Thursday, 25 August, 2022
+
+There is certainly a lot more opposition to trying to find an hour to code every day than I ever imagined there would be. While I did not get as much time as I wanted, I still am happy with the time I got in, so I will count today as a success. I completed a few coding challenges on an app I have on my phone. 
