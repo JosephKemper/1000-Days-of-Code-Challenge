@@ -3,10 +3,7 @@ from tkinter import Y
 
 x = int(input("Enter x: "))
 y = int(input("Enter y: "))
+z = int(input("Enter z: "))
 
-if x > y:
-    print(x)
-elif y < x:
-    print(y)
-else:
-    print("Same")
+largest_number = [x,y,z]
+print(max(largest_number))
