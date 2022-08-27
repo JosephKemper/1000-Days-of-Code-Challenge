@@ -103,3 +103,9 @@ Day 16
 Thursday, 25 August, 2022
 
 There is certainly a lot more opposition to trying to find an hour to code every day than I ever imagined there would be. While I did not get as much time as I wanted, I still am happy with the time I got in, so I will count today as a success. I completed a few coding challenges on an app I have on my phone. 
+
+Day 17
+
+Friday, 26 August, 2022
+
+Today, I went back to my 04 Prove assignment and worked out a few bugs, along with getting the program set up to be more dynamic and scalable. 
