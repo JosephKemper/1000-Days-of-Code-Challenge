@@ -30,15 +30,16 @@ def main():
     # Ideas for how mountains could look are at this link
     # https://byui-cse.github.io/cse111-course/lesson04/gallery/monica.png
     # I want to draw three super tall mountains in the background. 
-    draw_mountain(canvas, 150,400,scene_height)
-    draw_mountain(canvas, 200,200,scene_height)
-    draw_mountain(canvas, 200,600,scene_height)
-    draw_forest(canvas)
+    draw_mountain(canvas, scene_height/3.33,scene_width/2,scene_height, scene_width)
+    draw_mountain(canvas, scene_height/2.5,scene_width/4,scene_height,scene_width)
+    draw_mountain(canvas, scene_height/2.5,(scene_width-(scene_width/4)),scene_height,scene_width)
+    
+    draw_forest(canvas,scene_height,scene_width)
 
   
 
 
-    #draw_grid (canvas, scene_width, scene_height, 50)
+    draw_grid (canvas, scene_width, scene_height, 50)
     # Call the finish_drawing function
     # in the draw2d.py library.
     finish_drawing(canvas)
@@ -48,16 +49,18 @@ def main():
 # draw_sky and draw_ground here.
 
 
-
+# Draw the sky to fill up about 2/3rds of the scene.
 def draw_sky(canvas, scene_width, scene_height):
     """Draw the background sky color"""
     draw_rectangle (canvas,0,scene_height /3, 
     scene_width, scene_height, width=0, fill= "sky blue")
 
+# Draw the ground to fill about 1/3rd of the scene. 
 def draw_ground(canvas, scene_width, scene_height):
     """Draw the background of the ground color"""
     draw_rectangle(canvas, 0,0,scene_width, scene_height/3, width=0,fill="tan4")
 
+# Draw the sun to be about in the middle of the scene near the top. 
 def sun_position(scene_width=0,scene_height=0):
     if scene_width != 0:
         x = scene_width/2
@@ -66,24 +69,26 @@ def sun_position(scene_width=0,scene_height=0):
         y = scene_height-(scene_height/10)*2 
         return y
 
-def draw_mountain(canvas, mountain_height, mountain_center, scene_height):
+# Draw mountains with snow on them
+def draw_mountain(canvas, mountain_height, mountain_center, scene_height,scene_width):
     # Define the size of the mountain
     mountain_base = scene_height/3
-    mountain_width = mountain_height *2
+    mountain_width = scene_width /2
     mountain_left = mountain_center - mountain_width/2
     mountain_right = mountain_center + mountain_width/2
     mountain_top = mountain_base + mountain_height
 
     # Define the snow cap of the mountain
-    snow_top = mountain_height *2
-    snow_width = mountain_width*0.9
-    snow_left = mountain_center - snow_width/2
-    snow_right = mountain_center + snow_width/2
+    snow_top = mountain_top *1.1
+    snow_width = mountain_width*0.7
+    snow_base = scene_height/2
+    snow_left = mountain_center - snow_width/3
+    snow_right = mountain_center + snow_width/3
     
     
     # Draw snow cap of mountain
     draw_polygon(canvas,mountain_center, snow_top,
-        snow_right, mountain_base, snow_left, mountain_base,
+        snow_right, snow_base, snow_left, snow_base,
         outline="gray20", width=1, fill="floralWhite")
 
 
@@ -131,19 +136,20 @@ def draw_tree(canvas, center_x,bottom,height):
         skirt_left, trunk_top,
         outline="gray20", width=1, fill="dark green")
 
-def draw_row_trees(canvas,y):
-        tree_position = random.randint(10,25)
-        for i in range (40):
+def draw_row_trees(canvas,y,scene_width, scene_height):
+        tree_position = int(random.randint(scene_width/50,scene_width/20))
+        for i in range (35):
             chance = random.randint(1,10)
-            interval = 20
-            if chance >=4:
-                draw_tree(canvas,tree_position,y,75)
+            interval = scene_width/18
+            if chance >=3:
+                draw_tree(canvas,tree_position,y,scene_height/10)
             tree_position += interval
 
-def draw_forest (canvas, y=150):
-    for i in range (7):
-        draw_row_trees(canvas,y)
-        y=y-25
+def draw_forest (canvas, scene_height,scene_width):
+    row_position = int(scene_height/3)
+    for i in range(7):
+        draw_row_trees(canvas,row_position,scene_height,scene_width)
+        row_position = row_position - scene_height/20
 
 def draw_grid (canvas, width, height, interval, color = "blue"):
     label_y = 15
@@ -156,7 +162,8 @@ def draw_grid (canvas, width, height, interval, color = "blue"):
         draw_line(canvas, 0, y, width, y, fill=color)
         draw_text (canvas, label_x, y, f"{y}",fill=color)
 
+# Added to allow portability of the functions in the program. 
+if __name__ == "__main__":
 # Call the main function so that
 # this program will start executing.
-if __name__ == "__main__":
     main()
