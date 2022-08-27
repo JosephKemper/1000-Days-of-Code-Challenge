@@ -114,4 +114,4 @@ Day 18
 
 Saturday, 27 August, 2022
 
-I finished my 04 prove project. It took a lot of work and fine tuning but I am happy with it. The only thing I would love to fix is to get the sun into a more stable position when you adjust the size of the scene. From this experience, one of the biggest things I learned was about how much tweaking it can take to draw things with code. 
+I finished my 04 prove project. It took a lot of work and fine tuning but I am happy with it. The only thing I would love to fix is to get the sun into a more stable position when you adjust the size of the scene. From this experience, one of the biggest things I learned was about how much tweaking it can take to draw things with code.  .
