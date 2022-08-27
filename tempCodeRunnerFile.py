@@ -1,8 +1,10 @@
-# Project pulled from Hacker Rank List Comprehensions challange. 
-# URL https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true
-
-
-
-x, y, z, n = (int(input()) for _ in range(4))
-# print ([[a,b,c] for a in range(0,x+1) for b in range(0,y+1) for c in range(0,z+1) if a + b + c != n ])
-print ([[a,b,c] for a in range(x+1) for b in range(y+1) for c in range(z+1) if a + b + c != n ])
+def draw_grid (canvas, width, height, interval, color = "blue"):
+    label_y = 15
+    for x in range (interval, width, interval):
+        draw_line(canvas, x, 0, x, height, fill=color)
+        draw_text (canvas, x, label_y, f"{x}",fill=color)
+    
+    label_x = 15
+    for y in range (interval, width, interval):
+        draw_line(canvas, 0, y, width, y, fill=color)
+        draw_text (canvas, label_x, y, f"{y}",fill=color)

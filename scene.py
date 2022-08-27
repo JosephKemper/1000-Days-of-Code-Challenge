@@ -20,33 +20,29 @@ def main():
     # Call your drawing functions such
     # as draw_sky and draw_ground here.
     draw_sky(canvas, scene_width, scene_height)
-    draw_ground(canvas, scene_width, scene_height)
-    x = sun_position(scene_width,0)
-    y = sun_position(0,scene_height)
-    diameter = 50
-    draw_sun(canvas,x,y,x+diameter,y+diameter)
     
-    # Next steps draw mountains. 
-    # Ideas for how mountains could look are at this link
-    # https://byui-cse.github.io/cse111-course/lesson04/gallery/monica.png
-    # I want to draw three super tall mountains in the background. 
-    draw_mountain(canvas, scene_height/3.33,scene_width/2,scene_height, scene_width)
-    draw_mountain(canvas, scene_height/2.5,scene_width/4,scene_height,scene_width)
-    draw_mountain(canvas, scene_height/2.5,(scene_width-(scene_width/4)),scene_height,scene_width)
+    draw_sun(canvas,scene_height,scene_width)
+
+    draw_cloud(canvas,scene_height,scene_width)
+
+    draw_ground(canvas, scene_width, scene_height)
+    
+    
+    
+    # Draw three mountains scaled by the size of the scene
+    draw_mountain_range(canvas,scene_height,scene_width)
     
     draw_forest(canvas,scene_height,scene_width)
 
   
 
 
-    draw_grid (canvas, scene_width, scene_height, 50)
+    #draw_grid (canvas, scene_width, scene_height, 50)
     # Call the finish_drawing function
     # in the draw2d.py library.
     finish_drawing(canvas)
 
 
-# Define your functions such as
-# draw_sky and draw_ground here.
 
 
 # Draw the sky to fill up about 2/3rds of the scene.
@@ -61,13 +57,19 @@ def draw_ground(canvas, scene_width, scene_height):
     draw_rectangle(canvas, 0,0,scene_width, scene_height/3, width=0,fill="tan4")
 
 # Draw the sun to be about in the middle of the scene near the top. 
-def sun_position(scene_width=0,scene_height=0):
-    if scene_width != 0:
-        x = scene_width/2
-        return x
-    if scene_height != 0:
-        y = scene_height-(scene_height/10)*2 
-        return y
+def draw_sun (canvas,scene_width,scene_height,):
+    radius = scene_height/20
+    x=scene_width/1.3
+    y=scene_height/1.9
+    
+    draw_oval(canvas,x-radius,y-radius,x+radius,y+radius,fill="yellow")
+    
+def draw_cloud(canvas,scene_height,scene_width):
+    #draw_oval(canvas, x0, y0, x1, y1, width=1, outline="black", fill="")
+    draw_oval(canvas, scene_width/16, scene_height/1.11, 
+    scene_width/4, scene_height/1.43, width=1, outline="white", fill="white")
+    draw_oval(canvas, scene_width/8, scene_height/1.25, 
+    scene_width/3.2, scene_height/1.67, width=1, outline="white", fill="white")
 
 # Draw mountains with snow on them
 def draw_mountain(canvas, mountain_height, mountain_center, scene_height,scene_width):
@@ -97,11 +99,13 @@ def draw_mountain(canvas, mountain_height, mountain_center, scene_height,scene_w
         mountain_right, mountain_base, mountain_left, mountain_base,
         outline="gray20", width=1, fill="antiqueWhite3")
     
+def draw_mountain_range(canvas, scene_height, scene_width):
+    draw_mountain(canvas, scene_height/3.33,scene_width/2,scene_height, scene_width)
+    draw_mountain(canvas, scene_height/2.5,scene_width/4,scene_height,scene_width)
+    draw_mountain(canvas, scene_height/2.5,(scene_width-(scene_width/4)),scene_height,scene_width)
 
 
 
-def draw_sun (canvas,x,y,x1,y1,fill="yellow1"):
-    draw_oval(canvas,x,y,x1,y1,fill="yellow")
     
 def draw_tree(canvas, center_x,bottom,height):
     """Draw a single pine tree.
