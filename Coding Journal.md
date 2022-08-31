@@ -121,3 +121,9 @@ Day 19
 Monday, 29 August, 2022
 
 Today, was my first day of working with pytest and building code to test functions. I likely did more learning than I did coding but I have to start somewhere. One of my first take aways about testing functions is the realization of just how much work and code it takes to build a test for a function. While for classroom examples that are kept deliberately simple, it might seem like writing code to test functions is not worth it, I can see the value in it when you get to where things are much more complex. I remember a "adventure game" program I wrote that would have been so much easier to test if I had written it in functions and then just wrote code to test the functions. I can also see why people may not like to write code to test their functions. A question that is already running through my mind is how could I improve the process of testing functions? That makes me happy, because that means I have found at least one area I am interested in within the coding world. 
+
+Day 20
+
+Tuesday, 30 August, 2022
+
+Today, I worked with two different programs, one of which had problems with it, that I needed to write tests for. The specific challenge was to first figure out what the program was supposed to do based on the documentation and then build a test for it to find where the problem might be, and then use the test results to fix the problem. I quickly learned about the value of making sure you code everything right. There were a few bugs I ran into from errors I made when writing the test code. This lesson also taught me a lot about the value of documenation; as without proper documentation within the code, it would have been a lot harder to build tests for it. 
