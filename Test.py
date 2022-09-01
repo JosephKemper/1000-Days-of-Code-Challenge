@@ -1,19 +1,18 @@
-def extract_given_name(full_name):
-    """Extract and return the given name from a string in this form:
-    "family_name; given_name". For example, if this function were
-    called like this:
-    extract_given_name("Brown; Sally"), it would return "Sally".
+# Suppose this is foo.py.
 
-    Parameter:
-        full_name: a string in the form "family_name; given_name"
-    Return: a string that contains a person's given name
-    """
-    # Find the index where "; " appears within the full name string.
-    semicolon_index = full_name.index("; ")
+print("before import")
+import math
 
-    # Extract a substring from the full name and return it.
-    given_name = full_name[semicolon_index+2: ]
-    return given_name
+print("before function_a")
+def function_a():
+    print("Function A")
 
-family_name = extract_given_name("Brown; Sally")
-print(family_name)
+print("before function_b")
+def function_b():
+    print("Function B {}".format(math.sqrt(100)))
+
+print("before __name__ guard")
+if __name__ == '__main__':
+    function_a()
+    function_b()
+print("after __name__ guard")

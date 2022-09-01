@@ -127,3 +127,9 @@ Day 20
 Tuesday, 30 August, 2022
 
 Today, I worked with two different programs, one of which had problems with it, that I needed to write tests for. The specific challenge was to first figure out what the program was supposed to do based on the documentation and then build a test for it to find where the problem might be, and then use the test results to fix the problem. I quickly learned about the value of making sure you code everything right. There were a few bugs I ran into from errors I made when writing the test code. This lesson also taught me a lot about the value of documenation; as without proper documentation within the code, it would have been a lot harder to build tests for it. 
+
+Day 21
+
+Wednesday, 31 August, 2022
+
+While I did not get much in the way of coding done today, I feel the work I did was valuable. The work I was doing involved a lot of things that we were just told to do without any kind of explanation to how it worked and to me, it felt too much like a tutorial that I was following and so I decided to stop and dig a little deeper. I have more I will be studying tomorrow because I just want to know, but that is alright because this journey is about developing my skills, and sometings that requires stopping to learn and not just practice. 
