@@ -133,3 +133,9 @@ Day 21
 Wednesday, 31 August, 2022
 
 While I did not get much in the way of coding done today, I feel the work I did was valuable. The work I was doing involved a lot of things that we were just told to do without any kind of explanation to how it worked and to me, it felt too much like a tutorial that I was following and so I decided to stop and dig a little deeper. I have more I will be studying tomorrow because I just want to know, but that is alright because this journey is about developing my skills, and sometings that requires stopping to learn and not just practice. 
+
+Day 22
+
+Thursday, 1 September, 2022
+
+Today was another day focused mostly on learning. I ended up watching two harvard lectures and got my code outlined a little better for what I will be doing tomorrow. 
