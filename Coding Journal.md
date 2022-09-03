@@ -144,4 +144,4 @@ Day 23
 
 Friday, 2 September, 2022
 
-Between time spent actually coding and time spent learning coding, I spent close to 9 hours of time on coding today. Tomorrow, I am ready to dive head first into more programming. 
+Between time spent actually coding and time spent learning coding, I spent close to 9 hours of time on coding today. Tomorrow, I am ready to dive headfirst into more programming. 
