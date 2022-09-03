@@ -2,11 +2,12 @@
 import random
 
 def main ():
-    tenses = ("past","present","future")
-    quantities = (1,2)
-    tense = random.choice(tenses)
-    quantity = random.choice(quantities)
-    print(f"{get_determiner(quantity).capitalize()} {get_noun(quantity)} {get_verb(quantity,tense)}")
+    tenses = ["past","present","future","past","present","future"]
+    quantities = [1,1,1,2,2,2]
+    for index, word in enumerate(tenses):
+        quantity = quantities[index]
+        tense = tenses[index]
+        print(f"{get_determiner(quantity).capitalize()} {get_noun(quantity)} {get_verb(quantity,tense)}.")
 
 def get_determiner (quantity) -> str:
     """

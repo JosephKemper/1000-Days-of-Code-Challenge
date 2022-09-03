@@ -1,18 +1,54 @@
-# Suppose this is foo.py.
+"""
+This is the "example" module.
 
-print("before import")
-import math
+The example module supplies one function, factorial().  For example,
 
-print("before function_a")
-def function_a():
-    print("Function A")
+>>> factorial(5)
+120
+"""
 
-print("before function_b")
-def function_b():
-    print("Function B {}".format(math.sqrt(100)))
+def factorial(n):
+    """Return the factorial of n, an exact integer >= 0.
 
-print("before __name__ guard")
-if __name__ == '__main__':
-    function_a()
-    function_b()
-print("after __name__ guard")
+    >>> [factorial(n) for n in range(6)]
+    [1, 1, 2, 6, 24, 120]
+    >>> factorial(30)
+    265252859812191058636308480000000
+    >>> factorial(-1)
+    Traceback (most recent call last):
+        ...
+    ValueError: n must be >= 0
+
+    Factorials of floats are OK, but the float must be an exact integer:
+    >>> factorial(30.1)
+    Traceback (most recent call last):
+        ...
+    ValueError: n must be exact integer
+    >>> factorial(30.0)
+    265252859812191058636308480000000
+
+    It must also not be ridiculously large:
+    >>> factorial(1e100)
+    Traceback (most recent call last):
+        ...
+    OverflowError: n too large
+    """
+
+    import math
+    if not n >= 0:
+        raise ValueError("n must be >= 0")
+    if math.floor(n) != n:
+        raise ValueError("n must be exact integer")
+    if n+1 == n:  # catch a value like 1e300
+        raise OverflowError("n too large")
+    result = 1
+    factor = 2
+    while factor <= n:
+        result *= factor
+        factor += 1
+    return result
+
+
+if __name__ == "__main__":
+    import doctest
+    doctest.testmod()
