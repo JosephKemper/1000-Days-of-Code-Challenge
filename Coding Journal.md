@@ -139,3 +139,9 @@ Day 22
 Thursday, 1 September, 2022
 
 Today was another day focused mostly on learning. I ended up watching two harvard lectures and got my code outlined a little better for what I will be doing tomorrow. 
+
+Day 23
+
+Friday, 2 September, 2022
+
+Between time spent actually coding and time spent learning coding, I spent close to 9 hours of time on coding today. Tomorrow, I am ready to dive head first into more programming. 
