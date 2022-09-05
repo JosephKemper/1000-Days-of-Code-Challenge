@@ -38,12 +38,47 @@ def test_get_determiner():
         assert word in plural_determiners
 
 def test_get_noun ():
-    pass
+    
+
+    singular_nouns = ["bird", "boy", "car", "cat", "child",
+        "dog", "girl", "man", "rabbit", "woman"]
+
+    for _ in range(4):
+       noun = get_noun(1)
+       assert noun in singular_nouns
+
+    plural_nouns = ["birds", "boys", "cars", "cats", "children",
+        "dogs", "girls", "men", "rabbits", "women"]
+    
+    for _ in range(4):
+       noun = get_noun(2)
+       assert noun in plural_nouns
 
 def test_get_verb():
-    pass
+    
+        # Past Tense verbs
+        past_tense_verbs = ["drank", "ate", "grew", "laughed", "thought",
+        "ran", "slept", "talked", "walked", "wrote"]
+    for _ in range(4):
+        verb= get_verb()
+        # Present Tense singular verbs
+        singular_present_tense_verbs = ["drinks", "eats", "grows", "laughs", "thinks",
+        "runs", "sleeps", "talks", "walks", "writes"]
 
+    for _ in range(4):
+        verb= get_verb()
+        # Present Tense plural verbs
+        plural_present_tense_verbs = ["drink", "eat", "grow", "laugh", "think",
+        "run", "sleep", "talk", "walk", "write"]
 
+    for _ in range(4):
+        verb= get_verb()
+        # Future Tense verbs
+        future_tense_verbs = ["will drink", "will eat", "will grow", "will laugh",
+        "will think", "will run", "will sleep", "will talk",
+        "will walk", "will write"]
+    for _ in range(4):
+        verb= get_verb()
 # Call the main function that is part of pytest so that the
 # computer will execute the test functions in this file.
 pytest.main(["-v", "--tb=line", "-rN", __file__])

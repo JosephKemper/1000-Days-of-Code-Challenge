@@ -34,7 +34,7 @@ def get_determiner (quantity) -> str:
     word = random.choice(words)
     return word
 
-def get_noun (quantity):
+def get_noun (quantity) -> str:
     """Return a randomly chosen noun.
     If quantity == 1, this function will
     return one of these ten single nouns:
