@@ -1,4 +1,4 @@
-from sentences import get_determiner, get_noun, get_verb
+from sentences import get_verb
 import random
 import pytest
 
@@ -25,12 +25,13 @@ def test_present_tense_singular ():
 
 def test_present_tense_plural ():
     for _ in range(4):
-        verb= get_verb(2, "plural")
+        verb= get_verb(2, "present")
         # Present Tense plural verbs
         plural_present_tense_verbs = ["drink", "eat", "grow", "laugh", "think",
         "run", "sleep", "talk", "walk", "write"]
         assert verb in plural_present_tense_verbs
 
+def test_future_tense():
     for _ in range(4):
         verb= get_verb(1, "future")
         # Future Tense verbs

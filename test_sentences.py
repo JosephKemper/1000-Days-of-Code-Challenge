@@ -71,7 +71,7 @@ def test_get_verb():
         assert verb in singular_present_tense_verbs
 
     for _ in range(4):
-        verb= get_verb(2, "plural")
+        verb= get_verb(2, "present")
         # Present Tense plural verbs
         plural_present_tense_verbs = ["drink", "eat", "grow", "laugh", "think",
         "run", "sleep", "talk", "walk", "write"]
