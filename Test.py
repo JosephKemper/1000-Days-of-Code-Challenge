@@ -1,3 +1,2 @@
-# Testing for code reviews on pull requests 
-# without having the option enabled that forces pull requests to be done
-# which prevents me from merging my own pull requests.
+# Test 2 for figuring out pull request on Github
+# What I am specifically testing for is the idea of reviewing pull requests.
