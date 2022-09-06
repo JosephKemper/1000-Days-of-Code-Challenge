@@ -145,3 +145,15 @@ Day 23
 Friday, 2 September, 2022
 
 Between time spent actually coding and time spent learning coding, I spent close to 9 hours of time on coding today. Tomorrow, I am ready to dive headfirst into more programming. 
+
+Day 24
+
+Saturday, 3 September, 2022
+
+I got my hour of coding in first thing in the morning and then planned to do more after I got a few things done, but the day got crazy and I never got back to it. 
+
+Day 25 
+
+Monday, 5 September, 2022
+
+Today, I went back to HackerRank and completed another challenge. Specifically, I completed the HackerRank Lists challenge, fond here. https://www.hackerrank.com/challenges/python-lists/problem In the practice I have done over the past few weeks working ahead in my class, I figured out a few questions I had about some of the things I was seeing at HackerRank like for example the header they populate in (if __name__ == "__main__":) I now know that allows for you to do things like unit test your code without actually running the full program and is meant to be put before the main function. It also allows for you to use your code in other programs via importing them. From there, I practiced more with pull requests on Github and completed my second pull request. 
