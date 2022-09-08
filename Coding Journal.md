@@ -163,3 +163,9 @@ Day 26
 Tuesday, 6 September, 2022
 
 I went to try another HackerRank problem but when I ran into something that I could not find an answer to and that everyone I found online simply took for granted, I got annoyed and went back to working ahead in my class. I figured out the problem I ran into last night and found another one, then fixed it. I also got more practice with completing pull requests, reviewing code, and tracking problems. I am actually enjoying this process. 
+
+Day 27 
+
+Wednesday, 7 September, 2022
+
+Today, I spent most of my time figuring out how to create issues in Github from my VS code. I want to get familiar with the tools and with the process of learning how to use new tools as I feel that will help set me up for when I actually get a programming job. I also figured out two simple projects I want to build to add to my portfolio. I got the idea from a video Andy Sterks that linked to a wonderful Github repository. https://github.com/andysterks/three-levels-of-projects The first two projects I want to make are an Expense Tracker and a Weight Tracker App. 
