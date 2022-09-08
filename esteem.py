@@ -39,11 +39,42 @@ Strongly Agree	0
 Core Requirements
 Your program prints the introductory text as shown in the Testing Procedure section below.
 Your program prints each of the ten statements and gets a response from the user.
-Your program computes the score for each response and sums all the scores and displays the total score.
+Your program computes score for each response and sums all the scores and displays the total score.
 """
+def main():
+    # TODO: #15 Program prints the introductory text."
+    print("""
+This program is an implementation of the Rosenberg
+Self-Esteem Scale. This program will show you ten
+statements that you could possibly apply to yourself.
+Please rate how much you agree with each of the
+statements by responding with one of these four letters:
 
-# TODO "Program prints the introductory text."
+D means you strongly disagree with the statement.
+d means you disagree with the statement.
+a means you agree with the statement.
+A means you strongly agree with the statement.
+    """)
 
-# TODO "Program prints each of the ten statements and gets a response from the user."
 
-# TODO "Program computes the score for each response and sums all the scores and displays the total score."
+# Collect user data and store in separate lists
+# TODO: #14 Program prints each of the ten statements and gets a response from user."
+
+q1 = "I feel that I am a person of worth, at least on an equal plane with others."
+q2 = "I feel that I have a number of good qualities."
+q3 = "All in all, I am inclined to feel that I am a failure."
+q4 = "I am able to do things as well as most other people."
+q5 = "I feel I do not have much to be proud of."
+q6 = "I take a positive attitude toward myself."
+q7 = "On the whole, I am satisfied with myself."
+q8 = "I wish I could have more respect for myself."
+q9 = "I certainly feel useless at times."
+q10 = "At times I think I am no good at all."
+
+
+# TODO: #13 Program computes score for each response and sums scores and displays total. 
+
+
+
+if __name__ == "__main__":
+    main()
