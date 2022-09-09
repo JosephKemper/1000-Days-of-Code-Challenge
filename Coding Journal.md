@@ -169,3 +169,9 @@ Day 27
 Wednesday, 7 September, 2022
 
 Today, I spent most of my time figuring out how to create issues in Github from my VS code. I want to get familiar with the tools and with the process of learning how to use new tools as I feel that will help set me up for when I actually get a programming job. I also figured out two simple projects I want to build to add to my portfolio. I got the idea from a video Andy Sterks that linked to a wonderful Github repository. https://github.com/andysterks/three-levels-of-projects The first two projects I want to make are an Expense Tracker and a Weight Tracker App. 
+
+Day 28 
+
+Thursday, 8 September, 2022
+
+Today, I completed a few challenges on codewars. I needed something relaxing to counter the stress I have been under, but still wanted to do my coding. 
