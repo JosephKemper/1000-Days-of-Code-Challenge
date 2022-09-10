@@ -175,3 +175,9 @@ Day 28
 Thursday, 8 September, 2022
 
 Today, I completed a few challenges on codewars. I needed something relaxing to counter the stress I have been under, but still wanted to do my coding. 
+
+Day 29
+
+Friday, 9 September, 2022
+
+Today, I went back to some of the code I previously completed and tightened it up a bit and added better documentation. It was simple, but I enjoyed the practice of refining my code. 
