@@ -181,3 +181,9 @@ Day 29
 Friday, 9 September, 2022
 
 Today, I went back to some of the code I previously completed and tightened it up a bit and added better documentation. It was simple, but I enjoyed the practice of refining my code. 
+
+Day 30
+
+Saturday, 10 September, 2022
+
+Today, I officially started my CSE111 Programming with functions class. As I found the Syllabus and most of the assignments online and used that to start working ahead, I have just taken the formal start of the class to go back and review and polish up my code. I did that yesterday and today. I rather enjoy reviewing my code. I learn a lot from doing it. 

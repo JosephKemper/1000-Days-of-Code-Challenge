@@ -70,17 +70,26 @@ elif  w == 225 and a == 65 and d == 17:
 
 
 # Determine which path would be proper to use for user. 
+# Record tire size check
 if tire_price == None:
     with open ("volumes.txt", "at") as v_record:
         print (f"{current_date}, {w}, {a}, {d}, {v}", file=v_record)
+
+# Offer sale of tires that are on sale
 else:
     print(f"We have a tire that will fit your car on sale for ${tire_price:.2f}.")
     user_choice = input("Would you be interested in purchasing a set? ")
+
+# Collect contact info if yes
     if user_choice.lower() == "yes" or user_choice.lower() == "y":
         phone_number = input("Please enter your phone number: ")
+        # Added name at the last minute because it felt too impersonal without the name.
+        customer_name = input("And who should we ask for when we call? ")
         print("Wonderful! We'll be in touch soon to arrange for delivery and installation.")
         with open ("volumes.txt", "at") as v_record:
-            print (f"{current_date}, {w}, {a}, {d}, {v}, {phone_number}", file=v_record)
+            print (f"{current_date}, {w}, {a}, {d}, {v}, {phone_number}, {customer_name}", file=v_record)
+
+# Record tire size if customer declines
     else:
         with open ("volumes.txt", "at") as v_record:
             print (f"{current_date}, {w}, {a}, {d}, {v}", file=v_record)
