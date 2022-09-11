@@ -1,5 +1,5 @@
-def number_to_string(num):
-    # Return a string of the number here!
-    return str(num)
-
-print(number_to_string(7))
+a = 1
+b = 3
+c = -2
+result = a + b * 7 % 4 - c
+print(result)
