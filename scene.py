@@ -57,13 +57,14 @@ def draw_ground(canvas, scene_width, scene_height):
     draw_rectangle(canvas, 0,0,scene_width, scene_height/3, width=0,fill="tan4")
 
 # Draw the sun to be about in the middle of the scene near the top. 
-def draw_sun (canvas,scene_width,scene_height,):
+def draw_sun (canvas,scene_width,scene_height,fill="yellow"):
     radius = scene_height/20
-    x=scene_width/1.3
-    y=scene_height/1.9
+    x=scene_width/1.25
+    y=scene_height/2
     
     draw_oval(canvas,x-radius,y-radius,x+radius,y+radius,fill="yellow")
-    
+
+# Draw the cloud in the sky
 def draw_cloud(canvas,scene_height,scene_width):
     #draw_oval(canvas, x0, y0, x1, y1, width=1, outline="black", fill="")
     draw_oval(canvas, scene_width/16, scene_height/1.11, 
@@ -98,7 +99,8 @@ def draw_mountain(canvas, mountain_height, mountain_center, scene_height,scene_w
     draw_polygon(canvas,mountain_center, mountain_top, 
         mountain_right, mountain_base, mountain_left, mountain_base,
         outline="gray20", width=1, fill="antiqueWhite3")
-    
+
+# Draw the mountain range
 def draw_mountain_range(canvas, scene_height, scene_width):
     draw_mountain(canvas, scene_height/3.33,scene_width/2,scene_height, scene_width)
     draw_mountain(canvas, scene_height/2.5,scene_width/4,scene_height,scene_width)
@@ -106,7 +108,7 @@ def draw_mountain_range(canvas, scene_height, scene_width):
 
 
 
-    
+# Draw a tree
 def draw_tree(canvas, center_x,bottom,height):
     """Draw a single pine tree.
     Parameters
@@ -140,6 +142,7 @@ def draw_tree(canvas, center_x,bottom,height):
         skirt_left, trunk_top,
         outline="gray20", width=1, fill="dark green")
 
+# Draw a row of trees randomly populated for both starting position and quantity of trees. 
 def draw_row_trees(canvas,y,scene_width, scene_height):
         tree_position = int(random.randint(scene_width/50,scene_width/20))
         for i in range (35):
@@ -149,12 +152,15 @@ def draw_row_trees(canvas,y,scene_width, scene_height):
                 draw_tree(canvas,tree_position,y,scene_height/10)
             tree_position += interval
 
+# Draw the whole forest. 
 def draw_forest (canvas, scene_height,scene_width):
     row_position = int(scene_height/3)
     for i in range(7):
         draw_row_trees(canvas,row_position,scene_height,scene_width)
         row_position = row_position - scene_height/20
 
+# Draws a grid over the scene
+# Used for figuring out where everything should go when writing code. 
 def draw_grid (canvas, width, height, interval, color = "blue"):
     label_y = 15
     for x in range (interval, width, interval):

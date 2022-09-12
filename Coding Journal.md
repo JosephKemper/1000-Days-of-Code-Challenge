@@ -187,3 +187,9 @@ Day 30
 Saturday, 10 September, 2022
 
 Today, I officially started my CSE111 Programming with functions class. As I found the Syllabus and most of the assignments online and used that to start working ahead, I have just taken the formal start of the class to go back and review and polish up my code. I did that yesterday and today. I rather enjoy reviewing my code. I learn a lot from doing it. 
+
+Day 31
+
+Monday, 11 September, 2022
+
+I formally decided today to adjust my classes for this semester. My programming with functions class is now a block class that will be completed at the end of October and then right after that, I will start my JavaScript Language class. I wanted to take the JavaScript class earlier because I want to have more time to get used to it so I can start building programs in both JavaScript and Python, which I feel will be better for my job prospects. For programming, I learned what refactoring is (or at least got a brief introduction to it) and so to use proper terminology, I spent my day refactoring code I previously wrote before submitting it. I have now submitted weeks 1 through 4 and just have the code I wrote for week 5 and the first part of week 6 to refactor and then turn in. I rather like going back and reviewing and polishing up my code. I find ways to make it better and more efficient. In some ways, I think I learn as much looking back at code I previously wrote and fixing it as I do writing code. 

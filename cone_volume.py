@@ -1,5 +1,5 @@
 """Compute and print the volume of a right circular cone."""
-
+# 04 Checkpoint: Variable Scope
 # Import the standard math module so that
 # math.pi can be used in this program.
 import math
@@ -36,8 +36,7 @@ def main():
 
 def cone_volume(radius, height):
     """Compute and return the volume of a right circular cone."""
-    volume = math.pi * radius**2 * height / 3
-    return volume
+    return math.pi * radius**2 * height / 3
 
 
 # Start this program by
