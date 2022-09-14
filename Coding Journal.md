@@ -190,6 +190,12 @@ Today, I officially started my CSE111 Programming with functions class. As I fou
 
 Day 31
 
-Monday, 11 September, 2022
+Monday, 12 September, 2022
 
 I formally decided today to adjust my classes for this semester. My programming with functions class is now a block class that will be completed at the end of October and then right after that, I will start my JavaScript Language class. I wanted to take the JavaScript class earlier because I want to have more time to get used to it so I can start building programs in both JavaScript and Python, which I feel will be better for my job prospects. For programming, I learned what refactoring is (or at least got a brief introduction to it) and so to use proper terminology, I spent my day refactoring code I previously wrote before submitting it. I have now submitted weeks 1 through 4 and just have the code I wrote for week 5 and the first part of week 6 to refactor and then turn in. I rather like going back and reviewing and polishing up my code. I find ways to make it better and more efficient. In some ways, I think I learn as much looking back at code I previously wrote and fixing it as I do writing code. 
+
+Day 32
+
+Tuesday, 13 September, 2022
+
+Today, I spent several hours diving through the Pytest documentation and spent some time refactoring some old code. I have now turned in my work through lesson 5 and just have a little bit to do on Lesson 6 and then I will be back to writing new code. The reason I am taking my time is to make sure that I got it all right. 
