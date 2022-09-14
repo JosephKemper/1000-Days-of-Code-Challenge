@@ -30,8 +30,7 @@ def get_determiner (quantity) -> str:
         words = ["some", "many", "the"]
 
     # Randomly choose and return a determiner.
-    word = random.choice(words)
-    return word
+    return random.choice(words)
 
 def get_noun (quantity) -> str:
     """Return a randomly chosen noun.
@@ -58,8 +57,7 @@ def get_noun (quantity) -> str:
         "dogs", "girls", "men", "rabbits", "women"]
 
     # Randomly choose and return a determiner.
-    noun = random.choice(nouns)
-    return noun
+    return random.choice(nouns)
 
 def get_verb (quantity, tense) -> str:
     """Return a randomly chosen verb. If tense is "past",
@@ -107,8 +105,7 @@ def get_verb (quantity, tense) -> str:
         verbs = ["will drink", "will eat", "will grow", "will laugh",
         "will think", "will run", "will sleep", "will talk",
         "will walk", "will write"]
-    verb = random.choice(verbs)
-    return verb
+    return random.choice(verbs)
 
 if __name__ == "__main__":
     main()
