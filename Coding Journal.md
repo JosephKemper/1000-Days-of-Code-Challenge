@@ -199,3 +199,9 @@ Day 32
 Tuesday, 13 September, 2022
 
 Today, I spent several hours diving through the Pytest documentation and spent some time refactoring some old code. I have now turned in my work through lesson 5 and just have a little bit to do on Lesson 6 and then I will be back to writing new code. The reason I am taking my time is to make sure that I got it all right. 
+
+Day 33
+
+Wednesday, 14 September, 2022
+
+Today, I worked a bit more on my sentences program and got the next part built into it. I now need to build the tests for the two new functions I wrote and then add a bit more to the program to be formally done. Tomorrow, I will write the tests for the functions I wrote today. 
