@@ -205,3 +205,9 @@ Day 33
 Wednesday, 14 September, 2022
 
 Today, I worked a bit more on my sentences program and got the next part built into it. I now need to build the tests for the two new functions I wrote and then add a bit more to the program to be formally done. Tomorrow, I will write the tests for the functions I wrote today. 
+
+Day 34
+
+Thursday, 15 September, 2022
+
+I was planning on writing some test functions, but forgot that I had a meeting with my programming group. Today, I taught my new programming group about writing functions and lead a group discussion on building a program to meet the qualifications of an assignment we were given. 
