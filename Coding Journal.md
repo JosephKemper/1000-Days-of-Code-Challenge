@@ -211,3 +211,9 @@ Day 34
 Thursday, 15 September, 2022
 
 I was planning on writing some test functions, but forgot that I had a meeting with my programming group. Today, I taught my new programming group about writing functions and lead a group discussion on building a program to meet the qualifications of an assignment we were given. 
+
+Day 35
+
+Friday, 16 September, 2022
+
+I had a hard time getting anything done today. I have struggled to get enough sleep the past few days and it caught up to me today. I got a little done. I would have rather gotten more, but I did my best, so I am happy. 
