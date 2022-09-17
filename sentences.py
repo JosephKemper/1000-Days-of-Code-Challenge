@@ -1,3 +1,4 @@
+# Week 06 Prove
 import random
 
 def main ():
@@ -122,13 +123,13 @@ def get_preposition():
 
     Return: a randomly chosen preposition.
     """
-    preposition = ["about", "above", "across", "after", "along",
+    prepositions = ["about", "above", "across", "after", "along",
         "around", "at", "before", "behind", "below",
         "beyond", "by", "despite", "except", "for",
         "from", "in", "into", "near", "of",
         "off", "on", "onto", "out", "over",
         "past", "to", "under", "with", "without"]
-    return random.choice(preposition)
+    return random.choice(prepositions)
 
 # TODO: #7 Write a def get_prepositional_phrase function matching requirements described in 06 Prove Assignment
 def get_prepositional_phrase(quantity) -> str:

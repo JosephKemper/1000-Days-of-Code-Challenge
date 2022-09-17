@@ -217,3 +217,9 @@ Day 35
 Friday, 16 September, 2022
 
 I had a hard time getting anything done today. I have struggled to get enough sleep the past few days and it caught up to me today. I got a little done. I would have rather gotten more, but I did my best, so I am happy. 
+
+Day 36
+
+Saturday, 17 September, 2022
+
+Yay! I finally got my week 06 Prove assignment done. Right now, I have only gotten the core requirements done, but I do not care. This has been a rough week and it took everything I had to just get what I have completed done. So I am calling this good and moving on with the rest of my assignments. 
