@@ -223,3 +223,12 @@ Day 36
 Saturday, 17 September, 2022
 
 Yay! I finally got my week 06 Prove assignment done. Right now, I have only gotten the core requirements done, but I do not care. This has been a rough week and it took everything I had to just get what I have completed done. So I am calling this good and moving on with the rest of my assignments. 
+
+Day 37
+
+Monday, 18 September, 2022
+
+Today, was the first day of my new programming blog. I have been toying around with the idea for a bit and then on Twitter when @Wraytheon_ asked for links to people's Programming blogs, I just decided to take the leap and start my blog. Here is a link to my first Video. 
+https://www.youtube.com/watch?v=O261Qpww5t4
+https://rumble.com/v1kr2n3-python-functions-lists-and-memory-management.html
+Today, I ran through several programming examples that all went into how Python handles lists when working with functions. In the process I got an insight into how memory management works in Python, and I really enjoyed it. 
