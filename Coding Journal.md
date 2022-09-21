@@ -226,9 +226,15 @@ Yay! I finally got my week 06 Prove assignment done. Right now, I have only gott
 
 Day 37
 
-Monday, 18 September, 2022
+Monday, 19 September, 2022
 
 Today, was the first day of my new programming blog. I have been toying around with the idea for a bit and then on Twitter when @Wraytheon_ asked for links to people's Programming blogs, I just decided to take the leap and start my blog. Here is a link to my first Video. 
 https://www.youtube.com/watch?v=O261Qpww5t4
 https://rumble.com/v1kr2n3-python-functions-lists-and-memory-management.html
-Today, I ran through several programming examples that all went into how Python handles lists when working with functions. In the process I got an insight into how memory management works in Python, and I really enjoyed it. 
+Today, I ran through several programming examples that all went into how Python handles lists when working with functions. In the process I got an insight into how memory management works in Python, and I really enjoyed it.
+
+Day 38 
+
+Tuesday, 20 September, 2022
+
+Today was my second video of my learning programming series. I started work on a program to iterate through complex lists. And quickly got in over my head. I need to go back through the preparation material to figure a few things out. Tomorrow, I need to figure out how to iterate through complex lists. I have part of what needs to happen, I just need to turn it into a loop. The link to my video is here. https://www.youtube.com/watch?v=vOZuqkBgzDA 
