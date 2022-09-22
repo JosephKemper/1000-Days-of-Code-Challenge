@@ -41,8 +41,8 @@ Your program prints the introductory text as shown in the Testing Procedure sect
 Your program prints each of the ten statements and gets a response from the user.
 Your program computes score for each response and sums all the scores and displays the total score.
 """
+
 def main():
-    # TODO: #15 Program prints the introductory text."
     print("""
 This program is an implementation of the Rosenberg
 Self-Esteem Scale. This program will show you ten
@@ -56,23 +56,66 @@ a means you agree with the statement.
 A means you strongly agree with the statement.
     """)
 
+    q1 = input("1. I feel that I am a person of worth, at least on an equal plane with others. "+
+    "Enter D, d, a, or A: ")
+    q2 = input("2. I feel that I have a number of good qualities. "+
+    "Enter D, d, a, or A: ")
+    q3 = input("3. All in all, I am inclined to feel that I am a failure. "+
+    "Enter D, d, a, or A: ")
+    q4 = input("4. I am able to do things as well as most other people. "+
+    "Enter D, d, a, or A: ")
+    q5 = input("5. I feel I do not have much to be proud of. "+
+    "Enter D, d, a, or A: ")
+    q6 = input("6. I take a positive attitude toward myself. "+
+    "Enter D, d, a, or A: ")
+    q7 = input("7. On the whole, I am satisfied with myself. "+
+    "Enter D, d, a, or A: ")
+    q8 = input("8. I wish I could have more respect for myself. "+
+    "Enter D, d, a, or A: ")
+    q9 = input("9. I certainly feel useless at times. "+
+    "Enter D, d, a, or A: ")
+    q10 = input("10. At times I think I am no good at all. "+
+    "Enter D, d, a, or A: ")
 
-# Collect user data and store in separate lists
-# TODO: #14 Program prints each of the ten statements and gets a response from user."
+    print()
 
-q1 = "I feel that I am a person of worth, at least on an equal plane with others."
-q2 = "I feel that I have a number of good qualities."
-q3 = "All in all, I am inclined to feel that I am a failure."
-q4 = "I am able to do things as well as most other people."
-q5 = "I feel I do not have much to be proud of."
-q6 = "I take a positive attitude toward myself."
-q7 = "On the whole, I am satisfied with myself."
-q8 = "I wish I could have more respect for myself."
-q9 = "I certainly feel useless at times."
-q10 = "At times I think I am no good at all."
+    positive_score = positive_q_grading(q1, q2, q4, q6, q7)
+    negative_score = negative_q_grading(q3, q5, q8, q9, q10)
+    score = positive_score +negative_score
+# Display results
+    print(f"Your score is {score}.")
+    print("A score below 15 may indicate problematic low self-esteem.")
+    
+def positive_q_grading (q1, q2, q4, q6, q7) -> int:
+    answers_list = [q1, q2, q4, q6, q7]
+    score = 0
 
+    for q in answers_list:
+        if q == "A":
+            score += 3
+        elif q == "a":
+            score += 2
+        elif q == "d":
+            score += 1
+        else:
+            score += 0
+    return score
 
-# TODO: #13 Program computes score for each response and sums scores and displays total. 
+# TODO: #29 06 Team Activity Score Not calculating properly
+def negative_q_grading (q3, q5, q8, q9, q10) -> int:
+    answers_list = [q3, q5, q8, q9, q10]
+
+    score = 0
+    for q in answers_list:
+        if q == "A":
+            score += 0
+        elif q == "a":
+            score += 1
+        elif q == "d":
+            score += 2
+        else:
+            score += 3
+        return score
 
 
 

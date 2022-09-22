@@ -238,3 +238,9 @@ Day 38
 Tuesday, 20 September, 2022
 
 Today was my second video of my learning programming series. I started work on a program to iterate through complex lists. And quickly got in over my head. I need to go back through the preparation material to figure a few things out. Tomorrow, I need to figure out how to iterate through complex lists. I have part of what needs to happen, I just need to turn it into a loop. The link to my video is here. https://www.youtube.com/watch?v=vOZuqkBgzDA 
+
+Day 39
+
+Wednesday, 21 September, 2022
+
+Today, I worked on the 06 Team Assignment. I first got it written and working, and then I broke it down into functions. From there, I ended up introducing a few bugs that stopped it from calculating the score properly, but I ran out of time for the day before I was able to find or fix it. I am certain that part of the problem was with calculating the scores on the negative questions. One thing I want to check first thing is to make sure I have the right questions mapped to each function. Initially, after converting the program to use functions, I found that it would run through the questions multiple times when running the program in debug mode. I was able to fix that simply by streamlining the code a bit. The video for today's coding can be found here. https://www.youtube.com/watch?v=osYY6_m6TDg
