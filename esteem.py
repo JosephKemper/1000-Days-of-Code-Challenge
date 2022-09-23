@@ -79,43 +79,43 @@ A means you strongly agree with the statement.
 
     print()
 
-    positive_score = positive_q_grading(q1, q2, q4, q6, q7)
-    negative_score = negative_q_grading(q3, q5, q8, q9, q10)
-    score = positive_score +negative_score
+    positive_score = positive_grading(q1, q2, q4, q6, q7)
+    negative_score = negative_grading(q3, q5, q8, q9, q10)
+    score = positive_score + negative_score
 # Display results
     print(f"Your score is {score}.")
     print("A score below 15 may indicate problematic low self-esteem.")
     
-def positive_q_grading (q1, q2, q4, q6, q7) -> int:
-    answers_list = [q1, q2, q4, q6, q7]
+def positive_grading (q1, q2, q4, q6, q7) -> int:
+    positive_answers = [q1, q2, q4, q6, q7]
     score = 0
 
-    for q in answers_list:
+    for q in positive_answers:
         if q == "A":
             score += 3
         elif q == "a":
             score += 2
         elif q == "d":
             score += 1
-        else:
+        elif q == "D":
             score += 0
     return score
 
-# TODO: #29 06 Team Activity Score Not calculating properly
-def negative_q_grading (q3, q5, q8, q9, q10) -> int:
-    answers_list = [q3, q5, q8, q9, q10]
 
+def negative_grading(q3, q5, q8, q9, q10) -> int:
+    negative_answers = [q3, q5, q8, q9, q10]
     score = 0
-    for q in answers_list:
-        if q == "A":
-            score += 0
-        elif q == "a":
-            score += 1
+
+    for q in negative_answers:
+        if q == "D":
+            score += 3
         elif q == "d":
             score += 2
-        else:
-            score += 3
-        return score
+        elif q == "a":
+            score += 1
+        elif q == "A":
+            score += 0
+    return score
 
 
 
