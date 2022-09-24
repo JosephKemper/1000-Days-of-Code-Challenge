@@ -250,3 +250,9 @@ Day 40
 Thursday, 22 September, 2022
 
 I went back and reviewed my W06 Team assignment (the esteem.py program) and figured out what was wrong with it. I discovered that the indentation for the return statement was too far in, which made Python treat it was part of the for loop that it was underneath, which in turn made it so that the program only looped through the code once and then returned the score it calculated from that one time through. Which means that I spent almost an hour trying to find an error caused because I had the indentation wrong. I used the debug mode in VS code to step through the code line by line to figure out what was happening, but it still took a while to figure out what the problem was. I ended up also spending some time taking tests demonstrating what I have learned about functions and lists, but I did not want to record that as I am certain my school would frown on me recording and broadcasting their quiz all over the internet. Note for the future, when something is not behaving right, check to make sure I have followed the rules before trying to rewrite the code. https://www.youtube.com/watch?v=BD4-p_2ZEHc
+
+Day 41
+
+Friday, 23 September, 2022
+
+Today, I got a lot done, in large part because of just how much confidence and focus I have gained thanks to recent events. I completed the 08 Prepare and Practice, the 08 Checkpoint, and I completed the core requirements in the 08 Team Activity. Lesson 8 is about working with dictionaries and functions. I ended up pulling data out of one dictionary and printing it out for the user, and then I pulled data from two dictionaries and combined it to display info for the user. The video of my work can be found here. https://youtu.be/8-uw8IPAoi4
