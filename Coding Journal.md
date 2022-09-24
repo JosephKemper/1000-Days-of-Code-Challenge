@@ -256,3 +256,9 @@ Day 41
 Friday, 23 September, 2022
 
 Today, I got a lot done, in large part because of just how much confidence and focus I have gained thanks to recent events. I completed the 08 Prepare and Practice, the 08 Checkpoint, and I completed the core requirements in the 08 Team Activity. Lesson 8 is about working with dictionaries and functions. I ended up pulling data out of one dictionary and printing it out for the user, and then I pulled data from two dictionaries and combined it to display info for the user. The video of my work can be found here. https://youtu.be/8-uw8IPAoi4
+
+Day 42
+
+Saturday, 24 September, 2022
+
+I have quickly started to love the growth day app. It gives me the boost I need to get my day started strong and the focus I need to keep going strong, along with a bit of time to reflect at the end of the day, allowing me to ready for the next day. Here is a link to a free trial for anyone interested. https://www.growthday.com/?via=growth For coding today, I finished up my 08 team assignment and my 07 team assignment. I ended up finding an insight into how python handles the print statement in different ways and plan on going back and running a test to see what that insight says about efficiency while running the code. I ended up having to deal with a few distractions that made my coding take a lot longer, but I had fun so I don't care. 

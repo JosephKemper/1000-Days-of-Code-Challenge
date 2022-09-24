@@ -89,6 +89,10 @@ def main():
     # human readable data about the marriages.
     print_marriages(marriages_dict, people_dict)
 
+# Next Two Lines were copied from Sample Solultion to test results and see how it worked.
+    print()
+
+    count_marriages(marriages_dict, people_dict)
 
 def print_death_age(people_dict):
     """For each person in the people dictionary,
@@ -167,6 +171,55 @@ def print_marriages(marriages_dict, people_dict):
         f"> {wedding_year} < " +
         f"{wife_name} {wife_age}")
 
+# Copied from sample. 
+# I did not write this. 
+# I just wanted to see how it worked via the debugger. 
+def count_marriages(marriages_dict, people_dict):
+    """Count and print the number of times that each person married.
+
+    Parameters
+        marriages_dict: a dictionary that contains data about
+            marriages. Each item in the dictionary is in this format:
+            marriage_key: [husband_key, wife_key, wedding_year]
+        people_dict: a dictionary that contains data about people
+            Each item in the dictionary is in this format:
+            person_key: [name, gender, birth_year, death_year]
+    Return: nothing
+    """
+    print("Number of Marriages")
+
+    NUM_MARRIAGES_INDEX = 4
+
+    # Add an extra variable to each person_list. The variable will
+    # be used to count the number of marriages that each person had.
+    for person_key, person_list in people_dict.items():
+        person_list.append(0)
+
+    # For each marriage in the marriage dictionary,
+    # add one to the husband's number of marriages
+    # and add one to the wife's number of marriages.
+    for marriage_key, marriage_list in marriages_dict.items():
+
+        # Get the husband person key and the wife person key.
+        husband_key = marriage_list[HUSBAND_KEY_INDEX]
+        wife_key = marriage_list[WIFE_KEY_INDEX]
+
+        # Add one to the number of times
+        # the husband has been married.
+        husband_list = people_dict[husband_key]
+        husband_list[NUM_MARRIAGES_INDEX] += 1
+
+        # Add one to the number of times
+        # the wife has been married.
+        wife_list = people_dict[wife_key]
+        wife_list[NUM_MARRIAGES_INDEX] += 1
+
+    # For each person in the people dictionary, print the
+    # person's name and number of times that person married.
+    for person_key, person_list in people_dict.items():
+        name = person_list[NAME_INDEX]
+        num_marriages = person_list[NUM_MARRIAGES_INDEX]
+        print(f"{name} {num_marriages}")
 
 
 
