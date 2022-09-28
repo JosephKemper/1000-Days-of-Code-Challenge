@@ -269,3 +269,10 @@ Day 43
 Monday, 25 September, 2022
 
 I do not feel like I got a lot done today, but I got my hour in and that it what counts. There was just a lot of stuff that came in and pulled my attention away from coding, which will happen. What counts is I did my best to keep my focus where it counts and that I am determined to keep going despite the challenges. https://youtu.be/Z-XCaInNrLM
+
+Day 44
+
+Tuesday, 26 September, 2022
+
+I had a short coding session today, but I got my program done and debugged. It turns out that the problem was that python was trying to split a tuple with how I was trying to iterate through the list. Once I figured that out, it was a quick fix. 
+https://youtu.be/Ex9HUDwvAuc

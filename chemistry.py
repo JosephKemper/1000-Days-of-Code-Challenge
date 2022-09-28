@@ -3,7 +3,7 @@ def main ():
     # Get a chemical formula for a molecule from the user.
     molecule = input("Enter the molecular formula of the sample: ")
     # Get the mass of a chemical sample in grams from the user.
-    grams = input("Enter the mass in grams of the sample: ")
+    grams = float(input("Enter the mass in grams of the sample: "))
 
     # Call the make_periodic_table function and
     # store the periodic table in a variable.
@@ -19,12 +19,10 @@ def main ():
     # molar mass of the molecule from the compound list.
     molar_mass = compute_molar_mass(formula_list, periodic_table_list)
 
-    # TODO: #27 Chemistry.py Prove 08 Compute the number of moles in the sample.
-
     # Print the molar mass.
-
+    print(f"{molar_mass:.5f} grams/mole")
     # Print the number of moles.
-
+    print(f"{grams/molar_mass:.5f} moles")
 
 
 
@@ -261,9 +259,9 @@ def compute_molar_mass(symbol_quantity_list, periodic_table_dict):
     # compound symbol_quantity_list:
         # Separate the inner list into symbol and quantity.
     total_molar_mass = 0
-    for symbol_key, element_list in symbol_quantity_list:
-        atomic_symbol = element_list [0]
-        quantity = element_list [1]
+    for element in symbol_quantity_list:
+        atomic_symbol = element [0]
+        quantity = element [1]
         # Get the atomic mass for the symbol from the dictionary.
         element_info = periodic_table_dict [atomic_symbol]
         atomic_mass = element_info [1]
