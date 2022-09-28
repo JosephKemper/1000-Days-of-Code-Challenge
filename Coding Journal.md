@@ -262,3 +262,17 @@ Day 42
 Saturday, 24 September, 2022
 
 I have quickly started to love the growth day app. It gives me the boost I need to get my day started strong and the focus I need to keep going strong, along with a bit of time to reflect at the end of the day, allowing me to ready for the next day. Here is a link to a free trial for anyone interested. https://www.growthday.com/?via=growth For coding today, I finished up my 08 team assignment and my 07 team assignment. I ended up finding an insight into how python handles the print statement in different ways and plan on going back and running a test to see what that insight says about efficiency while running the code. I ended up having to deal with a few distractions that made my coding take a lot longer, but I had fun so I don't care. Here is a link to the video from today. https://youtu.be/j-AOUJdnuOc
+
+
+Day 43 
+
+Monday, 25 September, 2022
+
+I do not feel like I got a lot done today, but I got my hour in and that it what counts. There was just a lot of stuff that came in and pulled my attention away from coding, which will happen. What counts is I did my best to keep my focus where it counts and that I am determined to keep going despite the challenges. https://youtu.be/Z-XCaInNrLM
+
+Day 44
+
+Tuesday, 26 September, 2022
+
+I had a short coding session today, but I got my program done and debugged. It turns out that the problem was that python was trying to split a tuple with how I was trying to iterate through the list. Once I figured that out, it was a quick fix. 
+https://youtu.be/Ex9HUDwvAuc
