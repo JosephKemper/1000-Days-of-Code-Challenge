@@ -266,13 +266,26 @@ I have quickly started to love the growth day app. It gives me the boost I need 
 
 Day 43 
 
-Monday, 25 September, 2022
+Monday, 26 September, 2022
 
 I do not feel like I got a lot done today, but I got my hour in and that it what counts. There was just a lot of stuff that came in and pulled my attention away from coding, which will happen. What counts is I did my best to keep my focus where it counts and that I am determined to keep going despite the challenges. https://youtu.be/Z-XCaInNrLM
 
 Day 44
 
-Tuesday, 26 September, 2022
+Tuesday, 27 September, 2022
 
 I had a short coding session today, but I got my program done and debugged. It turns out that the problem was that python was trying to split a tuple with how I was trying to iterate through the list. Once I figured that out, it was a quick fix. 
 https://youtu.be/Ex9HUDwvAuc
+
+Day 45
+
+Wednesday, 28 September, 2022
+
+I am not enjoying this week. I feel stretched to my wits end. I am enjoying coding, just everything is trying to get me to stop coding. That just means I need to try harder. Here is a link the video for today. https://youtu.be/o_IbuBO3_cY
+
+
+Day 46
+
+Thursday, 29 September, 2022
+
+Today, I finished the 09 Checkpoint assignment and started looking at the 09 team assignment. I learned what I kept doing wrong when iterating through lists, it was a small formatting change in how I wrote the loop. I am happy I got a solid amount of programming in today. It felt good. I am still a little tired but I took tomorrow off, so I can both catch up and get ahead. Here is the video for today's coding session. https://youtu.be/IHDZEsxqNtw
