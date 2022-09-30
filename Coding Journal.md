@@ -289,3 +289,10 @@ Day 46
 Thursday, 29 September, 2022
 
 Today, I finished the 09 Checkpoint assignment and started looking at the 09 team assignment. I learned what I kept doing wrong when iterating through lists, it was a small formatting change in how I wrote the loop. I am happy I got a solid amount of programming in today. It felt good. I am still a little tired but I took tomorrow off, so I can both catch up and get ahead. Here is the video for today's coding session. https://youtu.be/IHDZEsxqNtw
+
+
+Day 47
+
+Thursday, 30 September, 2022
+
+Got my first coding session in today. The video can be found here https://youtu.be/R_7PL3eEtlk I am quickly beginning to see why many coders will so often look to see what has already been done, or even what they have previously done. So often there is something so close to what you want to do, that to find that it speeds up what you are trying to do. I will be doing multiple coding sessions today, trying to catch up from the hectic week. In my first coding session I completed the prep work on the 09 Team Activity: CSV Files assignment, where I built a dictionary to store and look up student information, pulling the data from a previously existing CSV file. 
