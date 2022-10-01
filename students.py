@@ -53,10 +53,6 @@ def read_dict(filename):
                 # Store the data from the current
                 # row into the dictionary.
                 student_info[key] = value
-
-
-
-
     return student_info
 
 if __name__ == "__main__":
