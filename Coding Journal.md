@@ -293,6 +293,13 @@ Today, I finished the 09 Checkpoint assignment and started looking at the 09 tea
 
 Day 47
 
-Thursday, 30 September, 2022
+Friday, 30 September, 2022
 
 Got my first coding session in today. The video can be found here https://youtu.be/R_7PL3eEtlk I am quickly beginning to see why many coders will so often look to see what has already been done, or even what they have previously done. So often there is something so close to what you want to do, that to find that it speeds up what you are trying to do. I will be doing multiple coding sessions today, trying to catch up from the hectic week. In my first coding session I completed the prep work on the 09 Team Activity: CSV Files assignment, where I built a dictionary to store and look up student information, pulling the data from a previously existing CSV file. And now, I have completed my 09 Prove assignment where I did more with working with functions and dictionaries. Here is the video for that coding session. https://youtu.be/tEDUrhNt7RE
+
+
+Day 48
+
+Saturday, 1 October, 2022
+
+Today, I got introduced to error handling and got to both experiment with code that handled errors and write code to handle errors. Here is the video for my coding session today. https://youtu.be/G-yHaVU9LCA
