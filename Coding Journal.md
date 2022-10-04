@@ -303,3 +303,7 @@ Day 48
 Saturday, 1 October, 2022
 
 Today, I got introduced to error handling and got to both experiment with code that handled errors and write code to handle errors. Here is the video for my coding session today. https://youtu.be/G-yHaVU9LCA
+
+Day 49
+
+Today, I was hoping to get the whole of Lesson 10 prove done, but that did not happen. Unless, I happen to get with my reading sooner than I expect, then I will likely not finish my lesson 10 prove. I ended up having to purchase a new mouse because mine started to go on the fritz. This lesson focused on working with functions and dictionaries. I still need to build some error handling into the program and then I will be done. https://youtu.be/qt7M2j_5oDA
