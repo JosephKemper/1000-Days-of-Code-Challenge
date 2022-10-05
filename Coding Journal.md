@@ -306,4 +306,12 @@ Today, I got introduced to error handling and got to both experiment with code t
 
 Day 49
 
+Monday, 3 October, 2022
+
 Today, I was hoping to get the whole of Lesson 10 prove done, but that did not happen. Unless, I happen to get with my reading sooner than I expect, then I will likely not finish my lesson 10 prove. I ended up having to purchase a new mouse because mine started to go on the fritz. This lesson focused on working with functions and dictionaries. I still need to build some error handling into the program and then I will be done. https://youtu.be/qt7M2j_5oDA
+
+Day 50
+
+Tuesday, 4 October, 2022
+
+Today, I felt massively out of sorts. I got in my hour of coding, but did not get much done. 
