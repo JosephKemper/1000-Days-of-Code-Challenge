@@ -315,3 +315,7 @@ Day 50
 Tuesday, 4 October, 2022
 
 Today, I felt massively out of sorts. I got in my hour of coding, but did not get much done. 
+
+Day 51
+
+I finally finished the requirements for my Receipt program! This was the first program I wrote using error handling. It was a huge challenge to learn and a lot of fun. I can see the benefit of using error handling. A few areas the assignment wanted us to use error handling for, I would rather have changed the code so it would not have been needed, but for learning purposes, I can see the need to learn about it. 

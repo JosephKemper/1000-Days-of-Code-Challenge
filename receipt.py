@@ -4,44 +4,71 @@ import csv
 from datetime import datetime
 
 def main ():
-    product_code_index = 0
+    try:
+        product_code_index = 0
 
-    # Product Code 0
-    # Product Name 1
-    # Product Price 2
-    products_dict = read_dict("products.csv", product_code_index)
-    count = count_items ("request.csv")
-    subtotal = calculate_subtotal (products_dict,"request.csv")
-    sales_tax = calculate_tax (subtotal)
-    order_total = calculate_total (subtotal,sales_tax)
+        # Product Code 0
+        # Product Name 1
+        # Product Price 2
+        filename = "products.csv"
+        products_dict = read_dict("products.csv", product_code_index)
+        filename ="request.csv"
+        count = count_items ("request.csv")
+        subtotal = calculate_subtotal (products_dict,"request.csv")
+        sales_tax = calculate_tax (subtotal)
+        order_total = calculate_total (subtotal,sales_tax)
 
-# TODO: 10 Prove Assignment Write Code to handle errors
+    # Print the store name at the top of the receipt.
+        print ("Inkom Emporium")
+        print_items (products_dict, "request.csv")
 
-# Print the store name at the top of the receipt.
-    print ("Inkom Emporium")
-    print_items (products_dict, "request.csv")
-
-    # Print number of items being purchased to receipt
-    print(f"Number of Items: {count}")
+        # Print number of items being purchased to receipt
+        print(f"Number of Items: {count}")
 
 
-# Print Order Subtotal
-    print (f"Subtotal: {subtotal:.2f}")
+    # Print Order Subtotal
+        print (f"Subtotal: {subtotal:.2f}")
 
-# Print Sales Tax
-    print(f"Sales Tax: {sales_tax:.2f}")
+    # Print Sales Tax
+        print(f"Sales Tax: {sales_tax:.2f}")
 
-# Print Order Total
-    print(f"Total: {order_total:.2f}")
+    # Print Order Total
+        print(f"Total: {order_total:.2f}")
 
-    # Call the now() method to get the current
-    # date and time as a datetime object from
-    # the computer's operating system.
-    current_date_and_time = datetime.now()
+        # Call the now() method to get the current
+        # date and time as a datetime object from
+        # the computer's operating system.
+        current_date_and_time = datetime.now()
 
-    # Use an f-string to print the current
-    # day of the week and the current time.
-    print(f"{current_date_and_time:%A %I:%M %p}")
+        print("Thank you for shopping at the Inkom Emporium.")
+        # Use an f-string to print the current
+        # day of the week and the current time.
+        print(f"{current_date_and_time:%A %I:%M %p}")
+
+    except KeyError as Error:
+        # This code will be executed if the user tries to find 
+        # a product that is not in the dictionary or product list
+        print()
+        print(f"{Error}: unknown product ID in the filename file")
+        #print(product_code)
+        
+    except FileNotFoundError as not_found:
+        # This code will be executed if the user enters
+        # the name of a file that doesn't exist.
+        print()
+        print("Error: missing file")
+        print(f"[Errno 2] No such file or directory:", not_found.filename)
+    
+    except PermissionError as perm_err:
+        # This code will be executed if the user enters the name
+        # of a file and doesn't have permission to read that file.
+        print()
+        print(type(perm_err).__name__, perm_err, sep=": ")
+        print("You don't have permission to read filename.")
+        print("Run the program again and enter the name" \
+                " of a file that you are allowed to read.")
+
+
 
 def calculate_total (subtotal,taxes):
     """
@@ -59,6 +86,7 @@ def calculate_subtotal (products_dict,filename):
     """
     Calculate and return the subtotal for the order in question. 
     """
+
     subtotal = 0
     # Open the CSV file for reading and store a reference
     # to the opened file in a variable named csv_file.
@@ -97,10 +125,12 @@ def calculate_subtotal (products_dict,filename):
                 subtotal += subtotal_product
     return subtotal
 
+
 def count_items (filename):
     """
     Count and return the total number of items in the order
     """
+
     # Open the CSV file for reading and store a reference
     # to the opened file in a variable named csv_file.
     with open(filename, "rt") as csv_file:
@@ -128,14 +158,15 @@ def count_items (filename):
                 count +=quantity
         return count
 
+
 def print_items (products_dict, filename):
     """
     Print the list of items purchased to the terminal
     """
     # Open the CSV file for reading and store a reference
     # to the opened file in a variable named csv_file.
-    with open(filename, "rt") as csv_file:
 
+    with open(filename, "rt") as csv_file:
         # Use the csv module to create a reader object
         # that will read from the opened CSV file.
         reader = csv.reader(csv_file)
@@ -167,6 +198,10 @@ def print_items (products_dict, filename):
 
                 # Print product name and price
                 print(f"{product_name}: {product_quantity} @ {product_price}")
+
+    return product_code, filename
+
+
 
 def read_dict(filename, key_column_index):
     """Read the contents of a CSV file into a compound
@@ -214,6 +249,8 @@ def read_dict(filename, key_column_index):
 
     # Return dictionary
     return products_dict
+
+
 
 # Call Main function to start
 if __name__ == "__main__":
