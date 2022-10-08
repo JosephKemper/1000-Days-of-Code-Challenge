@@ -318,8 +318,18 @@ Today, I felt massively out of sorts. I got in my hour of coding, but did not ge
 
 Day 51
 
+Wednesday, 5 October, 2022
+
 I finally finished the requirements for my Receipt program! This was the first program I wrote using error handling. It was a huge challenge to learn and a lot of fun. I can see the benefit of using error handling. A few areas the assignment wanted us to use error handling for, I would rather have changed the code so it would not have been needed, but for learning purposes, I can see the need to learn about it. 
 
 Day 52
 
+Thursday, 6 October, 2022
+
 Today I got to play with the map function for the first time. In the process, I learned that with how python handles the map function, it seems to store all of the data you are mapping in memory behind the scenes, until it has finished processing everything. Only after it has mapped all of the requested data, will it assign the data to the variable in question. I look forward to playing with that more over the next few days. 
+
+Day 53
+
+Friday, 7 October, 2022
+
+Today, I planned out what will likely be one of the biggest programs I have ever written. Once my instructor approves it, I am looking forward to getting started. 
