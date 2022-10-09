@@ -333,3 +333,9 @@ Day 53
 Friday, 7 October, 2022
 
 Today, I planned out what will likely be one of the biggest programs I have ever written. Once my instructor approves it, I am looking forward to getting started. 
+
+Day 54
+
+Saturday, 8 October, 2022
+
+I did more planning for my big project today. I got the file created and started planning out what I will actually do. It is a lot of work to plan a big project out.  
