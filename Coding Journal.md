@@ -339,3 +339,9 @@ Day 54
 Saturday, 8 October, 2022
 
 I did more planning for my big project today. I got the file created and started planning out what I will actually do. It is a lot of work to plan a big project out.  
+
+Day 55
+
+Monday, 10 October, 2022
+
+Today, I spent about a few hours trying to learn about different options to build GUI's in Python. I did not get a lot of actual coding completed, but I learned a lot. 
