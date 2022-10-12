@@ -345,3 +345,9 @@ Day 55
 Monday, 10 October, 2022
 
 Today, I spent about a few hours trying to learn about different options to build GUI's in Python. I did not get a lot of actual coding completed, but I learned a lot. 
+
+Day 56
+
+Tuesday, 11 October, 2022
+
+Today was another day of mostly learning. I will likely be using pysimpleGUI for my project instead of tkinter. It seems a lot easier to figure out. 
