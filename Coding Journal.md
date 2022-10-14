@@ -350,3 +350,60 @@ Today was another day of mostly learning. I will likely be using pysimpleGUI for
 ## Wednesday, 12 October, 2022
 
 Today was another day spent mostly on learning code. Tomorrow I will get a few hours of programming in which I am looking forward to. I did learn the very simply markdown syntax and went back and implemented that in my coding journal. I plan on keeping it up now that I see just how simple it is. 
+
+# Day 58
+
+## Thursday, 13 October, 2022
+
+Procedural Programming
+    : A programming paradigm where the focus is on the steps needed to accomplish the task. 
+
+'# Procedural Programming Example'
+
+'def main():'
+'    numbers = [87, 95, 72, 92, 95, 88, 84]'
+'    total = 0'
+'    for x in numbers:'
+'        total += x'
+'    average = total / len(numbers)'
+'    print(f"average: {average:.2f}")'
+
+
+'# Call main to start this program.'
+'if __name__ == "__main__":'
+'    main()'
+
+> python procedural_example.py
+> average: 87.57
+
+Declarative Programming
+    : A Programming Paradigm that focuses on the output you want rather than the steps needed to achieve it. SQL is a declarative language. In declarative programming, we only tell the computer what to do, not how to do it. Python's handling of memory management would be an example of declarative programming. 
+
+Functional Programming
+    : A Programming Paradigm that focuses heavily on functions. Functions in programming has a similar process to what you would find in using formulas in mathematics and involves a focus on functions, avoiding shard state, mutating state and side effects in the process. 
+    1. We can pass a function into another function.
+    2. A nested function is a function defined inside another function.
+    3. A lambda function is a small anonymous function.
+
+'# Functional Programming Example'
+
+'from functools import reduce'
+
+'def main():'
+'    numbers = [87, 95, 72, 92, 95, 88, 84]'
+'    func_add = lambda a, b: a + b'
+'    total = reduce(func_add, numbers)'
+'    average =  total / len(numbers)'
+'    print(f"average: {average:.2f}")'
+
+
+'# Call main to start this program.'
+'if __name__ == "__main__":'
+'    main()'
+
+> python functional_example.py
+> average: 87.57
+
+Object-Oriented Programming
+    : A Programming Paradigm that focuses objects that contain both data and functions (known as methods). Methods are functions within objects that allow you to do different things with the objects. A list is an example of an object and the pop, append, and insert commands are examples of methods which are used via the dot operator. 
+
