@@ -360,6 +360,7 @@ Procedural Programming
 
 '''
 {
+
     # Procedural Programming Example
     
     def main():
@@ -392,6 +393,7 @@ Functional Programming
 
 '''
 {
+
     # Functional Programming Example
     
     from functools import reduce
@@ -405,7 +407,8 @@ Functional Programming
     
     # Call main to start this program.
     if __name__ == "__main__":
-        main()'
+        main()
+        
 }
 '''
 
