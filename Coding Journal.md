@@ -358,20 +358,19 @@ Today was another day spent mostly on learning code. Tomorrow I will get a few h
 Procedural Programming
     : A programming paradigm where the focus is on the steps needed to accomplish the task. 
 
-'# Procedural Programming Example'
-
-'def main():'
-'    numbers = [87, 95, 72, 92, 95, 88, 84]'
-'    total = 0'
-'    for x in numbers:'
-'        total += x'
-'    average = total / len(numbers)'
-'    print(f"average: {average:.2f}")'
-
-
-'# Call main to start this program.'
-'if __name__ == "__main__":'
-'    main()'
+'# Procedural Programming Example
+ 
+def main():
+    numbers = [87, 95, 72, 92, 95, 88, 84]
+    total = 0
+    for x in numbers:
+        total += x
+    average = total / len(numbers)
+    print(f"average: {average:.2f}")'
+ 
+# Call main to start this program.
+if __name__ == "__main__":
+    main()'
 
 > python procedural_example.py
 > average: 87.57
@@ -385,21 +384,20 @@ Functional Programming
     2. A nested function is a function defined inside another function.
     3. A lambda function is a small anonymous function.
 
-'# Functional Programming Example'
-
-'from functools import reduce'
-
-'def main():'
-'    numbers = [87, 95, 72, 92, 95, 88, 84]'
-'    func_add = lambda a, b: a + b'
-'    total = reduce(func_add, numbers)'
-'    average =  total / len(numbers)'
-'    print(f"average: {average:.2f}")'
-
-
-'# Call main to start this program.'
-'if __name__ == "__main__":'
-'    main()'
+'# Functional Programming Example
+ 
+from functools import reduce
+ 
+def main():
+    numbers = [87, 95, 72, 92, 95, 88, 84]
+    func_add = lambda a, b: a + b
+    total = reduce(func_add, numbers)
+    average =  total / len(numbers)
+    print(f"average: {average:.2f}")
+ 
+# Call main to start this program.
+if __name__ == "__main__":
+    main()'
 
 > python functional_example.py
 > average: 87.57
