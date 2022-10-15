@@ -355,8 +355,10 @@ Today was another day spent mostly on learning code. Tomorrow I will get a few h
 
 ### Thursday, 13 October, 2022
 
-Procedural Programming
-: A programming paradigm where the focus is on the steps needed to accomplish the task. 
+<dl>
+    <dt>Procedural Programming
+    <dd>A programming paradigm where the focus is on the steps needed to accomplish the task. 
+</dl>
 
 '''
 {
@@ -382,11 +384,15 @@ Procedural Programming
 
 > average: 87.57
 
-Declarative Programming
-:   A Programming Paradigm that focuses on the output you want rather than the steps needed to achieve it. SQL is a declarative language. In declarative programming, we only tell the computer what to do, not how to do it. Python's handling of memory management would be an example of declarative programming. 
+<dl>
+    <dt>Declarative Programming
+    <dd>A Programming Paradigm that focuses on the output you want rather than the steps needed to achieve it. SQL is a declarative language. In declarative programming, we only tell the computer what to do, not how to do it. Python's handling of memory management would be an example of declarative programming. 
+</dl>
 
-Functional Programming
-:   A Programming Paradigm that focuses heavily on functions. Functions in programming has a similar process to what you would find in using formulas in mathematics and involves a focus on functions, avoiding shard state, mutating state and side effects in the process. 
+<dl>
+    <dt>Functional Programming
+    <dd>A Programming Paradigm that focuses heavily on functions. Functions in programming has a similar process to what you would find in using formulas in mathematics and involves a focus on functions, avoiding shard state, mutating state and side effects in the process. 
+</dl>
 
 1. We can pass a function into another function.
 2. A nested function is a function defined inside another function.
@@ -417,8 +423,10 @@ Functional Programming
 
 > average: 87.57
 
-Object-Oriented Programming
-:   A Programming Paradigm that focuses objects that contain both data and functions (known as methods). Methods are functions within objects that allow you to do different things with the objects. A list is an example of an object and the pop, append, and insert commands are examples of methods which are used via the dot operator. 
+<dl>
+    <dt>Object-Oriented Programming
+    <dd>A Programming Paradigm that focuses objects that contain both data and functions (known as methods). Methods are functions within objects that allow you to do different things with the objects. A list is an example of an object and the pop, append, and insert commands are examples of methods which are used via the dot operator. 
+</dl>
 
 # Day 59
 
