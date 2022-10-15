@@ -424,6 +424,7 @@ Object-Oriented Programming
 ### Friday, 14 October, 2022
 
 Today, I completed the L12 Checkpoint: Using Objects and created the [fruit.py](https://github.com/JosephKemper/CSE-111-Programming-With-Functions/blob/master/Week%206/fruit.py) program. For the assignment, they had us work with lists to give us practice with object oriented programming, which they introduced yesterday. While I think that object oriented programming is far more extensive than just working with lists, by using lists, they can use a concept we are familiar with to make a bridge into a larger world. The next class in the series I am taking is programming with classes and to introduce object oriented programming at the end of this class is a wonderful idea. For this particular assignment we learned about the dot operator. 
+
 '''
 {
 
