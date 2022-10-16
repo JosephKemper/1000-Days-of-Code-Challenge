@@ -491,3 +491,24 @@ Today, I completed the L12 Checkpoint: Using Objects and created the [fruit.py](
 '''
 
 The goal of this assignment was to see how much the dot operator can do and how it works in different situations. I wanted to try to break everything into functions but I realized that it would just be inefficient in this situation, so I just put it all in main. The one thing I did not think about at first, was adding the try and except functions. We just barely learned about it, and when I looked at the [sample code](https://byui-cse.github.io/cse111-course/overview/solution.html?file=lesson12/check_solution.py) after I finished my code, I realized I had left that out, so I went back and added it into my code to get myself in the habit of adding them in. While this code really did not have a chance of having an error, in real code, there could be a possibility of things beyond my control as a programmer happening and writing code defensively is a good habit to get into. 
+
+<h1>
+    Day 60
+</h1>
+<h3>
+    Saturday, 15 October, 2022
+</h3>
+<dl>
+    <dt>
+    LAMBDA Functions
+    </dt>
+    <dd>
+        A one time use function that does not have a specific name. You create a LAMBDA function through use of the lambda keyword in Python, which must be typed in lower case. You will assign a lambda function to a variable to allow for you to use the data elsewhere. The syntax for a lambda function is variable_name = lambda argument: expression. For example if you wanted to create a lambda function that would add 5 to any number you feed into it then you might do the following. add_five = lambda x: x + 5. You could then call print(add_five (10)) and have it return 15. 
+    </dd>
+</dl>
+<p>
+    For me personally, while I like knowing about lambda functions, right now, I think I prefer just calling a function the regular way. Lambda functions definitely seem like they have the ability to save time in coding which is certainly a draw to them, but to me, they do so at the cost of readability. Obviously, as I get more experienced in coding, that will likely change, but for now, I think I like the idea of writing a fully defined function. 
+</p>
+<p>
+    After I finished working with my <a href="https://github.com/JosephKemper/CSE-111-Programming-With-Functions/blob/master/pupils.py">assignment on lambda functions</a>, I ended up working with <a href="https://github.com/JosephKemper/CSE-111-Programming-With-Functions/blob/master/rectangle_area.py">an assignment using tkinter</a>. I have a lot more to learn on that subject. I only need to do one version of it, but on Monday, I plan to go back and do a few other versions because I want to get more comfortable with tkinter. Additionally, I have a big assignment do next Saturday that I want to get ready for. 
+</p>
