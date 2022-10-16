@@ -512,3 +512,9 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     After I finished working with my <a href="https://github.com/JosephKemper/CSE-111-Programming-With-Functions/blob/master/pupils.py">assignment on lambda functions</a>, I ended up working with <a href="https://github.com/JosephKemper/CSE-111-Programming-With-Functions/blob/master/rectangle_area.py">an assignment using tkinter</a>. I have a lot more to learn on that subject. I only need to do one version of it, but on Monday, I plan to go back and do a few other versions because I want to get more comfortable with tkinter. Additionally, I have a big assignment do next Saturday that I want to get ready for. 
 </p>
+<h3>
+    Sunday, 16 October, 2022
+</h3>
+<p>
+    Scheduled day off of coding
+</p>
