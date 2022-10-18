@@ -518,3 +518,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Scheduled day off of coding
 </p>
+<h1>
+    Day 61
+</h1>
+<h3>
+    Monday, 17 October, 2022
+</h3>
+<p>
+    I spent two hours coding today. Part of me does not think that I made much progress, but this is my first time working with pysimpleGUI. I ended up deciding to go with that because it was the easiest to figure out and let me get moving on the rest of my program. I have spent far too much time trying to figure out the gui of my program and far too little time working on the actual program. The next things I need to do is to figure out how to assign text entered by a user to a variable that I can use and how to force a player to both select a gender and enter a user name to then exit out of the function
+</p>
