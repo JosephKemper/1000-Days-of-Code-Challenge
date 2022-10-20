@@ -536,3 +536,13 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I spent about a half hour coding this morning and another half hour coding tonight and got a little farther. I ended up creating one issue and then spent most of the rest of my time solving it. I went to our last team meeting for the class and found that I have a better understanding of tklinter than I thought I did. I was actually able to explain a lot of it to my teammates. Or at least a lot of what we have worked with in class. 
 </p>
+</p>
+<h1>
+    Day 63
+</h1>
+<h3>
+    Wednesday, 19 October, 2022
+</h3>
+<p>
+    I was able to figure out how to get input via pysimplegui assigned to a variable using the key command. I then spent about an hour trying to figure out how to figure out which radio button is selected and assign data to a variable in pysimplegui. All together, I spent about 2 hours both coding and learning today. 
+</p>
