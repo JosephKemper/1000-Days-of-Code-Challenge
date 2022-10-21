@@ -546,3 +546,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I was able to figure out how to get input via pysimplegui assigned to a variable using the key command. I then spent about an hour trying to figure out how to figure out which radio button is selected and assign data to a variable in pysimplegui. All together, I spent about 2 hours both coding and learning today. 
 </p>
+<h1>
+    Day 64
+</h1>
+<h3>
+    Thursday, 20 October, 2022
+</h3>
+<p>
+    Yay! I finally got my radio buttons to work. I also got it so the player has to enter a name and choose a gender for the text adventure game. I did not get a whole lot of coding done today, but now that I got that part done, I can start working on the rest of my program and hopefully make some real progress.  
+</p>
