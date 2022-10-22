@@ -555,3 +555,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Yay! I finally got my radio buttons to work. I also got it so the player has to enter a name and choose a gender for the text adventure game. I did not get a whole lot of coding done today, but now that I got that part done, I can start working on the rest of my program and hopefully make some real progress.  
 </p>
+<h1>
+    Day 65
+</h1>
+<h3>
+    Friday, 21 October, 2022
+</h3>
+<p>
+    I got one issue resolved today. I figured out how to implement my third user created text option for my game. I have a little more work to do on it, but I am happy with the progress. I was a little on the tired side today so I did not get as much done as I would have liked, but tomorrow, will be a nearly all day coding marathon. I have 10 pages I will be reading for my other class, and then the rest of the time will be spent coding. I am looking forward to that. 
+</p>
