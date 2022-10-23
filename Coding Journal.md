@@ -564,3 +564,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I got one issue resolved today. I figured out how to implement my third user created text option for my game. I have a little more work to do on it, but I am happy with the progress. I was a little on the tired side today so I did not get as much done as I would have liked, but tomorrow, will be a nearly all day coding marathon. I have 10 pages I will be reading for my other class, and then the rest of the time will be spent coding. I am looking forward to that. 
 </p>
+<h1>
+    Day 66
+</h1>
+<h3>
+    Saturday, 22 October, 2022
+</h3>
+<p>
+    I spent nearly 11 hours coding today. It was by far the longest coding session I have ever done. I obviously took breaks throughout the 11 hours. I will be putting in at least 2 hours a day, likely three on Monday, Tuesday and Wednesday. Then I will be done with my functions class. I need to get as much of my text_adventure game completed as possible and turn in a few other assignments before I finish. I have learned a lot from this class. 
+</p>
