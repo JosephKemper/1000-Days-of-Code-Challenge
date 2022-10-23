@@ -1,6 +1,3 @@
-# The Ultimate Choose Your Own Adventure Game
-import PySimpleGUI as sg
-
 
 # Setting up variables as lists to allow for dynamic scene mapping
 current_options = []
@@ -8,7 +5,7 @@ current_scene = []
 next_scenes = []
 
 def main ():
-    sg.theme("default1")
+
     # All the stuff inside your window.
     char_info = character_creation()
     prior_death = False
@@ -16,23 +13,41 @@ def main ():
     char_name = char_info[0]
     char_gender = char_info[1]
 
+
     # Maps the player choices to the variable current_scene
     current_scene = cabin_scene(char_name, char_gender, prior_death, discovered_powers)
     # Returns (story_text, player_choices, next_scenes)
 
+    next_scenes = current_scene [2]
+    print(next_scenes)
+    print("next_scenes", type(next_scenes))
+    option_1_scene = next_scenes ["option_1"]
+    test = option_1_scene
+    option_2_scene = next_scenes ["option_2"]
+    test_2 = option_2_scene (char_name, char_gender, prior_death,discovered_powers)
+    # story_text, player_choices, next_scenes
+    print(test_2[0])
+
     # Pulls display text from current scene to display to user
     display_text = current_scene [0]
-	@@ -45,9 +44,9 @@ def main ():
-        if event == sg.WIN_CLOSED or event == "Cancel": # if user closes window or clicks cancel
-            break
-        elif event == option_1:
-            current_scene = next_scenes [0]
-        elif event == option_2:
-            current_scene = next_scenes [1]
-    window.close()
+    display_text = str(display_text)
+    
+    
+    # Pulls returned options from current scene to be mapped to display
+    current_options = current_scene [1]
+    option_1 = current_options ["option_1"]
+    option_2 = current_options ["option_2"]
+
+
+    
+    
+
 
 def personalized_dialog (gender, key):
-	@@ -58,7 +57,7 @@ def personalized_dialog (gender, key):
+    """
+    The dialog in this adventure commonly uses 
+    gender references that are meant to be tailored 
+    directly to the player. The purpose of this function
     is to allow those references to be dynamic to the character
     which the player created.
     """
@@ -40,15 +55,52 @@ def personalized_dialog (gender, key):
         male = {
         "he_she" :"he", 
         "him_her" : "him",
-	@@ -78,7 +77,7 @@ def personalized_dialog (gender, key):
+        "his_her" : "his",
+        "boy_girl" : "boy",
+        "brother_sister" : "brother",
+        "son_daughter" : "son",
+        "male_female" : "male",
+        "men_women" : "men",
+        "man_woman" : "man",
+        "love_interest" : "girl",
+        "opposite_male_female" : "female",
+        "opposite_men_women" : "women",
+        "opposite_he_she" : "she",
+        "opposite_his_her" : "her",
+        "opposite_him_her" : "her",
         "enemy_leader" : "Lady"
         }
         return male.get(key)
+        
     elif gender == "Female":
         female = {
         "he_she" : "she",
         "him_her" : "her",
-	@@ -139,9 +138,9 @@ def cabin_scene(char_name, gender, prior_death,discovered_powers):
+        "his_her" : "her",
+        "boy_girl" : "girl",
+        "brother_sister" : "sister",
+        "son_daughter" : "daughter",
+        "male_female" : "female",
+        "men_women" : "women",
+        "man_woman" : "woman",
+        "love_interest" : "guy",
+        "opposite_male_female" : "male",
+        "opposite_men_women" : "men",
+        "opposite_he_she" : "he",
+        "opposite_his_her" : "his",
+        "opposite_him_her" : "him",
+        "enemy_leader" : "Lord"
+        }
+        return female.get(key)
+
+def character_creation ():
+    char_name = "John"
+    char_gender = "Male"
+    return char_name, char_gender
+    
+
+def cabin_scene(char_name, gender, prior_death,discovered_powers):
+    """
     This function is used to stage user interaction 
     for activities that happen in the cabin scene of the story.
     """
@@ -58,7 +110,12 @@ def personalized_dialog (gender, key):
 I got the day off.
 My friends and I have an amazing weekend planned.
 I might even see that really cute {personalized_dialog(gender,"love_interest")} again.
-	@@ -154,27 +153,49 @@ def cabin_scene(char_name, gender, prior_death,discovered_powers):
+Who knows! Maybe I'll even ask {personalized_dialog(gender,"opposite_him_her")} on a date.
+Nothing could possibly ruin this day!
+In the middle of your preparations to get ready for your weekend, 
+you hear an unfamiliar voice shouting just outside your house.
+{char_name.capitalize ()} should be inside, get {personalized_dialog(gender,"him_her")} now. 
+The High {personalized_dialog(gender,"enemy_leader")} wants {personalized_dialog(gender,"him_her")} alive and in one piece."
 As you look out the window, you see a dozen strangely dressed 
 {personalized_dialog(gender,"men_women")} carrying large swords angrily moving towards your home.
 You're at your dad's old cabin, miles out of town. 
@@ -108,3 +165,10 @@ def forest_scene(char_name, gender, prior_death,discovered_powers):
 
 
 if __name__ == "__main__":
+    main()
+    
+
+
+
+
+

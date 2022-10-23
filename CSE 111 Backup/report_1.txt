@@ -1,0 +1,65 @@
+First Report for a Student Chosen Program
+
+    (Please report on your progress toward completing your chosen
+    program by answering the following questions.)
+
+1. In the table below, list the dates, amount of time spent, and
+description of the work that you did on your program. Follow the example
+that is in the first row of the table. Include the time you spent doing
+any of the following:
+    a. discussing your program with your teacher, tutor, or fellow students
+    b. researching by reading articles and watching applicable videos
+    c. designing your program by drawing diagrams and other applicable documents
+    d. writing experimental code
+    d. writing code for your program
+    e. writing test functions
+    f. debugging your code
+    g. any other activity that helped you complete your program
+
+            Time Spent
+   Date       (hours)   Description of Work
+----------  ----------  -------------------------
+8 Oct 2022      2       Read and watched tutorials about the tkinter module
+11 Oct 2022     2       Read and watched tutorials about the pysimpleGUI module
+11 Oct 2022     0.5     Created initial implementation of pysimpleGUI in program
+17 Oct 2022     2       Started building out character creation aspect of program.
+18 Oct 2022     1       Worked on getting input from user to track to variables
+19 Oct 2022     2       Worked more on getting input from user and learning how to implement pysimpleGUI
+20 Oct 2022     1.5     Finally got the code working to collect data from the radio buttons
+21 Oct 2022     0.5     Standardized code and planned work
+22 Oct 2022     2       Wrote the functions cust_dia and test_cust_dia
+22 Oct 2022     1       Wrote the first part of the function cabin_scene
+22 Oct 2022     1       Finished cabin_scene and found bug. Spent rest of hour fixing
+22 Oct 2022     1       Possible fix on cabin_scene bug. New bug created on while loop. Trying to resolve now
+22 Oct 2022     1       cabin_scene now displaying correctly. Loop working properly. Bug with personalized_dialog found
+22 Oct 2022     1       personalized_dialog bug fixed. Created two filler scenes in prep to test button functionality and found new bug.
+22 Oct 2022     1       app no longer crashes. Crash was caused by improper mapping of functions. 
+22 Oct 2022     2       Wrote test functions. One is failing. Troubleshooting. 
+
+2. Write the names of the functions in your program.
+main
+character_creation
+personalized_dialog
+cabin_scene
+closet_scene (still in development)
+forest_scene (still in development)
+
+3. Answer the following questions about the functions in your program.
+    a. Does each function perform a single task?
+    yes
+
+    b. Does the name of each function describe or convey the task?
+    yes
+
+    c. Do most of your program functions have parameters and return a result?
+    Yes
+
+    If you answered "no" to any of the above three questions, what are
+    you planning to change in your program?
+    
+
+
+4. Write the names of the test functions that you wrote to test your
+program functions.
+    test_personalized_dialog
+    test_cabin_scene (still in development)
