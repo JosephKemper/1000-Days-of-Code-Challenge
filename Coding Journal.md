@@ -573,3 +573,9 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I spent nearly 11 hours coding today. It was by far the longest coding session I have ever done. I obviously took breaks throughout the 11 hours. I will be putting in at least 2 hours a day, likely three on Monday, Tuesday and Wednesday. Then I will be done with my functions class. I need to get as much of my text_adventure game completed as possible and turn in a few other assignments before I finish. I have learned a lot from this class. The only thing that is a little annoying is that I need to reconnect my CSE 111 folder to my github. I was playing around a bit and accidentally messed up the connection. 
 </p>
+<h3>
+    Sunday, 23 October, 2022
+</h3>
+<p>
+    Scheduled day off of coding
+</p>
