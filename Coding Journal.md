@@ -579,3 +579,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Scheduled day off of coding
 </p>
+<h1>
+    Day 67
+</h1>
+<h3>
+    Monday, 24 October, 2022
+</h3>
+<p>
+    Spent 3.5 hours finishing a few functions and then trying to figure out how to get the buttons working to allow the player to make the next choice. I narrowed down the problem to the idea that I was not properly mapping the next function back to the current scene option. 
+</p>
