@@ -588,3 +588,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Spent 3.5 hours finishing a few functions and then trying to figure out how to get the buttons working to allow the player to make the next choice. I narrowed down the problem to the idea that I was not properly mapping the next function back to the current scene option. 
 </p>
+<h1>
+    Day 68
+</h1>
+<h3>
+    Tuesday, 25 October, 2022
+</h3>
+<p>
+    Last night before going to bed, I had a flash of inspiration that I thought was going to make this easy, but when trying to implement it, I quickly found it was a lot harder than I thought. More specifically, I found that it created a whole new set of errors. I just barely figured out one of them, I had apparently forgotten quotes around a dictionary item I was referencing, but I am still no closer to actually getting the buttons to work. I have some good tools and a few ideas to run with. And worst case scenario, I have put my best effort in so I am happy. 
+</p>
