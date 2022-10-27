@@ -597,3 +597,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Last night before going to bed, I had a flash of inspiration that I thought was going to make this easy, but when trying to implement it, I quickly found it was a lot harder than I thought. More specifically, I found that it created a whole new set of errors. I just barely figured out one of them, I had apparently forgotten quotes around a dictionary item I was referencing, but I am still no closer to actually getting the buttons to work. I have some good tools and a few ideas to run with. And worst case scenario, I have put my best effort in so I am happy. 
 </p>
+<h1>
+    Day 69
+</h1>
+<h3>
+    Wednesday, 26 October, 2022
+</h3>
+<p>
+    I finished my last assignment for my CSE 111 Programming with functions class. I technically did not actually finish the program, but I got far enough to turn it in, and I still got a 97.5% on it so I am really happy, and I learned a lot in the process. Tomorrow, I formally start my JavaScript class. My plan for that class is to do twice the work and try to code everything in both JavaScript and Python. I'll find out how realistic that plan is.
+</p>
