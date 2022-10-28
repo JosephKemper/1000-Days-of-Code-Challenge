@@ -615,3 +615,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today was mostly a day of studying and getting introduced to JavaScript. I played with code that was broken in several ways and had to fix it. In the process, I learned about how constants in JavaScript work, how JavaScript handles addition between strings and number, how it handles multiplication of numbers and strings. I got to work with declaring variables, modifying variables, and both reading and understanding errors before fixing them.
 </p>
+<h1>
+    Day 71
+</h1>
+<h3>
+    Friday, 28 October, 2022
+</h3>
+<p>
+    I spent the day learning and practicing how to debug in JavaScript. It is quite interesting to learn and to see the similarities between how JavaScript and Python work. 
+</p>
