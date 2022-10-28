@@ -606,3 +606,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I finished my last assignment for my CSE 111 Programming with functions class. I technically did not actually finish the program, but I got far enough to turn it in, and I still got a 97.5% on it so I am really happy, and I learned a lot in the process. Tomorrow, I formally start my JavaScript class. My plan for that class is to do twice the work and try to code everything in both JavaScript and Python. I'll find out how realistic that plan is.
 </p>
+<h1>
+    Day 70
+</h1>
+<h3>
+    Thursday, 27 October, 2022
+</h3>
+<p>
+    Today was mostly a day of studying and getting introduced to JavaScript. I played with code that was broken in several ways and had to fix it. In the process, I learned about how constants in JavaScript work, how JavaScript handles addition between strings and number, how it handles multiplication of numbers and strings. I got to work with declaring variables, modifying variables, and both reading and understanding errors before fixing them.
+</p>
