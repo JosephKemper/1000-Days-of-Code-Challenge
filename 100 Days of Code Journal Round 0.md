@@ -624,3 +624,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I spent the day learning and practicing how to debug in JavaScript. It is quite interesting to learn and to see the similarities between how JavaScript and Python work. 
 </p>
+<h1>
+    Day 72
+</h1>
+<h3>
+    Saturday, 29 October, 2022
+</h3>
+<p>
+    While I am nowhere near the level of comfort I have developed with Python, I can see how all the study and practice I did has helped get me ready to learn JavaScript. There are quite a few similarities between JavaScript and Python, and there are quite a few differences. Right now, I am slowly diving into the depths of JavaScript as I get ready to start programming in JavaScript. My goal is to get comfortable enough with learning new languages that the process becomes second nature for me, and I think I can do it, I just have to take a bit of time to explore my curiosity a bit. 
+</p>
