@@ -648,3 +648,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today was mostly spent learning about JavaScript, learning about debugging in Java Script, and preparing for an interview tomorrow.
 </p>
+<h1>
+    Day 74
+</h1>
+<h3>
+    Tuesday, 1 November, 2022
+</h3>
+<p>
+    Completed my week 1 Assignments in my JavaScript Language class. Tomorrow, I expect I will get more into actual coding with JavaScript. I am looking forward to it.
+</p>
