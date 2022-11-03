@@ -657,3 +657,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Completed my week 1 Assignments in my JavaScript Language class. Tomorrow, I expect I will get more into actual coding with JavaScript. I am looking forward to it.
 </p>
+<h1>
+    Day 75
+</h1>
+<h3>
+    Wednesday, 2 November, 2022
+</h3>
+<p>
+    Learned about and practiced with Operators and DOM manipulation in JavaScript. 
+</p>
