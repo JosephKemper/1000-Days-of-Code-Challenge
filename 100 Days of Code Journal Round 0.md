@@ -666,3 +666,21 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Learned about and practiced with Operators and DOM manipulation in JavaScript. 
 </p>
+<h1>
+    Day 76
+</h1>
+<h3>
+    Thursday, 3 November, 2022
+</h3>
+<p>
+    Practiced more with JavaScript Operators and DOM manipulation. 
+</p>
+<h1>
+    Day 77
+</h1>
+<h3>
+    Friday, 4 November, 2022
+</h3>
+<p>
+    I was feeling a bit under the weather today so I did not get much actual programming in, but I still got my hour so that is what counts.
+</p>
