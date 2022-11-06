@@ -693,3 +693,9 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I started to work on my 02 Prove assignment and quickly found myself under prepared so I started going deeper into the You Don't know JS book that my class uses found here https://github.com/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/ch2.md I finished off in the section "Arrays And Objects" As I was going through the chapter, I made sure to experiment with any code examples they talked about in the book. 
 </p>
+<h3>
+    Sunday, 6 November, 2022
+</h3>
+<p>
+    Scheduled day off of coding.
+</p>
