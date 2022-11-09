@@ -708,3 +708,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today I learned how to use the document.querySelector function and practiced more with variables and arrays. Other than updating a picture I have almost completed my first project.
 </p>
+<h1>
+    Day 80
+</h1>
+<h3>
+    Tuesday, 8 November, 2022
+</h3>
+<p>
+    Today, I studied about and practiced with arrays in JavaScript. 
+</p>
