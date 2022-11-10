@@ -4,7 +4,7 @@ from students import read_dict
 from inspect import signature
 from os import path
 from tempfile import mktemp
-import pytest
+import pytest  # type: ignore
 
 
 def test_read_dict():
@@ -70,7 +70,7 @@ def call_read_dict(filename, key_column_index):
     if length == min_len:
         dictionary = read_dict(filename)
     else:
-        dictionary = read_dict(filename, key_column_index)
+        dictionary = read_dict(filename, key_column_index)  # type: ignore
     return dictionary
 
 

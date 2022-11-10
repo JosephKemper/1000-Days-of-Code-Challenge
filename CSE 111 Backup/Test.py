@@ -18,7 +18,7 @@ def main ():
     current_scene = cabin_scene(char_name, char_gender, prior_death, discovered_powers)
     # Returns (story_text, player_choices, next_scenes)
 
-    next_scenes = current_scene [2]
+    next_scenes = current_scene [2]  # type: ignore
     print(next_scenes)
     print("next_scenes", type(next_scenes))
     option_1_scene = next_scenes ["option_1"]
@@ -29,12 +29,12 @@ def main ():
     print(test_2[0])
 
     # Pulls display text from current scene to display to user
-    display_text = current_scene [0]
+    display_text = current_scene [0]  # type: ignore
     display_text = str(display_text)
     
     
     # Pulls returned options from current scene to be mapped to display
-    current_options = current_scene [1]
+    current_options = current_scene [1]  # type: ignore
     option_1 = current_options ["option_1"]
     option_2 = current_options ["option_2"]
 

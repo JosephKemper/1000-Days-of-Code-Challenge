@@ -10,7 +10,7 @@ def main():
     # Create the main window. In tkinter,
     # a window is also called a frame.
     frm_main = tk.Frame(root)
-    frm_main.master.title("Rectangle Area")
+    frm_main.master.title("Rectangle Area")  # type: ignore
     frm_main.pack(padx=4, pady=3, fill=tk.BOTH, expand=1)
 
     # Call the populate_main_window function, which will add

@@ -65,7 +65,7 @@ def main ():
         height = can_height[i]
         cost = can_cost[i]
         print(f"{name} {compute_storage_efficiency(radius, height):.2f}",
-        f"{compute_cost_efficiency(cost,radius,height):.2f}")
+        f"{compute_cost_efficiency(cost,radius,height):.2f}")  # type: ignore
 
 
 def compute_volume (radius, height):

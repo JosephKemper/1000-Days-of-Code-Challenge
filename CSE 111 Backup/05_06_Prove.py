@@ -2,6 +2,7 @@
 #Slows the program down and avoide the user feeling rushed. 
 import time
 
+
 def reading_pause ():
     print ()
     time.sleep (1)
@@ -137,11 +138,11 @@ print ("My friends and I have an amazing weekend planned.")
 time.sleep(2)
 print ()
 
-print (f"I might even see that really cute {love_interest} again.")
+print (f"I might even see that really cute {love_interest} again.")  # type: ignore
 time.sleep(2)
 print ()
 
-print (f"Who knows! Maybe I'll even ask {opposite_him_her} on a date.")
+print (f"Who knows! Maybe I'll even ask {opposite_him_her} on a date.")  # type: ignore
 time.sleep(2)
 print ()
 
@@ -155,10 +156,10 @@ print ()
 print ("In the middle of your preparations to get ready for your weekend you hear an unfamiliar voice shouting just outside your house.")
 reading_pause ()
 
-print (f'"{player_name.capitalize ()} should be inside, get {him_her} now. The High {enemy_leader} wants {him_her} alive and in one piece."')
+print (f'"{player_name.capitalize ()} should be inside, get {him_her} now. The High {enemy_leader} wants {him_her} alive and in one piece."')  # type: ignore
 reading_pause ()
 
-print (f"As you look out the window you see a dozen strangely dressed {men_women} carrying large swords angrily moving towards your home.")
+print (f"As you look out the window you see a dozen strangely dressed {men_women} carrying large swords angrily moving towards your home.")  # type: ignore
 reading_pause ()
 
 print ("""You're at your dad's old house, miles out of town. 
@@ -219,7 +220,7 @@ elif player_choice == 2:
     reading_pause ()
 
     print (f"""Just as you get to the tree line you hear someone yell behind you 
-    {he_she}'s running into the forest.""")
+    {he_she}'s running into the forest.""")  # type: ignore
     reading_pause ()
 
     print ("""The yelling and commotion behind you, 
@@ -296,17 +297,17 @@ if player_choice == 1 or player_choice == 3 or player_choice == 4:
 
     print (f"""Suddenly the chanting stops and a {opposite_male_female} cultist, 
     with gold inlays woven into {opposite_his_her} robe, 
-    with what could easily be a sacrificial knife in {opposite_his_her} hand.""")
+    with what could easily be a sacrificial knife in {opposite_his_her} hand.""")  # type: ignore
     reading_pause ()
 
     print (f"""{opposite_he_she.capitalize()} gently strokes your side with the side of the dagger 
     and {opposite_he_she} starts seems to start speaking directly to you, 
-    but some strange language you've never heard before.""")
+    but some strange language you've never heard before.""")  # type: ignore
     reading_pause ()
 
     print (f"""{opposite_he_she.capitalize ()} suddenly stops speaking, laughs, 
     and starts moving {opposite_his_her} hands in the air, 
-    a red line of pure energy following the intricate patterns {opposite_he_she} is moving {opposite_his_her} hands in. """)
+    a red line of pure energy following the intricate patterns {opposite_he_she} is moving {opposite_his_her} hands in. """)  # type: ignore
     reading_pause ()
 
     print ("""After just a moment, the ruin starts to pulse and then slams down on your face, 

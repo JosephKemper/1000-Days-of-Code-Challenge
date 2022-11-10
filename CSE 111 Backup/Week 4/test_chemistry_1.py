@@ -1,8 +1,8 @@
 # Copyright 2020, Brigham Young University-Idaho. All rights reserved.
 
 from chemistry import make_periodic_table
-from pytest import approx
-import pytest
+from pytest import approx  # type: ignore
+import pytest  # type: ignore
 
 
 # These are the indexes of the

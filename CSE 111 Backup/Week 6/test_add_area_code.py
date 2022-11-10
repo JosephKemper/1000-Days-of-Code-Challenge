@@ -1,7 +1,7 @@
 # Copyright 2020, Brigham Young University-Idaho. All rights reserved.
 
 from add_area_code import add_area_code
-import pytest
+import pytest  # type: ignore
 
 def test_add_area_code():
     """Verify that the add_area_code function works correctly.

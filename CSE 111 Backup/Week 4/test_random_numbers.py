@@ -2,7 +2,7 @@
 
 from random_numbers import append_random_numbers
 # from random_numbers import append_random_words
-import pytest
+import pytest  # type: ignore
 
 
 def test_append_random_numbers():
