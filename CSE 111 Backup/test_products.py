@@ -3,8 +3,8 @@
 from receipt import read_dict
 from os import path
 from tempfile import mktemp
-from pytest import approx
-import pytest
+from pytest import approx  # type: ignore
+import pytest  # type: ignore
 
 
 def test_read_dict():

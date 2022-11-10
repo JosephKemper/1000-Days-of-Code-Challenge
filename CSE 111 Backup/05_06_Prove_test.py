@@ -24,7 +24,6 @@
 import time
 
 
-
 # Built to give the user the option to read at their own pace. 
 def reading_pause ():
     print ()
@@ -517,7 +516,7 @@ hoping they might finish freeing you… """)
 
 
 
-if altar_scene_choice == 1:
+if altar_scene_choice == 1:  # type: ignore
     print ("""As fighting erupts around the altar you are tied to, you start to struggle, 
 desperately hoping that the bullets weakened the ropes enough to let you escape. 
 You can still barely move, pulled so tight that even breathing is hard, 
@@ -555,7 +554,7 @@ only raises your concerns.""")
     print ("To be continued ...")
     exit ()
 
-elif altar_scene_choice == 2:
+elif altar_scene_choice == 2:  # type: ignore
     print ("""As you wait, you see the top of the mountain pointing down at you 
 from the other planet aligning with the mountain on the planet you are on. 
 Despite how tightly you are bound to the altar, you still feel lighter 
@@ -577,7 +576,7 @@ as this demon tortured them until every last ounce of self was gone.
 It is the tears of their loved ones, as they were left to watch in terror
 as their former {brother_sister}'s and {son_daughter}'s show back up 
 and mindlessly destroy their own families, 
-while they watch helplessly, prisoners in their own bodies.""")
+while they watch helplessly, prisoners in their own bodies.""")  # type: ignore
     reading_pause ()
 
     print (f"""The feeling of a star, splashing in the … liquid … that washed over your foot woke you up. 

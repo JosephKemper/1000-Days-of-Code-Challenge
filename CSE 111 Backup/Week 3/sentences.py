@@ -108,7 +108,7 @@ def get_verb (quantity, tense) -> str:
         "will think", "will run", "will sleep", "will talk",
         "will walk", "will write"]
     
-    return random.choice(verbs)
+    return random.choice(verbs)  # type: ignore
 
 # TODO: #6 Write a def get_preposition function matching requirements described in 06 Prove Assignment
 def get_preposition():

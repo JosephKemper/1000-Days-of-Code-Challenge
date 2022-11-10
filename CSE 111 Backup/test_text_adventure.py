@@ -1,5 +1,5 @@
 from text_adventure import personalized_dialog, cabin_scene
-import pytest
+import pytest  # type: ignore
 
 
 def test_personalized_dialog():
@@ -80,7 +80,7 @@ def test_cabin_scene ():
     char_name = "John"
     male_cabin_scene = cabin_scene(char_name, char_gender, prior_death,discovered_powers) 
     # Returns (story_text, player_choices, next_scenes)
-    cabin_scene_display_text = male_cabin_scene [0]
+    cabin_scene_display_text = male_cabin_scene [0]  # type: ignore
     
     male_display_text = """"Today is going to be great!" You think to yourself.
 I got the day off.
@@ -108,7 +108,7 @@ The forest is not far, I could run out there forever."""
     char_name = "Jane"
     female_cabin_scene = cabin_scene(char_name, char_gender, prior_death,discovered_powers) 
     # Returns (story_text, player_choices, next_scenes)
-    cabin_scene_display_text = female_cabin_scene [0]
+    cabin_scene_display_text = female_cabin_scene [0]  # type: ignore
     female_display_text = """"Today is going to be great!" You think to yourself.
 I got the day off.
 My friends and I have an amazing weekend planned.

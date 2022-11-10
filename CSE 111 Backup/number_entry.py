@@ -79,13 +79,12 @@ class FloatEntry(tk.Entry):
         super().__init__(parent)
         assert isinstance(lower_bound, Number), "lower_bound must be a number"
         assert isinstance(upper_bound, Number), "upper_bound must be a number"
-        assert lower_bound < upper_bound, \
-            "lower_bound must be less than upper_bound"
+        assert lower_bound < upper_bound, "lower_bound must be less than upper_bound"   # type: ignore
 
         self.lower_bound = lower_bound
         self.upper_bound = upper_bound
-        self.lower_entry = lower_bound if lower_bound <= 0 else 0
-        self.upper_entry = upper_bound if upper_bound >= 0 else 0
+        self.lower_entry = lower_bound if lower_bound <= 0 else 0   # type: ignore
+        self.upper_entry = upper_bound if upper_bound >= 0 else 0   # type: ignore
         vcmd = (parent.register(self.validate), "%P")
         if not "justify" in kwargs:
             kwargs["justify"] = "right"
@@ -97,10 +96,10 @@ class FloatEntry(tk.Entry):
         valid = False
         try:
             i = float(value_if_allowed)
-            valid = (self.lower_entry <= i <= self.upper_entry)
+            valid = (self.lower_entry <= i <= self.upper_entry)  # type: ignore
         except:
             valid = (len(value_if_allowed) == 0 or
-                    (self.lower_entry < 0 and value_if_allowed == "-"))
+                    (self.lower_entry < 0 and value_if_allowed == "-"))  # type: ignore
         return valid
 
 
@@ -116,7 +115,6 @@ class FloatEntry(tk.Entry):
     def set(self, n):
         """Display a number for the user to see."""
         assert isinstance(n, Number), "n must be an integer"
-        assert self.lower_bound <= n <= self.upper_bound, \
-            f"n must be between {self.lower_bound} and {self.upper_bound}"
+        assert self.lower_bound <= n <= self.upper_bound, f"n must be between {self.lower_bound} and {self.upper_bound}"  # type: ignore
         self.delete(0, tk.END)
         self.insert(0, str(n))

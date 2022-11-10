@@ -1,1 +1,1 @@
-cabin_text
+cabin_text  # type: ignore

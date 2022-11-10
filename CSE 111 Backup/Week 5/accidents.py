@@ -64,7 +64,7 @@ def main():
         # the name of a file that doesn't exist.
         print()
         print(type(not_found_err).__name__, not_found_err, sep=": ")
-        print(f"The file {filename} doesn't exist.")
+        print(f"The file {filename} doesn't exist.")  # type: ignore
         print("Run the program again and enter the" \
                 " name of an existing file.")
         
@@ -73,7 +73,7 @@ def main():
         # of a file and doesn't have permission to read that file.
         print()
         print(type(perm_err).__name__, perm_err, sep=": ")
-        print(f"You don't have permission to read {filename}.")
+        print(f"You don't have permission to read {filename}.")  # type: ignore
         print("Run the program again and enter the name" \
                 " of a file that you are allowed to read.")
     

@@ -46,7 +46,7 @@ def start_drawing(title, width, height):
             (("width", width, 100), ("height", height, 100)):
         assert isinstance(dimen, Number), \
             _wrong_type_2(name, dimen, "number", min_dimen)
-        assert dimen >= min_dimen, _less_than(name, dimen, min_dimen)
+        assert dimen >= min_dimen, _less_than(name, dimen, min_dimen)  # type: ignore
 
     # Create the root Tk object.
     root = Tk()
@@ -54,7 +54,7 @@ def start_drawing(title, width, height):
 
     # Create a Frame object.
     frame = Frame()
-    frame.master.title(title)
+    frame.master.title(title)  # type: ignore
     frame.pack(fill=BOTH, expand=1)
 
     # Create a canvas object that will draw into the frame.
