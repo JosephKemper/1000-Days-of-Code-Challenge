@@ -1,7 +1,7 @@
 """Verify that the prefix and suffix functions work correctly."""
 
 from words import prefix, suffix
-import pytest
+import pytest  # type: ignore
 
 
 def test_prefix():

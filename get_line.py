@@ -6,6 +6,9 @@ This program asks the user for
 2) a line number
 and prints the text from that line of the file.
 """
+from tabnanny import filename_only
+
+
 def main():
     try:
         # Get a filename from the user.
@@ -29,7 +32,7 @@ def main():
         # the name of a file that doesn't exist.
         print()
         print(type(not_found_err).__name__, not_found_err, sep=": ")
-        print(f"The file {filename} doesn't exist.")
+        print(f"The file {filename_only} doesn't exist.")
         print("Run the program again and enter the" \
                 " name of an existing file.")
 
@@ -38,7 +41,7 @@ def main():
         # of a file and doesn't have permission to read that file.
         print()
         print(type(perm_err).__name__, perm_err, sep=": ")
-        print(f"You don't have permission to read {filename}.")
+        print(f"You don't have permission to read {filename_only}.")
         print("Run the program again and enter the name" \
                 " of a file that you are allowed to read.")
 
@@ -57,13 +60,12 @@ def main():
         # than the number of lines in the file.
         print()
         print(type(index_err).__name__, index_err, sep=": ")
-        length = len(text_lines)
-        if linenum < 0:
-            print(f"{linenum} is a negative integer.")
+        length = len(text_lines)  # type: ignore
+        if linenum < 0:  # type: ignore
+            print(f"{linenum} is a negative integer.")  # type: ignore
         else:
-            print(f"{linenum} is greater than the number" \
-                    f" of lines in {filename}.")
-            print(f"There are only {length} lines in {filename}.")
+            print(f"{linenum} is greater than the number" + f" of lines in {filename_only}.")  # type: ignore
+            print(f"There are only {length} lines in {filename_only}.")
         print(f"Run the program again and enter a line number" \
                 f" between 1 and {length}.")
 

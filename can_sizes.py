@@ -43,8 +43,8 @@ Name	Radius(cm)	Height (cm)	Cost per Can (U.S. dollars)
 #300	7.62	11.27	$0.38
 #303	8.10	11.11	$0.42
 """
-from cmath import pi
 import math
+from cmath import pi
 
 
 def main ():
@@ -65,7 +65,7 @@ def main ():
         height = can_height[i]
         cost = can_cost[i]
         print(f"{name} {compute_storage_efficiency(radius, height):.2f}",
-        f"{compute_cost_efficiency(cost,radius,height):.2f}")
+        f"{compute_cost_efficiency(cost,radius,height):.2f}")  # type: ignore
 
 
 def compute_volume (radius, height):
