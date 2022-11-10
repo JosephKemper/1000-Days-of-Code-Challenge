@@ -717,3 +717,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today, I studied about and practiced with arrays in JavaScript. 
 </p>
+<h1>
+    Day 81
+</h1>
+<h3>
+    Wednesday, 9 November, 2022
+</h3>
+<p>
+    Today I studied about Arrays and the DOM process along with Algorithms.
+</p>
