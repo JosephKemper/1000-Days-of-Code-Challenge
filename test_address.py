@@ -1,6 +1,6 @@
 from address import extract_city, \
     extract_state,extract_zipcode
-import pytest
+import pytest  # type: ignore
 
 # write a test function named test_extract_city that verifies 
 # that the extract_city function works correctly.

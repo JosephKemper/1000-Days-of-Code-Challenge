@@ -1,7 +1,7 @@
 # Week 06 Prove
 from sentences import get_determiner, get_noun, get_preposition, get_prepositional_phrase, get_verb
 import random
-import pytest
+import pytest  # type: ignore
 
 
 def test_get_determiner():

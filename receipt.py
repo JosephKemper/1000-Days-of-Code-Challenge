@@ -3,6 +3,7 @@ import csv
 # module so that it can be used in this program.
 from datetime import datetime
 
+
 def main ():
     try:
         product_code_index = 0
@@ -199,7 +200,7 @@ def print_items (products_dict, filename):
                 # Print product name and price
                 print(f"{product_name}: {product_quantity} @ {product_price}")
 
-    return product_code, filename
+    return product_code, filename  # type: ignore
 
 
 

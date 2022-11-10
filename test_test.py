@@ -1,8 +1,8 @@
 # test_weather.py
 
-from Test import cels_from_fahr
-from pytest import approx
-import pytest
+from Test import cels_from_fahr  # type: ignore
+from pytest import approx  # type: ignore
+import pytest  # type: ignore
 
 def test_cels_from_fahr():
     """Test the cels_from_fahr function by calling it and
