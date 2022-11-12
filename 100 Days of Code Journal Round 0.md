@@ -735,3 +735,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today, I studied a lot about Algorithms and cleaned up some old code.
 </p>
+<h1>
+    Day 83
+</h1>
+<h3>
+    Friday, 11 November, 2022
+</h3>
+<p>
+    Today I practiced with arrays, troubleshooting code, and studied algorithms.
+</p>
