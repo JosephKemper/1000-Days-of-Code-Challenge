@@ -744,3 +744,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today I practiced with arrays, troubleshooting code, and studied algorithms.
 </p>
+<h1>
+    Day 84
+</h1>
+<h3>
+    Friday, 11 November, 2022
+</h3>
+<p>
+    Working with the getElementByID function. We were given base HTML and a challenge to declare an array in a JavaScript file and then map that to a variable inside of the HTML code we were provided. I got part of it working perfectly but  when I try to get the rest working, it errors out. If I cannot figure it out by Monday, I will ask for help. Also watched part of MIT's 3rd lecture on Algorithms. 
+</p>
