@@ -759,3 +759,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Scheduled day off of Coding. 
 </p>
+<h1>
+    Day 85
+</h1>
+<h3>
+    Monday, 14 November, 2022
+</h3>
+<p>
+    Still working with the getElementById function. Ran into some errors with my code that I have now asked for help with. 
+</p>
