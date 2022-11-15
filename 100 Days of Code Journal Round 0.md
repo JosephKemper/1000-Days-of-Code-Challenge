@@ -766,5 +766,5 @@ The goal of this assignment was to see how much the dot operator can do and how 
     Monday, 14 November, 2022
 </h3>
 <p>
-    Still working with the getElementById function. Ran into some errors with my code that I have now asked for help with. 
+    Still working with the getElementById function. Ran into some errors with my code that I have now asked for help with. Found a bit more about the error. Found some similar code that I can get working like I want, but still not sure what is going on with my assignment. 
 </p>
