@@ -768,3 +768,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Still working with the getElementById function. Ran into some errors with my code that I have now asked for help with. Found a bit more about the error. Found some similar code that I can get working like I want, but still not sure what is going on with my assignment. 
 </p>
+<h1>
+    Day 86
+</h1>
+<h3>
+    Tuesday, 15 November, 2022
+</h3>
+<p>
+    I finally figured out what was wrong with my code. It had nothing to do with the JavaScript but the HTML part I was provided. The call for the script came before the variable I wanted to attach it to which was causing it to come back as null. I will have to remember that for the future. 
+</p>
