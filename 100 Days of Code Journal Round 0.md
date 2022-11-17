@@ -777,3 +777,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I finally figured out what was wrong with my code. It had nothing to do with the JavaScript but the HTML part I was provided. The call for the script came before the variable I wanted to attach it to which was causing it to come back as null. I will have to remember that for the future. 
 </p>
+<h1>
+    Day 87
+</h1>
+<h3>
+    Wednesday, 16 November, 2022
+</h3>
+<p>
+    Today, I practiced more with arrays. In addition to a lot of study, I built a program to convert letter grades to a GPA score and average them together. I am slowly starting to translate how Python works to how JavaScript works. It is rather interesting, in some ways, I feel like I am starting over learning programming, but in other ways, I feel like I have a much better head start than I did before. 
+</p>
