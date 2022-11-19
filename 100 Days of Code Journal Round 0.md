@@ -786,3 +786,21 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today, I practiced more with arrays. In addition to a lot of study, I built a program to convert letter grades to a GPA score and average them together. I am slowly starting to translate how Python works to how JavaScript works. It is rather interesting, in some ways, I feel like I am starting over learning programming, but in other ways, I feel like I have a much better head start than I did before. 
 </p>
+<h1>
+    Day 88
+</h1>
+<h3>
+    Thursday, 17 November, 2022
+</h3>
+<p>
+    I finally finished studying the arrays portion of my week 3 code and started working on studying and practicing with DOM management and manipulation. 
+</p>
+<h1>
+    Day 89
+</h1>
+<h3>
+    Friday, 18 November, 2022
+</h3>
+<p>
+    I finished all the assigned practice for week 3. Tomorrow, I will be reviewing everything and then completing the prove assignment. The professor already showed everyone part of the assignment which will be really helpful. I am not happy with the foundation of knowledge I have in JavaScript. I want a much deeper foundation than I currently have. I know that part of what I am lacking is going to be found in learning about algorithms, but I think I will need more. 
+</p>
