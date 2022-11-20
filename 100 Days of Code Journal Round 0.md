@@ -804,3 +804,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I finished all the assigned practice for week 3. Tomorrow, I will be reviewing everything and then completing the prove assignment. The professor already showed everyone part of the assignment which will be really helpful. I am not happy with the foundation of knowledge I have in JavaScript. I want a much deeper foundation than I currently have. I know that part of what I am lacking is going to be found in learning about algorithms, but I think I will need more. 
 </p>
+<h1>
+    Day 90
+</h1>
+<h3>
+    Saturday, 19 November, 2022
+</h3>
+<p>
+    I think I am finally getting the hang of JavaScript! Today, I built a simple calculator that added, subtracted, multiplied, or divided two numbers, and that iterated through an array several different ways.
+</p>
