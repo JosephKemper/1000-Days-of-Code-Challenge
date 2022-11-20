@@ -813,3 +813,9 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I think I am finally getting the hang of JavaScript! Today, I built a simple calculator that added, subtracted, multiplied, or divided two numbers, and that iterated through an array several different ways.
 </p>
+<h3>
+    Sunday, 20 November, 2022
+</h3>
+<p>
+    Scheduled day off of Programming.
+</p>
