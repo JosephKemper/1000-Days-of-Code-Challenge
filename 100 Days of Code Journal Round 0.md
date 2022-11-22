@@ -819,3 +819,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Scheduled day off of Programming.
 </p>
+<h1>
+    Day 91
+</h1>
+<h3>
+    Monday, 20 November, 2022
+</h3>
+<p>
+    Today was mostly a day of studying. Just starting to learn about functions in JavaScript.
+</p>
