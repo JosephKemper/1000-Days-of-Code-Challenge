@@ -813,3 +813,27 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     I think I am finally getting the hang of JavaScript! Today, I built a simple calculator that added, subtracted, multiplied, or divided two numbers, and that iterated through an array several different ways.
 </p>
+<h3>
+    Sunday, 20 November, 2022
+</h3>
+<p>
+    Scheduled day off of Programming.
+</p>
+<h1>
+    Day 91
+</h1>
+<h3>
+    Monday, 20 November, 2022
+</h3>
+<p>
+    Today was mostly a day of studying. Just starting to learn about functions in JavaScript.
+</p>
+<h1>
+    Day 92
+</h1>
+<h3>
+    Tuesday, 21 November, 2022
+</h3>
+<p>
+    Today, I reproduced code the professor showed us in a short video and reproduced a simple tic-toc-toe game. It was a lot of fun to see the differences in how Python and JavaScript work. I like how clean Python is and how direct in its distribution (ie a web browser) JavaScript is. 
+</p>
