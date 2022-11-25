@@ -855,3 +855,22 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today, I studied about and practiced with functions. I started to build a program to calculate gpa from entering comma separated letter grades.
 </p>
+<h1>
+    Day 95
+</h1>
+<h3>
+    Friday, 25 November, 2022
+</h3>
+<p>
+    Finished building the gpa.js program. I ended up using the solution they provided to build it and then walked through the program in debugger mode to figure out what was happening. A few things I learned are as follows:
+</p>
+<dl>
+    <dt>toFixed</dt>
+    <dd>Converts numbers to a string format. By putting a number in the parenthesis tells JavaScript how many points to include after the decimal point.</dd>
+    <dt>.map()</dt>
+    <dd>iterates through an object, like an array or list, and performs the requested function on it. Syntax will be as follows objectToBeIteratedThrough.map((individualElement) => functionToProcessIndividualElement(individualElement)) </dd>
+    <dt>if/else if</dt>
+    <dd>This functions the same way the if/else statements do in Python. The Syntex works very different. To use the if/else statements, you start by stating if, then place your comparative statement inside of a parenthesis (comparativeStatement) then place what the happens if the comparative statement is met between squiggly braces {whatHappensIfConditionsMet}. You follow the same format for the else if statement.</dd>
+    <dt></dt>
+    <dd></dd>
+</dl>
