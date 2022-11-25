@@ -846,3 +846,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today was a deep dive into functions and objects in JavaScript. Tomorrow will likely be another day of mostly study and then from there, Friday, will likely be back to coding. 
 </p>
+<h1>
+    Day 94
+</h1>
+<h3>
+    Thursday, 24 November, 2022
+</h3>
+<p>
+    Today, I studied about and practiced with functions. I started to build a program to calculate gpa from entering comma separated letter grades.
+</p>
