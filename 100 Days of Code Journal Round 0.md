@@ -881,3 +881,9 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Finished my <a href="https://byui-cse.github.io/cse121b-course/week04/ponder_prove-wwb.html">04 Prove assignment</a>. Built a profile page based on assigned tasks. Assigned values to and iterated through arrays, displayed text from variables, arrays, and lists to a webpage. 
 </p>
+<h3>
+    Sunday, 27 November, 2022
+</h3>
+<p>
+    Scheduled Day off. 
+</p>
