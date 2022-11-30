@@ -896,3 +896,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Studied about modules in JavaScript today.
 </p>
+<h1>
+    Day 98
+</h1>
+<h3>
+    Tuesday, 29 November, 2022
+</h3>
+<p>
+    Today, I practiced with importing modules in JavaScript. 
+</p>
