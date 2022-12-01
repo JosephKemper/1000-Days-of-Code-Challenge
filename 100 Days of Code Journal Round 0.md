@@ -905,3 +905,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today, I practiced with importing modules in JavaScript. 
 </p>
+<h1>
+    Day 99
+</h1>
+<h3>
+    Wednesday, 30 November, 2022
+</h3>
+<p>
+    Today, I followed a tutorial to build an app that pulled data from a website, via json, then converted that data to something JavaScript could use, and finally displayed it to the user. In the process I assigned multiple pieces of data to HTML code elements to display it to users and iterated through lists of unknown size using the forEach JavaScript function. 
+</p>
