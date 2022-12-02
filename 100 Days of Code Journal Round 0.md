@@ -914,3 +914,12 @@ The goal of this assignment was to see how much the dot operator can do and how 
 <p>
     Today, I followed a tutorial to build an app that pulled data from a website, via json, then converted that data to something JavaScript could use, and finally displayed it to the user. In the process I assigned multiple pieces of data to HTML code elements to display it to users and iterated through lists of unknown size using the forEach JavaScript function. 
 </p>
+<h1>
+    Day 100
+</h1>
+<h3>
+    Thursday, 1 December, 2022
+</h3>
+<p>
+    While today, I just practiced with sorting arrays, it is also the end of my first 100 days of coding. Tomorrow, I will be starting my second 100 days. I Have grown a lot from this journey. I look forward to my second 100 days. 
+</p>
