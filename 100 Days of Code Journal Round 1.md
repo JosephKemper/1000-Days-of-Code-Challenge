@@ -17,8 +17,17 @@
     It took a lot of work but I finally got my 05 Prove assignment completed. Running out of time, will have to put more in here later. I spent from about 8 am this morning until just after 6 pm working on my lesson 5 prove assignment. I built a web page that pulled data from a website on temples and pulled data from the json file, placed it into an array, and iterated through the array to place the data in custom created html elements. In the process, I combined different pieces of data about each temple and put it into a combined html article element, then added the ability to sort the different temple articles in either ascending or descending order. The biggest problem I had was in trying to figure out how to clear the data previously generated on the page to allow for it to be sorted another way.
 </p>
 <h3>
-    Saturday, 3 December, 2022
+    Sunday, 4 December, 2022
 </h3>
 <p>
     Scheduled day off of coding
+</p>
+<h1>
+    Day 2
+</h1>
+<h3>
+    Monday, 5 December, 2022
+</h3>
+<p>
+    I studied all of the prepare content for this lesson and started on the first ponder activity for the week. I refactored some food to make it work more efficiently and to actually follow the dry principle. 
 </p>
