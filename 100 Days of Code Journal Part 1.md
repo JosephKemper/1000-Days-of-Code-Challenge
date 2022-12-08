@@ -40,4 +40,12 @@
 <p>
     Today, I refactored a little more code. I used the JavaScript Map function and pulled data from an array in a more reusable manner than the original code did. I also decided that instead of starting new rounds every time I get to 100, I am just going to keep on counting days. So, instead of being on day 3 of my second round, I am on day 103, because I am not going to stop until either I get a job, or I graduate, whichever comes last. 
 </p>
-
+<h1>
+    Day 104
+</h1>
+<h3>
+    Wednesday, 7 December, 2022
+</h3>
+<p>
+    I Finished the last of the ponder activities and started mapping out my final project for my JavaScript Class. What I am planning to do, is to build a web page to display some of my poems. I am not sure if I will be able to get all of them put into the page, because of how many I have written (likely somewhere in excess of 5,000). My plan is to pull a picture of the Mount Timpanogos Temple and put it at the top. From there, I will reference that Deanne and I were married there on 13 October 2012 and will calculate how long we have been married. From there, I will give a few options to display love poems beneath a picture of the Mount Timpanogos Temple. This gets into the parts that I am not sure if I will have time to finish, but even if I cannot finish it during class, I will finish it afterwards, because I know my wife will love this project. Ideally, I want to have an option to display every poem that was written on that day, during a prior year, or just a random poem from that day in a prior year. I kind of want a few more options for filtering but I am not sure what else I would want to do yet. 
+</p>
