@@ -49,3 +49,12 @@
 <p>
     I Finished the last of the ponder activities and started mapping out my final project for my JavaScript Class. What I am planning to do, is to build a web page to display some of my poems. I am not sure if I will be able to get all of them put into the page, because of how many I have written (likely somewhere in excess of 5,000). My plan is to pull a picture of the Mount Timpanogos Temple and put it at the top. From there, I will reference that Deanne and I were married there on 13 October 2012 and will calculate how long we have been married. From there, I will give a few options to display love poems beneath a picture of the Mount Timpanogos Temple. This gets into the parts that I am not sure if I will have time to finish, but even if I cannot finish it during class, I will finish it afterwards, because I know my wife will love this project. Ideally, I want to have an option to display every poem that was written on that day, during a prior year, or just a random poem from that day in a prior year. I kind of want a few more options for filtering but I am not sure what else I would want to do yet. 
 </p>
+<h1>
+    Day 105
+</h1>
+<h3>
+    Thursday, 8 December, 2022
+</h3>
+<p>
+    Today, I planned out and started working on my poems webpage. I got a bit of code written and got the files and folders organized. There will be a few things I will have to figure out, but for the most part, I think I should be able to put everything together. 
+</p>
