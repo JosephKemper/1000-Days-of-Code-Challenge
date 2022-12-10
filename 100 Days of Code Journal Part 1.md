@@ -58,3 +58,12 @@
 <p>
     Today, I planned out and started working on my poems webpage. I got a bit of code written and got the files and folders organized. There will be a few things I will have to figure out, but for the most part, I think I should be able to put everything together. 
 </p>
+<h1>
+    Day 106
+</h1>
+<h3>
+    Friday, 9 December, 2022
+</h3>
+<p>
+    Continued working on my webpage and figured out how I will pull a specific array out of a compound array. 
+</p>
