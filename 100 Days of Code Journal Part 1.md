@@ -67,3 +67,12 @@
 <p>
     Continued working on my webpage and figured out how I will pull a specific array out of a compound array. The data in question, is pulled from a website and gets converted from a JSON file to a JavaScript array. So, I need to be prepared for the data to change, and possibly come in a different order. After trying a few different ways, I will be building a function to loop through the data and check if the templeName key is Mount Timpanogos Temple, and then assigning all of that data to an array and returning it for use in my page. 
 </p>
+<h1>
+    Day 107
+</h1>
+<h3>
+    Saturday, 10 December, 2022
+</h3>
+<p>
+    So far, I have worked for about 4 hours on what is supposed to be a three hour project, and am not even close to being done. I might have just found a fix for an error, that I will be testing out now. 
+</p>
