@@ -76,3 +76,9 @@
 <p>
     So far, I have worked for about 4 hours on what is supposed to be a three hour project, and am not even close to being done. I might have just found a fix for an error, that I will be testing out now. 
 </p>
+<h3>
+    Sunday, 11 December, 2022
+</h3>
+<p>
+    Scheduled Day off of Coding
+</p>
