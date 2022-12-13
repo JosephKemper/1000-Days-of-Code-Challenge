@@ -82,3 +82,33 @@
 <p>
     Scheduled Day off of Coding
 </p>
+<h1>
+    Day 108 Reflection
+</h1>
+<h3>
+    Monday, 12 December, 2022
+</h3>
+<p>
+    The biggest factor I have found in trying to find good online sources is to first have a good understanding of what I am trying to do, for without that foundation, I have found that too often you end up getting advice on topics that really do not affect what you are trying to accomplish. From there, I have found that the best sources are those that have complete examples which you can implement and try on your own before trying it inside of your code. Just to hear someone explain the syntax of what should happen is not enough, and just to see someone else point out what was wrong with the code, is not enough either. For the best sources, I want to see examples of how the code should look and work along with an explanation of why. Many, but not all, of the answers on Stackoverflow, have wonderful insights. I typically, find that Stackoverflow, is typically a source to better figure out what I am trying to accomplish. For JavaScript, I have found that a lot of sources are kind of hit or miss. 
+</p>
+<p>
+    https://www.educba.com/ has a lot of underwhelming sources, and a few good ones. 
+</p>
+<p>
+    https://www.w3schools.com/ has a lot of really good examples, but not a lot of great explanations. 
+</p>
+<p>
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript has a lot of great examples and wonderful explanations, but is typically hard to navigate. 
+</p>
+<p>
+    YouTube has a lot of wonderful videos, that both let me see live the explanation and the examples, but also has a lot of people who sound like they know what they are talking about but when you try to follow what they are talking about, you quickly find holes. 
+</p>
+<p>
+    Probably the best overall source is a good old fashioned internet search engine (i.e., Google). 
+</p>
+<p>
+    For my processes, I start with a search engine, and try to find a place to start. Often times Stackoverflow ends up on the top of that list. I look at a few questions and answers there, and use that to refine what I am looking for. Sometimes, I luck out and find a direct answer there. From there, if I am still having problems trying to better define what I am trying to accomplish, then I might turn to YouTube. From there, I go back to the search engine and refine my search. At that point, I typically find an answer via one of other sites mentioned above. I do not limit myself to those sites, the ones I mentioned are simply the ones that come up the most. 
+</p>
+<p>
+    One of the reasons I so highly praise both examples and explanation is that it is really hard to fake both when you do not actually know what you are talking about, especially if you provide the code examples for someone like me to test out and experiment with. 
+</p>
