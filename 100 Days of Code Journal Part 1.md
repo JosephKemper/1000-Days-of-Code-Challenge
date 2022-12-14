@@ -112,3 +112,15 @@
 <p>
     One of the reasons I so highly praise both examples and explanation is that it is really hard to fake both when you do not actually know what you are talking about, especially if you provide the code examples for someone like me to test out and experiment with. 
 </p>
+<h1>
+    Day 109
+</h1>
+<h3>
+    Tuesday, 13 December, 2022
+</h3>
+<p>
+    I spent another 2 hours on my program. I learned how to use the find function in JavaScript. Initially, for a reason I could not figure out, when I tried to use the find function, it was pulling the first item in the array regardless of whether it matched the desired results or not. From there I figured out how to implement the find function using arrow notation inside of the main function I am using to find the URL I am looking for, and that almost let me get what I wanted. 
+</p>
+<p>
+    The initial results did not let me pull the image URL out of the compound list. To fix that, I adjusted the export function to specifically export the image. Tomorrow, I am going to attach the image to an HTML element and display our wedding date and try to calculate our how long we have been married. I doubt I will get much farther than that. I really need to get better at estimating how long a project will take. 
+</p>
