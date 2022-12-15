@@ -124,3 +124,12 @@
 <p>
     The initial results did not let me pull the image URL out of the compound list. To fix that, I adjusted the export function to specifically export the image. Tomorrow, I am going to attach the image to an HTML element and display our wedding date and try to calculate our how long we have been married. I doubt I will get much farther than that. I really need to get better at estimating how long a project will take. 
 </p>
+<h1>
+    Day 110
+</h1>
+<h3>
+    Wednesday, 14 December, 2022
+</h3>
+<p>
+    Today, I just created a video detailing the code I previously wrote. The big take away I have is that I need to get better at estimating how much I will be able to do. I am happy to be done with this semester. It took a lot out of me. 
+</p>
