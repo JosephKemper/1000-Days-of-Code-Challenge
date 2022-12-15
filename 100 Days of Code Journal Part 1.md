@@ -133,3 +133,12 @@
 <p>
     Today, I just created a video detailing the code I previously wrote. The big take away I have is that I need to get better at estimating how much I will be able to do. I am happy to be done with this semester. It took a lot out of me. 
 </p>
+<h1>
+    Day 111
+</h1>
+<h3>
+    Thursday, 14 December, 2022
+</h3>
+<p>
+    Light coding day. Got picture attached and cleaned up the HTML a bit. 
+</p>
