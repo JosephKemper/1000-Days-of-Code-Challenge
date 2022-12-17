@@ -142,3 +142,12 @@
 <p>
     Light coding day. Got picture attached and cleaned up the HTML a bit. 
 </p>
+<h1>
+    Day 112
+</h1>
+<h3>
+    Friday, 15 December, 2022
+</h3>
+<p>
+    Picked up my study of algorithms again, and discovered that at least part of that study will be carried out via pencil and paper, because it will help me to think efficiently. I also touched up my webpage a little, but most of my work today was reading. 
+</p>
