@@ -160,3 +160,9 @@
 <p>
     Today in my study of algorithms I learned about big O notation. Big O notation is a measure of the number of steps something will take to compute. For example O(n) means that if you have 10,000 items you are calculating, then it will take 10,000 steps to calculate. While O(n*n) means that if you have 10 items then it will take 100 steps to calculate. 
 </p>
+<h3>
+    Sunday, 17 December, 2022
+</h3>
+<p>
+    Scheduled day off of coding. 
+</p>
