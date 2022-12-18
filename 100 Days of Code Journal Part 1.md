@@ -151,3 +151,12 @@
 <p>
     Picked up my study of algorithms again, and discovered that at least part of that study will be carried out via pencil and paper, because it will help me to think efficiently. I also touched up my webpage a little, but most of my work today was reading. 
 </p>
+<h1>
+    Day 113
+</h1>
+<h3>
+    Saturday, 16 December, 2022
+</h3>
+<p>
+    Today in my study of algorithms I learned about big O notation. Big O notation is a measure of the number of steps something will take to compute. For example O(n) means that if you have 10,000 items you are calculating, then it will take 10,000 steps to calculate. While O(n*n) means that if you have 10 items then it will take 100 steps to calculate. 
+</p>
