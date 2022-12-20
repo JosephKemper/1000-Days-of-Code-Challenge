@@ -166,3 +166,15 @@
 <p>
     Scheduled day off of coding. 
 </p>
+<h1>
+    Day 114
+</h1>
+<h3>
+    Monday, 19 December, 2022
+</h3>
+<p>
+    I finally have a company selected that I want to work at! The first company on my list of companies that I want to work for is Salesforce. 
+</p>
+<p>
+    I just learned what the opposite of raising something to the power of another item is, it is a Logarithm. There are quite a few versions of logarithms that can all impact how we view the efficiency of algorithms. The most efficient algorithms have solid time, and take the same number of steps no matter how many items they are calculating. The next best is a logarithmic algorithm. 
+</p>
