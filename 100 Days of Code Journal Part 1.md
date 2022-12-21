@@ -166,3 +166,30 @@
 <p>
     Scheduled day off of coding. 
 </p>
+<h1>
+    Day 114
+</h1>
+<h3>
+    Monday, 19 December, 2022
+</h3>
+<p>
+    I finally have a company selected that I want to work at! The first company on my list of companies that I want to work for is Salesforce. 
+</p>
+<p>
+    I just learned what the opposite of raising something to the power of another item is, it is a Logarithm. There are quite a few versions of logarithms that can all impact how we view the efficiency of algorithms. The most efficient algorithms have solid time, and take the same number of steps no matter how many items they are calculating. The next best is a logarithmic algorithm. 
+</p>
+<h1>
+    Day 114
+</h1>
+<h3>
+    Tuesday, 20 December, 2022
+</h3>
+<p>
+    A Eulerian Circuit, or a path that goes through a series of nodes ending in the same place it started and only traveling each path once, is only possible if the sum of all the paths is an even number. 
+</p>
+<p>
+    A multi graph or directed graph is one that has arrows that direct the flow of traffic between one node and another. Hyperlinks between webpages are an example of a directed graph in the internet. 
+</p>
+<p>
+    An acyclic graph is a graph that does not have a cycle like an Eulerian Circuit. Directed Acyclic graphs are often called dags. 
+</p>
