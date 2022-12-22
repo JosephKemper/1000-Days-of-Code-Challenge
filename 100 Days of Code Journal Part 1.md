@@ -179,7 +179,7 @@
     I just learned what the opposite of raising something to the power of another item is, it is a Logarithm. There are quite a few versions of logarithms that can all impact how we view the efficiency of algorithms. The most efficient algorithms have solid time, and take the same number of steps no matter how many items they are calculating. The next best is a logarithmic algorithm. 
 </p>
 <h1>
-    Day 114
+    Day 115
 </h1>
 <h3>
     Tuesday, 20 December, 2022
@@ -194,7 +194,7 @@
     An acyclic graph is a graph that does not have a cycle like an Eulerian Circuit. Directed Acyclic graphs are often called dags. 
 </p>
 <h1>
-    Day 115
+    Day 116
 </h1>
 <h3>
     Wednesday, 21 December, 2022
