@@ -193,3 +193,12 @@
 <p>
     An acyclic graph is a graph that does not have a cycle like an Eulerian Circuit. Directed Acyclic graphs are often called dags. 
 </p>
+<h1>
+    Day 115
+</h1>
+<h3>
+    Wednesday, 21 December, 2022
+</h3>
+<p>
+    A greedy algorithm is one that tries to find the best solution at each stage. I also learned about finding the best path to different nodes. 
+</p>
