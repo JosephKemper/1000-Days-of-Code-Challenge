@@ -202,3 +202,18 @@
 <p>
     A greedy algorithm is one that tries to find the best solution at each stage. I also learned about finding the best path to different nodes. 
 </p>
+<h1>
+    Day 117
+</h1>
+<h3>
+    Thursday, 22 December, 2022
+</h3>
+<p>
+    Today, I started learning about search algorithms. Obviously ordered search is easier and more efficient that unordered search. The most basic search is compared to finding a needle in a haystack, you just go through the items one by one until you find what you are looking for. Regardless of the method you use for selecting items, (top down, bottom up, or randomly) the principle is the same. I also learned about the basic principles in searching unordered lists. The basic steps of linear or sequential search is that you start at the first item in your list, and move one by one through it until you get to the end.
+</p>
+<ol>
+    <li>Go to the head of the list.</li>
+    <li>If the item is the one we are looking for, report that it is found and stop.</li>
+    <li>Go to the next item on the list.</li>
+    <li>If we are at null, report that the search item was not found and stop. Otherwise, return to step 2.</li>
+</ol>
