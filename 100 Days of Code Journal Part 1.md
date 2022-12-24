@@ -217,3 +217,21 @@
     <li>Go to the next item on the list.</li>
     <li>If we are at null, report that the search item was not found and stop. Otherwise, return to step 2.</li>
 </ol>
+<h1>
+    Day 118
+</h1>
+<h3>
+    Friday, 23 December, 2022
+</h3>
+<p>
+    The big O notation for an unordered list is O(n), because in a worst case scenario the search will take a number of steps equal to the number of items we are searching within. 
+</p>
+<h1>
+    Day 119
+</h1>
+<h3>
+    Saturday, 24 December, 2022
+</h3>
+<p>
+    I started learning about the Matthew effect on search today, wherein the search algorithm moves items closer to the top after finding them. One of the first things that came to my mind for the advantage of the Matthew effect is the Pareto principle (or the 80/20). As I thought about the idea of reorganizing the items in the list, I quickly realized that the Pareto principle would eventually take effect and greatly speed up search results. 
+</p>
