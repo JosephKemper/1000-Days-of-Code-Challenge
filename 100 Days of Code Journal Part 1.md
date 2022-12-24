@@ -217,3 +217,12 @@
     <li>Go to the next item on the list.</li>
     <li>If we are at null, report that the search item was not found and stop. Otherwise, return to step 2.</li>
 </ol>
+<h1>
+    Day 118
+</h1>
+<h3>
+    Thursday, 22 December, 2022
+</h3>
+<p>
+    The big O notation for an unordered list is O(n), because in a worst case scenario the search will take a number of steps equal to the number of items we are searching within. 
+</p>
