@@ -235,3 +235,9 @@
 <p>
     I started learning about the Matthew effect on search today, wherein the search algorithm moves items closer to the top after finding them. One of the first things that came to my mind for the advantage of the Matthew effect is the Pareto principle (or the 80/20). As I thought about the idea of reorganizing the items in the list, I quickly realized that the Pareto principle would eventually take effect and greatly speed up search results. 
 </p>
+<h3>
+    Sunday, 25 December, 2022
+</h3>
+<p>
+    Scheduled day off of coding
+</p>
