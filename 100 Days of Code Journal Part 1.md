@@ -241,3 +241,12 @@
 <p>
     Scheduled day off of coding
 </p>
+<h1>
+    Day 120
+</h1>
+<h3>
+    Monday,26 December, 2022
+</h3>
+<p>
+    The move-to-front algorithm has you move each item to the front of the list after finding it. An alternative to the move-to-front algorithm is the transposition method, which just moves each item one place forward preventing the least frequently searched items from ever ending up at the front of the list. Together both of these are called self-organizing searches. 
+</p>
