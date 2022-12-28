@@ -245,8 +245,17 @@
     Day 120
 </h1>
 <h3>
-    Monday,26 December, 2022
+    Monday, 26 December, 2022
 </h3>
 <p>
     The move-to-front algorithm has you move each item to the front of the list after finding it. An alternative to the move-to-front algorithm is the transposition method, which just moves each item one place forward preventing the least frequently searched items from ever ending up at the front of the list. Together both of these are called self-organizing searches. 
+</p>
+<h1>
+    Day 121
+</h1>
+<h3>
+    Tuesday, 27 December, 2022
+</h3>
+<p>
+    Today I learned about the optimal stopping problem. The way to use the optimal stopping point algorithm is to go through the first 37% of candidates rejecting all of them. Note the best among that group and save it as your benchmark, and then continue with the rest of the candidates selecting the first candidate that is better than your benchmark. 
 </p>
