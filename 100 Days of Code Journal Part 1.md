@@ -259,3 +259,12 @@
 <p>
     Today I learned about the optimal stopping problem. The way to use the optimal stopping point algorithm is to go through the first 37% of candidates rejecting all of them. Note the best among that group and save it as your benchmark, and then continue with the rest of the candidates selecting the first candidate that is better than your benchmark. 
 </p>
+<h1>
+    Day 122
+</h1>
+<h3>
+    Wednesday, 27 December, 2022
+</h3>
+<p>
+    Today, I learned about binary search. It is a simple principle with powerful applications. Assuming the data is sorted, then you can divide the data in half and check to see which half the desired outcome would be in and instantly cut your search results would be in, and then repeat and from there find the data you are looking for with far less effort than you would otherwise. 
+</p>
