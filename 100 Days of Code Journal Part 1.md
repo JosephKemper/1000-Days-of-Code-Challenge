@@ -263,8 +263,17 @@
     Day 122
 </h1>
 <h3>
-    Wednesday, 27 December, 2022
+    Wednesday, 28 December, 2022
 </h3>
 <p>
     Today, I learned about binary search. It is a simple principle with powerful applications. Assuming the data is sorted, then you can divide the data in half and check to see which half the desired outcome would be in and instantly cut your search results would be in, and then repeat and from there find the data you are looking for with far less effort than you would otherwise. 
+</p>
+<h1>
+    Day 123
+</h1>
+<h3>
+    Thursday, 29 December, 2022
+</h3>
+<p>
+    Today, I started going through the book Problem Solving with Data Structures and Algorithms using Python. I have set a specific goal for this book, as I study it, I am going to carefully implement and test what I am learning, in addition to taking notes as I go. In this case, the book makes it wonderfully easy as it has a summary at the end, a list of key terms, discussion questions (which I plan to write in detail on), and programming exercises (which I plan to complete). And then between the work each chapter gives and the practice I will do as I go, I should get a nice grasp of actually using algorithms in programming. 
 </p>
