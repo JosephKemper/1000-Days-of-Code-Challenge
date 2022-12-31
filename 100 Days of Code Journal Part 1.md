@@ -277,3 +277,16 @@
 <p>
     Today, I started going through the book Problem Solving with Data Structures and Algorithms using Python. I have set a specific goal for this book, as I study it, I am going to carefully implement and test what I am learning, in addition to taking notes as I go. In this case, the book makes it wonderfully easy as it has a summary at the end, a list of key terms, discussion questions (which I plan to write in detail on), and programming exercises (which I plan to complete). And then between the work each chapter gives and the practice I will do as I go, I should get a nice grasp of actually using algorithms in programming. 
 </p>
+<h1>
+    Day 124
+</h1>
+<h3>
+    Friday, 30 December, 2022
+</h3>
+<p>
+    The goal of a computer scientist is to develop an algorithm that a computer can use to repeatedly solve a problem, in other words algorithms are the solutions a programmer is looking for. More fully, computer science is the study of both the solution to problems and the study of problems with no solutions. Or in other words computer science is the study of the existence and non-existence of algorithms. 
+</p>
+<dl>
+    <dt>Procedural Abstraction</dt>
+    <dd>The process of using a tool which you do not fully understand what happens behind the scenes. For example, with the sqrt function from the python math module, you may know how to use it, but lack the knowledge of what happens behind the scenes.</dd>
+</dl>
