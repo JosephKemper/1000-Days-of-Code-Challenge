@@ -290,3 +290,12 @@
     <dt>Procedural Abstraction</dt>
     <dd>The process of using a tool which you do not fully understand what happens behind the scenes. For example, with the sqrt function from the python math module, you may know how to use it, but lack the knowledge of what happens behind the scenes.</dd>
 </dl>
+<h1>
+    Day 125
+</h1>
+<h3>
+    Saturday, 31 December, 2022
+</h3>
+<p>
+    Today, I started my new class, and learned a bit about git and github. I also practiced with git command line interface and in the process, I learned why the command line is so popular among programmers. When everything else falls apart, you can always turn to the command line and figure out what is happening and maybe even fix it. And from there, I realized that with the command line being used to fix so many problems, the idea of using the command line would just become natural.
+</p>
