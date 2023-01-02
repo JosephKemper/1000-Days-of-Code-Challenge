@@ -305,3 +305,12 @@
 <p>
     Scheduled day off of coding.
 </p>
+<h1>
+    Day 126
+</h1>
+<h3>
+    Monday, 2 January, 2023
+</h3>
+<p>
+    For my study of algorithms, I learned that to truly excel at computer programming I need to learn to think in terms of creating steps to solve a problem and then translate that into a computer program. I did not have a lot of time today to study today, because of my classes starting and my new job, but I plan on continuing my study every day. And more importantly, I am looking for something I can do each day. And while my dedicated study of algorithms did not give me anything to do, when I study for my programming with classes class later on today, it will give me plenty to do and I plan on applying what I am learning in algorithms in the assignment that I am going to be doing tonight. 
+</p>
