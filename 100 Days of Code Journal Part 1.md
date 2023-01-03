@@ -317,3 +317,12 @@
 <p>
     Today, I wrote my first two programs in C#. The first simply got the first and last name from the user and then returned it via a format string with their last name first and then their first and last name. The second program, got a percentage (entered as a whole number without a percent symbol) from the user and then returned a grade on that score. 
 </p>
+<h1>
+    Day 127
+</h1>
+<h3>
+    Monday, 2 January, 2023
+</h3>
+<p>
+    Today, I learned that data structures and abstract data types are used to manage the complexity of the problem solving process. By abstracting the problem, we are able to remove some of the complexity behind the problem and better focus on the problem itself. It is a way to take the data that you would normally be part of the problem, put it behind a wall to get it out of sight and then focus solely on the problem itself. And while in classroom settings, this process might seem overly cumbersome, when you get to bigger problems that you might find in real life, it is a critical skill to have.
+</p>
