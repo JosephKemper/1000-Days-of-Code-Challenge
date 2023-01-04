@@ -321,11 +321,20 @@
     Day 127
 </h1>
 <h3>
-    Monday, 2 January, 2023
+    Tuesday, 3 January, 2023
 </h3>
 <p>
     Today, I learned that data structures and abstract data types are used to manage the complexity of the problem solving process. By abstracting the problem, we are able to remove some of the complexity behind the problem and better focus on the problem itself. It is a way to take the data that you would normally be part of the problem, put it behind a wall to get it out of sight and then focus solely on the problem itself. And while in classroom settings, this process might seem overly cumbersome, when you get to bigger problems that you might find in real life, it is a critical skill to have.
 </p>
 <p>
     Today, I completed the Learning Activity - C# Prep 3 assignment for my Programming with Classes class, where I wrote a program to generate a random number and have the user provide guesses until they guessed the number. After the user guessed the number, I added the functionality to let the user play again. I also added the functionality to track how many guesses it took the user to guess the number. 
+</p>
+<h1>
+    Day 128
+</h1>
+<h3>
+    Wednesday, 4 January, 2023
+</h3>
+<p>
+    The end goal of computer programming is to create a way for a computer to solve a problem that people have, and free up our personal resources to do things we enjoy more. However, not all problems are equal. Some problems simply do not have solutions that can be turned into a set of rational steps, and other problems are so complex that despite a proper solution existing, the resources required would be so intensive that to even try to design a computer program to solve them would be a waste of time. This is why the study of algorithms is important. An algorithm gives us a way, independent of a computer (which will have varying amount of resources) to evaluate a problem. 
 </p>
