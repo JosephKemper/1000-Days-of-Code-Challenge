@@ -338,3 +338,6 @@
 <p>
     The end goal of computer programming is to create a way for a computer to solve a problem that people have, and free up our personal resources to do things we enjoy more. However, not all problems are equal. Some problems simply do not have solutions that can be turned into a set of rational steps, and other problems are so complex that despite a proper solution existing, the resources required would be so intensive that to even try to design a computer program to solve them would be a waste of time. This is why the study of algorithms is important. An algorithm gives us a way, independent of a computer (which will have varying amount of resources) to evaluate a problem. 
 </p>
+<p>
+    Today, I finished my C# Prep 4 Overview assignment and its two stretch goals. For this assignment, I wrote a program that let the user continuously enter in numbers that get added to a list, until they enter the number 0. The program will then sum all of the numbers, average them out, find the largest number, the smallest positive number, sort the list, and finally display all of that to the user. 
+</p>
