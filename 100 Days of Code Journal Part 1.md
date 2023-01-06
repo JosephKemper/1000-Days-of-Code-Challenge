@@ -341,3 +341,12 @@
 <p>
     Today, I finished my C# Prep 4 Overview assignment and its two stretch goals. For this assignment, I wrote a program that let the user continuously enter in numbers that get added to a list, until they enter the number 0. The program will then sum all of the numbers, average them out, find the largest number, the smallest positive number, sort the list, and finally display all of that to the user. 
 </p>
+<h1>
+    Day 129
+</h1>
+<h3>
+    Thursday, 5 January, 2023
+</h3>
+<p>
+    Today, I finished the last of my week 2 prove assignment. The code I wrote today, used functions to collect two different types of data from the user, pass that data to another function, and use it in various ways. Tomorrow, I start my first formal lesson on classes. I am looking forward to it.
+</p>
