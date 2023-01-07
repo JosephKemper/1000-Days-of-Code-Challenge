@@ -359,3 +359,12 @@
 <p>
     Today was a light day of coding. I got sick today, and had to take it easy. I reviewed some of the basics of Python and learned about building classes in C#. 
 </p>
+<h1>
+    Day 131
+</h1>
+<h3>
+    Saturday, 7 January, 2023
+</h3>
+<p>
+    Today, was another light day of coding. I technically put in about 2 hours of work but barely got anything done because my head is foggy from whatever illness I am fighting off. 
+</p>
