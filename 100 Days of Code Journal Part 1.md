@@ -350,3 +350,12 @@
 <p>
     Today, I finished the last of my week 2 prove assignment. The code I wrote today, used functions to collect two different types of data from the user, pass that data to another function, and use it in various ways. Tomorrow, I start my first formal lesson on classes. I am looking forward to it.
 </p>
+<h1>
+    Day 130
+</h1>
+<h3>
+    Friday, 6 January, 2023
+</h3>
+<p>
+    Today was a light day of coding. I got sick today, and had to take it easy. I reviewed some of the basics of Python and learned about building classes in C#. 
+</p>
