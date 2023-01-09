@@ -368,3 +368,9 @@
 <p>
     Today, was another light day of coding. I technically put in about 2 hours of work but barely got anything done because my head is foggy from whatever illness I am fighting off. 
 </p>
+<h3>
+    Sunday, 8 January, 2023
+</h3>
+<p>
+    Scheduled day off of coding.
+</p>
