@@ -374,3 +374,12 @@
 <p>
     Scheduled day off of coding.
 </p>
+<h1>
+    Day 132
+</h1>
+<h3>
+    Monday, 9 January, 2023
+</h3>
+<p>
+    Today, was another light day of coding. Tomorrow will also be another light day. I am almost better. Today, most of my time off work was spent at a viewing for my wife's aunt. Tomorrow, will either be spent making up for time spent at her funeral, or will be spent coding properly. I will find that out tomorrow. Today, I reviewed a bit of Python and wrote a bit more code on my first class.
+</p>
