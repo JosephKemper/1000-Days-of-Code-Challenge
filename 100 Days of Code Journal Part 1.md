@@ -392,3 +392,12 @@
 <p>
     Today, I was able to finish my first class. I need to write one more before I will be able to test it, but I have confidence in what I wrote and either way, tomorrow, I will know for sure. 
 </p>
+<h1>
+    Day 134
+</h1>
+<h3>
+    Wednesday, 11 January, 2023
+</h3>
+<p>
+    Today, I finished building and testing my first program using classes. To write the program that acts as a digital resume. One class stores your individual jobs, with member variables that individually store, the company name, job title, start year, and end year. Then a method that is used to display the job to the console. The other class collects each job into a list, stores the person's name, and then uses both its own display methods and the display methods from the other class to display the whole resume to the console. 
+</p>
