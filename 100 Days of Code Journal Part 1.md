@@ -401,3 +401,12 @@
 <p>
     Today, I finished building and testing my first program using classes. To write the program that acts as a digital resume. One class stores your individual jobs, with member variables that individually store, the company name, job title, start year, and end year. Then a method that is used to display the job to the console. The other class collects each job into a list, stores the person's name, and then uses both its own display methods and the display methods from the other class to display the whole resume to the console. 
 </p>
+<h1>
+    Day 135
+</h1>
+<h3>
+    Thursday, 12 January, 2023
+</h3>
+<p>
+    Today, I started work on my first group project of the semester. The project is a lesson on abstraction. We are first going to map out the requirements of the program, and then create an outline of everything we are going to put into the program. From there, after we have completed that, we will then work individually on writing the program. Right now, I have finished about half of the prep work that is required for the group project. 
+</p>
