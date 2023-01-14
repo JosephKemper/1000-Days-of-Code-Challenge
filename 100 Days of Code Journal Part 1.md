@@ -419,3 +419,12 @@
 <p>
     Today, I got a little farther on my outline of my next program. I plan to get the whole program outlined to as fine of detail as I can, before actually starting to write it. I have my first class outlined. As currently planned, I will have my program broken up into 6 separate classes. 
 </p>
+<h1>
+    Day 137
+</h1>
+<h3>
+    Saturday, 14 January, 2023
+</h3>
+<p>
+    Today, I expanded out the number of classes I will be writing and filled in the details for how (at least in part) 5 of those classes will work. I still need to outline the details to at least three more classes, and then (unless I add more classes later) I should be ready to start coding. As I have been taking the time to map out what I am going to be writing, I have found that I have been solving some of the problems I know I would have ran into during the actual coding process. I think I like taking the time to outline a program before writing it. 
+</p>
