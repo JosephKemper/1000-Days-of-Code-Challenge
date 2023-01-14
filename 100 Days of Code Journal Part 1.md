@@ -410,3 +410,12 @@
 <p>
     Today, I started work on my first group project of the semester. The project is a lesson on abstraction. We are first going to map out the requirements of the program, and then create an outline of everything we are going to put into the program. From there, after we have completed that, we will then work individually on writing the program. Right now, I have finished about half of the prep work that is required for the group project. 
 </p>
+<h1>
+    Day 136
+</h1>
+<h3>
+    Friday, 13 January, 2023
+</h3>
+<p>
+    Today, I got a little farther on my outline of my next program. I plan to get the whole program outlined to as fine of detail as I can, before actually starting to write it. I have my first class outlined. As currently planned, I will have my program broken up into 6 separate classes. 
+</p>
