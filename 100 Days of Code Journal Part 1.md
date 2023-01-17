@@ -428,3 +428,12 @@
 <p>
     Today, I expanded out the number of classes I will be writing and filled in the details for how (at least in part) 5 of those classes will work. I still need to outline the details to at least three more classes, and then (unless I add more classes later) I should be ready to start coding. As I have been taking the time to map out what I am going to be writing, I have found that I have been solving some of the problems I know I would have ran into during the actual coding process. I think I like taking the time to outline a program before writing it. 
 </p>
+<h1>
+    Day 137
+</h1>
+<h3>
+    Saturday, 14 January, 2023
+</h3>
+<p>
+    Today, I started learning how write classes in Python, and about version control in GitHub. I also started trying to figure out how to dynamically create names for instances of classes. Right now, I have just figured out how to convert the date into a text based format that fits my needs. 
+</p>
