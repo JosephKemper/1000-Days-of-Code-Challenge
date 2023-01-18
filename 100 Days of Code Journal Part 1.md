@@ -438,7 +438,7 @@
     Today, I started learning how write classes in Python, and about version control in GitHub. I also started trying to figure out how to dynamically create names for instances of classes. Right now, I have just figured out how to convert the date into a text based format that fits my needs. 
 </p>
 <h1>
-    Day 138
+    Day 139
 </h1>
 <h3>
     Saturday, 14 January, 2023
