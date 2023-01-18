@@ -437,3 +437,12 @@
 <p>
     Today, I started learning how write classes in Python, and about version control in GitHub. I also started trying to figure out how to dynamically create names for instances of classes. Right now, I have just figured out how to convert the date into a text based format that fits my needs. 
 </p>
+<h1>
+    Day 138
+</h1>
+<h3>
+    Saturday, 14 January, 2023
+</h3>
+<p>
+    Wow! Today was a really productive day! I wrote my fist code deliberately using an algorithm. In the process I was left wishing I had known about algorithms in high school. It would have made a lot of overly complex math a lot simpler. I also got my prep work completed for my next C3 program. I really learned to love the idea of writing psudo code and figuring out what will go into each step of the program before actually writing it. I found a lot of solutions to problems that I would have otherwise gotten stuck on if I just started coding. I guess it makes sense because if I were to try to build a house without a blueprint, it would likely turn out as a mess. 
+</p>
