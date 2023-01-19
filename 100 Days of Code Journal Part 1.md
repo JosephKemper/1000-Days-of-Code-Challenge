@@ -446,3 +446,12 @@
 <p>
     Wow! Today was a really productive day! I wrote my fist code deliberately using an algorithm. In the process I was left wishing I had known about algorithms in high school. It would have made a lot of overly complex math a lot simpler. I also got my prep work completed for my next C3 program. I really learned to love the idea of writing psudo code and figuring out what will go into each step of the program before actually writing it. I found a lot of solutions to problems that I would have otherwise gotten stuck on if I just started coding. I guess it makes sense because if I were to try to build a house without a blueprint, it would likely turn out as a mess. 
 </p>
+<h1>
+    Day 140
+</h1>
+<h3>
+    Saturday, 14 January, 2023
+</h3>
+<p>
+    Today, I realized that to build a reasonably sized program is going to be a hundred times more complex than building a home. Before we build a home, we make a highly detailed plan (called a blueprint) detailing every step required. Why would we do less for a more complex operation like writing a program?
+</p>
