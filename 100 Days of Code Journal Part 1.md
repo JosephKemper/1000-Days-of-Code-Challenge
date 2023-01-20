@@ -456,7 +456,7 @@
     Today, I realized that to build a reasonably sized program is going to be a hundred times more complex than building a home. Before we build a home, we make a highly detailed plan (called a blueprint) detailing every step required. Why would we do less for a more complex operation like writing a program?
 </p>
 <h1>
-    Day 140
+    Day 141
 </h1>
 <h3>
     Saturday, 14 January, 2023
