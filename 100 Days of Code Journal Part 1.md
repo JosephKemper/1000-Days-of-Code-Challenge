@@ -465,7 +465,7 @@
     Today, I built three classes to mimic And, Or, and Not logic gates and ran a meeting with my team to plan code for a journal app. 
 </p>
 <h1>
-    Day 141
+    Day 142
 </h1>
 <h3>
     Saturday, 14 January, 2023
