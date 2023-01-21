@@ -464,3 +464,12 @@
 <p>
     Today, I built three classes to mimic And, Or, and Not logic gates and ran a meeting with my team to plan code for a journal app. 
 </p>
+<h1>
+    Day 141
+</h1>
+<h3>
+    Saturday, 14 January, 2023
+</h3>
+<p>
+    Today, I wrote two methods for my Menu Class, one displays the menu, and the other gets the user choice and returns it. As, all we are doing with the user choice is to use it to pull up the appropriate code, I thought I would save an extra line of code and just leave it as a string, even though the user will be entering a number. Additionally, I thought that by leaving it as a string, I can put in a bit of simple error checking by making sure the user only enters one of the appropriate numbers. 
+</p>
