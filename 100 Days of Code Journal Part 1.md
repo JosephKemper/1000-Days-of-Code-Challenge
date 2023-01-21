@@ -432,7 +432,7 @@
     Day 138
 </h1>
 <h3>
-    Saturday, 14 January, 2023
+    Monday, 16 January, 2023
 </h3>
 <p>
     Today, I started learning how write classes in Python, and about version control in GitHub. I also started trying to figure out how to dynamically create names for instances of classes. Right now, I have just figured out how to convert the date into a text based format that fits my needs. 
@@ -441,7 +441,7 @@
     Day 139
 </h1>
 <h3>
-    Saturday, 14 January, 2023
+    Tuesday, 17 January, 2023
 </h3>
 <p>
     Wow! Today was a really productive day! I wrote my fist code deliberately using an algorithm. In the process I was left wishing I had known about algorithms in high school. It would have made a lot of overly complex math a lot simpler. I also got my prep work completed for my next C3 program. I really learned to love the idea of writing psudo code and figuring out what will go into each step of the program before actually writing it. I found a lot of solutions to problems that I would have otherwise gotten stuck on if I just started coding. I guess it makes sense because if I were to try to build a house without a blueprint, it would likely turn out as a mess. 
@@ -450,7 +450,7 @@
     Day 140
 </h1>
 <h3>
-    Saturday, 14 January, 2023
+    Wednesday, 18 January, 2023
 </h3>
 <p>
     Today, I realized that to build a reasonably sized program is going to be a hundred times more complex than building a home. Before we build a home, we make a highly detailed plan (called a blueprint) detailing every step required. Why would we do less for a more complex operation like writing a program?
@@ -459,7 +459,7 @@
     Day 141
 </h1>
 <h3>
-    Saturday, 14 January, 2023
+    Thursday, 19 January, 2023
 </h3>
 <p>
     Today, I built three classes to mimic And, Or, and Not logic gates and ran a meeting with my team to plan code for a journal app. 
@@ -468,8 +468,17 @@
     Day 142
 </h1>
 <h3>
-    Saturday, 14 January, 2023
+    Friday, 20 January, 2023
 </h3>
 <p>
     Today, I wrote two methods for my Menu Class, one displays the menu, and the other gets the user choice and returns it. As, all we are doing with the user choice is to use it to pull up the appropriate code, I thought I would save an extra line of code and just leave it as a string, even though the user will be entering a number. Additionally, I thought that by leaving it as a string, I can put in a bit of simple error checking by making sure the user only enters one of the appropriate numbers. 
+</p>
+<h1>
+    Day 143
+</h1>
+<h3>
+    Saturday, 21 January, 2023
+</h3>
+<p>
+    Today, I wrote a JournalPrompt class, that is responsible for selecting the journal prompt for the journal entry. It will pull a random prompt from a list of journal prompts and return the prompt for use. I also wrote code to get the current date and store it for later use in the journal entry. 
 </p>
