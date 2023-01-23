@@ -482,3 +482,9 @@
 <p>
     Today, I wrote a JournalPrompt class, that is responsible for selecting the journal prompt for the journal entry. It will pull a random prompt from a list of journal prompts and return the prompt for use. I also wrote code to get the current date and store it for later use in the journal entry. 
 </p>
+<h3>
+    Sunday, 22 January, 2023
+</h3>
+<p>
+    Scheduled day off. 
+</p>
