@@ -488,3 +488,12 @@
 <p>
     Scheduled day off. 
 </p>
+<h1>
+    Day 144
+</h1>
+<h3>
+    Monday, 23 January, 2023
+</h3>
+<p>
+    Wrote code to enable prompt to be generated and displayed to user, and then allow the user to write a journal entry.
+</p>
