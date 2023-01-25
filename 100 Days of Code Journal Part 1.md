@@ -497,3 +497,12 @@
 <p>
     Wrote code to enable prompt to be generated and displayed to user, and then allow the user to write a journal entry.
 </p>
+<h1>
+    Day 145
+</h1>
+<h3>
+    Tuesday, 24 January, 2023
+</h3>
+<p>
+    Refactored a bit of code today, to consolidate the program after learning a bit more about classes. 
+</p>
