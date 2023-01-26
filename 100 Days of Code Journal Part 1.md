@@ -506,3 +506,12 @@
 <p>
     Refactored a bit of code today, to consolidate the program after learning a bit more about classes. 
 </p>
+<h1>
+    Day 146
+</h1>
+<h3>
+    Wednesday, 25 January, 2023
+</h3>
+<p>
+    Today, I participated in a group meeting where we reviewed code written so far, and helped each other get ready to finish the program. I got some powerful insights from coordinating with my group and should have some nice progress tomorrow. 
+</p>
