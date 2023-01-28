@@ -524,3 +524,12 @@
 <p>
     Today was a bit of a hectic day. I spent some time reviewing code and planning my next steps. 
 </p>
+<h1>
+    Day 148
+</h1>
+<h3>
+    Friday, 27 January, 2023
+</h3>
+<p>
+    Finished the main menu loop, and refactored some code to make things work better on my journal app using C# code and classes.
+</p>
