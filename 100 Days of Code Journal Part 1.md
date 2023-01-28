@@ -531,5 +531,14 @@
     Friday, 27 January, 2023
 </h3>
 <p>
-    Finished the main menu loop, and refactored some code to make things work better on my journal app using C# code and classes.
+    Finished the main menu loop, and refactored some code to make things work better on my journal app using C# language and classes.
+</p>
+<h1>
+    Day 149
+</h1>
+<h3>
+    Saturday, 28 January, 2023
+</h3>
+<p>
+    I finally finished the Journal activity and learned a lot about abstraction in the process. In many ways, I learned about abstraction from figuring out what I should not do. When I started on this project 2 weeks ago, I really had no clue about what abstraction was. The assignment we were given to basically plan out our journal program, helped a lot, but I failed to grasp the basics of abstraction through that assignment. Part of the way it helped was that by completing the parts I did, it helped me simplify complex ideas in my mind. For example, initially, I was trying to figure out how to combine different kinds of data types into one list, and then I realized, through the abstraction process, that I did not need to use different data types, I just needed to convert the date to text and then I could just create a text list, with the different parts in it. Looking back, what I wish I would have done, is to start with the rubric created a basic map of what needed to happen, then flesh that out using the video they provided of what the program needed to look like, and then from there, I could have actually created a proper blueprint for my program and actually practiced abstraction on a conscious basis. 
 </p>
