@@ -548,3 +548,12 @@
 <p>
     Scheduled day off of Coding. 
 </p>
+<h1>
+    Day 150
+</h1>
+<h3>
+    Sunday, 30 January, 2023
+</h3>
+<p>
+    Today, I started learning about encapsulation and practiced more with abstraction and planning out my code. I have a plan created for the next assignment I am going to be writing, and will get that written tomorrow. 
+</p>
