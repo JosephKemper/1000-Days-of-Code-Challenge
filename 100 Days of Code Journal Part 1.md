@@ -552,8 +552,17 @@
     Day 150
 </h1>
 <h3>
-    Sunday, 30 January, 2023
+    Monday, 30 January, 2023
 </h3>
 <p>
     Today, I started learning about encapsulation and practiced more with abstraction and planning out my code. I have a plan created for the next assignment I am going to be writing, and will get that written tomorrow. 
+</p>
+<h1>
+    Day 151
+</h1>
+<h3>
+    Tuesday, 31 January, 2023
+</h3>
+<p>
+    Today, I got my fractions program built and started planning my next project which will be an app that will help you memorize scripture references. 
 </p>
