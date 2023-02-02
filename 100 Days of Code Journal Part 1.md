@@ -566,3 +566,12 @@
 <p>
     Today, I got my fractions program built and started planning my next project which will be an app that will help you memorize scripture references. 
 </p>
+<h1>
+    Day 152
+</h1>
+<h3>
+    Wednesday, 1 February, 2023
+</h3>
+<p>
+    Today, I started working on my plan for a scripture memorization app. I have a bit more to go on my plan, but I am happy with how this plan is going. 
+</p>
