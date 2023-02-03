@@ -575,3 +575,12 @@
 <p>
     Today, I started working on my plan for a scripture memorization app. I have a bit more to go on my plan, but I am happy with how this plan is going. 
 </p>
+<h1>
+    Day 153
+</h1>
+<h3>
+    Thursday, 2 February, 2023
+</h3>
+<p>
+    Started defining the methods and attributes for each of my three classes. I still have more work to complete on almost all steps, but I am hoping to start coding by Saturday.
+</p>
