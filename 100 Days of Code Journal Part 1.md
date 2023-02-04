@@ -584,3 +584,12 @@
 <p>
     Started defining the methods and attributes for each of my three classes. I still have more work to complete on almost all steps, but I am hoping to start coding by Saturday.
 </p>
+<h1>
+    Day 154
+</h1>
+<h3>
+    Friday, 3 February, 2023
+</h3>
+<p>
+    Today, I finished getting the scripture memorization program designed. Tomorrow, I will start to write the code. 
+</p>
