@@ -1,0 +1,20 @@
+  
+{
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Probability Example",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/bin/Debug/net7.0/Probability.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
+    ]
+} 
