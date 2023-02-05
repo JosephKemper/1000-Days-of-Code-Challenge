@@ -602,3 +602,9 @@
 <p>
     Today, I got the core program written and several variables to store the parts of what will be displayed to the user written. I also got part of the main loop written.
 </p>
+<h3>
+    Sunday, 5 February, 2023
+</h3>
+<p>
+    Scheduled day off of coding.
+</p>
