@@ -600,5 +600,5 @@
     Saturday, 4 February, 2023
 </h3>
 <p>
-    
+    Today, I got the core program written and several variables to store the parts of what will be displayed to the user written. I also got part of the main loop written.
 </p>
