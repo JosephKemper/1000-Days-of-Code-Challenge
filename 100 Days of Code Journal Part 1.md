@@ -608,3 +608,12 @@
 <p>
     Scheduled day off of coding.
 </p>
+<h1>
+    Day 156
+</h1>
+<h3>
+    Monday, 6 February, 2023
+</h3>
+<p>
+    Today, I wrote code to split a string into multiple parts, that can then be individually replaced with underscores and reassembled.
+</p>
