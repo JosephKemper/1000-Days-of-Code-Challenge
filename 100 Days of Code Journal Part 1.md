@@ -617,3 +617,12 @@
 <p>
     Today, I wrote code to split a string into multiple parts, that can then be individually replaced with underscores and reassembled.
 </p>
+<h1>
+    Day 157
+</h1>
+<h3>
+    Tuesday, 7 February, 2023
+</h3>
+<p>
+    After running into more than a few problems with building my program, I decided that putting in some time studying C# would be worthwhile.
+</p>
