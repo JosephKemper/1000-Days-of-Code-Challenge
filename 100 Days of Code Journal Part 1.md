@@ -626,3 +626,12 @@
 <p>
     After running into more than a few problems with building my program, I decided that putting in some time studying C# would be worthwhile.
 </p>
+<h1>
+    Day 158
+</h1>
+<h3>
+    Wednesday, 8 February, 2023
+</h3>
+<p>
+    I finally figured out how to get a string split into individual words and stored in a list in C#. I just had to stop in an array first. 
+</p>
