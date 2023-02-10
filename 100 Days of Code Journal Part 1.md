@@ -635,3 +635,12 @@
 <p>
     I finally figured out how to get a string split into individual words and stored in a list in C#. I just had to stop in an array first. 
 </p>
+<h1>
+    Day 159
+</h1>
+<h3>
+    Thursday, 9 February, 2023
+</h3>
+<p>
+    Today, I cleaned up my code a little bit and met with my group to discuss how our code is progressing, give feedback and help each other out with our projects.
+</p>
