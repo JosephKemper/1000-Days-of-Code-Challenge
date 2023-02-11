@@ -644,3 +644,12 @@
 <p>
     Today, I cleaned up my code a little bit and met with my group to discuss how our code is progressing, give feedback and help each other out with our projects.
 </p>
+<h1>
+    Day 160
+</h1>
+<h3>
+    Friday, 10 February, 2023
+</h3>
+<p>
+    Today, was mostly a day of study, trying to get more familiar with the usage of classes in C#.
+</p>
