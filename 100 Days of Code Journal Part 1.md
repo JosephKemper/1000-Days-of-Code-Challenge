@@ -662,3 +662,9 @@
 <p>
     I learned a powerful lesson today about coding. Build a minimum viable product first, and then expound out from there.
 </p>
+<h3>
+    Sunday, 12 February, 2023
+</h3>
+<p>
+    Scheduled day off of Coding.
+</p>
