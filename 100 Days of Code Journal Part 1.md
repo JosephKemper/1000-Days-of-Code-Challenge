@@ -653,3 +653,12 @@
 <p>
     Today, was mostly a day of study, trying to get more familiar with the usage of classes in C#.
 </p>
+<h1>
+    Day 161
+</h1>
+<h3>
+    Saturday, 11 February, 2023
+</h3>
+<p>
+    I learned a powerful lesson today about coding. Build a minimum viable product first, and then expound out from there.
+</p>
