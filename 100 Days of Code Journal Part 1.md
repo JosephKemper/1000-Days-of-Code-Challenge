@@ -668,3 +668,12 @@
 <p>
     Scheduled day off of Coding.
 </p>
+<h1>
+    Day 162
+</h1>
+<h3>
+    Monday, 13 February, 2023
+</h3>
+<p>
+    Today, I wrote my first program using inheritance. I can very much see both the advantages and reasons for caution in using inheritance. 
+</p>
