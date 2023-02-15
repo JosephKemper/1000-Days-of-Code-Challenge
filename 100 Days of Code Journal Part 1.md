@@ -677,3 +677,12 @@
 <p>
     Today, I wrote my first program using inheritance. I can very much see both the advantages and reasons for caution in using inheritance. 
 </p>
+<h1>
+    Day 163
+</h1>
+<h3>
+    Tuesday, 14 February, 2023
+</h3>
+<p>
+    Today, I started to plan out my next program. I still have a way to go before I finish my plan, but I am a lot more confident about my planning.
+</p>
