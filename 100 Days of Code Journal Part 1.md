@@ -686,3 +686,12 @@
 <p>
     Today, I started to plan out my next program. I still have a way to go before I finish my plan, but I am a lot more confident about my planning.
 </p>
+<h1>
+    Day 164
+</h1>
+<h3>
+    Wednesday, 15 February, 2023
+</h3>
+<p>
+    Today, for my mindfulness program I got the main class planned out and part of the core activity class planned out.
+</p>
