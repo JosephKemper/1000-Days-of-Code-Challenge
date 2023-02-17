@@ -695,3 +695,12 @@
 <p>
     Today, for my mindfulness program I got the main class planned out and part of the core activity class planned out.
 </p>
+<h1>
+    Day 165
+</h1>
+<h3>
+    Thursday, 16 February, 2023
+</h3>
+<p>
+    Today, I continued to work more on my plan for my program and met with my group to discuss our efforts. I introduced them to draw.io for making better UML designs.
+</p>
