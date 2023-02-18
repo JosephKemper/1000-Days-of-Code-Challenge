@@ -704,3 +704,12 @@
 <p>
     Today, I continued to work more on my plan for my program and met with my group to discuss our efforts. I introduced them to draw.io for making better UML designs.
 </p>
+<h1>
+    Day 166
+</h1>
+<h3>
+    Friday, 17 February, 2023
+</h3>
+<p>
+    I'm tired. But I still worked on the plan for my code. I didn't get as far as I was hoping, but I still made progress, so I am happy. I guess, I have a good reason to be tired, so I am fine with that. 
+</p>
