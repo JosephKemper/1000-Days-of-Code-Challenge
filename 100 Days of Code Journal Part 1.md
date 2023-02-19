@@ -713,3 +713,12 @@
 <p>
     I'm tired. But I still worked on the plan for my code. I didn't get as far as I was hoping, but I still made progress, so I am happy. I guess, I have a good reason to be tired, so I am fine with that. 
 </p>
+<h1>
+    Day 167
+</h1>
+<h3>
+    Saturday, 18 February, 2023
+</h3>
+<p>
+    I think I have finally grasped the idea of planning (or designing) code. I know I still have a long way to go, but I have the basic concepts down, or at least the parts that was really throwing me for loops. So, I'm happy.
+</p>
