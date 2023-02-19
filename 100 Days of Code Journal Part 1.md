@@ -722,3 +722,9 @@
 <p>
     I think I have finally grasped the idea of planning (or designing) code. I know I still have a long way to go, but I have the basic concepts down, or at least the parts that was really throwing me for loops. So, I'm happy.
 </p>
+<h3>
+    Sunday, 19 February, 2023
+</h3>
+<p>
+    Scheduled day off of coding.
+</p>
