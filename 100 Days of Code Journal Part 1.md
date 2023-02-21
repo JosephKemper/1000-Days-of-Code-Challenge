@@ -728,3 +728,12 @@
 <p>
     Scheduled day off of coding.
 </p>
+<h1>
+    Day 168
+</h1>
+<h3>
+    Monday, 20 February, 2023
+</h3>
+<p>
+    Today, was primarily a day of study. Tomorrow, will be a lot of coding. 
+</p>
