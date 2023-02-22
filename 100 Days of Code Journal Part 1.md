@@ -737,3 +737,12 @@
 <p>
     Today, was primarily a day of study. Tomorrow, will be a lot of coding. 
 </p>
+<h1>
+    Day 169
+</h1>
+<h3>
+    Tuesday, 21 February, 2023
+</h3>
+<p>
+    On Saturday, I had finally managed to grasp the basics of code design, or as I like to call it, planning my code, and now today, I felt like a rock star with how much I was able to get done.
+</p>
