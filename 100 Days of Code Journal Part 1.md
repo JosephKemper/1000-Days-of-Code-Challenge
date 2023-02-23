@@ -746,3 +746,12 @@
 <p>
     On Saturday, I had finally managed to grasp the basics of code design, or as I like to call it, planning my code, and now today, I felt like a rock star with how much I was able to get done.
 </p>
+<h1>
+    Day 170
+</h1>
+<h3>
+    Wednesday, 22 February, 2023
+</h3>
+<p>
+    Today, was largely another day of study, but I did get the code written to pause the output for a set amount of time, while displaying an animated spinner. 
+</p>
