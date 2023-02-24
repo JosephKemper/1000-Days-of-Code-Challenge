@@ -755,3 +755,12 @@
 <p>
     Today, was largely another day of study, but I did get the code written to pause the output for a set amount of time, while displaying an animated spinner. 
 </p>
+<h1>
+    Day 171
+</h1>
+<h3>
+    Thursday, 23 February, 2023
+</h3>
+<p>
+    Today, I saw even more of the benefit of taking time to properly plan my code. Even though I have gotten to places where I had not planned my code, the work I put into planning my program, is still helping me a lot.
+</p>
