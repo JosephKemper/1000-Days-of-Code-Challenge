@@ -764,3 +764,12 @@
 <p>
     Today, I saw even more of the benefit of taking time to properly plan my code. Even though I have gotten to places where I had not planned my code, the work I put into planning my program, is still helping me a lot.
 </p>
+<h1>
+    Day 172
+</h1>
+<h3>
+    Friday, 24 February, 2023
+</h3>
+<p>
+    Today, I got most of the code written for the first activity in my mindfulness app and found a bug in the process, that I will track down first thing tomorrow. 
+</p>
