@@ -1,0 +1,34 @@
+For file reading/storing:
+-One line with name and score. Something to seperate the two that won't be in a name. | or : or , 
+-Need to avoid having multiple scores for the same person. Read in and rewrite the whole file each time?
+-ReadAllLines returns an array. Arrays can't delete or add information. Could convert to a List,
+but this has more overhead. Simply replace old scores? 
+
+Coin:
+-Only two side, so can use a bool
+-Random number to "flip" the coin
+
+Die:
+-More flexible is you can set the number of sides.
+-For this application, it is easier to keep as an integer die.
+-Random number to "roll" the die
+
+Deck and Card:
+-Cards only knows own suit and value. Values have to be strings because of A,J,Q,K 
+-Deck knows how to compare two cards, because comparision only makes sense within the 
+context of the entire deck. Use the order in the SUIT_ARRAY and VALUE_ARRAY to do the comparisons
+-Static SUIT_ARRAY and VALUE_ARRAY because each it is the same for all instances of Deck and doesn't change.
+-Keeping track of discard means no cards get "lost"
+-Probability is different when drawing with replacment vs not, so different methods
+-Because of above, diffferent shuffles for shuffling the whole deck, vs just the unused portion
+-Python has a shuffle method, but C# does not. Look for one.
+-Is a List the best storage method? Stack perhaps? Need to be able to pull off Cards and get their value.
+
+For all items, have a Display method that returns a pretty formatted string so can go to screen or file.
+
+
+For GameRunner:
+-A seperate class for the games. Seperate from the Main because each game could be run seperately from
+the simulator. Better encapulation.
+-Variables for the point each game awards. Allows easy changes.
+-Would like to use bool for user guess, but only T/F. Two games requrie <, > or =. Make an enum?
