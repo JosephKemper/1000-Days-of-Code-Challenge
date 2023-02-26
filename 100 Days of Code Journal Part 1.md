@@ -773,3 +773,12 @@
 <p>
     Today, I got most of the code written for the first activity in my mindfulness app and found a bug in the process, that I will track down first thing tomorrow. 
 </p>
+<h1>
+    Day 173
+</h1>
+<h3>
+    Saturday, 25 February, 2023
+</h3>
+<p>
+    I finished my Mindfulness program, which will run the user through 3 different mindfulness activities. This program was an exercise in the principle of Inheritance. To achieve this, I wrote one parent class, which held about 160 lines of code, and three sub classes that each held between 50 to 70 lines of code. Had I not used the principle of Inheritance to write my code, it would have been exponentially larger and far less maintainable.
+</p>
