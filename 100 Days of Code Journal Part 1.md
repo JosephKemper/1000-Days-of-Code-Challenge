@@ -782,3 +782,9 @@
 <p>
     I finished my Mindfulness program, which will run the user through 3 different mindfulness activities. This program was an exercise in the principle of Inheritance. To achieve this, I wrote one parent class, which held about 160 lines of code, and three sub classes that each held between 50 to 70 lines of code. Had I not used the principle of Inheritance to write my code, it would have been exponentially larger and far less maintainable.
 </p>
+<h3>
+    Saturday, 25 February, 2023
+</h3>
+<p>
+    Scheduled day off of coding.
+</p>
