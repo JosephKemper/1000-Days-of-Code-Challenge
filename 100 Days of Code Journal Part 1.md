@@ -788,3 +788,12 @@
 <p>
     Scheduled day off of coding.
 </p>
+<h1>
+    Day 174
+</h1>
+<h3>
+    Monday, 27 February, 2023
+</h3>
+<p>
+    Today, I practiced writing my first code using the principle of Polymorphism. I wrote a simple program that would calculate the area of different shapes. To accomplish, this, I first wrote a parent class, that would take in the name and color of the shape, and then wrote an abstract method to calculate the area of the shape. Inside each child class, I wrote a constructor using the base function, that allowed it to use the attributes of the constructor for the parent class and then get all the various member variables assigned properly. And lastly, I wrote an override method that allowed the child class to have its own method for calculating its area. 
+</p>
