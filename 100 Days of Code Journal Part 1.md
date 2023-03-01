@@ -797,3 +797,21 @@
 <p>
     Today, I practiced writing my first code using the principle of Polymorphism. I wrote a simple program that would calculate the area of different shapes. To accomplish, this, I first wrote a parent class, that would take in the name and color of the shape, and then wrote an abstract method to calculate the area of the shape. Inside each child class, I wrote a constructor using the base function, that allowed it to use the attributes of the constructor for the parent class and then get all the various member variables assigned properly. And lastly, I wrote an override method that allowed the child class to have its own method for calculating its area. 
 </p>
+<h1>
+    Day 175
+</h1>
+<h3>
+    Tuesday, 28 February, 2023
+</h3>
+<p>
+    Today, I started the planning phase of my goal setting app. It will let a user set one of 3 different kinds of goals, that will each behave in slightly different ways.
+</p>
+<p>
+    The Simple goal will let you set a one time goal and then track its completion, and will award you points when you complete the goal. 
+</p>
+<p>
+    The Eternal Goal will let you set ongoing goals that will award you points each time you complete it.
+</p>
+<p>
+    The Checklist goal lets you select a certain number of times you want to complete a goal, and will award you points for each time you complete it and for when you complete the goal the desired number of times. 
+</p>
