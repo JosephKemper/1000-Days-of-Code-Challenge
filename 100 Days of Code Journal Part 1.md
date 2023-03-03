@@ -815,3 +815,21 @@
 <p>
     The Checklist goal lets you select a certain number of times you want to complete a goal, and will award you points for each time you complete it and for when you complete the goal the desired number of times. 
 </p>
+<h1>
+    Day 176
+</h1>
+<h3>
+    Wednesday, 1 March, 2023
+</h3>
+<p>
+    Today, I continued planning my next program. I will be adding 5 classes in addition to the main program class, and have defined what each class should do. 
+</p>
+<h1>
+    Day 177
+</h1>
+<h3>
+    Thursday, 2 March, 2023
+</h3>
+<p>
+    Today, I struggled massively with burnout, but I did still lead my group meeting and reviewed our plan for the next program we will each be building. 
+</p>
