@@ -833,3 +833,12 @@
 <p>
     Today, I struggled massively with burnout, but I did still lead my group meeting and reviewed our plan for the next program we will each be building. 
 </p>
+<h1>
+    Day 178
+</h1>
+<h3>
+    Friday, 3 March, 2023
+</h3>
+<p>
+    Today, I got a the methods defined for a few of my classes, along with a number of the member variables and a few constructors. Tomorrow I will finish my plan and then start coding.
+</p>
