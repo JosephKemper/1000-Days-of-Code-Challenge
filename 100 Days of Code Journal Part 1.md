@@ -851,3 +851,9 @@
 <p>
     In the process of planning my goal tracker today, I learned that I tend to work better planning classes, when I start with the member variables first. I also learned that stopping to review the bigger picture is critical to planning an app. 
 </p>
+<h3>
+    Sunday, 5 March, 2023
+</h3>
+<p>
+    Scheduled day off of Coding.
+</p>
