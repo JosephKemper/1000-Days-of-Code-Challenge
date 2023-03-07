@@ -857,3 +857,12 @@
 <p>
     Scheduled day off of Coding.
 </p>
+<h1>
+    Day 180
+</h1>
+<h3>
+    Monday, 6 March, 2023
+</h3>
+<p>
+    I got the structure of my menu class built out. I had to make one adjustment from my original plan because I discovered that how I was planning on doing it would have exited out of the app from a submenu if the user ever created 6 or more goals and tried to update the status of the 6th one. 
+</p>
