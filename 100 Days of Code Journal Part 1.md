@@ -866,3 +866,12 @@
 <p>
     I got the structure of my menu class built out. I had to make one adjustment from my original plan because I discovered that how I was planning on doing it would have exited out of the app from a submenu if the user ever created 6 or more goals and tried to update the status of the 6th one. 
 </p>
+<h1>
+    Day 180
+</h1>
+<h3>
+    Tuesday, 7 March, 2023
+</h3>
+<p>
+     Today, I got the core structure of my Goals class completed. Tomorrow, I will write the code to create a simple goal, which will involve fleshing out both the Menu Class and the Goal class a bit. 
+</p>
