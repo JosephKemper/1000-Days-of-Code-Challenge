@@ -875,3 +875,12 @@
 <p>
      Today, I got the core structure of my Goals class completed. Tomorrow, I will write the code to create a simple goal, which will involve fleshing out both the Menu Class and the Goal class a bit. 
 </p>
+<h1>
+    Day 181
+</h1>
+<h3>
+    Wednesday, 8 March, 2023
+</h3>
+<p>
+    Today, I started to create the SimpleGoal class. I got it to where the program will ask for the different elements of the goal. I got stuck trying to figure out how to add items of different type to a private list in another class. 
+</p>
