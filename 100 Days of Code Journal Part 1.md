@@ -884,3 +884,12 @@
 <p>
     Today, I started to create the SimpleGoal class. I got it to where the program will ask for the different elements of the goal. I got stuck trying to figure out how to add items of different type to a private list in another class. 
 </p>
+<h1>
+    Day 182
+</h1>
+<h3>
+    Thursday, 9 March, 2023
+</h3>
+<p>
+    Today, I wrote the method to save my goals to a list, and started to write code to iterate through that list.
+</p>
