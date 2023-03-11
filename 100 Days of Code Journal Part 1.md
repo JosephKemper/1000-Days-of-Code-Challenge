@@ -893,3 +893,12 @@
 <p>
     Today, I wrote the method to save my goals to a list, and started to write code to iterate through that list.
 </p>
+<h1>
+    Day 183
+</h1>
+<h3>
+    Friday, 10 March, 2023
+</h3>
+<p>
+    Today, I adjusted the plan for my goal tracker. I simplified how I was planning on saving, loading and displaying the goals. 
+</p>
