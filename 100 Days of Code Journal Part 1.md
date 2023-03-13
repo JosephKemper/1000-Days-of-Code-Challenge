@@ -911,3 +911,9 @@
 <p>
     Today, I spent 5 hours just trying to figure out why my program would not iterate through a simple list. I am down to the idea that something must be wrong with my VS Code and/or the installation of C# on my computer.
 </p>
+<h3>
+    Sunday, 12 March, 2023
+</h3>
+<p>
+    Scheduled day off of Coding
+</p>
