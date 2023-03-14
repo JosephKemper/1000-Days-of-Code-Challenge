@@ -917,3 +917,12 @@
 <p>
     Scheduled day off of Coding
 </p>
+<h1>
+    Day 185
+</h1>
+<h3>
+    Monday, 13 March, 2023
+</h3>
+<p>
+    Today, was spent figuring out what I will be doing for my final in my programming class, and reviewing the requirements. 
+</p>
