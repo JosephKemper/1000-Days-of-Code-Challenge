@@ -924,5 +924,5 @@
     Monday, 13 March, 2023
 </h3>
 <p>
-    Today, was spent figuring out what I will be doing for my final in my programming class, and reviewing the requirements. 
+    Today, was spent figuring out what I will be doing for my final in my programming class and reviewing the requirements. I'll be writing 4 small programs that each demonstrate a different one of the 4 principles of programming with classes. 
 </p>
