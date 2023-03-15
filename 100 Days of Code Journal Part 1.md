@@ -926,3 +926,12 @@
 <p>
     Today, was spent figuring out what I will be doing for my final in my programming class and reviewing the requirements. I'll be writing 4 small programs that each demonstrate a different one of the 4 principles of programming with classes. 
 </p>
+<h1>
+    Day 186
+</h1>
+<h3>
+    Tuesday, 14 March, 2023
+</h3>
+<p>
+    Today, I started preparing for my final in my C# Programming with Classes class. I spent about an hour and a half diving back into the principles of abstraction. 
+</p>
