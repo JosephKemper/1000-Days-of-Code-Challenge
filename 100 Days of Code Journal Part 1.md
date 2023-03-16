@@ -935,3 +935,12 @@
 <p>
     Today, I started preparing for my final in my C# Programming with Classes class. I spent about an hour and a half diving back into the principles of abstraction. 
 </p>
+<h1>
+    Day 187
+</h1>
+<h3>
+    Wednesday, 15 March, 2023
+</h3>
+<p>
+    Today, I spent a bit more time planning and reviewing for my final project. I reviewed the principles of encapsulation and inheritance. Tomorrow, I expect to finish my review and formally start my planning.
+</p>
