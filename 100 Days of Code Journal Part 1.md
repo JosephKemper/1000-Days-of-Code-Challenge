@@ -924,5 +924,32 @@
     Monday, 13 March, 2023
 </h3>
 <p>
-    Today, was spent figuring out what I will be doing for my final in my programming class, and reviewing the requirements. 
+    Today, was spent figuring out what I will be doing for my final in my programming class and reviewing the requirements. I'll be writing 4 small programs that each demonstrate a different one of the 4 principles of programming with classes. 
+</p>
+<h1>
+    Day 186
+</h1>
+<h3>
+    Tuesday, 14 March, 2023
+</h3>
+<p>
+    Today, I started preparing for my final in my C# Programming with Classes class. I spent about an hour and a half diving back into the principles of abstraction. 
+</p>
+<h1>
+    Day 187
+</h1>
+<h3>
+    Wednesday, 15 March, 2023
+</h3>
+<p>
+    Today, I spent a bit more time planning and reviewing for my final project. I reviewed the principles of encapsulation and inheritance. Tomorrow, I expect to finish my review and formally start my planning.
+</p>
+<h1>
+    Day 188
+</h1>
+<h3>
+    Thursday, 16 March, 2023
+</h3>
+<p>
+    Today, I finished my project proposal and formally started the plan on my first program. I will be writing 4 small programs that each demonstrate a principle of OOP. 
 </p>
