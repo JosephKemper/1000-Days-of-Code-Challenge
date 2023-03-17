@@ -944,3 +944,12 @@
 <p>
     Today, I spent a bit more time planning and reviewing for my final project. I reviewed the principles of encapsulation and inheritance. Tomorrow, I expect to finish my review and formally start my planning.
 </p>
+<h1>
+    Day 188
+</h1>
+<h3>
+    Thursday, 16 March, 2023
+</h3>
+<p>
+    Today, I finished my project proposal and formally started the plan on my first program. I will be writing 4 small programs that each demonstrate a principle of OOP. 
+</p>
