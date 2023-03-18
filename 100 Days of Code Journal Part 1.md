@@ -953,3 +953,15 @@
 <p>
     Today, I finished my project proposal and formally started the plan on my first program. I will be writing 4 small programs that each demonstrate a principle of OOP. 
 </p>
+<h1>
+    Day 189
+</h1>
+<h3>
+    Friday, 17 March, 2023
+</h3>
+<p>
+    Today, I spent some time studying abstraction and finally got a decent grasp on it. Then I wrote the plan (abstraction) for my first program. I will write the rest tomorrow, and if they go like the program did today, then it should not take very long. 
+</p>
+<p>
+    The simple steps to abstraction I created after my deep dive into abstraction are as follows: first, you start by asking what the program does, then, you strip away the nonessential elements. From there, you ask what steps the program needs to take to accomplish its purpose, these will become the methods. Finally, you ask what the program needs to have in order to accomplish its purpose, these will become the member variables. In all of these steps, you do not need to worry about how the step will be accomplished, that will come later, you just need to worry about planning the inputs and outputs of each step along the way. 
+</p>
