@@ -965,3 +965,12 @@
 <p>
     The simple steps to abstraction I created after my deep dive into abstraction are as follows: first, you start by asking what the program does, then, you strip away the nonessential elements. From there, you ask what steps the program needs to take to accomplish its purpose, these will become the methods. Finally, you ask what the program needs to have in order to accomplish its purpose, these will become the member variables. In all of these steps, you do not need to worry about how the step will be accomplished, that will come later, you just need to worry about planning the inputs and outputs of each step along the way. 
 </p>
+<h1>
+    Day 190
+</h1>
+<h3>
+    Saturday, 18 March, 2023
+</h3>
+<p>
+    I finally did it! Abstraction is actually starting to make sense to me. It has only taken most of the semester and a lot of proverbial banging my head against the wall, I finally broke through the mental barrier I was experiencing. I also finished the plan for all 4 of the projects I will be building for my final in my programming class. On Monday, I formally start the programming for the 4 classes I will write for my final project. 
+</p>
