@@ -974,3 +974,9 @@
 <p>
     I finally did it! Abstraction is actually starting to make sense to me. It has only taken most of the semester and a lot of proverbial banging my head against the wall, I finally broke through the mental barrier I was experiencing. I also finished the plan for all 4 of the projects I will be building for my final in my programming class. On Monday, I formally start the programming for the 4 classes I will write for my final project. 
 </p>
+<h3>
+    Sunday, 19 March, 2023
+</h3>
+<p>
+    Scheduled Day off of Coding.
+</p>
