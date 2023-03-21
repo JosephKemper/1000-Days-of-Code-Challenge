@@ -980,3 +980,12 @@
 <p>
     Scheduled Day off of Coding.
 </p>
+<h1>
+    Day 191
+</h1>
+<h3>
+    Monday, 20 March, 2023
+</h3>
+<p>
+    I didn't get a lot of coding done today, but I got some of the foundation of my first project for my final built.
+</p>
