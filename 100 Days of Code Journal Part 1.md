@@ -989,3 +989,12 @@
 <p>
     I didn't get a lot of coding done today, but I got some of the foundation of my first project for my final built.
 </p>
+<h1>
+    Day 192
+</h1>
+<h3>
+    Tuesday, 21 March, 2023
+</h3>
+<p>
+    Another light day of coding today. I got the data gathered for my program and the code written to load up the file. The end goal is to write a program that will be able to read take the string that I have currently arranged to attach to a file, break it down into Video title, author/channel name, length, name of the person who made a comment and the actual text of the comment. Then count the number of comments, and format that for display in a report form. 
+</p>
