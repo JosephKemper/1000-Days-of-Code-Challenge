@@ -1016,3 +1016,12 @@
 <p>
     Today, was a wonderfully productive day. I am finally feeling better. I got the first program I will be writing for my final loading up the video file, splitting it out into different videos, pulled out several pieces of data from that list, wrote code to figure out whether the video just has minutes and seconds or hours minutes and seconds and then convert that into seconds, and display all of that in proper formatted way for the user. 
 </p>
+<h1>
+    Day 195
+</h1>
+<h3>
+    Friday, 24 March, 2023
+</h3>
+<p>
+    Today, was another wonderfully productive day. I got the comments partially displaying, I found 2 more bugs with the display of comments, but I will get them fixed tomorrow.
+</p>
