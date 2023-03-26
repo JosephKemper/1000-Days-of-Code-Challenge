@@ -1025,3 +1025,18 @@
 <p>
     Today, was another wonderfully productive day. I got the comments partially displaying, I found 2 more bugs with the display of comments, but I will get them fixed tomorrow.
 </p>
+<h1>
+    Day 196
+</h1>
+<h3>
+    Saturday, 25 March, 2023
+</h3>
+<p>
+    I finished the first two programs for my Coding final! Each program focuses on demonstrating one of the 4 principles of programming with classes.
+</p>
+<p>
+    The first program focuses on the principle of Abstraction. Its goal was to take a preformatted string, containing info from an unknown number of YouTube videos, with an unknown number of comments, and display a report on the data. 
+</p>
+<p>
+    The second program focuses on the principle of Encapsulation. Its goal was to take an unknown number of orders with an unknown number of products in unknown quantities and generate both properly formatted packing and shipping labels for each order and calculate the shipping costs for both domestic and international orders, then finally show the total cost. The packing label gives a list of each item ordered, the quantity ordered, the price per item, and the subtotal of that item in a nicely formatted string. The shipping label displays the customers address in a properly formatted label and will dynamically add the country if they are outside of the United States.
+</p>
