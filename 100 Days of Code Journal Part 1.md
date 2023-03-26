@@ -1040,3 +1040,9 @@
 <p>
     The second program focuses on the principle of Encapsulation. Its goal was to take an unknown number of orders with an unknown number of products in unknown quantities and generate both properly formatted packing and shipping labels for each order and calculate the shipping costs for both domestic and international orders, then finally show the total cost. The packing label gives a list of each item ordered, the quantity ordered, the price per item, and the subtotal of that item in a nicely formatted string. The shipping label displays the customers address in a properly formatted label and will dynamically add the country if they are outside of the United States.
 </p>
+<h3>
+    Sunday, 26 March, 2023
+</h3>
+<p>
+    Scheduled day off from coding
+</p>
