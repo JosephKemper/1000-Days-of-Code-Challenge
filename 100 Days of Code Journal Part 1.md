@@ -1046,3 +1046,12 @@
 <p>
     Scheduled day off from coding
 </p>
+<h1>
+    Day 197
+</h1>
+<h3>
+    Monday, 27 March, 2023
+</h3>
+<p>
+    Today was a light day of coding. I reviewed the plan for my 3rd program and got all of the files prepped and got the core of what I planned put in place to start fleshing out. 
+</p>
