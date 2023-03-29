@@ -1055,3 +1055,12 @@
 <p>
     Today was a light day of coding. I reviewed the plan for my 3rd program and got all of the files prepped and got the core of what I planned put in place to start fleshing out. 
 </p>
+<h1>
+    Day 198
+</h1>
+<h3>
+    Tuesday, 27 March, 2023
+</h3>
+<p>
+    Today, I polished up the address class, created fake events for the program to use to generate the event announcements with, and spent some time studying inheritance. Tomorrow I start coding.
+</p>
