@@ -1059,8 +1059,17 @@
     Day 198
 </h1>
 <h3>
-    Tuesday, 27 March, 2023
+    Tuesday, 28 March, 2023
 </h3>
 <p>
     Today, I polished up the address class, created fake events for the program to use to generate the event announcements with, and spent some time studying inheritance. Tomorrow I start coding.
+</p>
+<h1>
+    Day 199
+</h1>
+<h3>
+    Wednesday, 29 March, 2023
+</h3>
+<p>
+    Today was an amazingly productive day. I finished my 3rd program for my final and got my last one started. Today, was also my 200th day of coding for my 100 days of code journey. 
 </p>
