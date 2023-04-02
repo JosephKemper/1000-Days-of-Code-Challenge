@@ -16,3 +16,18 @@
 <p>
     I finished my final! I successfully built 4 separate programs that demonstrated the principles of Abstraction, Encapsulation, Inheritance, and Polymorphism.
 </p>
+<h1>
+    Day 202
+</h1>
+<h3>
+    Saturday, 1 April, 2023
+</h3>
+<p>
+    Today, I went back to some of the assignments I previously struggled with and found that I still have more to learn about encapsulation. 
+</p>
+<h3>
+    Saturday, 1 April, 2023
+</h3>
+<p>
+    Scheduled day off of coding. 
+</p>
