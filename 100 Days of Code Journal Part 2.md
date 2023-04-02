@@ -25,3 +25,9 @@
 <p>
     Today, I went back to some of the assignments I previously struggled with and found that I still have more to learn about encapsulation. 
 </p>
+<h3>
+    Saturday, 1 April, 2023
+</h3>
+<p>
+    Scheduled day off of coding. 
+</p>
