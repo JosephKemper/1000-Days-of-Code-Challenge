@@ -26,8 +26,26 @@
     Today, I went back to some of the assignments I previously struggled with and found that I still have more to learn about encapsulation. 
 </p>
 <h3>
-    Saturday, 1 April, 2023
+    Sunday, 2 April, 2023
 </h3>
 <p>
     Scheduled day off of coding. 
+</p>
+<h1>
+    Day 203
+</h1>
+<h3>
+    Monday, 3 April, 2023
+</h3>
+<p>
+    Today I started studying the book Beginning C♯ object-oriented programming by Dan Clark. While I am between semesters I am going to dive deeper into a few areas of Object Oriented Programming that I want a more solid foundation in before I get into Programming with Data Structures next semester. 
+</p>
+<h1>
+    Day 203
+</h1>
+<h3>
+    Tuesday, 4 April, 2023
+</h3>
+<p>
+    
 </p>
