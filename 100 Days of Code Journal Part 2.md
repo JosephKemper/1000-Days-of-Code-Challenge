@@ -41,11 +41,11 @@
     Today I started studying the book Beginning C♯ object-oriented programming by Dan Clark. While I am between semesters I am going to dive deeper into a few areas of Object Oriented Programming that I want a more solid foundation in before I get into Programming with Data Structures next semester. 
 </p>
 <h1>
-    Day 203
+    Day 204
 </h1>
 <h3>
     Tuesday, 4 April, 2023
 </h3>
 <p>
-    
+    For class I just finished on programming with classes, they gave us a whole folder to run our C# programs out of. Between today, and yesterday, I have discovered why it is they chose that shortcut option. It is a lot of work to set up VS code to run C#. 
 </p>
