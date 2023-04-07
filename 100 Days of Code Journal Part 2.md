@@ -47,5 +47,23 @@
     Tuesday, 4 April, 2023
 </h3>
 <p>
-    For class I just finished on programming with classes, they gave us a whole folder to run our C# programs out of. Between today, and yesterday, I have discovered why it is they chose that shortcut option. It is a lot of work to set up VS code to run C#. 
+    For the class I just finished on programming with classes, they gave us a whole folder to run our C# programs out of. Between today, and yesterday, I have discovered why it is they chose that shortcut option. It is a lot of work to set up VS code to run C#. 
+</p>
+<h1>
+    Day 205
+</h1>
+<h3>
+    Wednesday, 5 April, 2023
+</h3>
+<p>
+    Today, was a light day of coding. I studied a bit in my book and learned a bit more about algorithms. 
+</p>
+<h1>
+    Day 206
+</h1>
+<h3>
+    Thursday, 6 April, 2023
+</h3>
+<p>
+    Today, I spent some more time in my OOP book and started learning how to use Visual Studio, instead of just VS Code. 
 </p>
