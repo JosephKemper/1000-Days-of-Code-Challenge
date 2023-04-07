@@ -58,3 +58,12 @@
 <p>
     Today, was a light day of coding. I studied a bit in my book and learned a bit more about algorithms. 
 </p>
+<h1>
+    Day 206
+</h1>
+<h3>
+    Thursday, 6 April, 2023
+</h3>
+<p>
+    Today, I spent some more time in my OOP book and started learning how to use Visual Studio, instead of just VS Code. 
+</p>
