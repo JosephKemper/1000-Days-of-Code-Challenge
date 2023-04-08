@@ -67,3 +67,12 @@
 <p>
     Today, I spent some more time in my OOP book and started learning how to use Visual Studio, instead of just VS Code. 
 </p>
+<h1>
+    Day 207
+</h1>
+<h3>
+    Friday, 7 April, 2023
+</h3>
+<p>
+    Today, I dug deeper into Visual Studio. I am amazed at just how much more power it has than Visual Studio Code. I also read in my OOP book more. 
+</p>
