@@ -76,3 +76,12 @@
 <p>
     Today, I dug deeper into Visual Studio. I am amazed at just how much more power it has than Visual Studio Code. I also read in my OOP book more. 
 </p>
+<h1>
+    Day 208
+</h1>
+<h3>
+    Saturday, 8 April, 2023
+</h3>
+<p>
+    Today, I read more in my Object Oriented Programming book and explored more in Visual Studio. Most of my day was spent getting my next book ready to publish. It should be on Amazon in 72 hours.
+</p>
