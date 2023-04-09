@@ -85,3 +85,9 @@
 <p>
     Today, I read more in my Object Oriented Programming book and explored more in Visual Studio. Most of my day was spent getting my next book ready to publish. It should be on Amazon in 72 hours.
 </p>
+<h3>
+    Sunday, 9 April, 2023
+</h3>
+<p>
+    Scheduled day off of coding
+</p>
