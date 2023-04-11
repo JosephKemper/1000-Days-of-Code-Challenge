@@ -91,3 +91,12 @@
 <p>
     Scheduled day off of coding
 </p>
+<h1>
+    Day 209
+</h1>
+<h3>
+    Sunday, 10 April, 2023
+</h3>
+<p>
+    Today, I read more in my OOP book, reviewed Python variables, strings, functions, loops, and classes, and then started going through the learning material for my next class.
+</p>
