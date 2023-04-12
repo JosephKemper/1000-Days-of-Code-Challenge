@@ -95,8 +95,17 @@
     Day 209
 </h1>
 <h3>
-    Sunday, 10 April, 2023
+    Monday, 10 April, 2023
 </h3>
 <p>
     Today, I read more in my OOP book, reviewed Python variables, strings, functions, loops, and classes, and then started going through the learning material for my next class.
+</p>
+<h1>
+    Day 210
+</h1>
+<h3>
+    Tuesday, 11 April, 2023
+</h3>
+<p>
+    Today, I learned that the object portion of object oriented programming is specifically referring to a specific instance of a class. I also learned about big O notation and about thinking in terms of software efficiency. 
 </p>
