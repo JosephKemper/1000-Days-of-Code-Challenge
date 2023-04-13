@@ -1,5 +1,0 @@
-E:\OneDrive\Class\100-Days-of-Code-Challenge\probability-example-main\obj\Debug\net7.0\Probability.csproj.AssemblyReference.cache
-E:\OneDrive\Class\100-Days-of-Code-Challenge\probability-example-main\obj\Debug\net7.0\Probability.GeneratedMSBuildEditorConfig.editorconfig
-E:\OneDrive\Class\100-Days-of-Code-Challenge\probability-example-main\obj\Debug\net7.0\Probability.AssemblyInfoInputs.cache
-E:\OneDrive\Class\100-Days-of-Code-Challenge\probability-example-main\obj\Debug\net7.0\Probability.AssemblyInfo.cs
-E:\OneDrive\Class\100-Days-of-Code-Challenge\probability-example-main\obj\Debug\net7.0\Probability.csproj.CoreCompileInputs.cache

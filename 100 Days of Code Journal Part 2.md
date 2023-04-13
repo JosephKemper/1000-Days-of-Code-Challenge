@@ -109,3 +109,12 @@
 <p>
     Today, I learned that the object portion of object oriented programming is specifically referring to a specific instance of a class. I also learned about big O notation and about thinking in terms of software efficiency. 
 </p>
+<h1>
+    Day 211
+</h1>
+<h3>
+    Wednesday, 12 April, 2023
+</h3>
+<p>
+    Today, I got a quick overview of proper methods to review code, chaining, hashing, hashing functions, open addressing, sets, and sparse lists.
+</p>
