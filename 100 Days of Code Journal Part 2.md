@@ -116,5 +116,5 @@
     Wednesday, 12 April, 2023
 </h3>
 <p>
-    Today, I got a quick overview of proper methods to review code, chaining, hashing, hashing functions, open addressing, sets, and sparse lists.
+    Today, I got a quick overview of proper methods to review code, chaining, hashing, hashing functions, open addressing, sets, and sparse lists.I also learned about interfaces, abstract classes, sealed classes, and partial classes from my OOP book. 
 </p>
