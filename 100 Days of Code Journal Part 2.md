@@ -118,3 +118,12 @@
 <p>
     Today, I got a quick overview of proper methods to review code, chaining, hashing, hashing functions, open addressing, sets, and sparse lists.I also learned about interfaces, abstract classes, sealed classes, and partial classes from my OOP book. 
 </p>
+<h1>
+    Day 212
+</h1>
+<h3>
+    Thursday, 13 April, 2023
+</h3>
+<p>
+    Today, I got introduced to maps, linked lists, recursion, and trees. I also read more in my OOP book. 
+</p>
