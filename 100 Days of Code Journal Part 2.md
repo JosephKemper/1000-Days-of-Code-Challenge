@@ -133,7 +133,15 @@
 <h3>
     Friday, 14 April, 2023
 </h3>
-
 <p>
     Today, I learned about aggregation and composition relationships in Object-Oriented Programming. A car has an aggregation relationship with its engine. The car and the engine are separate objects, and can both exist and function (in some manner) without the other, but they also join together to do more than they would by themselves. On the other hand, an order and an order item are both separate objects, but an order item cannot exist without the order, this is an example of a composition relationship. 
+</p>
+<h1>
+    Day 214
+</h1>
+<h3>
+    Saturday, 15 April, 2023
+</h3>
+<p>
+    Today, I learned about and practiced with list comprehensions, methods to better plan out and refactor your code.
 </p>
