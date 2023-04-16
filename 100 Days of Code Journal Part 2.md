@@ -145,3 +145,9 @@
 <p>
     Today, I learned about and practiced with list comprehensions, methods to better plan out and refactor your code.
 </p>
+<h3>
+    Sunday, 16 April, 2023
+</h3>
+<p>
+    Scheduled day off from coding. 
+</p>
