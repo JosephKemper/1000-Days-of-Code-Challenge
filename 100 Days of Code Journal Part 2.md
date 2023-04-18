@@ -151,3 +151,12 @@
 <p>
     Scheduled day off from coding. 
 </p>
+<h1>
+    Day 217
+</h1>
+<h3>
+    Sunday, 15 April, 2023
+</h3>
+<p>
+    Today, I used list slicing to solve a problem for my data structures class. 
+</p>
