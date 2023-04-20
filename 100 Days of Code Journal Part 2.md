@@ -176,5 +176,5 @@
     Wednesday, 19 April, 2023
 </h3>
 <p>
-    
+    Today, I started to analyze code for how it would translate in Big O notation. 
 </p>
