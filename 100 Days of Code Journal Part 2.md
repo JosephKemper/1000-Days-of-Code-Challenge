@@ -151,3 +151,30 @@
 <p>
     Scheduled day off from coding. 
 </p>
+<h1>
+    Day 215
+</h1>
+<h3>
+    Monday, 17 April, 2023
+</h3>
+<p>
+    Today, I used list slicing to solve a problem for my data structures class. 
+</p>
+<h1>
+    Day 216
+</h1>
+<h3>
+    Tuesday, 18 April, 2023
+</h3>
+<p>
+    Today, I studied about big O notation and about analyzing and practicing with algorithms. 
+</p>
+<h1>
+    Day 217
+</h1>
+<h3>
+    Wednesday, 19 April, 2023
+</h3>
+<p>
+    Today, I started to analyze code for how it would translate in Big O notation. 
+</p>
