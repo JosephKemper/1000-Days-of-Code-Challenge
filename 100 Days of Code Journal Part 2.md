@@ -178,3 +178,12 @@
 <p>
     Today, I started to analyze code for how it would translate in Big O notation. 
 </p>
+<h1>
+    Day 218
+</h1>
+<h3>
+    Thursday, 20 April, 2023
+</h3>
+<p>
+    Today, I studied more about big O notation. I am not happy with my level of understanding about it, so I want to delve much deeper. 
+</p>
