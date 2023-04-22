@@ -187,3 +187,12 @@
 <p>
     Today, I studied more about big O notation. I am not happy with my level of understanding about it, so I want to delve much deeper. 
 </p>
+<h1>
+    Day 219
+</h1>
+<h3>
+    Friday, 21 April, 2023
+</h3>
+<p>
+    Today, I studied a bit more into Big O notation. It is slowly starting to make more sense. 
+</p>
