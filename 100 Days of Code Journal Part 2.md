@@ -205,3 +205,9 @@
 <p>
     Today, I built two programs, one used a loop and then list comprehension to add divisors of a given number to a list. The other program dynamically pulled numbers from one of two lists to append them to a combined list, based on values in a third list. 
 </p>
+<h3>
+    Sunday, 23 April, 2023
+</h3>
+<p>
+    Scheduled day off from coding
+</p>
