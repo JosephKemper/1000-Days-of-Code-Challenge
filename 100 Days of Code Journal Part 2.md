@@ -218,5 +218,14 @@
     Monday, 24 April, 2023
 </h3>
 <p>
-    Today, I finished the chapter in my book on Big O notation and started to work on evaluating the assigned code for it's big O notation. Last week, I was a little uneasy about my understanding of big O notation, now, I am happily feeling a lot more confident both in my understanding of big O and my ability to analyze code in general.
+    Today, I finished the chapter in my book on Big O notation and started to work on evaluating the assigned code for its big O notation. Last week, I was a little uneasy about my understanding of big O notation, now, I am happily feeling a lot more confident both in my understanding of big O and my ability to analyze code in general.
+</p>
+<h1>
+    Day 222
+</h1>
+<h3>
+    Wednesday, 25 April, 2023
+</h3>
+<p>
+    Today, I finished studying big O notation. I am happy I dug in as much as I did to understand it. Thanks to the time I spent studying big O notation, not only do I have a better understanding of how to evaluate algorithms, I also have a better grasp of understanding code in general. Tomorrow, I will start learning about understanding code using reviews and stacks.
 </p>
