@@ -229,3 +229,12 @@
 <p>
     Today, I finished studying big O notation. I am happy I dug in as much as I did to understand it. Thanks to the time I spent studying big O notation, not only do I have a better understanding of how to evaluate algorithms, I also have a better grasp of understanding code in general. Tomorrow, I will start learning about understanding code using reviews and stacks.
 </p>
+<h1>
+    Day 223
+</h1>
+<h3>
+    Wednesday, 26 April, 2023
+</h3>
+<p>
+    Today, I practiced with analyzing code without running it. In this case, the code in question used the stack in different ways.
+</p>
