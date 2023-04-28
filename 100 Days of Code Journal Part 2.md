@@ -238,3 +238,12 @@
 <p>
     Today, I practiced with analyzing code without running it. In this case, the code in question used the stack in different ways.
 </p>
+<h1>
+    Day 224
+</h1>
+<h3>
+    Thursday, 27 April, 2023
+</h3>
+<p>
+    When I was first presented with the idea of manually reviewing code and mapping it out did not make sense at all. However, I am learning something new, and the people teaching me know a lot more than I currently do, so I put my full effort into the process. Now, I am glad I did, because I feel that reviewing code to the level I did fore this assignment made me a better programmer. 
+</p>
