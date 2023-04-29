@@ -247,3 +247,12 @@
 <p>
     When I was first presented with the idea of manually reviewing code and mapping it out did not make sense at all. However, I am learning something new, and the people teaching me know a lot more than I currently do, so I put my full effort into the process. Now, I am glad I did, because I feel that reviewing code to the level I did fore this assignment made me a better programmer. 
 </p>
+<h1>
+    Day 225
+</h1>
+<h3>
+    Friday, 28 April, 2023
+</h3>
+<p>
+    Today, I learned about testing code. I have had previous lessons in it, but there is still a lot to learn.
+</p>
