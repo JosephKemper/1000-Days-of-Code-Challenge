@@ -256,3 +256,12 @@
 <p>
     Today, I learned about testing code. I have had previous lessons in it, but there is still a lot to learn.
 </p>
+<h1>
+    Day 226
+</h1>
+<h3>
+    Saturday, 29 April, 2023
+</h3>
+<p>
+    Today, I started analyzing code I was provided to find the bugs in it. In this case everything runs, it just does not provide the right results
+</p>
