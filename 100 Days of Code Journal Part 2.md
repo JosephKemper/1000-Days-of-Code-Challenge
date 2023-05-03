@@ -280,3 +280,12 @@
 <p>
     Today, I spent more time analyzing code for defects with the intention of fixing it. 
 </p>
+<h1>
+    Day 228
+</h1>
+<h3>
+    Tuesday, 2 May, 2023
+</h3>
+<p>
+    Got two of the three defects fixed for the first program we were assigned to me. I found that instead of adding the names to the end, it was adding the names to the beginning of the queue.
+</p>
