@@ -289,3 +289,12 @@
 <p>
     Got two of the three defects fixed for the first program we were assigned to me. I found that instead of adding the names to the end, it was adding the names to the beginning of the queue.
 </p>
+<h1>
+    Day 229
+</h1>
+<h3>
+    Wednesday, 3 May, 2023
+</h3>
+<p>
+    Today, I finished working on the last of my assignment working with queues. To accomplish this, I analyzed two programs provided to me, to figure out what they do. I used previously written test code in one of the programs and a description of what the program should do, to debug the code. And for the other program, I used a description of what the program should do, to write test code and then find and fix bugs in the code. 
+</p>
