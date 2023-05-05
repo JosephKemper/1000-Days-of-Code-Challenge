@@ -298,3 +298,12 @@
 <p>
     Today, I finished working on the last of my assignment working with queues. To accomplish this, I analyzed two programs provided to me, to figure out what they do. I used previously written test code in one of the programs and a description of what the program should do, to debug the code. And for the other program, I used a description of what the program should do, to write test code and then find and fix bugs in the code. 
 </p>
+<h1>
+    Day 230
+</h1>
+<h3>
+    Thursday, 4 May, 2023
+</h3>
+<p>
+    Today, I studied about sets, and sparse lists. Tomorrow, I start a deep dive into programming with sets. 
+</p>
