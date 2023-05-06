@@ -316,3 +316,12 @@
 <p>
     Today, analyzed the code I was given, the requirements I need to meet and started working on a plan for how to build the code I will be writing. I am going to be writing code to find matches in letters that might not be in the same order. 
 </p>
+<h1>
+    Day 232
+</h1>
+<h3>
+    Saturday, 6 May, 2023
+</h3>
+<p>
+    Today, I wrote functions to find the intersection of two sets and join two sets without using any of the built in Python operators.
+</p>
