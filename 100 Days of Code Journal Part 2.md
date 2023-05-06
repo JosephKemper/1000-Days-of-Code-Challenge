@@ -307,3 +307,12 @@
 <p>
     Today, I studied about sets, and sparse lists. Tomorrow, I start a deep dive into programming with sets. 
 </p>
+<h1>
+    Day 231
+</h1>
+<h3>
+    Friday, 5 May, 2023
+</h3>
+<p>
+    Today, analyzed the code I was given, the requirements I need to meet and started working on a plan for how to build the code I will be writing. I am going to be writing code to find matches in letters that might not be in the same order. 
+</p>
