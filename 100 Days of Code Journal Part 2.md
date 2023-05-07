@@ -325,3 +325,9 @@
 <p>
     Today, I wrote functions to find the intersection of two sets and join two sets without using any of the built in Python operators.
 </p>
+<h3>
+    Sunday, 7 May, 2023
+</h3>
+<p>
+    Scheduled day off from coding
+</p>
