@@ -331,3 +331,12 @@
 <p>
     Scheduled day off from coding
 </p>
+<h1>
+    Day 233
+</h1>
+<h3>
+    Monday, 8 May, 2023
+</h3>
+<p>
+    Today, I started working on writing code to compare check if the words given in a set, have any other words that contain all the same letters. For example, if and fi would be two words that contain the same letters and so they should be flagged by the program. 
+</p>
