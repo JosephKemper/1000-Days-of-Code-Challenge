@@ -340,3 +340,12 @@
 <p>
     Today, I started working on writing code to compare check if the words given in a set, have any other words that contain all the same letters. For example, if and fi would be two words that contain the same letters and so they should be flagged by the program. 
 </p>
+<h1>
+    Day 234
+</h1>
+<h3>
+    Tuesday, 9 May, 2023
+</h3>
+<p>
+    Today, I met with my group and felt underwhelmed. Instead of reasoning together, and truly working as a group, we basically did a individual programming assignment and quickly talked about it afterwards and even then only barely. I would have loved to have gained the insights of my group members, because then I would have learned how they think about how to solve problems and grown from it. I still learned something, so I can be grateful for that. I guess I would have just enjoyed more discussion. I guess I'll try again next week. 
+</p>
