@@ -349,3 +349,12 @@
 <p>
     Today, I met with my group and felt underwhelmed. Instead of reasoning together, and truly working as a group, we basically did a individual programming assignment and quickly talked about it afterwards and even then only barely. I would have loved to have gained the insights of my group members, because then I would have learned how they think about how to solve problems and grown from it. I still learned something, so I can be grateful for that. I guess I would have just enjoyed more discussion. I guess I'll try again next week. 
 </p>
+<h1>
+    Day 235
+</h1>
+<h3>
+    Wednesday, 10 May, 2023
+</h3>
+<p>
+    Today, I built a program in O(n) time that will check if there are any duplicate letters in a set of letters of n length. I started writing a program to with goal of having it also run in O(n) time to find how many pairs of numbers can add up to 10. 
+</p>
