@@ -356,5 +356,23 @@
     Wednesday, 10 May, 2023
 </h3>
 <p>
-    Today, I built a program in O(n) time that will check if there are any duplicate letters in a set of letters of n length. I started writing a program to with goal of having it also run in O(n) time to find how many pairs of numbers can add up to 10. 
+    Today, I built a program in O(n) time that will check if there are any duplicate letters in a set of letters of n length. I started writing a program with goal of having it also run in O(n) time to find how many pairs of numbers can add up to 10. 
+</p>
+<h1>
+    Day 236
+</h1>
+<h3>
+    Thursday, 11 May, 2023
+</h3>
+<p>
+    Today, I started working on a program to sort through a list of numbers trying to find pairs of numbers that can add up to 10. The list can be any size, and the numbers are all whole numbers, and can be positive or negative. The goal of the assignment I am working on is to build the program to run in O(n) time. 
+</p>
+<p>
+    Building the program to run in O(n*n) time is easy, just create two for loops (one for each number you want to select) and it is done. Given our topic for the lesson, I know the solution will involve sets, but I am really not sure of how to approach this. So, the assignment in question suggests that I should spend no more than 5 minutes on this part before looking at their hint, so time to read a bit more. 
+</p>
+<p>
+    Oh! That makes a lot of sense. Looking up a specific value in a set has an O(1) time. So, if you subtract each number from 10, that then gives you the number you need to add to it, in order to get 10. From there, you look for that number in the set, and you get a program performance of O(n), only having to loop through the program once to complete it.
+</p>
+<p>
+    When writing my program, I forgot how to find a number in a set. A quick internet search, let me find that all I need to do is an if in statement. However, I did discover a problem with my code, as I am supposed to exclude duplicates from the numbers I found and my program does not.
 </p>
