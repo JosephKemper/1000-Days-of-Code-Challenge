@@ -376,3 +376,6 @@
 <p>
     When writing my program, I forgot how to find a number in a set. A quick internet search, let me find that all I need to do is an if in statement. However, I did discover a problem with my code, as I am supposed to exclude duplicates from the numbers I found and my program does not.
 </p>
+<p>
+    I initially tried to use a continue statement nested under an if statement, but that did not do what I wanted. From there, after struggling with the idea for a bit, I took my whole loop and asked my friendly ai search engine how I would alter the code to avoid printing out duplicate sets. At that point, I was finally able to figure out how to assemble the combined if statement I was wanting to do from the beginning. ... but for some reason it stopped the whole program from working altogether. 
+</p>
