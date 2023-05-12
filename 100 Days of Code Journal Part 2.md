@@ -382,3 +382,6 @@
 <p>
     It took a bit, and finally asking my friendly AI search engine, but I figured out what I did. I had two separate sets I am using for my code, one to store the numbers in for analysis (numberSet), and one to use for checking if the number has already been printed (printedNumbers) and when I was trying to check if the number I was trying to find (numberToFind) was both in the numberSet and not in the printedNumbers, I instead asked if it was both in numberSet and not in numberSet. I feel blind that I missed that, in my multiple reviews of the code, but I guess that is why getting a fresh set of eyes to look at things is helpful. In my case, I am just using an AI for those extra eyes. Either way, it works perfectly now. 
 </p>
+<p>
+    I think I like this style of blogging for my 100 Days of Code journey. I feel I am retaining more and learning more deliberately than I have been. Overall, I am happy with how today went. 
+</p>
