@@ -376,3 +376,12 @@
 <p>
     When writing my program, I forgot how to find a number in a set. A quick internet search, let me find that all I need to do is an if in statement. However, I did discover a problem with my code, as I am supposed to exclude duplicates from the numbers I found and my program does not.
 </p>
+<p>
+    I initially tried to use a continue statement nested under an if statement, but that did not do what I wanted. From there, after struggling with the idea for a bit, I took my whole loop and asked my friendly ai search engine how I would alter the code to avoid printing out duplicate sets. At that point, I was finally able to figure out how to assemble the combined if statement I was wanting to do from the beginning. ... but for some reason it stopped the whole program from working altogether. 
+</p>
+<p>
+    It took a bit, and finally asking my friendly AI search engine, but I figured out what I did. I had two separate sets I am using for my code, one to store the numbers in for analysis (numberSet), and one to use for checking if the number has already been printed (printedNumbers) and when I was trying to check if the number I was trying to find (numberToFind) was both in the numberSet and not in the printedNumbers, I instead asked if it was both in numberSet and not in numberSet. I feel blind that I missed that, in my multiple reviews of the code, but I guess that is why getting a fresh set of eyes to look at things is helpful. In my case, I am just using an AI for those extra eyes. Either way, it works perfectly now. 
+</p>
+<p>
+    I think I like this style of blogging for my 100 Days of Code journey. I feel I am retaining more and learning more deliberately than I have been. Overall, I am happy with how today went. 
+</p>
