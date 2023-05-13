@@ -412,3 +412,12 @@
 <p>
     I would first add each word into a set. Then, iterate through the set converting each word into a list using Pythons list functionality and use the pop command to reverse the word, then check if that reversed word is in the set. Then, after checking if it has already been printed, or if the reversed word and the word are the same, I would print the pair to the screen. 
 </p>
+<h1>
+    Day 238
+</h1>
+<h3>
+    Saturday, 13 May, 2023
+</h3>
+<p>
+    Today, I started my lesson on maps, which in Python are dictionaries. For this lesson, I am going to solve five problems using the map data structure. The first is to take in both a word and its translation to build a English to German dictionary. The second is to take a CSV list containing generic census data including education status, pull out the education status and then tally up what degrees people reported having obtained. The third involves looking for anagrams. The fourth problem is to build a text based maze. The fifth problem I will use the pip requests library to download data from the USGS website and then display the location and magnitudes of all earthquakes that day. 
+</p>
