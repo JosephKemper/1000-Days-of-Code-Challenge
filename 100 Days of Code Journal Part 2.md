@@ -403,3 +403,21 @@
 <p>
     As I fleshed out the outline I built, I realized that I partially had a good idea in my first attempt. Break each word up into a list as I iterate through the set to then reverse it and check for its matching word. I just need to remember how to reverse a word. And a quick search on my friendly AI search engine got me the answer I needed. 
 </p>
+<p>
+    I am very much enjoying this more detailed 100 Days of Code Journal. The process of being more detailed with my journal, is helping me remember what I have learned and incorporating it better into my future work. In the work I did yesterday, I ran into a problem trying to figure out how to make a combined if statement. I also ran into a problem with trying to create two separate continue statements, and thanks to my journal, I remembered what I did, and implemented that right away, the moment I saw a similar problem. 
+</p>
+<p>
+    The last part of this assignment was write a response to a question, that I might be asked in an interview, to explain how I would find mirrored pairs of two letter words, assuming there are no duplicates. 
+</p>
+<p>
+    I would first add each word into a set. Then, iterate through the set converting each word into a list using Pythons list functionality and use the pop command to reverse the word, then check if that reversed word is in the set. Then, after checking if it has already been printed, or if the reversed word and the word are the same, I would print the pair to the screen. 
+</p>
+<h1>
+    Day 238
+</h1>
+<h3>
+    Saturday, 13 May, 2023
+</h3>
+<p>
+    Today, I started my lesson on maps, which in Python are dictionaries. For this lesson, I am going to solve five problems using the map data structure. The first is to take in both a word and its translation to build a English to German dictionary. The second is to take a CSV list containing generic census data including education status, pull out the education status and then tally up what degrees people reported having obtained. The third involves looking for anagrams. The fourth problem is to build a text based maze. The fifth problem I will use the pip requests library to download data from the USGS website and then display the location and magnitudes of all earthquakes that day. 
+</p>
