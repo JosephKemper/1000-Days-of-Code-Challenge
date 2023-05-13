@@ -401,5 +401,5 @@
     My next assignment wants me to take a series of two letter words, some of which have a word with mirrored letters in it. My task is to write a program in O(n) time that will find the word sets and print them to the screen. This is the part that left me struggling earlier this week. Coming back with fresh eyes, and a bit better of a foundation, makes a world of difference. After realizing, my first attempt was way too complex, and deleting the whole thing, I wrote an outline for what I need to do. 
 </p>
 <p>
-
+    As I fleshed out the outline I built, I realized that I partially had a good idea in my first attempt. Break each word up into a list as I iterate through the set to then reverse it and check for its matching word. I just need to remember how to reverse a word. And a quick search on my friendly AI search engine got me the answer I needed. 
 </p>
