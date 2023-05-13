@@ -392,5 +392,14 @@
     Friday, 12 May, 2023
 </h3>
 <p>
-    
+    Today, I got a late start on coding. My day was a little crazy, but I still got my coding in. Starting off the day, I went back and looked at the code I got stuck on earlier in the week, and found I was a lot farther than I thought I was. The first thing I did was to write an answer to a question about how I would find both the intersection of two sets and the union of two sets, and express it in less than 30 seconds. 
+</p>
+<p>
+    To find the union of two sets, I would create a for loop to iterate through both sets and add them to a third set. The built in functions of Python will handle the rest. To find the intersection of two sets, I would write a for loop to iterate through one set and check if each number is in the other, and from there, add any numbers that are found in both to a third set. 
+</p>
+<p>
+    My next assignment wants me to take a series of two letter words, some of which have a word with mirrored letters in it. My task is to write a program in O(n) time that will find the word sets and print them to the screen. This is the part that left me struggling earlier this week. Coming back with fresh eyes, and a bit better of a foundation, makes a world of difference. After realizing, my first attempt was way too complex, and deleting the whole thing, I wrote an outline for what I need to do. 
+</p>
+<p>
+    As I fleshed out the outline I built, I realized that I partially had a good idea in my first attempt. Break each word up into a list as I iterate through the set to then reverse it and check for its matching word. I just need to remember how to reverse a word. And a quick search on my friendly AI search engine got me the answer I needed. 
 </p>
