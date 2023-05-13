@@ -403,3 +403,6 @@
 <p>
     As I fleshed out the outline I built, I realized that I partially had a good idea in my first attempt. Break each word up into a list as I iterate through the set to then reverse it and check for its matching word. I just need to remember how to reverse a word. And a quick search on my friendly AI search engine got me the answer I needed. 
 </p>
+<p>
+    I am very much enjoying this more detailed 100 Days of Code Journal. The process of being more detailed with my journal, is helping me remember what I have learned and incorporating it better into my future work. In the work I did yesterday, I ran into a problem trying to figure out how to make a combined if statement. I also ran into a problem with trying to create two separate continue statements, and thanks to my journal, I remembered what I did, and implemented that right away, the moment I saw a similar problem. 
+</p>
