@@ -392,5 +392,11 @@
     Friday, 12 May, 2023
 </h3>
 <p>
-    
+    Today, I got a late start on coding. My day was a little crazy, but I still got my coding in. Starting off the day, I went back and looked at the code I got stuck on earlier in the week, and found I was a lot farther than I thought I was. The first thing I did was to write an answer to a question about how I would find both the intersection of two sets and the union of two sets, and express it in less than 30 seconds. 
+</p>
+<p>
+    To find the union of two sets, I would create a for loop to iterate through both sets and add them to a third set. The built in functions of Python will handle the rest. To find the intersection of two sets, I would write a for loop to iterate through one set and check if each number is in the other, and from there, add any numbers that are found in both to a third set. 
+</p>
+<p>
+
 </p>
