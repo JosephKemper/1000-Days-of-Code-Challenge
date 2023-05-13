@@ -406,3 +406,9 @@
 <p>
     I am very much enjoying this more detailed 100 Days of Code Journal. The process of being more detailed with my journal, is helping me remember what I have learned and incorporating it better into my future work. In the work I did yesterday, I ran into a problem trying to figure out how to make a combined if statement. I also ran into a problem with trying to create two separate continue statements, and thanks to my journal, I remembered what I did, and implemented that right away, the moment I saw a similar problem. 
 </p>
+<p>
+    The last part of this assignment was write a response to a question, that I might be asked in an interview, to explain how I would find mirrored pairs of two letter words, assuming there are no duplicates. 
+</p>
+<p>
+    I would first add each word into a set. Then, iterate through the set converting each word into a list using Pythons list functionality and use the pop command to reverse the word, then check if that reversed word is in the set. Then, after checking if it has already been printed, or if the reversed word and the word are the same, I would print the pair to the screen. 
+</p>
