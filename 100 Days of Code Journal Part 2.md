@@ -385,3 +385,12 @@
 <p>
     I think I like this style of blogging for my 100 Days of Code journey. I feel I am retaining more and learning more deliberately than I have been. Overall, I am happy with how today went. 
 </p>
+<h1>
+    Day 237
+</h1>
+<h3>
+    Friday, 12 May, 2023
+</h3>
+<p>
+    
+</p>
