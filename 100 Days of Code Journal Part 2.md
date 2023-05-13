@@ -398,5 +398,8 @@
     To find the union of two sets, I would create a for loop to iterate through both sets and add them to a third set. The built in functions of Python will handle the rest. To find the intersection of two sets, I would write a for loop to iterate through one set and check if each number is in the other, and from there, add any numbers that are found in both to a third set. 
 </p>
 <p>
+    My next assignment wants me to take a series of two letter words, some of which have a word with mirrored letters in it. My task is to write a program in O(n) time that will find the word sets and print them to the screen. This is the part that left me struggling earlier this week. Coming back with fresh eyes, and a bit better of a foundation, makes a world of difference. After realizing, my first attempt was way too complex, and deleting the whole thing, I wrote an outline for what I need to do. 
+</p>
+<p>
 
 </p>
