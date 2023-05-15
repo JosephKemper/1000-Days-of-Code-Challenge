@@ -421,3 +421,9 @@
 <p>
     Today, I started my lesson on maps, which are dictionaries in Python. For this lesson, I am going to solve five problems using the map data structure. The first is to take in both a word and its translation to build an English to German dictionary. The second is to take a CSV list containing generic census data including education status, pull out the education status and then tally up what degrees people reported having obtained. The third involves looking for anagrams. The fourth problem is to build a text-based maze. The fifth problem I will use the pip requests library to download data from the USGS website and then display the location and magnitudes of all earthquakes that day.  
 </p>
+<h3>
+    Sunday, 14 May, 2023
+</h3>
+<p>
+    Scheduled day off of coding
+</p>
