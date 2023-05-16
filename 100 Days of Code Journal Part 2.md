@@ -427,3 +427,24 @@
 <p>
     Scheduled day off of coding
 </p>
+<h1>
+    Day 239
+</h1>
+<h3>
+    Monday, 15 May, 2023
+</h3>
+<p>
+    For the translate problem, The requirements involve working with 2 functions, the names of which almost solve the problem for me. I will use one function to take both the English and German word in from the user, convert both words to lowercase, and then add them to the dictionary. The second function, will take a word from the user, convert it to lower case, check if it is in the dictionary, return "???" if it is not, and return the German translation if it is. 
+</p>
+<p>
+    The second problem needs to be programmed to read the correct column, convert everything to lower case, then check if that degree option is already in the map (dictionary) and from there, either add it to the dictionary with a count of 1, or increase the count assigned as the value by one. 
+</p>
+<p>
+    For the third problem, I will take the first word, use Python's built in list functionality, and convert the word into a list and use the pop function inside of a for loop to pull the last letter in the list out, effectively reversing the word. From there, I will check of the two words being tested are the same and return the appropriate value. 
+</p>
+<p>
+    For the fourth problem, each possible grid location of the maze has a list containing if it is possible to move in each of the 4 possible directions. All I need to do, is to convert the direction the user would enter, into a number representing the index of the position, look up if it is possible to move in the direction they want to move, and then use a simple math function to update their position, and return the updated status or appropriate error code to the user. 
+</p>
+<p>
+    As they have already provided the code needed to extract the data from the USGS website, I just need to teach the program how to pull the appropriate data from the downloaded table and from there, assign it to variables, and use a for loop to display the data to the screen. 
+</p>
