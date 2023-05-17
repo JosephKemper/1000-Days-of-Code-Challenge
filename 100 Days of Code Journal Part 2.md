@@ -448,3 +448,15 @@
 <p>
     As they have already provided the code needed to extract the data from the USGS website, I just need to teach the program how to pull the appropriate data from the downloaded table and from there, assign it to variables, and use a for loop to display the data to the screen. 
 </p>
+<h1>
+    Day 240
+</h1>
+<h3>
+    Tuesday, 16 May, 2023
+</h3>
+<p>
+    I got the first problem solved nicely. It almost went exactly as planned. When I was first converting the string to lower case to ensure proper comparison, I initially forgot to put a parenthesis next to one of the lower commands.
+</p>
+<p>
+    For the second problem, initially, I thought I needed to build a loop but then realized they already did that for me. From there, the only problem I ran into was accidentally putting the wrong index to pull the degrees out. 
+</p>
