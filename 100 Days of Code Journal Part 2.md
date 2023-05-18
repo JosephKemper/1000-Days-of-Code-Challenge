@@ -476,5 +476,5 @@
     The case of each letter is not supposed to matter, so I will have to convert each string to lower case, which is easy through the lower() method. Spaces are supposed to be ignored. I remembered a method to remove whitespace, but could not remember the command (strip()), however, that would only remove from the ends of a string. I need something that would also remove from the middle, and with a bit more searching, I found remove. So, the solution would be to convert each string to lower case, replace all spaces with nothing (effectively deleting it). Then, I would iterate through each string, checking if each letter was in a dictionary, and either adding to the existing count or adding it to the dictionary with a count of 1. I would have a dictionary for each word I am comparing. Then I would need to use the letters in one word to check and see if each of the two dictionaries contain the same letters in the same quantities. 
 </p>
 <p>
-    
+    After fixing a few typos on my solution, I found it was crashing out the first time I ran into two strings that had characters that were not shared with each other. From there, I added a check to see if the character I was testing was in both dictionaries and that solved the problem. 
 <p>
