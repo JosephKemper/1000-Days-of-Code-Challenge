@@ -460,3 +460,21 @@
 <p>
     For the second problem, initially, I thought I needed to build a loop but then realized they already did that for me. From there, the only problem I ran into was accidentally putting the wrong index to pull the degrees out. 
 </p>
+<h1>
+    Day 241
+</h1>
+<h3>
+    Wednesday, 17 May, 2023
+</h3>
+<p>
+    I realized that I misread the challenge for the 3rd problem. I thought it wanted me to simply see if two words are the same backwards and forwards. It actually wants me to see if they have the same letters in them regardless of case and in the same quantity. For example, cat and act are considered anagrams of each other and would need to return true but good and dog are not and would need to return false. 
+</p>
+<p>
+    As I thought about the challenge, I realized that for this lesson we are focusing on dictionaries, so I asked myself how can I used a dictionary to solve this problem. From there, I realized that I can add each letter to a dictionary and count up the number of times each letter is used. From there, I can make sure that each letter is found in each word in the same quantities. 
+</p>
+<p>
+    The case of each letter is not supposed to matter, so I will have to convert each string to lower case, which is easy through the lower() method. Spaces are supposed to be ignored. I remembered a method to remove whitespace, but could not remember the command (strip()), however, that would only remove from the ends of a string. I need something that would also remove from the middle, and with a bit more searching, I found remove. So, the solution would be to convert each string to lower case, replace all spaces with nothing (effectively deleting it). Then, I would iterate through each string, checking if each letter was in a dictionary, and either adding to the existing count or adding it to the dictionary with a count of 1. I would have a dictionary for each word I am comparing. Then I would need to use the letters in one word to check and see if each of the two dictionaries contain the same letters in the same quantities. 
+</p>
+<p>
+    After fixing a few typos on my solution, I found it was crashing out the first time I ran into two strings that had characters that were not shared with each other. From there, I added a check to see if the character I was testing was in both dictionaries and that solved the problem. 
+<p>
