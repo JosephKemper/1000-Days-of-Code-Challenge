@@ -478,3 +478,18 @@
 <p>
     After fixing a few typos on my solution, I found it was crashing out the first time I ran into two strings that had characters that were not shared with each other. From there, I added a check to see if the character I was testing was in both dictionaries and that solved the problem. 
 </p>
+<h1>
+    Day 242
+</h1>
+<h3>
+    Thursday, 18 May, 2023
+</h3>
+<p>
+    As I started working on the 4th challenge for this lesson, I ran across something that annoyed me and I am happy about that. I realized that with the most obvious way to solve the problem, I was essentially going to have to copy and paste a bunch of code. So, I started to rethink how I was going to solve the problem. I just need to learn a bit more about how classes in python work. 
+</p>
+<p>
+    I figured out a solution. I'm technically not sure why there was a problem. For some reason, when I tried to implement a bit of the DRY principle and have the section of code that was outside of the individual functions, but when I included it into the individual functions, everything worked properly.
+</p>
+<p>
+    While I did not like literally having to copy and past code into the multiple parts of my program, it worked, and I would rather have working code than pretty code. The only thing I can figure is that something about the possible directions was not updating properly each time. 
+</p>
