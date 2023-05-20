@@ -503,16 +503,19 @@
     Today, was a bit of study, but not in the normal way I have been. Today, I got a bit more focused on what kind of programming job I want. Just over a year ago, I started learning programming, but had not really focused in on where my niche would be. Today, I chose the role I want to focus on. I am going to become a mobile developer. a wonderfully helpful person on Twitter asked me a question that left me initially looking ignorant with the response I gave, and accurately so. @mnabilarta asked whether I was planning on native or hybrid. My initial response was to simply say whatever makes me more marketable. Now, that I have actually studied more on the topic, I realize that it is not that simple. In many cases, I realize that companies are going to prefer hybrid because of its lower development costs and easier process of upgrading the software. However, for those companies who want to have higher quality apps with more features and power accessible, then they will want to use native apps, and in many cases, I can see companies not really knowing the difference or what would be best for their needs. So, with that in mind, for me to learn both native and hybrid, would put me in a really valuable spot, at least if I can successfully master both methods. If I can't, then I think I would want to focus on native development, because after studying about the topic, I am pretty sure I know of a few apps that are built using the hybrid approach and they are massively annoying to work with. To be fair, I realize that those apps are only a small sampling of apps in a larger spectrum of companies and will not represent the greater whole. The reason I would choose native development over hybrid is really connected with a problem I have with the entire US business model, which is magnified by the all powerful idol god worshipped by so many, called the stock market. Too often companies are short sighted, and to me, with the admittedly limited knowledge I have on the topic, it feels shortsighted to build an app in a way that has so many limitations and restrictions to it. I guess, if you know your app will never get big enough or need enough resources to justify the native app development, then that might be one thing, but why would you plan to limit yourself in any way? Build your app, like you would build a proper business, build it in such a way that you could turn it over to someone else go on a 3 month cruise somewhere without internet, or phone service, and know that as long as you hired someone who actually wanted to do the job, you could come back and have everything working the way it should. 
     https://www.cleveroad.com/blog/native-vs-hybrid-app-development/
     https://www.indeed.com/career/mobile-developer/salaries
-<<<<<<< HEAD
 </p>
 <h1>
-    Day 243
+    Day 244
 </h1>
 <h3>
     Saturday, 20 May, 2023
 </h3>
 <p>
-
-=======
->>>>>>> cea1b43d90b080d7dedfa830a0114800d3baab91
+    Today, I learned about the importance of networking when it comes to job hunting, downloaded the Android Studio, and solved the last problem for my dictionary assignment.
+</p>
+<p>
+    Today, I downloaded and installed the Android developer studio. I found out that to develop apps for an Apple product, I need to have an Apple product. I don't know what I think of that. But, I should have enough to play with just learning to build an app for an Android. I also learned about the power of networking when getting jobs. Apparently more than 3 out of 4 jobs are never posted anywhere and are only filled through word of mouth. Which means that networking to find jobs is a powerful way to find a job. On Monday, I will start trying to learn how to use the Android Studio.
+</p>
+<p>
+    Today, I solved the last of the problems for my dictionary assignment. In think for this problem, the hardest part was making sense of how the data was stored. My task was to pull data earthquake data from the USGS website, and print a list of the earthquakes from today. The data is stored in JSON format and was a dictionary of 4 data structures. The 1st was a dictionary containing general statistics. The 2nd was a list of some other statistics. The 4th was a dictionary containing a list of location details. And the 3rd (the one I needed to work with) was a list of dictionaries containing details about each earthquake. After figuring out how they had the data mapped, it was just a matter of creating a simple for loop to pull the data out and print it to the console. Overall, I learned a lot about understanding data structures. 
 </p>
