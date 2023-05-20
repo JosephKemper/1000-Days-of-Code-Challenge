@@ -503,6 +503,7 @@
     Today, was a bit of study, but not in the normal way I have been. Today, I got a bit more focused on what kind of programming job I want. Just over a year ago, I started learning programming, but had not really focused in on where my niche would be. Today, I chose the role I want to focus on. I am going to become a mobile developer. a wonderfully helpful person on Twitter asked me a question that left me initially looking ignorant with the response I gave, and accurately so. @mnabilarta asked whether I was planning on native or hybrid. My initial response was to simply say whatever makes me more marketable. Now, that I have actually studied more on the topic, I realize that it is not that simple. In many cases, I realize that companies are going to prefer hybrid because of its lower development costs and easier process of upgrading the software. However, for those companies who want to have higher quality apps with more features and power accessible, then they will want to use native apps, and in many cases, I can see companies not really knowing the difference or what would be best for their needs. So, with that in mind, for me to learn both native and hybrid, would put me in a really valuable spot, at least if I can successfully master both methods. If I can't, then I think I would want to focus on native development, because after studying about the topic, I am pretty sure I know of a few apps that are built using the hybrid approach and they are massively annoying to work with. To be fair, I realize that those apps are only a small sampling of apps in a larger spectrum of companies and will not represent the greater whole. The reason I would choose native development over hybrid is really connected with a problem I have with the entire US business model, which is magnified by the all powerful idol god worshipped by so many, called the stock market. Too often companies are short sighted, and to me, with the admittedly limited knowledge I have on the topic, it feels shortsighted to build an app in a way that has so many limitations and restrictions to it. I guess, if you know your app will never get big enough or need enough resources to justify the native app development, then that might be one thing, but why would you plan to limit yourself in any way? Build your app, like you would build a proper business, build it in such a way that you could turn it over to someone else go on a 3 month cruise somewhere without internet, or phone service, and know that as long as you hired someone who actually wanted to do the job, you could come back and have everything working the way it should. 
     https://www.cleveroad.com/blog/native-vs-hybrid-app-development/
     https://www.indeed.com/career/mobile-developer/salaries
+<<<<<<< HEAD
 </p>
 <h1>
     Day 243
@@ -512,4 +513,6 @@
 </h3>
 <p>
 
+=======
+>>>>>>> cea1b43d90b080d7dedfa830a0114800d3baab91
 </p>
