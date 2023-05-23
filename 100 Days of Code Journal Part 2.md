@@ -519,3 +519,21 @@
 <p>
     Today, I solved the last of the problems for my dictionary assignment. In think for this problem, the hardest part was making sense of how the data was stored. My task was to pull data earthquake data from the USGS website, and print a list of the earthquakes from today. The data is stored in JSON format and was a dictionary of 4 data structures. The 1st was a dictionary containing general statistics. The 2nd was a list of some other statistics. The 4th was a dictionary containing a list of location details. And the 3rd (the one I needed to work with) was a list of dictionaries containing details about each earthquake. After figuring out how they had the data mapped, it was just a matter of creating a simple for loop to pull the data out and print it to the console. Overall, I learned a lot about understanding data structures. 
 </p>
+<h3>
+    Sunday, 2a May, 2023
+</h3>
+<p>
+Scheduled day off
+</p>
+<h1>
+    Day 245
+</h1>
+<h3>
+    Monday, 22 May, 2023
+</h3>
+<p>
+    Today, I started working on my next assignment. It is on linked lists (In Python this is handled by the Deque). Today, was mostly a day of study. I did however get my me and 30 seconds written as part of starting to ask for referrals on my job hunt. The specific assignment I will be working on has mostly built a linked list manually I need to decipher what it is doing, finish out a few parts of it, and debug a few others.
+</p>
+<p>
+    I am trying to get my first programming job. My ultimate goal is to become a mobile developer. I have experience using Python, JavaScript and C#. I also have experience with Object Oriented ideas like programming functions, classes, and data structures. What opportunities do you know of for someone with my skills? 
+</p>
