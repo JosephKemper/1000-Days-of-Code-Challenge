@@ -537,3 +537,18 @@ Scheduled day off
 <p>
     I am trying to get my first programming job. My ultimate goal is to become a mobile developer. I have experience using Python, JavaScript and C#. I also have experience with Object Oriented ideas like programming functions, classes, and data structures. What opportunities do you know of for someone with my skills? 
 </p>
+<h1>
+    Day 246
+</h1>
+<h3>
+    Tuesday, 23 May, 2023
+</h3>
+<p>
+    Today, I got things set up to start getting job alerts, and started learning Kotlin. Along the way, I discovered that it really does get easier to learn new programming languages.
+</p>
+<p>
+    Starting off the day, I dove more into job hunting skills, and learned about building a resume to suit the needs of the specific employer. I also got a job alert for mobile developer set up, with the specific goal of either updating my profile building a to do list of skills I will develop. I also started to go through Google's course on becoming an Android Developer. 
+</p>
+<p>
+    Finishing the day, I went through the first 3 lessons of Google's intro to Kotlin and discovered that it really does get easier to learn new languages as you learn more. This is the 4th language I have learned, and while I am just getting started on Kotlin, it definitely feels easier to learn than the other languages I have learned. 
+</p>
