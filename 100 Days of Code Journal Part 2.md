@@ -552,3 +552,12 @@ Scheduled day off
 <p>
     Finishing the day, I went through the first 3 lessons of Google's intro to Kotlin and discovered that it really does get easier to learn new languages as you learn more. This is the 4th language I have learned, and while I am just getting started on Kotlin, it definitely feels easier to learn than the other languages I have learned. 
 </p>
+<h1>
+    Day 247
+</h1>
+<h3>
+    Wednesday, 24 May, 2023
+</h3>
+<p>
+    Today, I finished the introduction to Kotlin lesson on developer.android.com. Tomorrow, I start on the lesson introducing Android Studio. Now, that I have 4 languages I have had significant exposure to, I can see many similarities between the different languages. I can also see their unique aspects and how they can be beneficial in different circumstances. I also reviewed the code for the next set of problems I am going to be solving. 
+</p>
