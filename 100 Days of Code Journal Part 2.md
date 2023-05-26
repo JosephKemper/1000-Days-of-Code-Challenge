@@ -561,3 +561,12 @@ Scheduled day off
 <p>
     Today, I finished the introduction to Kotlin lesson on developer.android.com. Tomorrow, I start on the lesson introducing Android Studio. Now, that I have 4 languages I have had significant exposure to, I can see many similarities between the different languages. I can also see their unique aspects and how they can be beneficial in different circumstances. I also reviewed the code for the next set of problems I am going to be solving. 
 </p>
+<h1>
+    Day 248
+</h1>
+<h3>
+    Thursday, 25 May, 2023
+</h3>
+<p>
+    Today, I built my first Android app! Sure, it was basically a hello world app, but I got it built and even ran it on my own phone. 
+</p>
