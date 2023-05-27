@@ -563,10 +563,40 @@ Scheduled day off
 </p>
 <h1>
     Day 248
-</h1>
+</h1l>
 <h3>
     Thursday, 25 May, 2023
 </h3>
 <p>
     Today, I built my first Android app! Sure, it was basically a hello world app, but I got it built and even ran it on my own phone. 
+</p>
+<h1>
+    Day 249
+</h1>
+<h3>
+    Friday, 26 May, 2023
+</h3>
+<p>
+    Today, I built a function to insert a new tail onto a linked list in Python, allowing for it to work properly if the list was either empty or had items previously in it. I also built code to remove the tail from a linked list either if the linked list only contained 1 item, or if the list had multiple items in it. 
+</p>
+<h1>
+    Day 250
+</h1>
+<h3>
+    Saturday, 27 May, 2023
+</h3>
+<p>
+    Today, I solved the remaining three problems for my linked list assignment and in the process gained a powerful and deep appreciation for prebuilt lists and how much easier they are to work with. 
+</p>
+<p>
+    The first of the three I solved had the challenge of taking and iterating through a manually built list, which can only be accessed by either starting at the head or the tail of the list, and then find the first node with a provided value, and then remove it. Initially, I tried to make sense of the code that was provided to see if I could make sense of everything, but that was unfruitful. My first several attempts were all epic failures that ended in one application crashing mess after another that even my handy dandy AI search engine could not make sense of. Eventually, I finally figured out how to iterate through the list, and then I had to figure out how to access the data. It only took 3 attempts (along with a little help from my handy AI search engine) to figure that out. 
+</p>
+<p>
+    The goal of the second problem I solved was to replace all values in the list containing a provided value with another provided value. The work I put into solving the first problem, made the second one much quicker and easier to solve. I just had to modify the loop a bit to account for the different conditions, and then make sure I was properly accessing and updating the data, and that only took a few tries along with a little help from my hand AI search engine. 
+</p>
+<p>
+    The goal of the last problem I solved was to print the list in reverse order. Between the work I did on the prior two problems, and the understanding I had developed of the program as a whole, I almost instantly knew what I needed to do, I just needed to find the right format to accomplish it with, and that only took a few quick tries to achieve. The biggest challenge was to get the output formatted properly and that involved realizing that the word yield which they put into the file was a hint not just a random word. From there, after I got a workable model and learned how the yield command worked, I refactored the code turning 8 lines into 2 that even made more sense to look at. 
+</p>
+<p>
+    Overall, I am happy with how today went, I spent way more time than I planned to on this assignment but I did not want to take a shortcut. One of the major goals of the class is to learn how to problem solve and as that is a required skill needed to excel in programming, I want to master it.
 </p>
