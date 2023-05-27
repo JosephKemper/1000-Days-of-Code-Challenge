@@ -563,10 +563,19 @@ Scheduled day off
 </p>
 <h1>
     Day 248
-</h1>
+</h1l>
 <h3>
     Thursday, 25 May, 2023
 </h3>
 <p>
     Today, I built my first Android app! Sure, it was basically a hello world app, but I got it built and even ran it on my own phone. 
+</p>
+<h1>
+    Day 249
+</h1>
+<h3>
+    Friday, 26 May, 2023
+</h3>
+<p>
+    Today, I built a function to insert a new tail onto a linked list in Python, allowing for it to work properly if the list was either empty or had items previously in it. I also built code to remove the tail from a linked list either if the linked list only contained 1 item, or if the list had multiple items in it. 
 </p>
