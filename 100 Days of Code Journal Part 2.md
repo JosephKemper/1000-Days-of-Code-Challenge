@@ -563,7 +563,7 @@ Scheduled day off
 </p>
 <h1>
     Day 248
-</h1l>
+</h1>
 <h3>
     Thursday, 25 May, 2023
 </h3>
