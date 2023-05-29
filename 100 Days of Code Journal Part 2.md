@@ -606,3 +606,30 @@ Scheduled day off
 <p>
     Scheduled day off coding
 </p>
+<h1>
+    Day 251
+</h1>
+<h3>
+    Monday, 29 May, 2023
+</h3>
+<p>
+    Today, I learned about recursion. Recursion is where the function calls itself. Good recursive functions will not be so simple that they can be solved with a simple for loop and will be designed to not run forever. In order to properly accomplish this we will need to define base cases, places that tell the program where to stop. We can also employ tools that will help the program speed up and not have to do repeated work. For example, you could build a dictionary to store the discovered parts of a fibonacci sequence, letting the program look up discovered variables in subsequent runs.
+</p>
+<p>
+    Like the last several assignments I have completed, to complete this assignment, I will need to solve five problems. For these problems, I will need to use recursion along with anything else I have learned in this class. 
+</p>
+<p>
+    The first problem involves being provided a number and then finding the sum of the squares of each number between that number and 1 inclusive, without using a loop. 
+</p>
+<p>
+    The second problem involves being given a string of unique letters and a word length. The challenge is to find every permutation of the letters for that word length. For example if I were provided the letters "ABCD" and the number three, I would need to write a program using recursion to find all 24 combinations of three letters for those 4 letters. 
+</p>
+<p>
+    The third problem involves being given a count of stairs and the option of either taking 1, 2, or 3 stairs at a time. The challenge is to use recursion to find all possible ways to climb the stairs. For this problem, they want you to write your code to be able to handle larger numbers like for example 100, which without first implementing a dictionary to remember prior solutions found, would cause python to stop working. 
+</p>
+<p>
+    The forth problem, involves being given a string of characters that contain either a 1, 0, or *. The challenge I will have is to use recursion to produce all possible combinations of the string where each * is replaced by either a 1 or 0. For example, a string of 1*1 should produce 1001, 1011, 1101, and 1111. 
+</p>
+<p>
+    The fifth problem is the one I am most excited to try to solve. We need to use recursion to help a computer find a way through a maze. 
+</p>
