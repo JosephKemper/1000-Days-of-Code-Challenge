@@ -600,3 +600,9 @@ Scheduled day off
 <p>
     Overall, I am happy with how today went, I spent way more time than I planned to on this assignment but I did not want to take a shortcut. One of the major goals of the class is to learn how to problem solve and as that is a required skill needed to excel in programming, I want to master it.
 </p>
+<h3>
+    Sunday, 28 May, 2023
+</h3>
+<p>
+    Scheduled day off coding
+</p>
