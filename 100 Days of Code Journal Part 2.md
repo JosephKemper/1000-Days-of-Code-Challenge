@@ -652,3 +652,12 @@ Scheduled day off
 <p>
     It took a bit of playing around to understand what that code was doing along with a few other tries before I realized how I could use that principle to solve my problem. Instead of multiplying n by a call to the function including n minus 1, I would multiply n by n and then add a call to the function including n - 1. At that point, the function would queue up the who series and add them all to 1. 
 </p>
+<h1>
+    Day 253
+</h1>
+<h3>
+    Wednesday, 31 May, 2023
+</h3>
+<p>
+    Today, I learned about the power of understanding code. I solved the second problem for my recursive programming assignment and the only code I actually wrote to do it just involved editing two lines of code from the study material. Initially, when I first started trying to figure out the problem, they seemed like two different problems that just happened to involve similar concepts, but then as I dove deeper, I realized that the only difference was that the one I was trying to solve simply had an extra condition added. The problem I was trying to solve was to take and find all permutations of a string of letters but only find them to a length provided after the code starts running. The problem they demoed in the reading material was to find all permutations of a string of letters based on how long the string was. I am beginning to see why programmers are sometimes referred to as professional Googlers. 
+</p>
