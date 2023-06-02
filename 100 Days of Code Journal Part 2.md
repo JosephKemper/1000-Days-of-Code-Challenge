@@ -661,3 +661,12 @@ Scheduled day off
 <p>
     Today, I learned about the power of understanding code. I solved the second problem for my recursive programming assignment and the only code I actually wrote to do it just involved editing two lines of code from the study material. Initially, when I first started trying to figure out the problem, they seemed like two different problems that just happened to involve similar concepts, but then as I dove deeper, I realized that the only difference was that the one I was trying to solve simply had an extra condition added. The problem I was trying to solve was to take and find all permutations of a string of letters but only find them to a length provided after the code starts running. The problem they demoed in the reading material was to find all permutations of a string of letters based on how long the string was. I am beginning to see why programmers are sometimes referred to as professional Googlers. 
 </p>
+<h1>
+    Day 254
+</h1>
+<h3>
+    Thursay, 1 June, 2023
+</h3>
+<p>
+    I'm almost getting worried. This problem was too easy. Today, I solved the 3rd problem. My challenge was to implement code to remember what had previously been found in a function built to find all possible combinations of steps that could be taken, assuming you could take either 1, 2, or 3 steps at a time. Again with this problem, I found that the reading material almost perfectly spelled out the solution. I just had to adjust one variable name and then add 4 lines of code, and modify one more to override the recursive function call. 
+</p>
