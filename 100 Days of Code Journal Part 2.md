@@ -665,8 +665,17 @@ Scheduled day off
     Day 254
 </h1>
 <h3>
-    Thursay, 1 June, 2023
+    Thursday, 1 June, 2023
 </h3>
 <p>
-    I'm almost getting worried. This problem was too easy. Today, I solved the 3rd problem. My challenge was to implement code to remember what had previously been found in a function built to find all possible combinations of steps that could be taken, assuming you could take either 1, 2, or 3 steps at a time. Again with this problem, I found that the reading material almost perfectly spelled out the solution. I just had to adjust one variable name and then add 4 lines of code, and modify one more to override the recursive function call. 
+    I'm almost getting worried. This problem was too easy, but I double checked the results so... Today, I solved the 3rd problem. My challenge was to implement code to remember what had previously been found in a function built to find all possible combinations of steps that could be taken, assuming you could take either 1, 2, or 3 steps at a time. Again with this problem, I found that the reading material almost perfectly spelled out the solution. I just had to adjust one variable name and then add 4 lines of code, and modify one more to override the recursive function call. 
+</p>
+<h1>
+    Day 255
+</h1>
+<h3>
+    Friday, 2 June, 2023
+</h3>
+<p>
+    Today, I started the process of mapping out the next problem I need to solve. This one is happily a lot more difficult. 
 </p>
