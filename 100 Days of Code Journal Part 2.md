@@ -679,3 +679,18 @@ Scheduled day off
 <p>
     Today, I started the process of mapping out the next problem I need to solve. This one is happily a lot more difficult. 
 </p>
+<h1>
+    Day 256
+</h1>
+<h3>
+    Friday, 2 June, 2023
+</h3>
+<p>
+    The forth problem I am trying to solve involves taking a string of characters consisting of 1, 0, or *, and produce a series of outputs containing every possible combination of 1, and 0 digits in place of the *. I struggled with this yesterday ... a lot. I couldn't even figure out a basic strategy to the problem. Today, I started reviewing old lessons I've already gone through to see what I can find to help. The first lesson I went through, which was the first lesson of the semester, gave an overview of how to solve problems and the first step was to understand the problem. So, I opened up OneNote and started writing down more about the problem to try to understand what I am trying to achieve. If my program were to be fed this string 1*1, then it should put out both 111, and 101. If it were fed this string 1**1, it should put out 1111, 1001, 1011, and 1101. As I wrote that, I realized that the problem is far simpler than I realized, essentially, I am trying to take a string and replace each * with both a 1 and a 0. This means that, my outcomes will be 2 to the power of n, where n is equal to the number of * symbols in the string. As we are studying recursion, my solution needs to involve the use of recursion. 
+</p>
+<p>
+    After a few more notes jotted down in OneNote and some time spent pacing and talking the problem out, I think I have a strategy to solve the problem with. I will have two different lists that I will be working with. One, will contain a list of manipulated strings which will essentially act as a queue, it is where I will store the strings I have started to replace characters in. The other will be used to break those strings up into a manipulatable list. For the program, I will pull the first item out of the list check if there is a * in the string. If there is, it will assign that string to 2 different variables. One will be used to replace the first * found with a 1 and the other will be used to replace the first * found with a 0. If there is not any * characters in the string, it will remove that string from the list, and print it to the console. If there are any items left in the list, it will call the function again to continue cycling through the rest of the list. 
+</p>
+<p>
+    In the end, other than needing to fix a few problems with improperly built loops, and organize things a bit better, my solution worked perfectly. I don't know if it is the most efficient solution, but it is the best solution I could figure out while using recursion. 
+</p>
