@@ -694,3 +694,18 @@ Scheduled day off
 <p>
     In the end, other than needing to fix a few problems with improperly built loops, and organize things a bit better, my solution worked perfectly. I don't know if it is the most efficient solution, but it is the best solution I could figure out while using recursion. 
 </p>
+<h3>
+    Sunday, 4 June, 2023
+</h3>
+<p>
+    Scheduled Day off Coding
+</p>
+<h1>
+    Day 257
+</h1>
+<h3>
+    Monday, 5 June, 2023
+</h3>
+<p>
+
+</p>
