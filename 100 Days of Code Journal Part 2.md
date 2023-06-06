@@ -707,5 +707,5 @@ Scheduled day off
     Monday, 5 June, 2023
 </h3>
 <p>
-
+    Today, I spent some time studying the next problem I need to solve. I still have a bit more work to go before I will be ready to move forward. 
 </p>
