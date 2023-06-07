@@ -694,3 +694,27 @@ Scheduled day off
 <p>
     In the end, other than needing to fix a few problems with improperly built loops, and organize things a bit better, my solution worked perfectly. I don't know if it is the most efficient solution, but it is the best solution I could figure out while using recursion. 
 </p>
+<h3>
+    Sunday, 4 June, 2023
+</h3>
+<p>
+    Scheduled Day off Coding
+</p>
+<h1>
+    Day 257
+</h1>
+<h3>
+    Monday, 5 June, 2023
+</h3>
+<p>
+    Today, I spent some time studying the next problem I need to solve. I still have a bit more work to go before I will be ready to move forward. 
+</p>
+<h1>
+    Day 258
+</h1>
+<h3>
+    Tuesday, 6 June, 2023
+</h3>
+<p>
+    I got a possible solution to the problem I am working on figured out and even have a first draft written. It is just not very efficient, to the extent that Python forces it to stop it before it completes. I think I know how to fix it, and will try to implement that tomorrow. 
+</p>
