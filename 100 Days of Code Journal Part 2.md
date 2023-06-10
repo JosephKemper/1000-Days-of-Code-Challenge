@@ -520,7 +520,7 @@
     Today, I solved the last of the problems for my dictionary assignment. In think for this problem, the hardest part was making sense of how the data was stored. My task was to pull data earthquake data from the USGS website, and print a list of the earthquakes from today. The data is stored in JSON format and was a dictionary of 4 data structures. The 1st was a dictionary containing general statistics. The 2nd was a list of some other statistics. The 4th was a dictionary containing a list of location details. And the 3rd (the one I needed to work with) was a list of dictionaries containing details about each earthquake. After figuring out how they had the data mapped, it was just a matter of creating a simple for loop to pull the data out and print it to the console. Overall, I learned a lot about understanding data structures. 
 </p>
 <h3>
-    Sunday, 2a May, 2023
+    Sunday, 21 May, 2023
 </h3>
 <p>
 Scheduled day off
@@ -708,22 +708,4 @@ Scheduled day off
 </h3>
 <p>
     Today, I spent some time studying the next problem I need to solve. I still have a bit more work to go before I will be ready to move forward. 
-</p>
-<h1>
-    Day 258
-</h1>
-<h3>
-    Tuesday, 6 June, 2023
-</h3>
-<p>
-    I got a possible solution to the problem I am working on figured out and even have a first draft written. It is just not very efficient, to the extent that Python forces it to stop it before it completes. I think I know how to fix it, and will try to implement that tomorrow. 
-</p>
-<h1>
-    Day 259
-</h1>
-<h3>
-    Wednesday, 7 June, 2023
-</h3>
-<p>
-    Today, I finished writing a function to teach a computer how to solve a maze. The provided tests for the program gave two different mazes to try to find my way through, one was a smaller maze with two possible paths. I only found one of them. The other was a larger maze that had only one possible path and many dead end paths. One of the conditions to solve the problem was that we needed to use recursion. My first attempt at a solution hit the recursion limit in python because it was trying to use recursion to make any move. From there, I refactored the code to only use recursion if it hit a dead end. However, even with that change I still hit the recursion limit. From there, I realized that the reason for the problem was that the code would slowly add each square along a dead end path to the list I was using to track dead ends. So, I refactored the code again, and added the ability to track the last time the program made a choice between two paths, and specifically track the first square along a path. From there, I enabled to program to mark that first square as a dead end instead of having to go through the whole path. 
 </p>
