@@ -739,3 +739,21 @@ Scheduled day off
 <p>
     For problem 1, I just had to figure out what the provided code was doing and then add in 2 lines of code that checked if the data being processed was the same as the data in the node and then exit the function. The rest was handled by the existing code.
 </p>
+<h1>
+    Day 261
+</h1>
+<h3>
+    Friday, 9 June, 2023
+</h3>
+<p>
+    Today, I solved the second of my Binary Search Tree problems. The problem I solved today, was to figure out how to write a function to let the program find if a given value was in the tree. We were previously given code that let us add to an item to the tree. They gave us two hints to solve this problem, the first was that we would need to use recursion, and then that we should look at the provided code for the first problem. After pondering on the code from the first problem, I realized that the same process for determining where to put a value in the binary search tree would also let us find a given value. And with just a few modifications, I was able to get a working solution put together. The only problem I ran into was forgetting to add a return statement that was needed in this case to get the recursive call to the function properly working. 
+</p>
+<h1>
+    Day 262
+</h1>
+<h3>
+    Saturday, 10 June, 2023
+</h3>
+<p>
+    Today, I solved 2 more of the 5 problems I need to solve on the binary search tree assignment I am working on. The first problem I solved involved writing code to traverse backwards through the tree. They gave you the hint to look at the traverse forward method they had already written, and that you would need to use the yield keyword to get it done. As I looked at the traverse forward method, I noticed how the first line in the loop seemed to go to the left node, the second just seemed to return the data, and the last went to the right node. So, I decided to simply switch the first and last line and modify which function they were recursively calling. To my complete shock, it worked perfectly. I had no idea of why it worked, or what it was doing, so I used my friendly AI search engine and got a thorough understanding of the solution I stumbled across. From there, I built a function to get the height of the binary search tree. My initial attempts epically failed, and I realized that the reason boiled down to the idea that I did not know enough about how Python handled the custom built binary search tree we were building. So, after I did a bit of study, as in a few hours worth, I got a wonderfully simplified solution to problem built that used built in Python functionality to use recursion to count the number of nodes on the left and the right, and then simply returned the largest of the two values that were created for the left and right branches. 
+</p>
