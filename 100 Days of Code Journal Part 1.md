@@ -867,7 +867,7 @@
     I got the structure of my menu class built out. I had to make one adjustment from my original plan because I discovered that how I was planning on doing it would have exited out of the app from a submenu if the user ever created 6 or more goals and tried to update the status of the 6th one. 
 </p>
 <h1>
-    Day 180
+    Day 181
 </h1>
 <h3>
     Tuesday, 7 March, 2023
@@ -876,7 +876,7 @@
      Today, I got the core structure of my Goals class completed. Tomorrow, I will write the code to create a simple goal, which will involve fleshing out both the Menu Class and the Goal class a bit. 
 </p>
 <h1>
-    Day 181
+    Day 182
 </h1>
 <h3>
     Wednesday, 8 March, 2023
@@ -885,7 +885,7 @@
     Today, I started to create the SimpleGoal class. I got it to where the program will ask for the different elements of the goal. I got stuck trying to figure out how to add items of different type to a private list in another class. 
 </p>
 <h1>
-    Day 182
+    Day 183
 </h1>
 <h3>
     Thursday, 9 March, 2023
@@ -894,7 +894,7 @@
     Today, I wrote the method to save my goals to a list, and started to write code to iterate through that list.
 </p>
 <h1>
-    Day 183
+    Day 184
 </h1>
 <h3>
     Friday, 10 March, 2023
@@ -903,7 +903,7 @@
     Today, I adjusted the plan for my goal tracker. I simplified how I was planning on saving, loading and displaying the goals. 
 </p>
 <h1>
-    Day 184
+    Day 185
 </h1>
 <h3>
     Saturday, 11 March, 2023
@@ -918,7 +918,7 @@
     Scheduled day off of Coding
 </p>
 <h1>
-    Day 185
+    Day 186
 </h1>
 <h3>
     Monday, 13 March, 2023
@@ -927,7 +927,7 @@
     Today, was spent figuring out what I will be doing for my final in my programming class and reviewing the requirements. I'll be writing 4 small programs that each demonstrate a different one of the 4 principles of programming with classes. 
 </p>
 <h1>
-    Day 186
+    Day 187
 </h1>
 <h3>
     Tuesday, 14 March, 2023
@@ -936,7 +936,7 @@
     Today, I started preparing for my final in my C# Programming with Classes class. I spent about an hour and a half diving back into the principles of abstraction. 
 </p>
 <h1>
-    Day 187
+    Day 188
 </h1>
 <h3>
     Wednesday, 15 March, 2023
@@ -945,7 +945,7 @@
     Today, I spent a bit more time planning and reviewing for my final project. I reviewed the principles of encapsulation and inheritance. Tomorrow, I expect to finish my review and formally start my planning.
 </p>
 <h1>
-    Day 188
+    Day 189
 </h1>
 <h3>
     Thursday, 16 March, 2023
@@ -954,7 +954,7 @@
     Today, I finished my project proposal and formally started the plan on my first program. I will be writing 4 small programs that each demonstrate a principle of OOP. 
 </p>
 <h1>
-    Day 189
+    Day 190
 </h1>
 <h3>
     Friday, 17 March, 2023
@@ -966,7 +966,7 @@
     The simple steps to abstraction I created after my deep dive into abstraction are as follows: first, you start by asking what the program does, then, you strip away the nonessential elements. From there, you ask what steps the program needs to take to accomplish its purpose, these will become the methods. Finally, you ask what the program needs to have in order to accomplish its purpose, these will become the member variables. In all of these steps, you do not need to worry about how the step will be accomplished, that will come later, you just need to worry about planning the inputs and outputs of each step along the way. 
 </p>
 <h1>
-    Day 190
+    Day 191
 </h1>
 <h3>
     Saturday, 18 March, 2023
@@ -981,7 +981,7 @@
     Scheduled Day off of Coding.
 </p>
 <h1>
-    Day 191
+    Day 192
 </h1>
 <h3>
     Monday, 20 March, 2023
@@ -990,7 +990,7 @@
     I didn't get a lot of coding done today, but I got some of the foundation of my first project for my final built.
 </p>
 <h1>
-    Day 192
+    Day 193
 </h1>
 <h3>
     Tuesday, 21 March, 2023
@@ -999,7 +999,7 @@
     Another light day of coding today. I got the data gathered for my program and the code written to load up the file. The end goal is to write a program that will be able to read take the string that I have currently arranged to attach to a file, break it down into Video title, author/channel name, length, name of the person who made a comment and the actual text of the comment. Then count the number of comments, and format that for display in a report form. 
 </p>
 <h1>
-    Day 193
+    Day 194
 </h1>
 <h3>
     Wednesday, 22 March, 2023
@@ -1008,7 +1008,7 @@
     Another light day of coding. I got more of the planned classes fleshed out, and realized a few areas I need to better plan. 
 </p>
 <h1>
-    Day 194
+    Day 195
 </h1>
 <h3>
     Thursday, 23 March, 2023
@@ -1017,7 +1017,7 @@
     Today, was a wonderfully productive day. I am finally feeling better. I got the first program I will be writing for my final loading up the video file, splitting it out into different videos, pulled out several pieces of data from that list, wrote code to figure out whether the video just has minutes and seconds or hours minutes and seconds and then convert that into seconds, and display all of that in proper formatted way for the user. 
 </p>
 <h1>
-    Day 195
+    Day 196
 </h1>
 <h3>
     Friday, 24 March, 2023
@@ -1026,7 +1026,7 @@
     Today, was another wonderfully productive day. I got the comments partially displaying, I found 2 more bugs with the display of comments, but I will get them fixed tomorrow.
 </p>
 <h1>
-    Day 196
+    Day 197
 </h1>
 <h3>
     Saturday, 25 March, 2023
@@ -1047,7 +1047,7 @@
     Scheduled day off from coding
 </p>
 <h1>
-    Day 197
+    Day 198
 </h1>
 <h3>
     Monday, 27 March, 2023
@@ -1056,20 +1056,11 @@
     Today was a light day of coding. I reviewed the plan for my 3rd program and got all of the files prepped and got the core of what I planned put in place to start fleshing out. 
 </p>
 <h1>
-    Day 198
+    Day 199
 </h1>
 <h3>
     Tuesday, 28 March, 2023
 </h3>
 <p>
     Today, I polished up the address class, created fake events for the program to use to generate the event announcements with, and spent some time studying inheritance. Tomorrow I start coding.
-</p>
-<h1>
-    Day 199
-</h1>
-<h3>
-    Wednesday, 29 March, 2023
-</h3>
-<p>
-    Today was an amazingly productive day. I finished my 3rd program for my final and got my last one started. Today, was also my 200th day of coding for my 100 days of code journey. 
 </p>
