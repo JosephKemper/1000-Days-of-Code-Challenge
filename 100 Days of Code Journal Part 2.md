@@ -781,3 +781,12 @@ Scheduled day off
 <p>
     Today, was spent trying to analyze the requirements for the last problem of my binary search tree as well as start the planning for how I will solve the problem. 
 </p>
+<h1>
+    Day 265
+</h1>
+<h3>
+    Tuesday, 13 June, 2023
+</h3>
+<p>
+    Got a working solution to problem 5 written. Tomorrow, I will finish my notes and make a post about everything. 
+</p>
