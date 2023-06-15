@@ -790,3 +790,15 @@ Scheduled day off
 <p>
     Got a working solution to problem 5 written. Tomorrow, I will finish my notes and make a post about everything. 
 </p>
+<h1>
+    Day 266
+</h1>
+<h3>
+    Wednesday, 14 June, 2023
+</h3>
+<p>
+    Today, I finally finished solving problem 5 for my Binary search tree program. The challenge was to write code to help the program be fed a single list, find the middle of the list and add that to the binary search tree data structure we finished building with the other 4 challenges, sort through the first and second halves of the list without splitting the list, and sequentially add the middle of each sub list into the tree in the proper order. 
+</p>
+<p>
+    To solve this, I had to learn about how Python handles recursive function calls. More specifically, I had to learn that when you have two recursive calls to a function within a function, Python is smart enough to know how to keep track of everything. In the end, I first built a check to stop the program if it either gets fed an empty list or reaches the end of both sub lists. From there, it will grab the middle of the sorted list, which for a binary search tree is the best way to add numbers, and then will use recursion along with a reference to both first and last that is used to create to sub lists which together ends up adding the first half of the list then the second half of the list creating a balanced binary search tree regardless of the size of the list that is fed into the function. However, given the exclusive use of recursion to solve the problem, if the list fed into the function was of large enough size, it could cause Python to complain about too many calls to the function, which based on my tests, will likely have a stopping point that will vary from computer to computer. 
+</p>
