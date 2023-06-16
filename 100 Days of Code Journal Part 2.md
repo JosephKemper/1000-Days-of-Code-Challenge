@@ -802,3 +802,12 @@ Scheduled day off
 <p>
     To solve this, I had to learn about how Python handles recursive function calls. More specifically, I had to learn that when you have two recursive calls to a function within a function, Python is smart enough to know how to keep track of everything. In the end, I first built a check to stop the program if it either gets fed an empty list or reaches the end of both sub lists. From there, it will grab the middle of the sorted list, which for a binary search tree is the best way to add numbers, and then will use recursion along with a reference to both first and last that is used to create to sub lists which together ends up adding the first half of the list then the second half of the list creating a balanced binary search tree regardless of the size of the list that is fed into the function. However, given the exclusive use of recursion to solve the problem, if the list fed into the function was of large enough size, it could cause Python to complain about too many calls to the function, which based on my tests, will likely have a stopping point that will vary from computer to computer. 
 </p>
+<h1>
+    Day 267
+</h1>
+<h3>
+    Thursday, 14 June, 2023
+</h3>
+<p>
+    Today, I started working on my final project. I will be writing a tutorial to teach someone else what I have learned in my data structures class this semester. For my tutorial I have to cover 3 topics. The first I need to choose between either teaching about the stack or the queue. The second I need to teach about either a set or a linked list. And the last I need to teach about trees. There are also four other topics we learned about in the class that are not included in the final project, maps, recursion, dynamic arrays, and big-O notation. As I am planning on starting a coding blog, I will likely select all of them, but for the purposes of my final, I will be building a tutorial on stacks, sets, and trees. From there, if I have more time before I turn it in, then I will build more tutorials. 
+</p>
