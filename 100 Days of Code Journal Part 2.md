@@ -806,11 +806,20 @@ Scheduled day off
     Day 267
 </h1>
 <h3>
-    Thursday, 14 June, 2023
+    Thursday, 15 June, 2023
 </h3>
 <p>
     Today, I started working on my final project. I will be writing a tutorial to teach someone else what I have learned in my data structures class this semester. For my tutorial I have to cover 3 topics. The first I need to choose between either teaching about the stack or the queue. The second I need to teach about either a set or a linked list. And the last I need to teach about trees. There are also four other topics we learned about in the class that are not included in the final project, maps, recursion, dynamic arrays, and big-O notation. As I am planning on starting a coding blog, I will likely select all of them, but for the purposes of my final, I will be building a tutorial on stacks, sets, and trees. From there, if I have more time before I turn it in, then I will build more tutorials. 
 </p>
 <p>
     Thanks to a new friend on Twitter, I learned about Flutter and from my own research the flet plugin for Python. And as I am planning on getting into mobile development, I will be learning my first framework so I can use the experience in Python and then build mobile apps. I already know what my first mobile app will be. It will be a text based choose your own adventure game. I already have the basis of the story, and want to see where it will go. I started it as part of a Python class I took last year. 
+</p>
+<h1>
+    Day 268
+</h1>
+<h3>
+    Friday, 16 June, 2023
+</h3>
+<p>
+    Today, I started working on the outline for my final project. 
 </p>
