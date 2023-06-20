@@ -838,3 +838,12 @@ Scheduled day off
 <p>
     Scheduled day off Coding
 </p>
+<h1>
+    Day 270
+</h1>
+<h3>
+    Monday, 19 June, 2023
+</h3>
+<p>
+    Today, I studied a bit more into stacks in preparation for my final project. 
+</p>
