@@ -847,3 +847,12 @@ Scheduled day off
 <p>
     Today, I studied a bit more into stacks in preparation for my final project. 
 </p>
+<h1>
+    Day 271
+</h1>
+<h3>
+    Tuesday, 20 June, 2023
+</h3>
+<p>
+    Maybe I am going a bit overboard but I found today that the lesson material was not enough for what I would want in teaching about the topics for my final project so I started going online to find more info.
+</p>
