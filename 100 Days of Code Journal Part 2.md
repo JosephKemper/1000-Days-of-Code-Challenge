@@ -856,3 +856,12 @@ Scheduled day off
 <p>
     Maybe I am going a bit overboard but I found today that the lesson material was not enough for what I would want in teaching about the topics for my final project so I started going online to find more info.
 </p>
+<h1>
+    Day 272
+</h1>
+<h3>
+    Wednesday, 21 June, 2023
+</h3>
+<p>
+    Today, I continued my preparation for my final project and realized what my problem is. I know I want to turn this into a blog, but I am not sure how I want that blog to look or feel. So a lot of my day was about trying to figure that out. 
+</p>
