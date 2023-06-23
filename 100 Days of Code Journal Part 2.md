@@ -865,3 +865,12 @@ Scheduled day off
 <p>
     Today, I continued my preparation for my final project and realized what my problem is. I know I want to turn this into a blog, but I am not sure how I want that blog to look or feel. So a lot of my day was about trying to figure that out. 
 </p>
+<h1>
+    Day 273
+</h1>
+<h3>
+    Thursday, 22 June, 2023
+</h3>
+<p>
+    Today I spent more time pondering on my final project. It is slowly moving along, but it is still moving. 
+</p>
