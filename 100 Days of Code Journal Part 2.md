@@ -874,3 +874,12 @@ Scheduled day off
 <p>
     Today I spent more time pondering on my final project. It is slowly moving along, but it is still moving. 
 </p>
+<h1>
+    Day 274
+</h1>
+<h3>
+    Friday, 23 June, 2023
+</h3>
+<p>
+    I finished the outline for the stacks lesson I will be teaching as part of my final. Now, I have a minimum of 2 more outlines to write and I move onto writing the first draft. 
+</p>
