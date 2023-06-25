@@ -883,3 +883,12 @@ Scheduled day off
 <p>
     I finished the outline for the stacks lesson I will be teaching as part of my final. Now, I have a minimum of 2 more outlines to write and I move onto writing the first draft. 
 </p>
+<h1>
+    Day 275
+</h1>
+<h3>
+    Saturday, 24 June, 2023
+</h3>
+<p>
+    It took most of the day, but I finished the outline for my final project. I only have the required parts outlined, but I did plan for more details than is required by the project in each of the three data structures I am going to write about.
+</p>
