@@ -892,3 +892,9 @@ Scheduled day off
 <p>
     It took most of the day, but I finished the outline for my final project. I only have the required parts outlined, but I did plan for more details than is required by the project in each of the three data structures I am going to write about.
 </p>
+<h3>
+    Sunday, 25 June, 2023
+</h3>
+<p>
+    Scheduled day off of coding
+</p>
