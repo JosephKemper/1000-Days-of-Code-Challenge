@@ -898,3 +898,19 @@ Scheduled day off
 <p>
     Scheduled day off of coding
 </p>
+    Day 276
+</h1>
+<h3>
+    Monday, 26 June, 2023
+</h3>
+<p>
+    Today, was spent prepping to start writing my 3 part tutorial. I am going to be writing a tutorial on stacks, sets, and binary search trees. As expected, I am already learning a lot.
+</p>
+    Day 277
+</h1>
+<h3>
+    Tuesday, 27 June, 2023
+</h3>
+<p>
+    Today, was a light day of working on my first lesson. I expect the rest of the week will all be big days for making tons of progress. 
+</p>
