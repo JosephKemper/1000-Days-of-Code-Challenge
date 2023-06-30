@@ -925,3 +925,12 @@ Scheduled day off
 <p>
     Today, I got a bit more familiar with markdown syntax and got all my files prepped for writing the actual tutorial. I also spent some time reviewing the requirements. Tomorrow, I will be doing a whole lot of writing. 
 </p>
+<h1>
+    Day 279
+</h1>
+<h3>
+    Thursday, 28 June, 2023
+</h3>
+<p>
+    Today, I got most of the first lesson written for my final project in programming. I have one more example to write up and then some instructions on stacks and I will be done with the first of three parts to the final. 
+</p>
