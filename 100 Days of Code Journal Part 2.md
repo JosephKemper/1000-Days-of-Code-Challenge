@@ -634,7 +634,7 @@ Scheduled day off
     The second problem involves being given a string of unique letters and a word length. The challenge is to find every permutation of the letters for that word length. For example, if I were provided the letters "ABCD" and the number three, I would need to write a program using recursion to find all 24 combinations of three letters for those 4 letters.  
 </p>
 <p>
-    The third problem involves being given a number of stairs and the option of either taking 1, 2, or 3 stairs at a time. The challenge is to use recursion to find all possible ways to climb the stairs. For this problem, they want you to write your code to be able to handle larger numbers like for example 100, which without first implementing a dictionary to remember prior solutions found, would cause python to stop working.  
+    The third problem involves being given a number of stairs and the option of either taking 1, 2, or 3 stairs at a time. The challenge is to use recursion to find all possible ways to climb the stairs. For this problem, they want you to write your code to be able to handle larger numbers like for example 100, which without first implementing a dictionary to remember prior solutions found, would cause python to stop working.
 </p>
 <p>
     The fourth problem involves being given a string of characters that contain either a 1, 0, or *. The challenge I will have is to use recursion to produce all possible combinations of the string where each * is replaced by either a 1 or 0. For example, a string of 1*1 should produce 1001, 1011, 1101, and 1111. 
@@ -942,4 +942,13 @@ Scheduled day off
 </h3>
 <p>
     Today, I finished the first of three lessons I need to build for my programming final. This lesson is on stacks. After I finish the class, I will likely be turning it into a series of blog posts. 
+</p>
+<h1>
+    Day 281
+</h1>
+<h3>
+    Friday, 1 July, 2023
+</h3>
+<p>
+    Today, I reviewed the lesson on sets and started building my tutorial on them. 
 </p>
