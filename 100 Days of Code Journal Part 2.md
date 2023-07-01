@@ -929,8 +929,17 @@ Scheduled day off
     Day 279
 </h1>
 <h3>
-    Thursday, 28 June, 2023
+    Thursday, 29 June, 2023
 </h3>
 <p>
     Today, I got most of the first lesson written for my final project in programming. I have one more example to write up and then some instructions on stacks and I will be done with the first of three parts to the final. 
+</p>
+<h1>
+    Day 280
+</h1>
+<h3>
+    Thursday, 30 June, 2023
+</h3>
+<p>
+    Today, I finished the first of three lessons I need to build for my programming final. This lesson is on stacks. After I finish the class, I will likely be turning it into a series of blog posts. 
 </p>
