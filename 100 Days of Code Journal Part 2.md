@@ -938,7 +938,7 @@ Scheduled day off
     Day 280
 </h1>
 <h3>
-    Thursday, 30 June, 2023
+    Friday, 30 June, 2023
 </h3>
 <p>
     Today, I finished the first of three lessons I need to build for my programming final. This lesson is on stacks. After I finish the class, I will likely be turning it into a series of blog posts. 
@@ -947,8 +947,14 @@ Scheduled day off
     Day 281
 </h1>
 <h3>
-    Friday, 1 July, 2023
+    Saturday, 1 July, 2023
 </h3>
 <p>
     Today, I reviewed the lesson on sets and started building my tutorial on them. 
+</p>
+<h3>
+    Sunday, 2 July, 2023
+</h3>
+<p>
+    Scheduled day off coding
 </p>
