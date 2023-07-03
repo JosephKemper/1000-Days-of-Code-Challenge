@@ -958,3 +958,12 @@ Scheduled day off
 <p>
     Scheduled day off coding
 </p>
+<h1>
+    Day 282
+</h1>
+<h3>
+    Monday, 3 July, 2023
+</h3>
+<p>
+    Today, I wrote some simple examples for using sets in my tutorial on sets. 
+</p>
