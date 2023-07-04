@@ -967,3 +967,12 @@ Scheduled day off
 <p>
     Today, I wrote some simple examples for using sets in my tutorial on sets. 
 </p>
+<h1>
+    Day 283
+</h1>
+<h3>
+    Tuesday, 4 July, 2023
+</h3>
+<p>
+     I am now about half done with my tutorial on Sets. I got the introduction written which answers the question, why is it important to know about Sets. I have common set related commands displayed into a table and a few basic examples of using Sets. Next, I will be writing up a walk through on solving a problem using sets, and then will add two more problems to solve. Then, I will just need to write an explanation about sets and I will be done with the second of my 3 tutorials. 
+</p>
