@@ -976,3 +976,12 @@ Scheduled day off
 <p>
      I am now about half done with my tutorial on Sets. I got the introduction written which answers the question, why is it important to know about Sets. I have common set related commands displayed into a table and a few basic examples of using Sets. Next, I will be writing up a walk through on solving a problem using sets, and then will add two more problems to solve. Then, I will just need to write an explanation about sets and I will be done with the second of my 3 tutorials. 
 </p>
+<h1>
+    Day 284
+</h1>
+<h3>
+    Wednesday, 5 July, 2023
+</h3>
+<p>
+     Today, I got a little farther on my project. I think I will finish with my lesson on sets by Friday. 
+</p>
