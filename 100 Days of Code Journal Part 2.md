@@ -985,3 +985,12 @@ Scheduled day off
 <p>
      Today, I got a little farther on my project. I think I will finish with my lesson on sets by Friday. 
 </p>
+<h1>
+    Day 285
+</h1>
+<h3>
+    Thursday, 6 July, 2023
+</h3>
+<p>
+    Today, I got two of the examples fleshed out and ready to go. I have just a bit more work to go on one, and then an explanation on sets and I will be done with my lesson on sets. 
+</p>
