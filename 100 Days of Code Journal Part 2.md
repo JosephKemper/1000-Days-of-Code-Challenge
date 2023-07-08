@@ -994,3 +994,12 @@ Scheduled day off
 <p>
     Today, I got two of the examples fleshed out and ready to go. I have just a bit more work to go on one, and then an explanation on sets and I will be done with my lesson on sets. 
 </p>
+<h1>
+    Day 286
+</h1>
+<h3>
+    Friday, 7 July, 2023
+</h3>
+<p>
+    Today, I worked more on my sets tutorial. Tomorrow, I will be finishing it up and starting on my next tutorial. 
+</p>
