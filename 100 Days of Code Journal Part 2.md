@@ -1003,3 +1003,12 @@ Scheduled day off
 <p>
     Today, I worked more on my sets tutorial. Tomorrow, I will be finishing it up and starting on my next tutorial. 
 </p>
+<h1>
+    Day 287
+</h1>
+<h3>
+    Saturday, 8 July, 2023
+</h3>
+<p>
+    Today, I finished my lesson on sets. I have a bit more polishing to do. I think I want to add a few more visuals, and I will likely refine the text a bit, but it is at least at a point I can turn it in as a draft. 
+</p>
