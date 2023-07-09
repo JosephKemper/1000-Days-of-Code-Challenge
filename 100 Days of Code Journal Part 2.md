@@ -1012,3 +1012,9 @@ Scheduled day off
 <p>
     Today, I finished my lesson on sets. I have a bit more polishing to do. I think I want to add a few more visuals, and I will likely refine the text a bit, but it is at least at a point I can turn it in as a draft. 
 </p>
+<h3>
+    Sunday, 9 July, 2023
+</h3>
+<p>
+    Scheduled day off coding.
+</p>
