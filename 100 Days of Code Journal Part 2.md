@@ -1018,3 +1018,12 @@ Scheduled day off
 <p>
     Scheduled day off coding.
 </p>
+<h1>
+    Day 288
+</h1>
+<h3>
+    Monday, 10 July, 2023
+</h3>
+<p>
+    Today, was primarily spent studying binary search trees in preparation for the lesson I will be writing. 
+</p>
