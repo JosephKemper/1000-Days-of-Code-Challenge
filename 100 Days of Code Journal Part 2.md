@@ -1027,3 +1027,12 @@ Scheduled day off
 <p>
     Today, was primarily spent studying binary search trees in preparation for the lesson I will be writing. 
 </p>
+<h1>
+    Day 289
+</h1>
+<h3>
+    Tuesday, 11 July, 2023
+</h3>
+<p>
+    Started adding notes to tree. 
+</p>
