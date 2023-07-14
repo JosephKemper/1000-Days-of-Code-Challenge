@@ -1036,7 +1036,6 @@ Scheduled day off
 <p>
     Started adding notes to tree. 
 </p>
-
 <h1>
     Day 290
 </h1>
@@ -1045,4 +1044,13 @@ Scheduled day off
 </h3>
 <p>
     Over the past few days, I made some major progress on my Binary Search Tree tutorial. I am hoping to have it done tomorrow. And from there, I will turn it in and then prep my final project to be published as my first 3 blog posts for my new programming blog.
+</p>
+<h1>
+    Day 291
+</h1>
+<h3>
+    Thursday, 13 July, 2023
+</h3>
+<p>
+    Yay! I finished my lessons and got them proofread and turned in. Now, I get to publish the first one as a blog post, and start writing the next lesson. 
 </p>
