@@ -1054,3 +1054,12 @@ Scheduled day off
 <p>
     Yay! I finished my lessons and got them proofread and turned in. Now, I get to publish the first one as a blog post, and start writing the next lesson. 
 </p>
+<h1>
+    Day 292
+</h1>
+<h3>
+    Friday, 14 July, 2023
+</h3>
+<p>
+    Today, I started a bit of interview/resume prep, and started planning what my next project will be. 
+</p>
