@@ -1063,3 +1063,12 @@ Scheduled day off
 <p>
     Today, I started a bit of interview/resume prep, and started planning what my next project will be. 
 </p>
+<h1>
+    Day 293
+</h1>
+<h3>
+    Saturday, 15 July, 2023
+</h3>
+<p>
+    I learned that Google has a wonderfully robust Kotlin training course, so I spent today, getting everything set up to take that course. 
+</p>
