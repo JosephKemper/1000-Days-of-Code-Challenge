@@ -1072,3 +1072,9 @@ Scheduled day off
 <p>
     I learned that Google has a wonderfully robust Kotlin training course, so I spent today, getting everything set up to take that course. I want to be a mobile developer, and having a structured course to follow helps me get started easier, so this path makes sense.
 </p>
+<h3>
+    Sunday, 16 July, 2023
+</h3>
+<p>
+    Scheduled day off from Coding
+</p>
