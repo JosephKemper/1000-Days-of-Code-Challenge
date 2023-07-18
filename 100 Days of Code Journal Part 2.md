@@ -1078,3 +1078,12 @@ Scheduled day off
 <p>
     Scheduled day off from Coding
 </p>
+<h1>
+    Day 294
+</h1>
+<h3>
+    Monday, 17 July, 2023
+</h3>
+<p>
+    Today, I formally started on the Google Kotlin course and built my first app. 
+</p>
