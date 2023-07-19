@@ -1087,3 +1087,12 @@ Scheduled day off
 <p>
     Today, I formally started on the Google Kotlin course and built my first app. 
 </p>
+<h1>
+    Day 295
+</h1>
+<h3>
+    Tuesday, 18 July, 2023
+</h3>
+<p>
+    Day 2 of working in Kotlin. This is my 4th programming language I will be learning and I am seeing a lot of similarities. I think the hardest part right now is getting used to Android Studio. 
+</p>
