@@ -1096,3 +1096,12 @@ Scheduled day off
 <p>
     Day 2 of working in Kotlin. This is my 4th programming language I will be learning and I am seeing a lot of similarities. I think the hardest part right now is getting used to Android Studio. 
 </p>
+<h1>
+    Day 296
+</h1>
+<h3>
+    Wednesday, 19 July, 2023
+</h3>
+<p>
+    Today was a light day studying Android Studio and Kotlin. 
+</p>
