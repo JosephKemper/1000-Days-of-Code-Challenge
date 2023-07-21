@@ -1105,3 +1105,64 @@ Scheduled day off
 <p>
     Today was a light day studying Android Studio and Kotlin. 
 </p>
+<h1>
+    Day 297
+</h1>
+<h3>
+    Thursday, 20 July, 2023
+</h3>
+<p>
+    Today, I built a list of the skills I have studied as a programmer. 
+</p>
+<ul>
+<li><b>CSE 110 Programming Building Blocks</b></li>
+<li>Handling input and output</li>
+<li>Using Variables and Expressions</li>
+<li>Solving problems using variables and expressions</li>
+<li>Using conditional statements</li>
+<li>Solving problems using conditional statements</li>
+<li>Solving problems using loops</li>
+<li>Lists
+<li>Solving problems using lists</li>
+<li>Working with files</li>
+<li>Solving problems using files</li>
+<li>Basics of Functions</li>
+
+<li><b>CSE 111 Programming with Functions</b></li>
+<li>Writing Functions</li>
+<li>Testing Functions</li>
+<li>Lists and Repetition</li>
+<li>Text Files</li>
+<li>Functional Programming</li>
+<li>Planning and writing significant programs (text based adventure)</li>
+
+<li><b>CSE 121B JavaScript Language</b></li>
+<li>Operators and Basic DOM</li>
+<li>Arrays and DOM events</li>
+<li>Functions and Objects</li>
+<li>ES modules and Fetch</li>
+<li>Planning and writing significant programs (Multimedia web page)</li>
+
+<li><b>CSE 210 Programming with Classes</b></li>
+<li>Version Control</li>
+<li>Abstraction</li>
+<li>Encapsulation</li>
+<li>Inheritance</li>
+<li>Polymorphism</li>
+<li>Planning and writing significant programs (text based adventure 2nd attempt)</li>
+
+<li><b>CSE 212 Programming w/Data Structures</b></li>
+<li>Problem Solving Strategies/Dynamic Arrays</li>
+<li>Evaluating Performance of Alternate Solutions/Big-O Notation</li>
+<li>Understanding Code Using Reviews/Stacks</li>
+<li>Finding Defects Using Tests/Queues</li>
+<li>Articulating Answers Using Tests/Sets</li>
+<li>Maps</li>
+<li>Linked Lists</li>
+<li>Recursion</li>
+<li>Trees</li>
+<li>Teaching about data structures</li>
+</ul>
+<p>
+    I am rather happy I stopped to build this list. Now, I just need to turn it into something I can put on a resume and then, actually build my resume. 
+</p>
