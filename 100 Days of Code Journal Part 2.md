@@ -1166,3 +1166,12 @@ Scheduled day off
 <p>
     I am rather happy I stopped to build this list. Now, I just need to turn it into something I can put on a resume and then, actually build my resume. 
 </p>
+<h1>
+    Day 298
+</h1>
+<h3>
+    Friday, 21 July, 2023
+</h3>
+<p>
+    Today, I reworked my plans for the summer, and will instead be going back through my old classes and prepare lessons on everything I have previously learned, with the intention of trying to teach others about it. My specific goal is to gain more confidence in what I know. 
+</p>
