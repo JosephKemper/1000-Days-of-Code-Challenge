@@ -1175,3 +1175,12 @@ Scheduled day off
 <p>
     Today, I reworked my plans for the summer, and will instead be going back through my old classes and prepare lessons on everything I have previously learned, with the intention of trying to teach others about it. My specific goal is to gain more confidence in what I know. 
 </p>
+<h1>
+    Day 299
+</h1>
+<h3>
+    Saturday, 22 July, 2023
+</h3>
+<p>
+    Today, I spent some time digging into strings and the built in Python methods. There is a lot more to Python strings than I previously explored. With how much I am finding, I think that I might be able to do a whole digging deeper blog post on just Python strings.
+</p>
