@@ -1184,3 +1184,9 @@ Scheduled day off
 <p>
     Today, I spent some time digging into strings and the built in Python methods. There is a lot more to Python strings than I previously explored. With how much I am finding, I think that I might be able to do a whole digging deeper blog post on just Python strings.
 </p>
+<h3>
+    Sunday, 23 July, 2023
+</h3>
+<p>
+    Scheduled day off from coding
+</p>
