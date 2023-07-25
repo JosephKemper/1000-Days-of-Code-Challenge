@@ -1190,12 +1190,3 @@ Scheduled day off
 <p>
     Scheduled day off from coding
 </p>
-<h1>
-    Day 300
-</h1>
-<h3>
-    Monday, 24 July, 2023
-</h3>
-<p>
-    Today, was spent studying to collect info for my next blog post, a deep dive into string methods in Python. 
-</p>
