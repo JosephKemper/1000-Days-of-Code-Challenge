@@ -14,5 +14,5 @@
     Tuesday, 25 July, 2023
 </h3>
 <p>
-    
+    Today was another day spent studying and collecting info for my next blog post. 
 </p>
