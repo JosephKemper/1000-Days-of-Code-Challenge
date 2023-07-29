@@ -43,3 +43,12 @@
 <p>
     Today, I started working on my next blog post, and got my last three actually published. They are deep dives into three data structures, specifically on stacks, sets, and binary search trees. You can see them here. https://josephkemper.github.io/DiggingDeeper/DataStructuresTutoiral/
 </p>
+<h1>
+    Day 305
+</h1>
+<h3>
+    Saturday, 29 July, 2023
+</h3>
+<p>
+    Today, I started writing up the first digging deeper post on the methods for built in Python functions. I am happy I finally figured out a format for my posts. 
+</p>
