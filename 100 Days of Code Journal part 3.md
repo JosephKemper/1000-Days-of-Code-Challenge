@@ -34,3 +34,12 @@
 <p>
     After a few days of studying and pondering, I think I have finally figured out how I am going to format my blog post on string methods. 
 </p>
+<h1>
+    Day 304
+</h1>
+<h3>
+    Friday, 28 July, 2023
+</h3>
+<p>
+    Today, I started working on my next blog post, and got my last three actually published. They are deep dives into three data structures, specifically on stacks, sets, and binary search trees. You can see them here. https://josephkemper.github.io/DiggingDeeper/DataStructuresTutoiral/
+</p>
