@@ -52,3 +52,9 @@
 <p>
     Today, I started writing up the first digging deeper post on the methods for built in Python functions. I am happy I finally figured out a format for my posts. 
 </p>
+<h3>
+    Sunday, 30 July, 2023
+</h3>
+<p>
+    Scheduled day off from coding
+</p>
