@@ -58,3 +58,12 @@
 <p>
     Scheduled day off from coding
 </p>
+<h1>
+    Day 306
+</h1>
+<h3>
+    Monday, 31 July, 2023
+</h3>
+<p>
+    Today, was spent studying. Tomorrow, I will go back to writing. 
+</p>
