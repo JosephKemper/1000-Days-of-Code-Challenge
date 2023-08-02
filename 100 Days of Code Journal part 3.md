@@ -67,3 +67,12 @@
 <p>
     Today, was spent studying. Tomorrow, I will go back to writing. 
 </p>
+<h1>
+    Day 307
+</h1>
+<h3>
+    Tuesday, 1 August, 2023
+</h3>
+<p>
+    Between my studies yesterday and today, I realized that doing a deep dive into the remaining data structures from my data structures class will be more beneficial than doing a deep dive into the basics of Python. I will likely go back and finish the deep dive I started, but I am going to finish gaining a deep understanding of the data structures first, and will then dive more into algorithms. After that, I will consider diving back into the basics. 
+</p>
