@@ -76,3 +76,12 @@
 <p>
     Between my studies yesterday and today, I realized that doing a deep dive into the remaining data structures from my data structures class will be more beneficial than doing a deep dive into the basics of Python. I will likely go back and finish the deep dive I started, but I am going to finish gaining a deep understanding of the data structures first, and will then dive more into algorithms. After that, I will consider diving back into the basics. 
 </p>
+<h1>
+    Day 308
+</h1>
+<h3>
+    Wednesday, 2 August, 2023
+</h3>
+<p>
+    Today, I a blog set up on hashnode. I don't have a lot of content on there yet, but that will come soon. 
+</p>
