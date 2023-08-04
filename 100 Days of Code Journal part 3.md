@@ -85,3 +85,12 @@
 <p>
     Today, I a blog set up on hashnode. I don't have a lot of content on there yet, but that will come soon. 
 </p>
+<h1>
+    Day 309
+</h1>
+<h3>
+    Thursday, 3 August, 2023
+</h3>
+<p>
+    Yay! I got my first three blog posts published on my new blog. They are deep dive tutorials on Sets, Stacks, and Binary Search Trees in Python. My next project is to write deep dive tutorials on Queues and Linked Lists in Python. You can view all my published tutorials on python data structures here. https://www.diggingdeeper.dev/python-data-structures-tutorial
+</p>
