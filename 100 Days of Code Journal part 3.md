@@ -111,5 +111,11 @@
     Saturday, 5 August, 2023
 </h3>
 <p>
-    
+    Started writing tutorial on queues. 
+</p>
+<h3>
+    Sunday, 6 August, 2023
+</h3>
+<p>
+    Scheduled day off from Coding
 </p>
