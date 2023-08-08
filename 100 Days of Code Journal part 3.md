@@ -103,7 +103,6 @@
 <p>
     Today, I reviewed queues in python in preparation for my next blog post. 
 </p>
-
 <h1>
     Day 311
 </h1>
@@ -118,4 +117,13 @@
 </h3>
 <p>
     Scheduled day off from Coding
+</p>
+<h1>
+    Day 312
+</h1>
+<h3>
+    Sunday, 7 August, 2023
+</h3>
+<p>
+    Still working on Queues lesson. 
 </p>
