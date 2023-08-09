@@ -122,8 +122,17 @@
     Day 312
 </h1>
 <h3>
-    Sunday, 7 August, 2023
+    Monday, 7 August, 2023
 </h3>
 <p>
     Still working on Queues lesson. 
+</p>
+<h1>
+    Day 313
+</h1>
+<h3>
+    Tuesday, 8 August, 2023
+</h3>
+<p>
+    Wrote another section on my next blog post. I just need to write a section on how to use queues and then build a few problems to solve and I will be done. 
 </p>
