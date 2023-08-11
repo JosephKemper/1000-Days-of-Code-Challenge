@@ -137,11 +137,20 @@
     Wrote another section on my next blog post. I just need to write a section on how to use queues and then build a few problems to solve and I will be done. 
 </p>
 <h1>
-    Day 313
+    Day 314
 </h1>
 <h3>
     Wednesday, 9 August, 2023
 </h3>
 <p>
     Today I applied for my first job. Hopefully I get it or something better. 
+</p>
+<h1>
+    Day 315
+</h1>
+<h3>
+    Thursday, 10 August, 2023
+</h3>
+<p>
+    Today, I got one more section of my blog on the Queue Data Structure completed. I just have the examples left do complete now. 
 </p>
