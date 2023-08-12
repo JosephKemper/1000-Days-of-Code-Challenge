@@ -161,5 +161,14 @@
     Friday, 11 August, 2023
 </h3>
 <p>
-    Today, I expanded my blog on the queue data structure to include both the `collections.deque`and `queue.Queue`modules in Python. I am hoping to get it finished and published tomorrow.
+    Today, I expanded my blog post on the queue data structure to include both the `collections.deque`and `queue.Queue`modules in Python. I am hoping to get it finished and published tomorrow.
+</p>
+<h1>
+    Day 317
+</h1>
+<h3>
+    Saturday, 12 August, 2023
+</h3>
+<p>
+    I was hoping to finish my blog post on queues, expanding it as I have, has taken a lot more than I was expecting. I'm about to go on a date with my wife, so, I don't know what will happen with the rest of the day. Either way, I am happy with my progress.
 </p>
