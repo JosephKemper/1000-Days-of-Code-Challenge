@@ -154,3 +154,12 @@
 <p>
     Today, I got one more section of my blog on the Queue Data Structure completed. I just have the examples left do complete now. 
 </p>
+<h1>
+    Day 316
+</h1>
+<h3>
+    Friday, 11 August, 2023
+</h3>
+<p>
+    Today, I expanded my blog on the queue data structure to include both the `collections.deque`and `queue.Queue`modules in Python. I am hoping to get it finished and published tomorrow.
+</p>
