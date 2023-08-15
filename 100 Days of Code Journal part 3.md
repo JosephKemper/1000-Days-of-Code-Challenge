@@ -172,3 +172,9 @@
 <p>
     I was hoping to finish my blog post on queues, expanding it as I have, has taken a lot more than I was expecting. I'm about to go on a date with my wife, so, I don't know what will happen with the rest of the day. Either way, I am happy with my progress.
 </p>
+<h3>
+    Sunday, 1 August, 2023
+</h3>
+<p>
+    Schedule day off from Coding
+</p>
