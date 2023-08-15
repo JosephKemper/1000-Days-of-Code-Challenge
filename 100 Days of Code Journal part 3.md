@@ -173,8 +173,17 @@
     I was hoping to finish my blog post on queues, expanding it as I have, has taken a lot more than I was expecting. I'm about to go on a date with my wife, so, I don't know what will happen with the rest of the day. Either way, I am happy with my progress.
 </p>
 <h3>
-    Sunday, 1 August, 2023
+    Sunday, 14 August, 2023
 </h3>
 <p>
     Schedule day off from Coding
+</p>
+<h1>
+    Day 318
+</h1>
+<h3>
+    Monday, 14 August, 2023
+</h3>
+<p>
+    Today, I started getting the second of the two problems ready for my blog post. Once finished, I will just need to work out one more problem and then once proofreading is done, I will be ready to publish my next blog post.
 </p>
