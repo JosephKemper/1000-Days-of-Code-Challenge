@@ -187,3 +187,12 @@
 <p>
     Today, I started getting the second of the two problems ready for my blog post. Once finished, I will just need to work out one more problem and then once proofreading is done, I will be ready to publish my next blog post.
 </p>
+<h1>
+    Day 319
+</h1>
+<h3>
+    Tuesday, 15 August, 2023
+</h3>
+<p>
+    Today, I finished prepping the 2nd of 3 problems for my next blog post. It uses a simple implementation of a Breadth-First Search (BFS) algorithm to find the shortest path through a maze. 
+</p>
