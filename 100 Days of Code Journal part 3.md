@@ -196,3 +196,12 @@
 <p>
     Today, I finished prepping the 2nd of 3 problems for my next blog post. It uses a simple implementation of a Breadth-First Search (BFS) algorithm to find the shortest path through a maze. 
 </p>
+<h1>
+    Day 320
+</h1>
+<h3>
+    Wednesday, 16 August, 2023
+</h3>
+<p>
+    Today, I wrote the section of my blog that gives a challenge involving using the Breadth-First Search algorithm. This was my first time using that algorithm so I learned a lot. I also started studying for the last part of my blog post, a tutorial of how to complete sliding window maximum problem. I still have a bit more study to do to get ready to write that section, and fully expect to have a lot of fun figuring that out well enough to teach someone else how to complete it. 
+</p>
