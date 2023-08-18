@@ -205,3 +205,12 @@
 <p>
     Today, I wrote the section of my blog that gives a challenge involving using the Breadth-First Search algorithm. This was my first time using that algorithm so I learned a lot. I also started studying for the last part of my blog post, a tutorial of how to complete sliding window maximum problem. I still have a bit more study to do to get ready to write that section, and fully expect to have a lot of fun figuring that out well enough to teach someone else how to complete it. 
 </p>
+<h1>
+    Day 321
+</h1>
+<h3>
+    Thursday, 17 August, 2023
+</h3>
+<p>
+    I got a new computer today! ... so my day was spent getting it set up. 
+</p>
