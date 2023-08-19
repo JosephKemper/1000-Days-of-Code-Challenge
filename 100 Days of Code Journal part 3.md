@@ -214,3 +214,12 @@
 <p>
     I got a new computer today! ... so my day was spent getting it set up. 
 </p>
+<h1>
+    Day 322
+</h1>
+<h3>
+    Friday, 18 August, 2023
+</h3>
+<p>
+    Today, I started writing the last section of my blog post on queues. I studied about the Sliding Window Maximum algorithm for most of my time today. Tomorrow, I will finish my blog post and publish it. Then I will start preparing the last blog post I currently have planned on data structures and will then move directly to a series on algorithms.
+</p>
