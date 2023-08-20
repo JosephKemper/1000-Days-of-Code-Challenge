@@ -232,3 +232,9 @@
 <p>
     Today I finished my queues blog post. In the process of writing it, I learned about and wrote basic implementations of the Sliding Window Maximum, Breadth-First Search, and Kruskal’s algorithm. Next, I will be publishing a lesson on Linked Lists. From there, I will start a series doing deep dives into algorithms. 
 </p>
+<h3>
+    Sunday, 20 August, 2023
+</h3>
+<p>
+    Scheduled day off from coding.
+</p>
