@@ -223,3 +223,12 @@
 <p>
     Today, I started writing the last section of my blog post on queues. I studied about the Sliding Window Maximum algorithm for most of my time today. Tomorrow, I will finish my blog post and publish it. Then I will start preparing the last blog post I currently have planned on data structures and will then move directly to a series on algorithms.
 </p>
+<h1>
+    Day 323
+</h1>
+<h3>
+    Saturday, 19 August, 2023
+</h3>
+<p>
+    Today I finished my queues blog post. In the process of writing it, I learned about and wrote basic implementations of the Sliding Window Maximum, Breadth-First Search, and Kruskal’s algorithm. Next, I will be publishing a lesson on Linked Lists. From there, I will start a series doing deep dives into algorithms. 
+</p>
