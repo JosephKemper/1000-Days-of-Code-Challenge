@@ -247,3 +247,12 @@
 <p>
     After finishing my last post, I ended up wondering if I could dig a little deeper in my posts and perhaps put a better example of each data structure in the blog post. As I already stated my next project was going to involve writing a lesson on Linked Lists, I decided to see what I could do to dig deeper into linked lists. After a bit of study and pondering, what I came to was the idea of Both demonstrating the built in data structure (assuming one exists) and building my own in the process of my lesson. And I think I like that idea. So, my goal for linked lists is to take and both dive into the deque and build a doubly linked list. 
 </p>
+<h1>
+    Day 324
+</h1>
+<h3>
+    Tuesday, 22 August, 2023
+</h3>
+<p>
+    I got the outline finished for my linked list lesson. Like where it will be going. It is going to be a lot more work, but I am fine with that. 
+</p>
