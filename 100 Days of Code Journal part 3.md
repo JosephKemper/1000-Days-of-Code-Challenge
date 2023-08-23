@@ -256,3 +256,12 @@
 <p>
     I got the outline finished for my linked list lesson. Like where it will be going. It is going to be a lot more work, but I am fine with that. 
 </p>
+<h1>
+    Day 325
+</h1>
+<h3>
+    Wednesday, 23 August, 2023
+</h3>
+<p>
+    Today, I spent the day studying in preparation to start writing my Linked List Lesson
+</p>
