@@ -265,3 +265,12 @@
 <p>
     Today, I spent the day studying in preparation to start writing my Linked List Lesson
 </p>
+<h1>
+    Day 326
+</h1>
+<h3>
+    Thursday, 24 August, 2023
+</h3>
+<p>
+    Today, I started working on the problems I will use for my Linked List Lesson.
+</p>
