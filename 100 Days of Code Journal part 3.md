@@ -283,3 +283,12 @@
 <p>
     Today, I got all three examples collected that I will be using for my Linked List lesson. Tomorrow, I start putting them together. 
 </p>
+<h1>
+    Day 328
+</h1>
+<h3>
+    Saturday, 26 August, 2023
+</h3>
+<p>
+    Today, I spent time prepping the problems I chose. I ended up switching two of the problems out for other problems that worked better for my goals. 
+</p>
