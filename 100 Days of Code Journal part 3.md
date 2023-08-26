@@ -274,3 +274,12 @@
 <p>
     Today, I started working on the problems I will use for my Linked List Lesson.
 </p>
+<h1>
+    Day 327
+</h1>
+<h3>
+    Friday, 25 August, 2023
+</h3>
+<p>
+    Today, I got all three examples collected that I will be using for my Linked List lesson. Tomorrow, I start putting them together. 
+</p>
