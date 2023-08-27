@@ -292,3 +292,9 @@
 <p>
     Today, I spent time prepping the problems I chose. I ended up switching two of the problems out for other problems that worked better for my goals. 
 </p>
+<h3>
+    Sunday, 27 August, 2023
+</h3>
+<p>
+    Scheduled Day off from coding
+</p>
