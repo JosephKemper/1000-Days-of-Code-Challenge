@@ -298,3 +298,12 @@
 <p>
     Scheduled Day off from coding
 </p>
+<h1>
+    Day 329
+</h1>
+<h3>
+    Monday, 28 August, 2023
+</h3>
+<p>
+    Today, I started writing the digging deeper sections of my next blog post. I find that by starting with the problems I am working towards solving, it helps me better write the first part of the lesson. 
+</p>
