@@ -307,3 +307,12 @@
 <p>
     Today, I started writing the digging deeper sections of my next blog post. I find that by starting with the problems I am working towards solving, it helps me better write the first part of the lesson. 
 </p>
+<h1>
+    Day 330
+</h1>
+<h3>
+    Tuesday, 29 August, 2023
+</h3>
+<p>
+    I got the first section completed and started working on the second section for my next blog post. I have a basic description of the problem we are trying to solve, but I want to have it clearer. 
+</p>
