@@ -316,3 +316,12 @@
 <p>
     I got the first section completed and started working on the second section for my next blog post. I have a basic description of the problem we are trying to solve, but I want to have it clearer. 
 </p>
+<h1>
+    Day 331
+</h1>
+<h3>
+    Wednesday, 30 August, 2023
+</h3>
+<p>
+    Today, I spent my time doing a deep dive into the constrained subset sum problem. It is a really interesting problem. 
+</p>
