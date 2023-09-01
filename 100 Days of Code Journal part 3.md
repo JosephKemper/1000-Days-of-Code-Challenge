@@ -325,3 +325,12 @@
 <p>
     Today, I spent my time doing a deep dive into the constrained subset sum problem. It is a really interesting problem. 
 </p>
+<h1>
+    Day 332
+</h1>
+<h3>
+    Thursday, 31 August, 2023
+</h3>
+<p>
+    Today, I found a problem with my solution to the Constrained Subset Sum problem and got it fixed.
+</p>
