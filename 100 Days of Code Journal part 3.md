@@ -334,3 +334,12 @@
 <p>
     Today, I found a problem with my solution to the Constrained Subset Sum problem and got it fixed.
 </p>
+<h1>
+    Day 333
+</h1>
+<h3>
+    Friday, 1 September, 2023
+</h3>
+<p>
+    Today, I spent a bit more time studying my Constrained Subset Sum problem.
+</p>
