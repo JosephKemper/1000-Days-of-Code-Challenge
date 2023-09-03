@@ -352,3 +352,9 @@
 <p>
     Today, I spent time getting my resume updated. 
 </p>
+<h3>
+    Sunday, 3 September, 2023
+</h3>
+<p>
+    Scheduled day off from coding
+</p>
