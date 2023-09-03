@@ -343,3 +343,12 @@
 <p>
     Today, I spent a bit more time studying my Constrained Subset Sum problem.
 </p>
+<h1>
+    Day 334
+</h1>
+<h3>
+    Saturday, 2 September, 2023
+</h3>
+<p>
+    Today, I spent time getting my resume updated. 
+</p>
