@@ -358,3 +358,13 @@
 <p>
     Scheduled day off from coding
 </p>
+
+<h1>
+    Day 335
+</h1>
+<h3>
+    Monday, 4 September, 2023
+</h3>
+<p>
+    I decided to avoid using the Constrained Subset Sum problem for the last example on my blog, because trying to even figure out what the constraints to the problem should be, got way too annoying. So, I decided to go with another problem instead. I have also been working on updating my LinkedIn profile.
+</p>
