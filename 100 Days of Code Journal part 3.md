@@ -358,7 +358,6 @@
 <p>
     Scheduled day off from coding
 </p>
-
 <h1>
     Day 335
 </h1>
@@ -367,4 +366,13 @@
 </h3>
 <p>
     I decided to avoid using the Constrained Subset Sum problem for the last example on my blog, because trying to even figure out what the constraints to the problem should be, got way too annoying. So, I decided to go with another problem instead. I have also been working on updating my LinkedIn profile.
+</p>
+<h1>
+    Day 336
+</h1>
+<h3>
+    Tuesday, 5 September, 2023
+</h3>
+<p>
+    Today, I finished the final problem for my next blog post and started collecting notes to answer the question Why is it Important to Know About Linked Lists?
 </p>
