@@ -376,3 +376,12 @@
 <p>
     Today, I finished the final problem for my next blog post and started collecting notes to answer the question Why is it Important to Know About Linked Lists?
 </p>
+<h1>
+    Day 337
+</h1>
+<h3>
+    Wednesday, 6 September, 2023
+</h3>
+<p>
+    Today, I started working on a side project with the simple goal of seeing if I can accomplish a random idea I had. 
+</p>
