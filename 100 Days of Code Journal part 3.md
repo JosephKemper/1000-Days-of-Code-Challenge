@@ -385,3 +385,12 @@
 <p>
     Today, I started working on a side project with the simple goal of seeing if I can accomplish a random idea I had. 
 </p>
+<h1>
+    Day 338
+</h1>
+<h3>
+    Thursday, 7 September, 2023
+</h3>
+<p>
+    Upgraded my computer and worked a bit more on my side project. 
+</p>
