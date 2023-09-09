@@ -394,3 +394,12 @@
 <p>
     Upgraded my computer and worked a bit more on my side project. 
 </p>
+<h1>
+    Day 339
+</h1>
+<h3>
+    Friday, 8 September, 2023
+</h3>
+<p>
+    Today, I spent a bit more time working on my side project. 
+</p>
