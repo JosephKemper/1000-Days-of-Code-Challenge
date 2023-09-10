@@ -1,1 +1,0 @@
-cabin_text  # type: ignore
