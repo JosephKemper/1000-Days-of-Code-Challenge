@@ -412,3 +412,9 @@
 <p>
     Today, I started formally building my programming portfolio. I spent the day getting everything set up to build my portfolio. 
 </p>
+<h3>
+    Sunday, 10 September, 2023
+</h3>
+<p>
+    Scheduled day off from Coding
+</p>
