@@ -403,3 +403,12 @@
 <p>
     Today, I spent a bit more time working on my side project. 
 </p>
+<h1>
+    Day 340
+</h1>
+<h3>
+    Saturday, 9 September, 2023
+</h3>
+<p>
+    Today, I started formally building my programming portfolio. I spent the day getting everything set up to build my portfolio. 
+</p>
