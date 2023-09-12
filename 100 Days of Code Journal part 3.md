@@ -418,3 +418,12 @@
 <p>
     Scheduled day off from Coding
 </p>
+<h1>
+    Day 341
+</h1>
+<h3>
+    Monday, 11 September, 2023
+</h3>
+<p>
+    Today, I got a little work on my first project and got to know my classmates. 
+</p>
