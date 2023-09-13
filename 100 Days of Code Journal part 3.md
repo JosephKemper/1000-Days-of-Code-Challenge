@@ -434,5 +434,5 @@
     Tuesday, 12 September, 2023
 </h3>
 <p>
-    Today, I chose the six projects I will complete for my software development portfolio. They are a Task Manager (console based), a Health and Fitness App, a Personal Finance Manager, a Stock Market Analysis, a Weather Radar Map, a Student Records SQL database app. My goal is to create a minimum viable product for each project. 
+    Today, I chose the six projects I will complete for my software development portfolio. They are a Task Manager (console based), a Health and Fitness App, a Personal Finance Manager, a Stock Market Analysis, a Weather Radar Map, a Student Records SQL database app. My goal is to create a minimum viable product for each project. If I have time, I will flesh each project out a bit more, but to start off, I will just build a minimum viable project and flesh it out afterwards. I am giving myself 14 weeks to complete the minimum viable product version of each of these projects. 
 </p>
