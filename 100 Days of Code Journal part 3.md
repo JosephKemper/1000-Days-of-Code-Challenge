@@ -434,5 +434,14 @@
     Tuesday, 12 September, 2023
 </h3>
 <p>
-    Today, I chose the six projects I will complete for my software development portfolio. They are a Task Manager (console based), a Health and Fitness App, a Personal Finance Manager, a Stock Market Analysis, a Weather Radar Map, a Student Records SQL database app. My goal is to create a minimum viable product for each project. If I have time, I will flesh each project out a bit more, but to start off, I will just build a minimum viable project and flesh it out afterwards. I am giving myself 14 weeks to complete the minimum viable product version of each of these projects. 
+    Today, I chose the six projects I will complete for my software development portfolio. They are a Task Manager (console based), a Health and Fitness App, a Personal Finance Manager, a Stock Market Analysis, a Weather Radar Map, a Student Records SQL database app. My goal is to create a minimum viable product for each project. If I have time, I will flesh each project out a bit more, but to start off, I will just build a minimum viable project and flesh it out afterwards. I am giving myself 14 weeks to complete the minimum viable product version of each of these projects. I still plan on keeping up my digging deeper blog, but right now, I want to get my software portfolio built. 
+</p>
+<h1>
+    Day 342
+</h1>
+<h3>
+    Wednesday, 13 September, 2023
+</h3>
+<p>
+    Today, I finished my template for my software portfolio that I will be building over the next 14 weeks. 
 </p>
