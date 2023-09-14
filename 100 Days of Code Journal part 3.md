@@ -443,5 +443,5 @@
     Wednesday, 13 September, 2023
 </h3>
 <p>
-    Today, I finished my template for my software portfolio that I will be building over the next 14 weeks. 
+    Today, I finished my template for my software portfolio that I will be building over the next 14 weeks.
 </p>
