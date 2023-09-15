@@ -443,5 +443,14 @@
     Wednesday, 13 September, 2023
 </h3>
 <p>
-    Today, I finished my template for my software portfolio that I will be building over the next 14 weeks.
+    Today, I finished my template for my software portfolio that I will be building over the next 14 weeks. I even created a sort of programming pre/post flight checklist to use to help me build better programming habits. 
+</p>
+<h1>
+    Day 343
+</h1>
+<h3>
+    Thursday, 14 September, 2023
+</h3>
+<p>
+    Today, I started my plan for my Task Manager program. I still have more work to complete on the plan, but I at least have a good start. 
 </p>
