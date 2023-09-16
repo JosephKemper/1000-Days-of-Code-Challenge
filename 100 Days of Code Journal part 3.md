@@ -454,3 +454,21 @@
 <p>
     Today, I started my plan for my Task Manager program. I still have more work to complete on the plan, but I at least have a good start. 
 </p>
+<h1>
+    Day 344
+</h1>
+<h3>
+    Friday, 15 September, 2023
+</h3>
+<p>
+    Today, I continued working on my plan for my task manager project. 
+</p>
+<h1>
+    Day 345
+</h1>
+<h3>
+    Saturday, 16 September, 2023
+</h3>
+<p>
+    
+</p>
