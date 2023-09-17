@@ -470,5 +470,11 @@
     Saturday, 16 September, 2023
 </h3>
 <p>
-    Today, I got IntelliJ set up on my computer, learned how to use it, got Github set up within IntelliJ, got JDK installed on my computer, wrote a basic Hello World app in Kotlin, tested several variations of the hello world program, defined the minimum viable product for my task manager app, defined several stretch goals for my task manager, and started populating a readme that will describe my program and my goals. 
+    Today, I got IntelliJ set up on my computer, learned how to use it, got GitHub set up within IntelliJ, got JDK installed on my computer, wrote a basic Hello World app in Kotlin, tested several variations of the hello world program, defined the minimum viable product for my task manager app, defined several stretch goals for my task manager, and started populating a readme that will describe my program and my goals. 
+</p>
+<h3>
+    Sunday, 17 September, 2023
+</h3>
+<p>
+    Scheduled day off of Coding
 </p>
