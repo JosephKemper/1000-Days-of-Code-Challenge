@@ -478,3 +478,13 @@
 <p>
     Scheduled day off of Coding
 </p>
+
+<h1>
+    Day 346
+</h1>
+<h3>
+    Monday, 18 September, 2023
+</h3>
+<p>
+    Today, I finished the overview portion of my readme for my task manager program, expanded out the planned features list, and got some of the requirements mapped out. Tomorrow I will finish mapping out the requirements and then from there will create a UML diagram and from there, will start coding. 
+</p>
