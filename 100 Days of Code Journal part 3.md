@@ -478,7 +478,6 @@
 <p>
     Scheduled day off of Coding
 </p>
-
 <h1>
     Day 346
 </h1>
@@ -487,4 +486,13 @@
 </h3>
 <p>
     Today, I finished the overview portion of my readme for my task manager program, expanded out the planned features list, and got some of the requirements mapped out. Tomorrow I will finish mapping out the requirements and then from there will create a UML diagram and from there, will start coding. 
+</p>
+<h1>
+    Day 347
+</h1>
+<h3>
+    Tuesday, 19 September, 2023
+</h3>
+<p>
+    Today, I got my basic outline finished for my task manager app, learned how to write functions and declare variables in Kotlin, learned about recursive function calls, learned about declaring global variables, creating mutable lists, and figured out what I need to include in my task manager consol app to create a minimum viable product. Tomorrow, I will finish my UML, and plan out when I will write each function, and then get everything written. 
 </p>
