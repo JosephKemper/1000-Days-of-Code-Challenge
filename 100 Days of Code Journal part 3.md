@@ -496,3 +496,12 @@
 <p>
     Today, I got my basic outline finished for my task manager app, learned how to write functions and declare variables in Kotlin, learned about recursive function calls, learned about declaring global variables, creating mutable lists, and figured out what I need to include in my task manager consol app to create a minimum viable product. Tomorrow, I will finish my UML, and plan out when I will write each function, and then get everything written. 
 </p>
+<h1>
+    Day 348
+</h1>
+<h3>
+    Wednesday, 20 September, 2023
+</h3>
+<p>
+    Today, I used a hybrid of python and sudo code to write the core aspects of my console based task manager that I will write in Kotlin. I also planned out the completion of my project. I hope to have it completed by this Saturday. Tomorrow, I will have the basic version completed, and then Friday and Saturday, I plan on spending a bit of time to flesh it out a bit more and stretch myself a bit in the process. From there, on Monday, I will work on a bit of job hunt skills and after I complete that (hopefully on Monday) I will start my next project which will be a basic health and fitness app, that I hope to get published to the Google play store. 
+</p>
