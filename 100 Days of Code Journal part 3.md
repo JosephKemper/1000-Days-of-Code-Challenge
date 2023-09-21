@@ -505,3 +505,4 @@
 <p>
     Today, I used a hybrid of python and sudo code to write the core aspects of my console based task manager that I will write in Kotlin. I also planned out the completion of my project. I hope to have it completed by this Saturday. Tomorrow, I will have the basic version completed, and then Friday and Saturday, I plan on spending a bit of time to flesh it out a bit more and stretch myself a bit in the process. From there, on Monday, I will work on a bit of job hunt skills and after I complete that (hopefully on Monday) I will start my next project which will be a basic health and fitness app, that I hope to get published to the Google play store. 
 </p>
+Testing phone edit. 
