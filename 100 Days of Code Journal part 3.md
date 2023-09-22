@@ -505,4 +505,12 @@
 <p>
     Today, I used a hybrid of python and sudo code to write the core aspects of my console based task manager that I will write in Kotlin. I also planned out the completion of my project. I hope to have it completed by this Saturday. Tomorrow, I will have the basic version completed, and then Friday and Saturday, I plan on spending a bit of time to flesh it out a bit more and stretch myself a bit in the process. From there, on Monday, I will work on a bit of job hunt skills and after I complete that (hopefully on Monday) I will start my next project which will be a basic health and fitness app, that I hope to get published to the Google play store. 
 </p>
-Testing phone edit. 
+<h1>
+    Day 349
+</h1>
+<h3>
+    Thursday, 21 September, 2023
+</h3>
+<p>
+    Today, I got the basic program for my consol based task manager written. In the process, I learned how to create and call functions in Kotlin, create variables and define them right away and wait to define them later, write if/else if/ else statements, use the when function, learned how to add and remove items from a list, learned how to call variables in a string, and check for multiple conditions in a user input to make sure it was within an acceptable range. In the process, I wrote 5 functions and used recursion to let the user select multiple options within the program.
+</p>
