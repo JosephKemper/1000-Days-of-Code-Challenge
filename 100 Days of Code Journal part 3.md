@@ -523,3 +523,12 @@
 <p>
     Today, I did not get nearly as much done. I had to battle a bunch of errands. But I still managed to learn how to save and load data. Tomorrow, I will finish implementing that and then try to turn everything into a class. 
 </p>
+<h1>
+    Day 351
+</h1>
+<h3>
+    Saturday, 23 September, 2023
+</h3>
+<p>
+    Today, I finished the save and load functions and got all of the comments properly fleshed out for my code. I know I should have done those first along with my planning of the code, but right now this works better for me. I am still getting better at the planning side. The projects I am working on will help me with that. Along with completing the save and load functions, I also learned how to implement error handling in Kotlin, how to clear the contents of a list, how to import Java libraries into Kotlin, and how to both save data from a list to a file and how to load data from a file back into that same list.
+</p>
