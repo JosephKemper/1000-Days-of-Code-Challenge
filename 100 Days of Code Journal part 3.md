@@ -514,3 +514,21 @@
 <p>
     Today, I got the basic program for my consol based task manager written. In the process, I learned how to create and call functions in Kotlin, create variables and define them right away and wait to define them later, write if/else if/ else statements, use the when function, learned how to add and remove items from a list, learned how to call variables in a string, and check for multiple conditions in a user input to make sure it was within an acceptable range. In the process, I wrote 5 functions and used recursion to let the user select multiple options within the program.
 </p>
+<h1>
+    Day 350
+</h1>
+<h3>
+    Friday, 22 September, 2023
+</h3>
+<p>
+    Today, I did not get nearly as much done. I had to battle a bunch of errands. But I still managed to learn how to save and load data. Tomorrow, I will finish implementing that and then try to turn everything into a class. 
+</p>
+<h1>
+    Day 351
+</h1>
+<h3>
+    Saturday, 23 September, 2023
+</h3>
+<p>
+    Today, I finished the save and load functions and got all of the comments properly fleshed out for my code. I know I should have done those first along with my planning of the code, but right now this works better for me. I am still getting better at the planning side. The projects I am working on will help me with that. Along with completing the save and load functions, I also learned how to implement error handling in Kotlin, how to clear the contents of a list, how to import Java libraries into Kotlin, and how to both save data from a list to a file and how to load data from a file back into that same list.
+</p>
