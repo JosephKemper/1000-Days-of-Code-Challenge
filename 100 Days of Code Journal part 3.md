@@ -532,3 +532,10 @@
 <p>
     Today, I finished the save and load functions and got all of the comments properly fleshed out for my code. I know I should have done those first along with my planning of the code, but right now this works better for me. I am still getting better at the planning side. The projects I am working on will help me with that. Along with completing the save and load functions, I also learned how to implement error handling in Kotlin, how to clear the contents of a list, how to import Java libraries into Kotlin, and how to both save data from a list to a file and how to load data from a file back into that same list.
 </p>
+</h1>
+<h3>
+    Sunday, 24 September, 2023
+</h3>
+<p>
+    Scheduled day off coding.
+</p>
