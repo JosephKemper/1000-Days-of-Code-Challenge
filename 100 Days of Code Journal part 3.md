@@ -539,3 +539,12 @@
 <p>
     Scheduled day off coding.
 </p>
+<h1>
+    Day 352
+</h1>
+<h3>
+    Monday, 25 September, 2023
+</h3>
+<p>
+    Today, I learned how to make a data class in Kotlin, created my first data class, and started refactoring my code to use the new data class. I also planned out some of the needed changes to two of my functions and marked two more for review as I am sure I will need to update them as well. 
+</p>
