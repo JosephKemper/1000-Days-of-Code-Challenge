@@ -548,3 +548,12 @@
 <p>
     Today, I learned how to make a data class in Kotlin, created my first data class, and started refactoring my code to use the new data class. I also planned out some of the needed changes to two of my functions and marked two more for review as I am sure I will need to update them as well. 
 </p>
+<h1>
+    Day 353
+</h1>
+<h3>
+    Tuesday, 26 September, 2023
+</h3>
+<p>
+    Today, I got my listTasks and addTasks functions refactored to use my TaskData data class. In the process, I learned how to create and use date variables. I also figured out how to pull the current date from the computer, and how to calculate the time between two dates. I Have just over 30 minutes of time I need to put into my project to meet my goal (24 hours minimum) which at this point, will be spent making sure everything is working right. Then, if it is, I will record a demo of my project and upload it and move to the next project. 
+</p>
