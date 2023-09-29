@@ -566,3 +566,12 @@
 <p>
     Today, I refactored my saveTasks and loadAdditionalTasks functions to use the new data structure I built on Monday. In the process I learned how to handle file management in Kotlin when classes are involved. Tomorrow, I will check to make sure everything works and then assuming it does, I will record my video demo of my console based task manager app. 
 </p>
+<h1>
+    Day 355
+</h1>
+<h3>
+    Thursday, 28 September, 2023
+</h3>
+<p>
+    Today, I tested my code, and found to my pleasant surprise that everything ran properly. I was not happy with how the dates were formatted, and tried to change those, but found that as I tried I kept creating more and more bugs, so I just stopped, returned it back to where I started (thank you version control) and have created an issue to remind myself of what I still need to do. However, for that one, I will figure it out the next time I open the program. So, after confirming my task manager was to a workable state, and had met or exceeded all of my goals for the program, I recorded a video demo of the program. 
+</p>
