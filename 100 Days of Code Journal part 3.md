@@ -575,3 +575,12 @@
 <p>
     Today, I tested my code, and found to my pleasant surprise that everything ran properly. I was not happy with how the dates were formatted, and tried to change those, but found that as I tried I kept creating more and more bugs, so I just stopped, returned it back to where I started (thank you version control) and have created an issue to remind myself of what I still need to do. However, for that one, I will figure it out the next time I open the program. So, after confirming my task manager was to a workable state, and had met or exceeded all of my goals for the program, I recorded a video demo of the program. 
 </p>
+<h1>
+    Day 355
+</h1>
+<h3>
+    Friday, 29 September, 2023
+</h3>
+<p>
+    Today, I spent time polishing up my task manager app. 
+</p>
