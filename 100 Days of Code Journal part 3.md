@@ -588,8 +588,14 @@
     Day 356
 </h1>
 <h3>
-    Saturday, 29 September, 2023
+    Saturday, 30 September, 2023
 </h3>
 <p>
     I have more work to do, but I formally got my next project started. It will be a basic health and fitness app. Right now, I am planning on enabling user created work out routines that will let them track data about the different workouts and see different statistics about them. I also plan on trying to add diet and weight tracking into the app as well. I was a little nervous to get started but I think I managed to figure out how I am going to tackle this. 
+</p>
+<h3>
+    Sunday, 1 October, 2023
+</h3>
+<p>
+    Scheduled day off from Coding
 </p>
