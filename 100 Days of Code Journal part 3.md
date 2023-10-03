@@ -599,3 +599,12 @@
 <p>
     Scheduled day off from Coding
 </p>
+<h1>
+    Day 357
+</h1>
+<h3>
+    Monday, 30 September, 2023
+</h3>
+<p>
+    Today, I formally started working on my health and fitness app. I built a general plan for what that app will consist of, have a basic plan for what its features will be, including both the minimum viable product and extras I can throw in if I get ahead of schedule. I also planned out my time for both learning the new technologies I will be using for this, actually writing the program, and (hopefully) publishing it to the Google Play Store. As currently planned, I will create a basic health and fitness app that lets users create and use custom workout routines, track their diet and weight. If I get ahead on my project, I will also add different reports that you can run to better see how you are doing and reminders. 
+</p>
