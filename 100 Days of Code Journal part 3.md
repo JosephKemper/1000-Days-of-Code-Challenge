@@ -617,3 +617,12 @@
 <p>
     Today, I got the readme updated for my task manager app to include instructions for the app. Then, I started studying about building a UI for my health and fitness app. I'm leaning towards using JetPack Compose but still have more study to do before I am ready to move forward. 
 </p>
+<h1>
+    Day 359
+</h1>
+<h3>
+    Wednesday, 4 October, 2023
+</h3>
+<p>
+    I settled on Jetpack Compose for my UI tools (largely because it was already in Android Studio), made sure it was properly enabled in my project, and started learning how to use it. I am a little behind where I wanted to be, but I should be able to catch up easily. 
+</p>
