@@ -626,3 +626,12 @@
 <p>
     I settled on Jetpack Compose for my UI tools (largely because it was already in Android Studio), made sure it was properly enabled in my project, and started learning how to use it. I am a little behind where I wanted to be, but I should be able to catch up easily. 
 </p>
+<h1>
+    Day 360
+</h1>
+<h3>
+    Thursday, 5 October, 2023
+</h3>
+<p>
+    Today, I gained an appreciation for the power of working on projects instead of just studying. I have spent the last few days studying Jetpack, thinking that because of how new this idea is (specifically trying to write code to run in something other than the console) and now that I look back, I think I would have learned more had I just started coding and learned as I went. It's an interesting and counter intuitive idea. I like it.
+</p>
