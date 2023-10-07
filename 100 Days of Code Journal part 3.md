@@ -635,3 +635,12 @@
 <p>
     Today, I gained an appreciation for the power of working on projects instead of just studying. I have spent the last few days studying Jetpack, thinking that because of how new this idea is (specifically trying to write code to run in something other than the console) and now that I look back, I think I would have learned more had I just started coding and learned as I went. It's an interesting and counter intuitive idea. I like it.
 </p>
+<h1>
+    Day 361
+</h1>
+<h3>
+    Friday, 6 October, 2023
+</h3>
+<p>
+    Okay, I am officially a fan of working in projects and specifically working under deadlines. The past few days, I studied a lot but gained very little. Today, I struggled to figure out a form to my program, what I want it to look like, how I want it to act, and what features I want it to have, and in the process, learned about composable functions, default values in data classes, and started learning about how to get user input. I still want to study and learn because I know its long term value, but I think I want to do a lot of learning through projects I will build in the future. I really love the challenge. 
+</p>
