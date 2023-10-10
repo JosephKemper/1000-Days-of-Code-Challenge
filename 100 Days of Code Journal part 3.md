@@ -644,3 +644,18 @@
 <p>
     Okay, I am officially a fan of working in projects and specifically working under deadlines. The past few days, I studied a lot but gained very little. Today, I struggled to figure out a form to my program, what I want it to look like, how I want it to act, and what features I want it to have, and in the process, learned about composable functions, default values in data classes, and started learning about how to get user input. I still want to study and learn because I know its long term value, but I think I want to do a lot of learning through projects I will build in the future. I really love the challenge. 
 </p>
+<h1>
+    Day 362
+</h1>
+<h3>
+    Saturday, 7 October, 2023
+</h3>
+<p>
+    Today, I learned that recently Android studio has released what seems to be a major patch that took Jetpack compose from a secondary option to a primary option instead of the xml documents that seem to have been popular prior to the recent update. And as result of that, there is a lot of mixed info about how to build UI elements in Android studio. Well, at least now I got everything straightened out and I am determined despite the setback to still meet my deadline. 
+</p>
+<h3>
+    Sunday, 8 October, 2023
+</h3>
+<p>
+    Scheduled day off coding
+</p>
