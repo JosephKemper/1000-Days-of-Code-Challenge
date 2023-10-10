@@ -659,3 +659,12 @@
 <p>
     Scheduled day off coding
 </p>
+<h1>
+    Day 363
+</h1>
+<h3>
+    Monday, 9 October, 2023
+</h3>
+<p>
+    I need to get over my struggle with making an app with an actual UI in it. Today was spent getting a better idea of how a complete app looks and feels on the programming side. Tomorrow, I will create a proper outline to the program and then from there, (hopefully) I dive into writing it. 
+</p>
