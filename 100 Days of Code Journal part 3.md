@@ -677,3 +677,12 @@
 <p>
     Today, I learned about the benefits of creating a (in my case) rough mockup of what I want the app to look like. I have really been struggling to get even the most basic part of my app built this time around. It has felt like my head has been in a fog and was unable to figure out even the smallest portion of where or how to start. Yesterday, I watched a short 46 minute tutorial on how to create a basic calculator using the tools I have chosen, and on of the biggest things that hit me was seeing how he referenced an image of what he wanted the app to look like to guide his programming efforts. Today, when I created my own (admittedly very basic) mockups, it instantly pulled my head out of the fog I have been stuck in for the past week. I still have a few more to go before I am done, but wow, that helped a lot. 
 </p>
+<h1>
+    Day 365
+</h1>
+<h3>
+    Wednesday, 11 October, 2023
+</h3>
+<p>
+    Today, I had a bunch of distractions but still managed to get further on my plan. 
+</p>
