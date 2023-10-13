@@ -686,3 +686,12 @@
 <p>
     Today, I had a bunch of distractions but still managed to get further on my plan. 
 </p>
+<h1>
+    Day 366
+</h1>
+<h3>
+    Thursday, 11 October, 2023
+</h3>
+<p>
+    Building a app from Jetpack is a lot harder than I was expecting. I am still determined to get this built. 
+</p>
