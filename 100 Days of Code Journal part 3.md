@@ -713,3 +713,8 @@
 <p>
     Well I set a deadline and finished work on my app today. I did not get as far as I wanted with it, but I will still be moving on to the next project starting Monday. As I got started with the app, I got intimidated by the idea of working with a UI for the first time and I stopped using the scientific method for learning and building. Instead of getting started on the project, and learning as I ran into problems, I started learning and then tried to apply that retroactively to my project. From there, when that ran into a problem, I went back to the drawing board and started learning all over again. Additionally, starting off, I used only a very few sources (despite linking to more than I used) and then found that the sources I was using were not for the technologies I was trying to use for this project. Ultimately, I caught myself and corrected my behaviors and made some real progress on the app. But it will be one that I will be going back to after this class is over. Or possibly at the end of the class if I get ahead. Going forward, I will be trying to figure out what the 20% most useful skills are for a project and then learning those, and from there, dive into the project as fast as possible, while making sure to maintain a learn as I go mentality. 
 </p>
+    Sunday, 15 October, 2023
+</h3>
+<p>
+    Scheduled day off from coding
+</p>
