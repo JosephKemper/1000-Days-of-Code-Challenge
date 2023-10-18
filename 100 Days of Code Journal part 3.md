@@ -722,8 +722,17 @@
     Day 369
 </h1>
 <h3>
-    Monday, 15 October, 2023
+    Monday, 16 October, 2023
 </h3>
 <p>
     Today I started to work on my next project. I will be building a basic personal finance manager app that will integrate Google firebase into it. 
+</p>
+<h1>
+    Day 370
+</h1>
+<h3>
+    Tuesday, 17 October, 2023
+</h3>
+<p>
+    Wow! There is a lot to Firebase. I am going to enjoy actually putting it to use. Given I want to build a basic financial manager app, I have a few tools I want to take advantage of. Tomorrow, I will finish my plan for my app and have a better idea of the features I plan to use. 
 </p>
