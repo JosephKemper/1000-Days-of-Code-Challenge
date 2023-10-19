@@ -736,3 +736,12 @@
 <p>
     Wow! There is a lot to Firebase. I am going to enjoy actually putting it to use. Given I want to build a basic financial manager app, I have a few tools I want to take advantage of. Tomorrow, I will finish my plan for my app and have a better idea of the features I plan to use. 
 </p>
+<h1>
+    Day 371
+</h1>
+<h3>
+    Wednesday, 18 October, 2023
+</h3>
+<p>
+    Today, I finished my initial study of Google Firebase and got a basic plan built for my app. Tomorrow, I will spend 2 hours on a tutorial for Firebase and Jetpack Compose, and then will get into my app. My plan is to be able to build an app that will require a basic login (I am currently planning on requiring a login with Google option) and then will let users enter income, expenses, and track budgets. I am also hoping to be able to build the option to generate a few simple reports. 
+</p>
