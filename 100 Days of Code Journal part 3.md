@@ -745,3 +745,28 @@
 <p>
     Today, I finished my initial study of Google Firebase and got a basic plan built for my app. Tomorrow, I will spend 2 hours on a tutorial for Firebase and Jetpack Compose, and then will get into my app. My plan is to be able to build an app that will require a basic login (I am currently planning on requiring a login with Google option) and then will let users enter income, expenses, and track budgets. I am also hoping to be able to build the option to generate a few simple reports. 
 </p>
+<h1>
+    Day 372
+</h1>
+<h3>
+    Thursday, 19 October, 2023
+</h3>
+<p>
+    Today, I studied a wonderful 9 part series on how to build a simple to do app using both Jetpack and Firebase. It was really informative. Tomorrow, I will finish the tutorial that linked to the article series. I think the thing I liked about it the most was seeing the logic of building a complete app using the tools I am using.
+</p>
+<ol>
+<li><a href="https://firebase.blog/posts/2022/04/building-an-app-android-jetpack-compose-firebase">Building an Android app with Jetpack Compose and Firebase</a></li>
+<li><a href="https://firebase.blog/posts/2022/05/adding-firebase-auth-to-jetpack-compose-app">Adding Firebase Authentication to a Jetpack Compose app</a></li>
+<li><a href="https://firebase.blog/posts/2022/06/adding-crashlytics-to-jetpack-compose-app">Adding Crashlytics to a Jetpack Compose app</a></li>
+<li><a href="https://firebase.blog/posts/2022/07/adding-cloud-firestore-to-jetpack-compose-app">Adding Cloud Firestore to a Jetpack Compose app</a>
+<li><a href="https://firebase.blog/posts/2022/10/using-coroutines-flows-with-firebase-on-android">Using Coroutines and Flows with Firebase on an Android app</a></li>
+<li><a href="https://firebase.blog/posts/2022/11/adding-performance-monitoring-to-jetpack-compose-app">Adding Firebase Performance Monitoring to a Jetpack Compose app</a></li>
+<li><a href="https://firebase.blog/posts/2022/11/adding-remote-config-to-jetpack-compose-appl">Adding Firebase Remote Config to a Jetpack Compose app</a></li>
+<li><a href="https://firebase.blog/posts/2023/06/adding-firebase-extension-to-jetpack-compose-app">Adding a Firebase Extension to a Jetpack Compose app</a></li>
+<li><a href="https://firebase.blog/posts/2023/08/adding-fcm-to-jetpack-compose-app">Adding Firebase Cloud Messaging to a Jetpack Compose app</a>
+</ol></li>
+
+
+
+
+
