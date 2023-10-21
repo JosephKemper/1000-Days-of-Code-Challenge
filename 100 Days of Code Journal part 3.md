@@ -765,8 +765,12 @@
 <li><a href="https://firebase.blog/posts/2023/06/adding-firebase-extension-to-jetpack-compose-app">Adding a Firebase Extension to a Jetpack Compose app</a></li>
 <li><a href="https://firebase.blog/posts/2023/08/adding-fcm-to-jetpack-compose-app">Adding Firebase Cloud Messaging to a Jetpack Compose app</a>
 </ol></li>
-
-
-
-
-
+<h1>
+    Day 373
+</h1>
+<h3>
+    Friday, 19 October, 2023
+</h3>
+<p>
+    Today, I started going through the Build an Android app with Firebase and Jetpack Compose tutorial. I am happily taking my time diving into it. I could probably go a lot faster, but I enjoy getting side tracked asking questions of my friendly AI search engine. Why is such a fun and powerful question to ask. 
+</p>
