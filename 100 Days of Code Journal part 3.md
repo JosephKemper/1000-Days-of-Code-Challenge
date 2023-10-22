@@ -765,8 +765,20 @@
 <li><a href="https://firebase.blog/posts/2023/06/adding-firebase-extension-to-jetpack-compose-app">Adding a Firebase Extension to a Jetpack Compose app</a></li>
 <li><a href="https://firebase.blog/posts/2023/08/adding-fcm-to-jetpack-compose-app">Adding Firebase Cloud Messaging to a Jetpack Compose app</a>
 </ol></li>
-
-
-
-
-
+<h1>
+    Day 373
+</h1>
+<h3>
+    Friday, 19 October, 2023
+</h3>
+<p>
+    Today, I started going through the Build an Android app with Firebase and Jetpack Compose tutorial. I am happily taking my time diving into it. I could probably go a lot faster, but I enjoy getting side tracked asking questions of my friendly AI search engine. Why is such a fun and powerful question to ask. 
+</p><h1>
+    Day 373
+</h1>
+<h3>
+    Saturday, 20 October, 2023
+</h3>
+<p>
+    Well I figured out what I did wrong with my fitness app and why I ran into so many problems with it. I did not have the plugins and dependencies set up properly for my project. For my Finance app, I used a tutorial Google made teaching you how to make a task manager app to figure out how to get the dependencies set up properly, and given the differences in some of current file versions, I still had a lot I had to figure out on my own, like for example, I had to force the material3 plugin to the current stable version before the basic hello world would run properly. I am already happy with how well my current project is going compared to my last one. I am happy I chose to push ahead. It gave me a fresh perspective that let me figure out where I was getting stuck on the last project.
+</p>
