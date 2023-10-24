@@ -773,7 +773,8 @@
 </h3>
 <p>
     Today, I started going through the Build an Android app with Firebase and Jetpack Compose tutorial. I am happily taking my time diving into it. I could probably go a lot faster, but I enjoy getting side tracked asking questions of my friendly AI search engine. Why is such a fun and powerful question to ask. 
-</p><h1>
+</p>
+<h1>
     Day 373
 </h1>
 <h3>
@@ -787,4 +788,13 @@
 </h3>
 <p>
     Scheduled Day off from coding
+</p>
+<h1>
+    Day 374
+</h1>
+<h3>
+    Monday, 23 October, 2023
+</h3>
+<p>
+    Today, I spent some time configuring the Firebase portion of my app. It is a lot to learn, especially on the fly. 
 </p>
