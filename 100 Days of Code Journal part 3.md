@@ -798,3 +798,12 @@
 <p>
     Today, I spent some time configuring the Firebase portion of my app. It is a lot to learn, especially on the fly. 
 </p>
+<h1>
+    Day 375
+</h1>
+<h3>
+    Tuesday, 24 October, 2023
+</h3>
+<p>
+    I got caught up in doubt again today. Tomorrow, I stop and do this properly and with a scientific approach. I will get a workable app produced with a minimum viable product by Saturday. 
+</p>
