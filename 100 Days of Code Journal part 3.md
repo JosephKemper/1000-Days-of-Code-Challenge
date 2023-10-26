@@ -807,3 +807,12 @@
 <p>
     I got caught up in doubt again today. Tomorrow, I stop and do this properly and with a scientific approach. I will get a workable app produced with a minimum viable product by Saturday. 
 </p>
+<h1>
+    Day 376
+</h1>
+<h3>
+    Wednesday, 25 October, 2023
+</h3>
+<p>
+    Today, I got the readme updated, part of the functions and classes designed, and finally got my personal issues out of the way so I can get back to work properly.
+</p>
