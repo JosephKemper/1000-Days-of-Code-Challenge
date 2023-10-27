@@ -816,3 +816,12 @@
 <p>
     Today, I got the readme updated, part of the functions and classes designed, and finally got my personal issues out of the way so I can get back to work properly.
 </p>
+<h1>
+    Day 377
+</h1>
+<h3>
+    Thursday, 26 October, 2023
+</h3>
+<p>
+    Wow that felt good. Finally a productive day. Today, I got my app properly planned out for at least the major parts to it. I will have a data class that will store 4 data points as a different data type, a list to store the entered transactions, a function to process withdrawals, process deposits, collect deposits from the user, collect withdrawals from the user, display transactions, calculate total, display total, save data, and delete transaction. Additionally, it will have a function to convert each of the 4 different data types from the strings that the user will enter into the correct data types, and will have another function to check if the transaction amount was entered as a positive number. It will store info in the cloud using Google Firebase, and will have a function that calls a function in the cloud to delete all their data if so desired. Today, I wrote the data class, the function to convert the string containing the transaction amount into the BigData type (used for number accuracy), and the function that makes sure the number was entered as a positive number. 
+</p>
