@@ -825,3 +825,12 @@
 <p>
     Wow that felt good. Finally a productive day. Today, I got my app properly planned out for at least the major parts to it. I will have a data class that will store 4 data points as a different data type, a list to store the entered transactions, a function to process withdrawals, process deposits, collect deposits from the user, collect withdrawals from the user, display transactions, calculate total, display total, save data, and delete transaction. Additionally, it will have a function to convert each of the 4 different data types from the strings that the user will enter into the correct data types, and will have another function to check if the transaction amount was entered as a positive number. It will store info in the cloud using Google Firebase, and will have a function that calls a function in the cloud to delete all their data if so desired. Today, I wrote the data class, the function to convert the string containing the transaction amount into the BigData type (used for number accuracy), and the function that makes sure the number was entered as a positive number. 
 </p>
+<h1>
+    Day 378
+</h1>
+<h3>
+    Friday, 27 October, 2023
+</h3>
+<p>
+    Today, I got a function written to take in a string as an argument, collect the current date format from the users device, try to format that string as a date type variable and return the current date if there is an error in parsing the date string. I also wrote a function to track the current available balance, and then a function that takes in a string transaction amount, a raw date string, a string containing the description of a transaction (all collected from the user), and a Boolean value telling whether it is a deposit or not, and converts it to a prebuilt data class, and then adds it to a list of transactions. I also built a mockup of the UI for my app. And tomorrow, I get to build that UI, add a few things from Firebase into the app and should (hopefully) be able to finish it. 
+</p>
