@@ -843,3 +843,9 @@
 <p>
     Today, I started to build a text box to enter data, but after a few hours of digging found that I might have some conflicting and/or missing requirements in my app, and while I did not get anywhere near as far as I was hoping, I still learned a lot and made progress on a prior area I struggled in and that makes me happy. 
 </p>
+<h3>
+    Sunday, 29 October, 2023
+</h3>
+<p>
+    Scheduled day off from coding
+</p>
