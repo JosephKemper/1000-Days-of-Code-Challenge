@@ -834,3 +834,12 @@
 <p>
     Today, I got a function written to take in a string as an argument, collect the current date format from the users device, try to format that string as a date type variable and return the current date if there is an error in parsing the date string. I also wrote a function to track the current available balance, and then a function that takes in a string transaction amount, a raw date string, a string containing the description of a transaction (all collected from the user), and a Boolean value telling whether it is a deposit or not, and converts it to a prebuilt data class, and then adds it to a list of transactions. I also built a mockup of the UI for my app. And tomorrow, I get to build that UI, add a few things from Firebase into the app and should (hopefully) be able to finish it. 
 </p>
+<h1>
+    Day 379
+</h1>
+<h3>
+    Saturday, 28 October, 2023
+</h3>
+<p>
+    Today, I started to build a text box to enter data, but after a few hours of digging found that I might have some conflicting and/or missing requirements in my app, and while I did not get anywhere near as far as I was hoping, I still learned a lot and made progress on a prior area I struggled in and that makes me happy. 
+</p>
