@@ -858,3 +858,12 @@
 <p>
     Today, I finished the plan and concept for my forth project, a data analysis app. I know that people are creatures of habit and that those habits form patterns in almost every area of their lives. There are several questions that I have been wondering about for years relating to the stock market. Do the habits that fill our lives spill over into patterns within the stock market? Is there a certain day of the week when the stocks of a particular company tend to be lower or higher? Are there certain times of the year when the stocks tend to be higher or lower? I know that for cyclical companies, their stocks are going to rise and fall with the economy, and that for counter cyclical companies, their stocks will move in the opposite direction of the economy as a whole, but are there other patterns. My goal with this project, at least at first, is to build a program that will let me filter the data by different combinations of both days of the week, week of the year, and month, and will then get several different types of ways to summarize the data. 
 </p>
+<h1>
+    Day 381
+</h1>
+<h3>
+    Monday, 30 October, 2023
+</h3>
+<p>
+    I decided on Panda for my stock market data analysis project, and started learning how to use it. From what I can tell so far, it looks like I will enjoy this project. 
+</p>
