@@ -862,8 +862,17 @@
     Day 381
 </h1>
 <h3>
-    Monday, 30 October, 2023
+    Tuesday, 31 October, 2023
 </h3>
 <p>
     I decided on Panda for my stock market data analysis project, and started learning how to use it. From what I can tell so far, it looks like I will enjoy this project. 
+</p>
+<h1>
+    Day 382
+</h1>
+<h3>
+    Wednesday, 1 November 2023
+</h3>
+<p>
+    Today I got my project set up, the readme created, and the development environment configured. I also got the base file I will be working with set up. 
 </p>
