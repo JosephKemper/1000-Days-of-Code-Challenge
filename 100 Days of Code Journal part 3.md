@@ -885,3 +885,12 @@
 <p>
     Today was spent making sure I have my motivations clear. If I am trying to analyze data, then I need to make sure my motivations and goals are clear, for only then can I ensure I don't get my motivations in the way of the data and the story it has to tell. 
 </p>
+<h1>
+    Day 384
+</h1>
+<h3>
+    Friday, 3 November 2023
+</h3>
+<p>
+    Today, I formally started my data analysis and in the process, learned how to use the .info() and .describe() methods for panda along with using the percentiles and include arguments.
+</p>
