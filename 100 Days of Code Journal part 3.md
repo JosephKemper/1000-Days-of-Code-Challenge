@@ -876,3 +876,12 @@
 <p>
     Today I got my project set up, the readme created, and the development environment configured. I also got the base file I will be working with set up. 
 </p>
+<h1>
+    Day 383
+</h1>
+<h3>
+    Thursday, 2 November 2023
+</h3>
+<p>
+    Today was spent making sure I have my motivations clear. If I am trying to analyze data, then I need to make sure my motivations and goals are clear, for only then can I ensure I don't get my motivations in the way of the data and the story it has to tell. 
+</p>
