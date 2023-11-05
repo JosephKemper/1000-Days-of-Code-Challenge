@@ -894,3 +894,12 @@
 <p>
     Today, I formally started my data analysis and in the process, learned how to use the .info() and .describe() methods for panda along with using the percentiles and include arguments.
 </p>
+<h1>
+    Day 385
+</h1>
+<h3>
+    Saturday, 4 November 2023
+</h3>
+<p>
+    Wow! Today was a wonderful 10 hours of productivity. I got the raw data for my project cleaned up and formatted to get it ready to use, figured out a few extra calculated data points I wanted ready access to and created new columns to store them in, summarized all of the data, and built visualizations for each major data column of data I am analyzing, summarized the data in the first column of data I will be focusing on for my first question, prepped the summary statistics for later use, and wrote a paragraph describing those summary statistics. Tomorrow is my scheduled day off, and then Monday, I get to start doing to comparative analysis to see if I can formally find the answer to my question. Based on the summary data I have already gathered, I am pretty sure I know the answer to my first question, but I will resist jumping to any conclusions until after I have finished analyzing the data. 
+</p>
