@@ -909,3 +909,12 @@
 <p>
     Scheduled day off from coding.
 </p>
+<h1>
+    Day 386
+</h1>
+<h3>
+    Monday, 6 November 2023
+</h3>
+<p>
+    Today, I renamed my volatility measure to a more accurate Daily Range. Then I create a histogram of the data to discover how the data was distributed. From there, I started to run my comparisons. 
+</p>
