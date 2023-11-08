@@ -918,3 +918,12 @@
 <p>
     Today, I renamed my volatility measure to a more accurate Daily Range. Then I create a histogram of the data to discover how the data was distributed. From there, I started to run my comparisons. 
 </p>
+<h1>
+    Day 387
+</h1>
+<h3>
+    Tuesday, 7 November 2023
+</h3>
+<p>
+    Today, I finished analyzing the DailyRange in Tesla Stock and found that there was no significant impact in Tesla stock prices when there were large gaps between the high and low prices. In fact, it seems that the larger the gap the more even the chances for the prices to go either high or low. I also discovered that the vast majority of Tesla stock prices occur within the 1st quartile of daily range prices, and only a very small percentage occurs outside of that range. The next Question I am going to work on is the question of, "Is a high volume of trades in a day good for Tesla Stock prices?"
+</p>
