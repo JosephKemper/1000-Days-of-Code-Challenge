@@ -927,3 +927,12 @@
 <p>
     Today, I finished analyzing the DailyRange in Tesla Stock and found that there was no significant impact in Tesla stock prices when there were large gaps between the high and low prices. In fact, it seems that the larger the gap the more even the chances for the prices to go either high or low. I also discovered that the vast majority of Tesla stock prices occur within the 1st quartile of daily range prices, and only a very small percentage occurs outside of that range. The next Question I am going to work on is the question of, "Is a high volume of trades in a day good for Tesla Stock prices?"
 </p>
+<h1>
+    Day 388
+</h1>
+<h3>
+    Tuesday, 7 November 2023
+</h3>
+<p>
+    Today, I refactored my code, creating 3 functions that made my code a lot more reusable. It also let me finish analyzing the data for my second question and expand the analysis to include an actual correlation analysis. I am happy I chose to do that, because despite how the data looked on the surface, I found a weak positive correlation that suggests there might be other data in play in the connection, which opens up the door for my next question, which will be to see if there is a connection between the day of the week and the closing price. 
+</p>
