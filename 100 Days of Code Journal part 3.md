@@ -954,3 +954,12 @@
 <p>
     I have met all my goals for my stock market analysis project, and completed them ahead of schedule. I debated about doing some of the extra work, but I decided, I would just move onto my next project. Tomorrow morning I will record my video for this project, and then start on my weather map project. 
 </p>
+<h1>
+    Day 391
+</h1>
+<h3>
+    Saturday, 9 November 2023
+</h3>
+<p>
+    Today, I finished the video portion of my project, and will spend the rest of the day working on my resume and getting prepped for my next project. <a href="https://youtu.be/ATb2psXYkJU">Here is the link</a> to my video detailing my next stock market analysis. 
+</p>
