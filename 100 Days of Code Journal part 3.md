@@ -931,7 +931,7 @@
     Day 388
 </h1>
 <h3>
-    Wednesday, 7 November 2023
+    Wednesday, 8 November 2023
 </h3>
 <p>
     Today, I refactored my code, creating 3 functions that made my code a lot more reusable. It also let me finish analyzing the data for my second question and expand the analysis to include an actual correlation analysis. I am happy I chose to do that, because despite how the data looked on the surface, I found a weak positive correlation that suggests there might be other data in play in the connection, which opens up the door for my next question, which will be to see if there is a connection between the day of the week and the closing price. 
@@ -940,7 +940,7 @@
     Day 389
 </h1>
 <h3>
-    Thursday, 8 November 2023
+    Thursday, 9 November 2023
 </h3>
 <p>
     Today, I found an error in my analyses and fixed it, then I wrote my summaries of the analyses. For the first question of "Is a large daily range (a large gap between the high and low prices for the day) good for Tesla closing prices?" I wrote the following: "When looking exclusively at those days when there is the largest average gap (those points in just the 4th quartile) in the DailyRange for the high and low closing prices of Tesla Stock, there is a weak positive correlation (0.31553). However, when you include those points in the 3rd quartile in the analysis the correlation more than doubles (0.69233). And finally, when you include all data above the 1st quartile, then you get an even stronger correlation (0.78336). These results suggest that on those days when there is a wider gap between the high and low prices, the stocks are more prone to close at a high price. This is not a guarantee that prices will go up, the split between those days when it increases verses decreases is not far from 50%. Additionally, correlation does not equal causation and this is only looking at the closing prices and comparing them to the gap between the high and low prices for the day, so that leaves many other variables that would need to be accounted for before you could apply this in real life." And for the second question of "Is a high trading volume good for the closing prices on Tesla stock?" I wrote the following "In all three sets of data, there is a weak negative correlation that grows slowly weaker the more data you include in the analysis. This suggests that there is a slight tendency for the stock price to close at a lower price when there is increased trading volume. The correlation is weak enough that not a lot of conclusions can be drawn from the connection."
@@ -949,7 +949,7 @@
     Day 390
 </h1>
 <h3>
-    Friday, 8 November 2023
+    Friday, 10 November 2023
 </h3>
 <p>
     I have met all my goals for my stock market analysis project, and completed them ahead of schedule. I debated about doing some of the extra work, but I decided, I would just move onto my next project. Tomorrow morning I will record my video for this project, and then start on my weather map project. 
@@ -958,8 +958,14 @@
     Day 391
 </h1>
 <h3>
-    Saturday, 9 November 2023
+    Saturday, 11 November 2023
 </h3>
 <p>
     Today, I finished the video portion of my project, and will spend the rest of the day working on my resume and getting prepped for my next project. <a href="https://youtu.be/ATb2psXYkJU">Here is the link</a> to my video detailing my next stock market analysis. 
+</p>
+<h3>
+    Sunday, 12 November 2023
+</h3>
+<p>
+   Scheduled day off from Coding
 </p>
