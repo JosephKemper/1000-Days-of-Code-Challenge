@@ -969,3 +969,12 @@
 <p>
    Scheduled day off from Coding
 </p>
+<h1>
+    Day 392
+</h1>
+<h3>
+    Monday, 13 November 2023
+</h3>
+<p>
+    Today, I started learning about GIS mapping. I still have more to do before I will be ready to jump into my project, but I am looking forward to the idea. 
+</p>
