@@ -1,10 +1,8 @@
 As the name suggests, this repository is where I am storing my code for my 100 days of code journey. 
-For my challenge, I am modifying the rules a bit and will be doing more than 100 days of code. 
+For my challenge, I am modifying the rules a bit and will be doing more than 100 days of code. First, I am not settling for simply 100 days, I will be going for 1,000 days of coding.
 
-I will code 6 days a week (no Sundays) either until I get a job or I graduate (December 2023) whichever comes last. 
-So, if I get a job in 100 days, I will still continue this journey until I have graduated and qualified for my degree. 
-
-If December of 2023 comes around and I have not gotten a programming job yet, then I will continue this challenge until I get a programming job. 
+I will code 6 days a week (no Sundays) either until I get a job or I hit 1,000 days whichever comes last. 
+So, if I get a job in 500 days, I will still continue this journey until I hit 1,000 days. 
 
 I am taking Sundays off each week for two reasons. 
 1. As this is a marathon coding challenge (one that will last for longer than a year) I need to prepare myself to continue for the longrun, thus taking breaks will be good. 

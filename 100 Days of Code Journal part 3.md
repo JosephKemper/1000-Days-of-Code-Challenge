@@ -987,3 +987,12 @@
 <p>
      Today, I built my plan for my next project. I want to build a live weather map with the capability of getting updates for the path I will be taking to get to Idaho in December when I go up there to graduate. I want to have the major landmarks along the way from Provo to Rexburg marked so I can use it to be prepared for any weather problems along the way to and from Idaho. My initial look into GIS mapping, left me with concerns about how well documented the GIS mapping will be and how difficult the initial set up will be. That left me with concerns spawned from my struggles with making an app in Kotlin. With that in mind, I realized that my goal is to only write an app that has a minimum of 100 lines of code that has a basic map with 20 clickable markers on them to meet the minimum qualifications for the project goals. And with that in mind and the 20 hours to learn a new skill, if I were to spend 10 to 15 hours going through different tutorials and putting real dedicated time into them, I should then easily be able to spend the remaining time building my simple app. I might even be able to spend 15 to 20 hours going through tutorials and other learning activities and then put the remaining time into actually building my app. With a 20 hour foundation spent in learning a new technology, I should easily be able to write 100 hours of code towards a simple weather map, in 4 hours. And considering I will put in much more time than the minimum 24 hours required for the project, I should easily have enough time if I spend 20 hours learning before starting my project.  
 </p>
+<h1>
+    Day 394
+</h1>
+<h3>
+    Wednesday, 15 November 2023
+</h3>
+<p>
+     I officially committed to a modified 1,000 days of code journey today. I will be coding for 1 hour a day, 6 days a week (no Sundays) either until I get a job or I hit 1,000 days, whichever comes last. I spent today, learning how to prep my development environment for an ArcGIS/JavaScript project where I will build a live weather map. It's been a solid minute since I worked in JavaScript, so this will be a fun refresher and a huge amount of new information in the process. 
+</p>
