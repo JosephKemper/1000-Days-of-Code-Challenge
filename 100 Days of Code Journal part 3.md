@@ -996,3 +996,12 @@
 <p>
      I officially committed to a modified 1,000 days of code journey today. I will be coding for 1 hour a day, 6 days a week (no Sundays) either until I get a job or I hit 1,000 days, whichever comes last. I spent today, learning how to prep my development environment for an ArcGIS/JavaScript project where I will build a live weather map. It's been a solid minute since I worked in JavaScript, so this will be a fun refresher and a huge amount of new information in the process. 
 </p>
+<h1>
+    Day 395
+</h1>
+<h3>
+    Thursday, 16 November 2023
+</h3>
+<p>
+    Today, I got my project set up on github and continued to study about arcGIS. There is a lot more to ArcGIS than I imagined when I first selected the product. I am looking forward to seeing what I can do with it. 
+</p>
