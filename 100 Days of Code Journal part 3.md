@@ -1005,3 +1005,12 @@
 <p>
     Today, I got my project set up on github and continued to study about arcGIS. There is a lot more to ArcGIS than I imagined when I first selected the product. I am looking forward to seeing what I can do with it. 
 </p>
+<h1>
+    Day 396
+</h1>
+<h3>
+    Friday, 17 November 2023
+</h3>
+<p>
+    Today, I delved deep into learning ArcGIS and found a wonderful set of resources through the official documentation. 
+</p>
