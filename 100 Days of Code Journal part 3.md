@@ -1014,3 +1014,12 @@
 <p>
     Today, I delved deep into learning ArcGIS and found a wonderful set of resources through the official documentation. 
 </p>
+<h1>
+    Day 397
+</h1>
+<h3>
+    Saturday, 18 November 2023
+</h3>
+<p>
+    Today, after a decent amount of study into ArcGIS, I decided upon the ES module for JavaScript for the method I would use to build my project. There is a lot to ArcGIS. 
+</p>
