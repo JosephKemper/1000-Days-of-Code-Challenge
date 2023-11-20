@@ -1023,3 +1023,9 @@
 <p>
     Today, after a decent amount of study into ArcGIS, I decided upon the ES module for JavaScript for the method I would use to build my project. There is a lot to ArcGIS. 
 </p>
+<h3>
+    Sunday, 19 November 2023
+</h3>
+<p>
+    Scheduled day off from coding. 
+</p>
