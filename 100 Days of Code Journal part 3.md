@@ -239,7 +239,7 @@
     Scheduled day off from coding.
 </p>
 <h1>
-    Day 323
+    Day 324
 </h1>
 <h3>
     Monday, 21 August, 2023
@@ -248,7 +248,7 @@
     After finishing my last post, I ended up wondering if I could dig a little deeper in my posts and perhaps put a better example of each data structure in the blog post. As I already stated my next project was going to involve writing a lesson on Linked Lists, I decided to see what I could do to dig deeper into linked lists. After a bit of study and pondering, what I came to was the idea of Both demonstrating the built in data structure (assuming one exists) and building my own in the process of my lesson. And I think I like that idea. So, my goal for linked lists is to take and both dive into the deque and build a doubly linked list. 
 </p>
 <h1>
-    Day 324
+    Day 325
 </h1>
 <h3>
     Tuesday, 22 August, 2023
@@ -257,7 +257,7 @@
     I got the outline finished for my linked list lesson. Like where it will be going. It is going to be a lot more work, but I am fine with that. 
 </p>
 <h1>
-    Day 325
+    Day 326
 </h1>
 <h3>
     Wednesday, 23 August, 2023
@@ -266,7 +266,7 @@
     Today, I spent the day studying in preparation to start writing my Linked List Lesson
 </p>
 <h1>
-    Day 326
+    Day 327
 </h1>
 <h3>
     Thursday, 24 August, 2023
@@ -275,7 +275,7 @@
     Today, I started working on the problems I will use for my Linked List Lesson.
 </p>
 <h1>
-    Day 327
+    Day 328
 </h1>
 <h3>
     Friday, 25 August, 2023
@@ -284,7 +284,7 @@
     Today, I got all three examples collected that I will be using for my Linked List lesson. Tomorrow, I start putting them together. 
 </p>
 <h1>
-    Day 328
+    Day 329
 </h1>
 <h3>
     Saturday, 26 August, 2023
@@ -299,7 +299,7 @@
     Scheduled Day off from coding
 </p>
 <h1>
-    Day 329
+    Day 330
 </h1>
 <h3>
     Monday, 28 August, 2023
@@ -308,7 +308,7 @@
     Today, I started writing the digging deeper sections of my next blog post. I find that by starting with the problems I am working towards solving, it helps me better write the first part of the lesson. 
 </p>
 <h1>
-    Day 330
+    Day 331
 </h1>
 <h3>
     Tuesday, 29 August, 2023
@@ -317,7 +317,7 @@
     I got the first section completed and started working on the second section for my next blog post. I have a basic description of the problem we are trying to solve, but I want to have it clearer. 
 </p>
 <h1>
-    Day 331
+    Day 332
 </h1>
 <h3>
     Wednesday, 30 August, 2023
@@ -326,7 +326,7 @@
     Today, I spent my time doing a deep dive into the constrained subset sum problem. It is a really interesting problem. 
 </p>
 <h1>
-    Day 332
+    Day 333
 </h1>
 <h3>
     Thursday, 31 August, 2023
@@ -335,7 +335,7 @@
     Today, I found a problem with my solution to the Constrained Subset Sum problem and got it fixed.
 </p>
 <h1>
-    Day 333
+    Day 334
 </h1>
 <h3>
     Friday, 1 September, 2023
@@ -344,7 +344,7 @@
     Today, I spent a bit more time studying my Constrained Subset Sum problem.
 </p>
 <h1>
-    Day 334
+    Day 335
 </h1>
 <h3>
     Saturday, 2 September, 2023
@@ -359,7 +359,7 @@
     Scheduled day off from coding
 </p>
 <h1>
-    Day 335
+    Day 336
 </h1>
 <h3>
     Monday, 4 September, 2023
@@ -368,7 +368,7 @@
     I decided to avoid using the Constrained Subset Sum problem for the last example on my blog, because trying to even figure out what the constraints to the problem should be, got way too annoying. So, I decided to go with another problem instead. I have also been working on updating my LinkedIn profile.
 </p>
 <h1>
-    Day 336
+    Day 337
 </h1>
 <h3>
     Tuesday, 5 September, 2023
@@ -377,7 +377,7 @@
     Today, I finished the final problem for my next blog post and started collecting notes to answer the question Why is it Important to Know About Linked Lists?
 </p>
 <h1>
-    Day 337
+    Day 338
 </h1>
 <h3>
     Wednesday, 6 September, 2023
@@ -386,7 +386,7 @@
     Today, I started working on a side project with the simple goal of seeing if I can accomplish a random idea I had. 
 </p>
 <h1>
-    Day 338
+    Day 339
 </h1>
 <h3>
     Thursday, 7 September, 2023
@@ -395,7 +395,7 @@
     Upgraded my computer and worked a bit more on my side project. 
 </p>
 <h1>
-    Day 339
+    Day 340
 </h1>
 <h3>
     Friday, 8 September, 2023
@@ -404,7 +404,7 @@
     Today, I spent a bit more time working on my side project. 
 </p>
 <h1>
-    Day 340
+    Day 341
 </h1>
 <h3>
     Saturday, 9 September, 2023
@@ -419,7 +419,7 @@
     Scheduled day off from Coding
 </p>
 <h1>
-    Day 341
+    Day 342
 </h1>
 <h3>
     Monday, 11 September, 2023
@@ -428,7 +428,7 @@
     Today, I got a little work on my first project and got to know my classmates. 
 </p>
 <h1>
-    Day 342
+    Day 343
 </h1>
 <h3>
     Tuesday, 12 September, 2023
@@ -437,7 +437,7 @@
     Today, I chose the six projects I will complete for my software development portfolio. They are a Task Manager (console based), a Health and Fitness App, a Personal Finance Manager, a Stock Market Analysis, a Weather Radar Map, a Student Records SQL database app. My goal is to create a minimum viable product for each project. If I have time, I will flesh each project out a bit more, but to start off, I will just build a minimum viable project and flesh it out afterwards. I am giving myself 14 weeks to complete the minimum viable product version of each of these projects. I still plan on keeping up my digging deeper blog, but right now, I want to get my software portfolio built. 
 </p>
 <h1>
-    Day 342
+    Day 344
 </h1>
 <h3>
     Wednesday, 13 September, 2023
@@ -446,7 +446,7 @@
     Today, I finished my template for my software portfolio that I will be building over the next 14 weeks. I even created a sort of programming pre/post flight checklist to use to help me build better programming habits. 
 </p>
 <h1>
-    Day 343
+    Day 345
 </h1>
 <h3>
     Thursday, 14 September, 2023
@@ -455,7 +455,7 @@
     Today, I started my plan for my Task Manager program. I still have more work to complete on the plan, but I at least have a good start. 
 </p>
 <h1>
-    Day 344
+    Day 346
 </h1>
 <h3>
     Friday, 15 September, 2023
@@ -464,7 +464,7 @@
     Today, I continued working on my plan for my task manager project. 
 </p>
 <h1>
-    Day 345
+    Day 347
 </h1>
 <h3>
     Saturday, 16 September, 2023
@@ -479,7 +479,7 @@
     Scheduled day off of Coding
 </p>
 <h1>
-    Day 346
+    Day 348
 </h1>
 <h3>
     Monday, 18 September, 2023
@@ -488,7 +488,7 @@
     Today, I finished the overview portion of my readme for my task manager program, expanded out the planned features list, and got some of the requirements mapped out. Tomorrow I will finish mapping out the requirements and then from there will create a UML diagram and from there, will start coding. 
 </p>
 <h1>
-    Day 347
+    Day 349
 </h1>
 <h3>
     Tuesday, 19 September, 2023
@@ -497,7 +497,7 @@
     Today, I got my basic outline finished for my task manager app, learned how to write functions and declare variables in Kotlin, learned about recursive function calls, learned about declaring global variables, creating mutable lists, and figured out what I need to include in my task manager consol app to create a minimum viable product. Tomorrow, I will finish my UML, and plan out when I will write each function, and then get everything written. 
 </p>
 <h1>
-    Day 348
+    Day 350
 </h1>
 <h3>
     Wednesday, 20 September, 2023
@@ -506,7 +506,7 @@
     Today, I used a hybrid of python and sudo code to write the core aspects of my console based task manager that I will write in Kotlin. I also planned out the completion of my project. I hope to have it completed by this Saturday. Tomorrow, I will have the basic version completed, and then Friday and Saturday, I plan on spending a bit of time to flesh it out a bit more and stretch myself a bit in the process. From there, on Monday, I will work on a bit of job hunt skills and after I complete that (hopefully on Monday) I will start my next project which will be a basic health and fitness app, that I hope to get published to the Google play store. 
 </p>
 <h1>
-    Day 349
+    Day 351
 </h1>
 <h3>
     Thursday, 21 September, 2023
@@ -515,7 +515,7 @@
     Today, I got the basic program for my consol based task manager written. In the process, I learned how to create and call functions in Kotlin, create variables and define them right away and wait to define them later, write if/else if/ else statements, use the when function, learned how to add and remove items from a list, learned how to call variables in a string, and check for multiple conditions in a user input to make sure it was within an acceptable range. In the process, I wrote 5 functions and used recursion to let the user select multiple options within the program.
 </p>
 <h1>
-    Day 350
+    Day 352
 </h1>
 <h3>
     Friday, 22 September, 2023
@@ -524,7 +524,7 @@
     Today, I did not get nearly as much done. I had to battle a bunch of errands. But I still managed to learn how to save and load data. Tomorrow, I will finish implementing that and then try to turn everything into a class. 
 </p>
 <h1>
-    Day 351
+    Day 353
 </h1>
 <h3>
     Saturday, 23 September, 2023
@@ -540,7 +540,7 @@
     Scheduled day off coding.
 </p>
 <h1>
-    Day 352
+    Day 354
 </h1>
 <h3>
     Monday, 25 September, 2023
@@ -549,7 +549,7 @@
     Today, I learned how to make a data class in Kotlin, created my first data class, and started refactoring my code to use the new data class. I also planned out some of the needed changes to two of my functions and marked two more for review as I am sure I will need to update them as well. 
 </p>
 <h1>
-    Day 353
+    Day 355
 </h1>
 <h3>
     Tuesday, 26 September, 2023
@@ -558,7 +558,7 @@
     Today, I got my listTasks and addTasks functions refactored to use my TaskData data class. In the process, I learned how to create and use date variables. I also figured out how to pull the current date from the computer, and how to calculate the time between two dates. I Have just over 30 minutes of time I need to put into my project to meet my goal (24 hours minimum) which at this point, will be spent making sure everything is working right. Then, if it is, I will record a demo of my project and upload it and move to the next project. 
 </p>
 <h1>
-    Day 354
+    Day 356
 </h1>
 <h3>
     Wednesday, 27 September, 2023
@@ -567,7 +567,7 @@
     Today, I refactored my saveTasks and loadAdditionalTasks functions to use the new data structure I built on Monday. In the process I learned how to handle file management in Kotlin when classes are involved. Tomorrow, I will check to make sure everything works and then assuming it does, I will record my video demo of my console based task manager app. 
 </p>
 <h1>
-    Day 355
+    Day 357
 </h1>
 <h3>
     Thursday, 28 September, 2023
@@ -576,7 +576,7 @@
     Today, I tested my code, and found to my pleasant surprise that everything ran properly. I was not happy with how the dates were formatted, and tried to change those, but found that as I tried I kept creating more and more bugs, so I just stopped, returned it back to where I started (thank you version control) and have created an issue to remind myself of what I still need to do. However, for that one, I will figure it out the next time I open the program. So, after confirming my task manager was to a workable state, and had met or exceeded all of my goals for the program, I recorded a video demo of the program. 
 </p>
 <h1>
-    Day 355
+    Day 358
 </h1>
 <h3>
     Friday, 29 September, 2023
@@ -585,7 +585,7 @@
     Today, I spent time polishing up my task manager app. 
 </p>
 <h1>
-    Day 356
+    Day 359
 </h1>
 <h3>
     Saturday, 30 September, 2023
@@ -600,7 +600,7 @@
     Scheduled day off from Coding
 </p>
 <h1>
-    Day 357
+    Day 360
 </h1>
 <h3>
     Monday, 2 October, 2023
@@ -609,7 +609,7 @@
     Today, I formally started working on my health and fitness app. I built a general plan for what that app will consist of, have a basic plan for what its features will be, including both the minimum viable product and extras I can throw in if I get ahead of schedule. I also planned out my time for both learning the new technologies I will be using for this, actually writing the program, and (hopefully) publishing it to the Google Play Store. As currently planned, I will create a basic health and fitness app that lets users create and use custom workout routines, track their diet and weight. If I get ahead on my project, I will also add different reports that you can run to better see how you are doing and reminders. 
 </p>
 <h1>
-    Day 358
+    Day 361
 </h1>
 <h3>
     Tuesday, 3 October, 2023
@@ -618,7 +618,7 @@
     Today, I got the readme updated for my task manager app to include instructions for the app. Then, I started studying about building a UI for my health and fitness app. I'm leaning towards using JetPack Compose but still have more study to do before I am ready to move forward. 
 </p>
 <h1>
-    Day 359
+    Day 362
 </h1>
 <h3>
     Wednesday, 4 October, 2023
@@ -627,7 +627,7 @@
     I settled on Jetpack Compose for my UI tools (largely because it was already in Android Studio), made sure it was properly enabled in my project, and started learning how to use it. I am a little behind where I wanted to be, but I should be able to catch up easily. 
 </p>
 <h1>
-    Day 360
+    Day 363
 </h1>
 <h3>
     Thursday, 5 October, 2023
@@ -636,7 +636,7 @@
     Today, I gained an appreciation for the power of working on projects instead of just studying. I have spent the last few days studying Jetpack, thinking that because of how new this idea is (specifically trying to write code to run in something other than the console) and now that I look back, I think I would have learned more had I just started coding and learned as I went. It's an interesting and counter intuitive idea. I like it.
 </p>
 <h1>
-    Day 361
+    Day 364
 </h1>
 <h3>
     Friday, 6 October, 2023
@@ -645,7 +645,7 @@
     Okay, I am officially a fan of working in projects and specifically working under deadlines. The past few days, I studied a lot but gained very little. Today, I struggled to figure out a form to my program, what I want it to look like, how I want it to act, and what features I want it to have, and in the process, learned about composable functions, default values in data classes, and started learning about how to get user input. I still want to study and learn because I know its long term value, but I think I want to do a lot of learning through projects I will build in the future. I really love the challenge. 
 </p>
 <h1>
-    Day 362
+    Day 365
 </h1>
 <h3>
     Saturday, 7 October, 2023
@@ -660,7 +660,7 @@
     Scheduled day off coding
 </p>
 <h1>
-    Day 363
+    Day 366
 </h1>
 <h3>
     Monday, 9 October, 2023
@@ -669,7 +669,7 @@
     I need to get over my struggle with making an app with an actual UI in it. Today was spent getting a better idea of how a complete app looks and feels on the programming side. Tomorrow, I will create a proper outline to the program and then from there, (hopefully) I dive into writing it. 
 </p>
 <h1>
-    Day 364
+    Day 367
 </h1>
 <h3>
     Tuesday, 10 October, 2023
@@ -678,7 +678,7 @@
     Today, I learned about the benefits of creating a (in my case) rough mockup of what I want the app to look like. I have really been struggling to get even the most basic part of my app built this time around. It has felt like my head has been in a fog and was unable to figure out even the smallest portion of where or how to start. Yesterday, I watched a short 46 minute tutorial on how to create a basic calculator using the tools I have chosen, and on of the biggest things that hit me was seeing how he referenced an image of what he wanted the app to look like to guide his programming efforts. Today, when I created my own (admittedly very basic) mockups, it instantly pulled my head out of the fog I have been stuck in for the past week. I still have a few more to go before I am done, but wow, that helped a lot. 
 </p>
 <h1>
-    Day 365
+    Day 368
 </h1>
 <h3>
     Wednesday, 11 October, 2023
@@ -687,7 +687,7 @@
     Today, I had a bunch of distractions but still managed to get further on my plan. 
 </p>
 <h1>
-    Day 366
+    Day 369
 </h1>
 <h3>
     Thursday, 12 October, 2023
@@ -696,7 +696,7 @@
     Building a app from Jetpack is a lot harder than I was expecting. I am still determined to get this built. 
 </p>
 <h1>
-    Day 367
+    Day 370
 </h1>
 <h3>
     Friday, 13 October, 2023
@@ -705,7 +705,7 @@
     Yay! I finally started making progress! I got my first few buttons on the screen, and started building functions to make them operable. I realized I had been trying to use outdated info to build my app with. I am still hoping to get a workable app by tomorrow, which is my deadline, but that will be a bit of a stretch to achieve at this point. If not, then getting a workable app will be the next thing I go back to in the future sprints after I finish my preplanned projects. 
 </p>
 <h1>
-    Day 368
+    Day 371
 </h1>
 <h3>
     Saturday, 14 October, 2023
@@ -719,7 +719,7 @@
     Scheduled day off from coding
 </p>
 <h1>
-    Day 369
+    Day 372
 </h1>
 <h3>
     Monday, 16 October, 2023
@@ -728,7 +728,7 @@
     Today I started to work on my next project. I will be building a basic personal finance manager app that will integrate Google firebase into it. 
 </p>
 <h1>
-    Day 370
+    Day 373
 </h1>
 <h3>
     Tuesday, 17 October, 2023
@@ -737,7 +737,7 @@
     Wow! There is a lot to Firebase. I am going to enjoy actually putting it to use. Given I want to build a basic financial manager app, I have a few tools I want to take advantage of. Tomorrow, I will finish my plan for my app and have a better idea of the features I plan to use. 
 </p>
 <h1>
-    Day 371
+    Day 374
 </h1>
 <h3>
     Wednesday, 18 October, 2023
@@ -746,7 +746,7 @@
     Today, I finished my initial study of Google Firebase and got a basic plan built for my app. Tomorrow, I will spend 2 hours on a tutorial for Firebase and Jetpack Compose, and then will get into my app. My plan is to be able to build an app that will require a basic login (I am currently planning on requiring a login with Google option) and then will let users enter income, expenses, and track budgets. I am also hoping to be able to build the option to generate a few simple reports. 
 </p>
 <h1>
-    Day 372
+    Day 375
 </h1>
 <h3>
     Thursday, 19 October, 2023
@@ -766,7 +766,7 @@
 <li><a href="https://firebase.blog/posts/2023/08/adding-fcm-to-jetpack-compose-app">Adding Firebase Cloud Messaging to a Jetpack Compose app</a>
 </ol></li>
 <h1>
-    Day 373
+    Day 376
 </h1>
 <h3>
     Friday, 20 October, 2023
@@ -775,7 +775,7 @@
     Today, I started going through the Build an Android app with Firebase and Jetpack Compose tutorial. I am happily taking my time diving into it. I could probably go a lot faster, but I enjoy getting side tracked asking questions of my friendly AI search engine. Why is such a fun and powerful question to ask. 
 </p>
 <h1>
-    Day 373
+    Day 377
 </h1>
 <h3>
     Saturday, 21 October, 2023
@@ -790,7 +790,7 @@
     Scheduled Day off from coding
 </p>
 <h1>
-    Day 374
+    Day 378
 </h1>
 <h3>
     Monday, 23 October, 2023
@@ -799,7 +799,7 @@
     Today, I spent some time configuring the Firebase portion of my app. It is a lot to learn, especially on the fly. 
 </p>
 <h1>
-    Day 375
+    Day 379
 </h1>
 <h3>
     Tuesday, 24 October, 2023
@@ -808,7 +808,7 @@
     I got caught up in doubt again today. Tomorrow, I stop and do this properly and with a scientific approach. I will get a workable app produced with a minimum viable product by Saturday. 
 </p>
 <h1>
-    Day 376
+    Day 380
 </h1>
 <h3>
     Wednesday, 25 October, 2023
@@ -817,7 +817,7 @@
     Today, I got the readme updated, part of the functions and classes designed, and finally got my personal issues out of the way so I can get back to work properly.
 </p>
 <h1>
-    Day 377
+    Day 381
 </h1>
 <h3>
     Thursday, 26 October, 2023
@@ -826,7 +826,7 @@
     Wow that felt good. Finally a productive day. Today, I got my app properly planned out for at least the major parts to it. I will have a data class that will store 4 data points as a different data type, a list to store the entered transactions, a function to process withdrawals, process deposits, collect deposits from the user, collect withdrawals from the user, display transactions, calculate total, display total, save data, and delete transaction. Additionally, it will have a function to convert each of the 4 different data types from the strings that the user will enter into the correct data types, and will have another function to check if the transaction amount was entered as a positive number. It will store info in the cloud using Google Firebase, and will have a function that calls a function in the cloud to delete all their data if so desired. Today, I wrote the data class, the function to convert the string containing the transaction amount into the BigData type (used for number accuracy), and the function that makes sure the number was entered as a positive number. 
 </p>
 <h1>
-    Day 378
+    Day 382
 </h1>
 <h3>
     Friday, 27 October, 2023
@@ -835,7 +835,7 @@
     Today, I got a function written to take in a string as an argument, collect the current date format from the users device, try to format that string as a date type variable and return the current date if there is an error in parsing the date string. I also wrote a function to track the current available balance, and then a function that takes in a string transaction amount, a raw date string, a string containing the description of a transaction (all collected from the user), and a Boolean value telling whether it is a deposit or not, and converts it to a prebuilt data class, and then adds it to a list of transactions. I also built a mockup of the UI for my app. And tomorrow, I get to build that UI, add a few things from Firebase into the app and should (hopefully) be able to finish it. 
 </p>
 <h1>
-    Day 379
+    Day 383
 </h1>
 <h3>
     Saturday, 28 October, 2023
@@ -850,7 +850,7 @@
     Scheduled day off from coding
 </p>
 <h1>
-    Day 380
+    Day 384
 </h1>
 <h3>
     Monday, 30 October, 2023
@@ -859,7 +859,7 @@
     Today, I finished the plan and concept for my forth project, a data analysis app. I know that people are creatures of habit and that those habits form patterns in almost every area of their lives. There are several questions that I have been wondering about for years relating to the stock market. Do the habits that fill our lives spill over into patterns within the stock market? Is there a certain day of the week when the stocks of a particular company tend to be lower or higher? Are there certain times of the year when the stocks tend to be higher or lower? I know that for cyclical companies, their stocks are going to rise and fall with the economy, and that for counter cyclical companies, their stocks will move in the opposite direction of the economy as a whole, but are there other patterns. My goal with this project, at least at first, is to build a program that will let me filter the data by different combinations of both days of the week, week of the year, and month, and will then get several different types of ways to summarize the data. 
 </p>
 <h1>
-    Day 381
+    Day 385
 </h1>
 <h3>
     Tuesday, 31 October, 2023
@@ -868,7 +868,7 @@
     I decided on Panda for my stock market data analysis project, and started learning how to use it. From what I can tell so far, it looks like I will enjoy this project. 
 </p>
 <h1>
-    Day 382
+    Day 386
 </h1>
 <h3>
     Wednesday, 1 November 2023
@@ -877,7 +877,7 @@
     Today I got my project set up, the readme created, and the development environment configured. I also got the base file I will be working with set up. 
 </p>
 <h1>
-    Day 383
+    Day 387
 </h1>
 <h3>
     Thursday, 2 November 2023
@@ -886,7 +886,7 @@
     Today was spent making sure I have my motivations clear. If I am trying to analyze data, then I need to make sure my motivations and goals are clear, for only then can I ensure I don't get my motivations in the way of the data and the story it has to tell. 
 </p>
 <h1>
-    Day 384
+    Day 388
 </h1>
 <h3>
     Friday, 3 November 2023
@@ -895,7 +895,7 @@
     Today, I formally started my data analysis and in the process, learned how to use the .info() and .describe() methods for panda along with using the percentiles and include arguments.
 </p>
 <h1>
-    Day 385
+    Day 389
 </h1>
 <h3>
     Saturday, 4 November 2023
@@ -910,7 +910,7 @@
     Scheduled day off from coding.
 </p>
 <h1>
-    Day 386
+    Day 390
 </h1>
 <h3>
     Monday, 6 November 2023
@@ -919,7 +919,7 @@
     Today, I renamed my volatility measure to a more accurate Daily Range. Then I create a histogram of the data to discover how the data was distributed. From there, I started to run my comparisons. 
 </p>
 <h1>
-    Day 387
+    Day 391
 </h1>
 <h3>
     Tuesday, 7 November 2023
@@ -928,7 +928,7 @@
     Today, I finished analyzing the DailyRange in Tesla Stock and found that there was no significant impact in Tesla stock prices when there were large gaps between the high and low prices. In fact, it seems that the larger the gap the more even the chances for the prices to go either high or low. I also discovered that the vast majority of Tesla stock prices occur within the 1st quartile of daily range prices, and only a very small percentage occurs outside of that range. The next Question I am going to work on is the question of, "Is a high volume of trades in a day good for Tesla Stock prices?"
 </p>
 <h1>
-    Day 388
+    Day 392
 </h1>
 <h3>
     Wednesday, 8 November 2023
@@ -937,7 +937,7 @@
     Today, I refactored my code, creating 3 functions that made my code a lot more reusable. It also let me finish analyzing the data for my second question and expand the analysis to include an actual correlation analysis. I am happy I chose to do that, because despite how the data looked on the surface, I found a weak positive correlation that suggests there might be other data in play in the connection, which opens up the door for my next question, which will be to see if there is a connection between the day of the week and the closing price. 
 </p>
 <h1>
-    Day 389
+    Day 393
 </h1>
 <h3>
     Thursday, 9 November 2023
@@ -946,7 +946,7 @@
     Today, I found an error in my analyses and fixed it, then I wrote my summaries of the analyses. For the first question of "Is a large daily range (a large gap between the high and low prices for the day) good for Tesla closing prices?" I wrote the following: "When looking exclusively at those days when there is the largest average gap (those points in just the 4th quartile) in the DailyRange for the high and low closing prices of Tesla Stock, there is a weak positive correlation (0.31553). However, when you include those points in the 3rd quartile in the analysis the correlation more than doubles (0.69233). And finally, when you include all data above the 1st quartile, then you get an even stronger correlation (0.78336). These results suggest that on those days when there is a wider gap between the high and low prices, the stocks are more prone to close at a high price. This is not a guarantee that prices will go up, the split between those days when it increases verses decreases is not far from 50%. Additionally, correlation does not equal causation and this is only looking at the closing prices and comparing them to the gap between the high and low prices for the day, so that leaves many other variables that would need to be accounted for before you could apply this in real life." And for the second question of "Is a high trading volume good for the closing prices on Tesla stock?" I wrote the following "In all three sets of data, there is a weak negative correlation that grows slowly weaker the more data you include in the analysis. This suggests that there is a slight tendency for the stock price to close at a lower price when there is increased trading volume. The correlation is weak enough that not a lot of conclusions can be drawn from the connection."
 </p>
 <h1>
-    Day 390
+    Day 394
 </h1>
 <h3>
     Friday, 10 November 2023
@@ -955,7 +955,7 @@
     I have met all my goals for my stock market analysis project, and completed them ahead of schedule. I debated about doing some of the extra work, but I decided, I would just move onto my next project. Tomorrow morning I will record my video for this project, and then start on my weather map project. 
 </p>
 <h1>
-    Day 391
+    Day 395
 </h1>
 <h3>
     Saturday, 11 November 2023
@@ -970,7 +970,7 @@
    Scheduled day off from Coding
 </p>
 <h1>
-    Day 392
+    Day 396
 </h1>
 <h3>
     Monday, 13 November 2023
@@ -979,7 +979,7 @@
     Today, I started learning about GIS mapping. I still have more to do before I will be ready to jump into my project, but I am looking forward to the idea. 
 </p>
 <h1>
-    Day 393
+    Day 397
 </h1>
 <h3>
     Tuesday, 14 November 2023
@@ -988,7 +988,7 @@
      Today, I built my plan for my next project. I want to build a live weather map with the capability of getting updates for the path I will be taking to get to Idaho in December when I go up there to graduate. I want to have the major landmarks along the way from Provo to Rexburg marked so I can use it to be prepared for any weather problems along the way to and from Idaho. My initial look into GIS mapping, left me with concerns about how well documented the GIS mapping will be and how difficult the initial set up will be. That left me with concerns spawned from my struggles with making an app in Kotlin. With that in mind, I realized that my goal is to only write an app that has a minimum of 100 lines of code that has a basic map with 20 clickable markers on them to meet the minimum qualifications for the project goals. And with that in mind and the 20 hours to learn a new skill, if I were to spend 10 to 15 hours going through different tutorials and putting real dedicated time into them, I should then easily be able to spend the remaining time building my simple app. I might even be able to spend 15 to 20 hours going through tutorials and other learning activities and then put the remaining time into actually building my app. With a 20 hour foundation spent in learning a new technology, I should easily be able to write 100 hours of code towards a simple weather map, in 4 hours. And considering I will put in much more time than the minimum 24 hours required for the project, I should easily have enough time if I spend 20 hours learning before starting my project.  
 </p>
 <h1>
-    Day 394
+    Day 398
 </h1>
 <h3>
     Wednesday, 15 November 2023
@@ -997,35 +997,11 @@
      I officially committed to a modified 1,000 days of code journey today. I will be coding for 1 hour a day, 6 days a week (no Sundays) either until I get a job or I hit 1,000 days, whichever comes last. I spent today, learning how to prep my development environment for an ArcGIS/JavaScript project where I will build a live weather map. It's been a solid minute since I worked in JavaScript, so this will be a fun refresher and a huge amount of new information in the process. 
 </p>
 <h1>
-    Day 395
+    Day 399
 </h1>
 <h3>
     Thursday, 16 November 2023
 </h3>
 <p>
     Today, I got my project set up on github and continued to study about arcGIS. There is a lot more to ArcGIS than I imagined when I first selected the product. I am looking forward to seeing what I can do with it. 
-</p>
-<h1>
-    Day 396
-</h1>
-<h3>
-    Friday, 17 November 2023
-</h3>
-<p>
-    Today, I delved deep into learning ArcGIS and found a wonderful set of resources through the official documentation. 
-</p>
-<h1>
-    Day 397
-</h1>
-<h3>
-    Saturday, 18 November 2023
-</h3>
-<p>
-    Today, after a decent amount of study into ArcGIS, I decided upon the ES module for JavaScript for the method I would use to build my project. There is a lot to ArcGIS. 
-</p>
-<h3>
-    Sunday, 19 November 2023
-</h3>
-<p>
-    Scheduled day off from coding. 
 </p>
