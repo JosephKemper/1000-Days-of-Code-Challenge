@@ -16,3 +16,4 @@ Scheduled day off from coding.
 # Day 402
 ### Monday, 20 November 2023
 
+Today, I started off by looking back at my prior journal entries and discovered that I had miscounted and was actually on day 402. I also decided to switch to markdown instead of HTML as I think markdown will be easier to use. After that, I continued my study of ArcGIS. I will spend more time studying tomorrow and Wednesday, and then will formally start coding on Thursday. 
