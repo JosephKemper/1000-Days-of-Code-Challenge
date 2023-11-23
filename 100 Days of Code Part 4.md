@@ -22,3 +22,8 @@ Today, I started off by looking back at my prior journal entries and discovered 
 ### Tuesday, 21 November 2023
 
 Started reading Introducing ArcGIS API 4 for JavaScript: Turn Awesome Maps into Awesome Apps by Rene Rubalcava. Tomorrow, I should be able to finish it, and then Thursday, I get to start programming. 
+
+# Day 404
+### Wednesday, 22 November 2023
+
+Today, I read the book Introducing ArcGIS API 4 for JavaScript: Turn Awesome Maps into Awesome Apps and found a wonderful github repository showing a complete project that I can use to figure out everything I need to build my own project. Tomorrow, I get to start actually coding!
