@@ -27,3 +27,10 @@ Started reading Introducing ArcGIS API 4 for JavaScript: Turn Awesome Maps into 
 ### Wednesday, 22 November 2023
 
 Today, I read the book Introducing ArcGIS API 4 for JavaScript: Turn Awesome Maps into Awesome Apps and found a wonderful github repository showing a complete project that I can use to figure out everything I need to build my own project. Tomorrow, I get to start actually coding!
+
+# Day 405
+### Thursday, 23 November 2023
+
+Today, I found a few wonderful resources that got me a solid start on my code. Not much is in the repository right now, but that will change tomorrow. 
+
+# Day 406
