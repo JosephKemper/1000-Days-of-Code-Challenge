@@ -1,4 +1,3 @@
-j = 1
-while j <= 10:
-    print(j)
-    j+=1
+a = [1, 2, 3, 4]
+b = [1, 2, 5]
+print(a < b)
