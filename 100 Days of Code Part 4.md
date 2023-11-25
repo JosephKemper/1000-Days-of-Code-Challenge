@@ -34,3 +34,6 @@ Today, I read the book Introducing ArcGIS API 4 for JavaScript: Turn Awesome Map
 Today, I found a few wonderful resources that got me a solid start on my code. Not much is in the repository right now, but that will change tomorrow. 
 
 # Day 406
+### Friday, 24 November 2023
+
+Yay! I got the base map running for my app. Right now, it is centered over the area I want it to show and that is about it, but that is a huge step from where I was at. Tomorrow, I get to build in points of interest and then build in the weather portion and I should be good. 
