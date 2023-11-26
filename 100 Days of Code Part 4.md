@@ -42,3 +42,7 @@ Yay! I got the base map running for my app. Right now, it is centered over the a
 ### Saturday, 25 November, 2023
 
 Today, I finished my weather map project using ArcGIS, JavaScript, and HTML. This project provides the foundation for a weather and travel map that will help you plan for longer trips. In this case it pulls from major landmarks along the path and then gets the current weather from the National Weather Service for each selected landmark along the path, and displays the 7-day forecast and any weather alerts for the area around the landmark.
+
+### Sunday, 26 November, 2023
+
+Scheduled day off from Coding
