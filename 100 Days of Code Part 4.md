@@ -46,3 +46,8 @@ Today, I finished my weather map project using ArcGIS, JavaScript, and HTML. Thi
 ### Sunday, 26 November, 2023
 
 Scheduled day off from Coding
+
+# Day 408
+### Monday, 27 November, 2023
+
+Today, I started learning SQL in preparation for my SQL database project. As I started learning, my initial impression was that SQL was basically a spreadsheet on steroids through powerful automation systems, and while I realize now that likely does not do it justice, I still see the connection. 
