@@ -51,3 +51,8 @@ Scheduled day off from Coding
 ### Monday, 27 November, 2023
 
 Today, I started learning SQL in preparation for my SQL database project. As I started learning, my initial impression was that SQL was basically a spreadsheet on steroids through powerful automation systems, and while I realize now that likely does not do it justice, I still see the connection. 
+
+# Day 409
+### Tuesday, 28 November, 2023
+
+Today, I started going through the Introduction to SQLite Databases for Python Programming course. It is a wonderful introduction on SQLite. Per my plan, I have been following along recreating what I am learning about, and playing with it to experiment a bit on my own as I learn. I do think I am picking things up a lot faster by doing more rather than just reading/watching/listening to something, which is kind of expected considering how much more I learn through completing projects. I highly recommend to those trying to learn programming that they start doing projects. You learn a whole lot through the process. 
