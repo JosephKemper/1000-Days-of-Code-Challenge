@@ -56,3 +56,8 @@ Today, I started learning SQL in preparation for my SQL database project. As I s
 ### Tuesday, 28 November, 2023
 
 Today, I started going through the Introduction to SQLite Databases for Python Programming course. It is a wonderful introduction on SQLite. Per my plan, I have been following along recreating what I am learning about, and playing with it to experiment a bit on my own as I learn. I do think I am picking things up a lot faster by doing more rather than just reading/watching/listening to something, which is kind of expected considering how much more I learn through completing projects. I highly recommend to those trying to learn programming that they start doing projects. You learn a whole lot through the process. 
+
+# Day 410
+### Wednesday, 29 November, 2023
+
+Today, I continued going through the Introduction to SQLite Databases for Python Programming course. Tomorrow, I will be starting the final chapter of the tutorial and I will get to build a basic SQL app. I am very much looking forward to that. 
