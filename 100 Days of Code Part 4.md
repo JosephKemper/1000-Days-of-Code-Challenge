@@ -71,3 +71,12 @@ While following the SQL course today, they talked about how in each function, we
 ### Friday, 1 December, 2023
 
 Today, I finished the course/tutorial I started a few days ago. I very much went beyond the scope the tutorial went through. For example, in the tutorial they just copied and pasted the connection to the database, and the creation of a cursor along with the committing of any changes and the closing of the connection into each function where I chose to figure out how to make a wrapper function to put those parts into. From there, when they introduced the idea of searching for an individual piece of data they did so via creating a dedicated function and in the process copied code from their function designed to print the data stored in the database out, where I chose to refactor my print statement to allow an optional argument that would let me just use my existing function called within my search function. From there, I also chose to modify the search function to let me use the same function to search for any type of data I want in the database. I started this tutorial (they call it a course) not simply with the intention of getting introduced to SQL, but with the intention of helping me complete a project that I have until 9 December 2023 to complete. I chose to go above and beyond what the tutorial suggested because I want to build the best project I can within the time I have given myself and that required actively thinking about the concepts I was introduced to, and pushing beyond what was introduced. The tutorial I went through was just a basic introduction. I scheduled a bit more time for learning and practicing; additionally, thanks to this tutorial ... and the extra work I put into learning from it, I have a wealth of resources that can help me with my project, so I think I am going to next find a more advanced course to follow and then see what I can learn from it before I formally start building my project next Thursday. 
+
+# Day 413
+### 2 December 2023
+
+Today, was kind of an easy day. I went through the SQL tutorial on W3 schools. I know it was not much, but that was the most I had to give today. 
+
+### 3 December 2023
+
+Scheduled day off from Coding
