@@ -80,3 +80,8 @@ Today, was kind of an easy day. I went through the SQL tutorial on W3 schools. I
 ### 3 December 2023
 
 Scheduled day off from Coding
+
+# Day 414
+### 4 December 2023
+
+Today, I formally started on my project. I modified the functions I previously built in the tutorial to be able to use them for my project. Now, I need to build a menu to use the program with, and from there, expand on the project a bit, and then I should be done. 
