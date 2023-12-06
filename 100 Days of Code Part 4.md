@@ -85,3 +85,8 @@ Scheduled day off from Coding
 ### 4 December 2023
 
 Today, I formally started on my project. I modified the functions I previously built in the tutorial to be able to use them for my project. Now, I need to build a menu to use the program with, and from there, expand on the project a bit, and then I should be done. 
+
+# Day 415
+### 5 December 2023
+
+Today, I finished the menu for my program. Right now, it is a basic console interface, and I built the ability to look up a record by the rowid, and generated a list of random names and emails and added them to a csv file for testing purposes. I also added the ability to read a list of names from a CSV file. 
