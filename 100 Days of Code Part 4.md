@@ -94,3 +94,7 @@ Today, I finished the menu for my program. Right now, it is a basic console inte
 ### 6 December 2023
 
 Today, I took an unscheduled day off to try to get better. 
+
+### 7 December 2023
+
+Took one more day off to get feeling better. I think I should be able to get back to programming tomorrow. 
