@@ -98,3 +98,12 @@ Today, I took an unscheduled day off to try to get better.
 ### 7 December 2023
 
 Took one more day off to get feeling better. I think I should be able to get back to programming tomorrow. 
+
+### 8 December 2023
+
+Took final day off to recover
+
+# Day 416
+### 9 December 2023
+
+Today I finished my first project using SQL. This basic program manages a student database using SQLite. It provides CRUD operations (Create, Read, Update, Delete), custom search, data sorting, and calculates remaining days until graduation. Users interact with the program through a menu-driven interface simplifying student data management. 
