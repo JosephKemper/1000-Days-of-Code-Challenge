@@ -107,3 +107,8 @@ Took final day off to recover
 ### 9 December 2023
 
 Today I finished my first project using SQL. This basic program manages a student database using SQLite. It provides CRUD operations (Create, Read, Update, Delete), custom search, data sorting, and calculates remaining days until graduation. Users interact with the program through a menu-driven interface simplifying student data management. 
+
+# Day 418 
+### 26 December 2023
+
+I am back at it. I took a break to avoid getting sick before I graduated. Today was spent getting my projects added to my resume and various online sites. 
