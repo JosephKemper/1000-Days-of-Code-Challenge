@@ -112,3 +112,8 @@ Today I finished my first project using SQL. This basic program manages a studen
 ### 26 December 2023
 
 I am back at it. I took a break to avoid getting sick before I graduated. Today was spent getting my projects added to my resume and various online sites. 
+
+# Day 418
+### 27 December 2023
+
+Today, I started learning Lua in preparation for my next project. I see a lot of similarity to Python, at least in the first hour of my study. I will see what tomorrow will bring for my next project. I also decided I would restart a book I started reading a few months ago and then had to stop due to schedule conflicts. While I remember many of the concepts the earlier chapters talk about there are a few I want a deeper dive into, so I thought it worth the time to restart. 
