@@ -114,6 +114,11 @@ Today I finished my first project using SQL. This basic program manages a studen
 I am back at it. I took a break to avoid getting sick before I graduated. Today was spent getting my projects added to my resume and various online sites. 
 
 # Day 418
-### 27 December 2023
+### 1 January 2024
 
 Today, I started learning Lua in preparation for my next project. I see a lot of similarity to Python, at least in the first hour of my study. I will see what tomorrow will bring for my next project. I also decided I would restart a book I started reading a few months ago and then had to stop due to schedule conflicts. While I remember many of the concepts the earlier chapters talk about there are a few I want a deeper dive into, so I thought it worth the time to restart. For my project for this month, while the exact nature of the add-on is subject to change after I finish going through what is and is not allow, my project for this month is to build an add-on for Elder Scrolls Online. 
+
+# Day 419
+### 2 January 2024
+
+Today, I continued learning Lua. I could go through the content quicker than I am, but I am enjoying taking my time. It was a rather light day of programming, but I also had to deal with overtime at work, so I am fine with that. 
