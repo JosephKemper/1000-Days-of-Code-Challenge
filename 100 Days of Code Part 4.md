@@ -122,3 +122,18 @@ Today, I started learning Lua in preparation for my next project. I see a lot of
 ### 2 January 2024
 
 Today, I continued learning Lua. I could go through the content quicker than I am, but I am enjoying taking my time. It was a rather light day of programming, but I also had to deal with overtime at work, so I am fine with that. 
+
+# Day 420
+### 3 January 2024
+
+Today, was a day mostly spent studying. The following are my notes. 
+
+I once heard that the first Nintendo Gameboy has more computer technology in it than they used to send a man to the moon. While I never actually verified that claim I can believe it is true, but even if it were not true of that now ancient piece of technology, I can certainly believe it to be true of the marvel of technology that is our modern smartphone. From the first time I heard that claim, I was left to ponder on how much we must be under utilizing the technology we have at our fingertips. If a group of people could use less technology than what we carry in our pockets to send a man to the moon, why can't we use that same marvel of a device to propel our futures to be filled with a grander set of tomorrows?
+
+In the book, Problem Solving with Algorithms and Data Structures using Python, Bradley N. Miller and David L. Ranum (Problem Solving) state that "The science of computing is concerned with using computers to solve problems." While I liked that line the first time I read it, I didn't fully appreciate it until I read it again and stopped to ponder on it, and as I pondered on the implications of that line I realized that in too many cases, I am not using my phone or computer to solve problems.
+But how to use that insight to help me become a better programmer? 
+Problem Solving, like any other skill needs to be learned and practiced. So, as I spend more time practicing the skill of problem solving, I will get better at it and then will be able to apply those skills in more areas, like my programming efforts.
+
+On page 2 of Problem Solving, we read "Given a problem a computer scientist's goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise."
+
+So, if the algorithm is a step by step solution to a problem, and the program is written to solve a problem, then the whole program is the algorithm. A sufficiently complex problem might be broken down into smaller sub problems, which might have its own set of steps to solve, but that is still part of the larger algorithm. This means that, on at least a macro level, there is no difference between the algorithm and the program. Thus, learning to master algorithms better is also the process of learning to write programs better. More specifically, learning to think and program in algorithms, will help take programming to more of a predictable science that is easier to plan out. 
