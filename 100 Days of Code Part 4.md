@@ -137,3 +137,8 @@ Problem Solving, like any other skill needs to be learned and practiced. So, as 
 On page 2 of Problem Solving, we read "Given a problem a computer scientist's goal is to develop an algorithm, a step-by-step list of instructions for solving any instance of the problem that might arise."
 
 So, if the algorithm is a step by step solution to a problem, and the program is written to solve a problem, then the whole program is the algorithm. A sufficiently complex problem might be broken down into smaller sub problems, which might have its own set of steps to solve, but that is still part of the larger algorithm. This means that, on at least a macro level, there is no difference between the algorithm and the program. Thus, learning to master algorithms better is also the process of learning to write programs better. More specifically, learning to think and program in algorithms, will help take programming to more of a predictable science that is easier to plan out. 
+
+# Day 421
+### Thursday, 4 January, 2024
+
+I got lost in my book today, and learned a whole lot. I also decided to modify my digging deeper blog to be a sort of programming blog. I like the direction it feels like it will be going. 
