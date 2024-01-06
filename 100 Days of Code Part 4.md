@@ -142,3 +142,8 @@ So, if the algorithm is a step by step solution to a problem, and the program is
 ### Thursday, 4 January, 2024
 
 I got lost in my book today, and learned a whole lot. I also decided to modify my digging deeper blog to be a sort of programming blog. I like the direction it feels like it will be going. 
+
+# Day 422
+### Friday, 5 January, 2024
+
+I am really enjoying my new study trick for my book. I love not just reading but stopping to ponder about the applications of what I am reading. It really helps me get a lot more out of it. I am also back on my game for feeling motivated and put another hour into the Code Academy Lua Course. I could go through it faster than I am, but I am taking my time with it and making sure to take it fully in. 
