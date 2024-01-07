@@ -147,3 +147,8 @@ I got lost in my book today, and learned a whole lot. I also decided to modify m
 ### Friday, 5 January, 2024
 
 I am really enjoying my new study trick for my book. I love not just reading but stopping to ponder about the applications of what I am reading. It really helps me get a lot more out of it. I am also back on my game for feeling motivated and put another hour into the Code Academy Lua Course. I could go through it faster than I am, but I am taking my time with it and making sure to take it fully in. 
+
+# Day 423
+### Saturday, 6 January, 2024
+
+I am about half done with the Code Academy Lua lesson and found a few wonderful insights from my algorithms book. The big take away I have so far is that the program should be written from the algorithm, which was a wonderful insight to gain. 
