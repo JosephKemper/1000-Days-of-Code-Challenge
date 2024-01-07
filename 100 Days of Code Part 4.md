@@ -152,3 +152,6 @@ I am really enjoying my new study trick for my book. I love not just reading but
 ### Saturday, 6 January, 2024
 
 I am about half done with the Code Academy Lua lesson and found a few wonderful insights from my algorithms book. The big take away I have so far is that the program should be written from the algorithm, which was a wonderful insight to gain. Which means that I am getting a lot of content for my next blog post and am building a solid foundation for my first Elder Scrolls Online Add-on. 
+
+### Sunday, 7 January, 2024
+Scheduled day off from Coding
