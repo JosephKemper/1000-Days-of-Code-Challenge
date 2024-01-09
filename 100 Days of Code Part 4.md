@@ -155,3 +155,8 @@ I am about half done with the Code Academy Lua lesson and found a few wonderful 
 
 ### Sunday, 7 January, 2024
 Scheduled day off from Coding
+
+# Day 424
+### Monday, 8 January, 2024
+
+Today, I redid my plan for the year, and formally started my first Software company. I have a very basic website that I created, and that will be live within 2 days and got the repository created for my first project, a project planner, that I will use to plan out my future projects. My second project is going to be a bug tracker. Tomorrow, I will formally start planning everything I will be putting into this project. 
