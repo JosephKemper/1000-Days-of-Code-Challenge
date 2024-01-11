@@ -160,3 +160,13 @@ Scheduled day off from Coding
 ### Monday, 8 January, 2024
 
 Today, I redid my plan for the year, and formally started my first Software company. I have a very basic website that I created, and that will be live within 2 days and got the repository created for my first project, a project planner, that I will use to plan out my future projects. My second project is going to be a bug tracker. Tomorrow, I will formally start planning everything I will be putting into this project. 
+
+# Day 425
+### Tuesday, 9 January, 2024
+
+Today, I started planning the features I want to have in my project planner tool that I will be building. I am not done yet, but I have a good start. I know I want the tool to be useable from the initial conception of the idea to the projects completion. I also know that I want to use it to collect ideas for potential projects from anyone, even those not in the company, while still maintaining privacy of those ideas we want to keep behind closed doors. 
+
+# Day 426
+### Wednesday, 10 January, 2024
+
+Not much to report programming wise today, I had an hour of overtime and a Toastmasters meeting that ran long. I did work more on the plan for my project management app, just not as much as I would have wanted. 
