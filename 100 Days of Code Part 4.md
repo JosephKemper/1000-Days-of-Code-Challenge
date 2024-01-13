@@ -170,3 +170,13 @@ Today, I started planning the features I want to have in my project planner tool
 ### Wednesday, 10 January, 2024
 
 Not much to report programming wise today, I had an hour of overtime and a Toastmasters meeting that ran long. I did work more on the plan for my project management app, just not as much as I would have wanted. 
+
+# Day 427
+### Thursday, 11 January, 2024
+
+I think I am almost done brainstorming all the features I want in my project management app. I will probably spend a few more days trying to think about features, I want to go big with this project. 
+
+# Day 428
+### Friday, 12 January, 2024
+
+I got a little farther on brainstorming the features I want in my project management app. I am probably going too big, but I really don't care, I want this to be the biggest most challenging thing I have ever done, and am expecting to spend at least 3 to 4 months completing it, so I am fine going big. 
