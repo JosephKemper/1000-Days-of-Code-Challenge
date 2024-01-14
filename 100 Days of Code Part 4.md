@@ -180,3 +180,8 @@ I think I am almost done brainstorming all the features I want in my project man
 ### Friday, 12 January, 2024
 
 I got a little farther on brainstorming the features I want in my project management app. I am probably going too big, but I really don't care, I want this to be the biggest most challenging thing I have ever done, and am expecting to spend at least 3 to 4 months completing it, so I am fine going big. 
+
+# 429
+### Saturday, 13 January, 2024
+
+I finished brainstorming all the ideas I want to build into my project management app. I now need to build mockups of the software and then from there, I can start the algorithm design phase of my project. 
