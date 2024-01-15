@@ -185,3 +185,7 @@ I got a little farther on brainstorming the features I want in my project manage
 ### Saturday, 13 January, 2024
 
 I finished brainstorming all the ideas I want to build into my project management app. I now need to build mockups of the software and then from there, I can start the algorithm design phase of my project. 
+
+### Sunday, 14 January, 2024
+
+Scheduled day off from coding.
