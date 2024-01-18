@@ -189,3 +189,19 @@ I finished brainstorming all the ideas I want to build into my project managemen
 ### Sunday, 14 January, 2024
 
 Scheduled day off from coding.
+
+# 430
+### Monday, 15 January, 2024
+
+Today, I was going to work on either a mockup of the UI or the algorithm for the app, then I realized that I needed a better idea of what I want it to do and how I want it to work. So, today, was spent looking at different existing project management apps to see how they work. I have a bit more work to do on that front, but I have a much better understanding now.
+
+# 431
+### Tuesday, 16 January, 2024
+
+Today, I spent gathering info on what I want my app to look like and having an in depth look at the possible features I might add to it. It is a lot more work than I expected it to be. 
+
+# 432
+### Wednesday, 17 January, 2024
+
+Today, I started working on the algorithm for the app. I did not get very far, but I am happy with the progress I am making. Right now, I am figuring out what custom data structures I will need for my program to run. 
+ 
