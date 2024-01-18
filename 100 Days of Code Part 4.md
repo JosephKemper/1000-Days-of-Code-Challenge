@@ -199,4 +199,9 @@ Today, I was going to work on either a mockup of the UI or the algorithm for the
 ### Tuesday, 16 January, 2024
 
 Today, I spent gathering info on what I want my app to look like and having an in depth look at the possible features I might add to it. It is a lot more work than I expected it to be. 
+
+# 432
+### Wednesday, 17 January, 2024
+
+Today, I started working on the algorithm for the app. I did not get very far, but I am happy with the progress I am making. Right now, I am figuring out what custom data structures I will need for my program to run. 
  
