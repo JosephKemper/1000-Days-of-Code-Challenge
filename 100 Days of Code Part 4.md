@@ -204,4 +204,9 @@ Today, I spent gathering info on what I want my app to look like and having an i
 ### Wednesday, 17 January, 2024
 
 Today, I started working on the algorithm for the app. I did not get very far, but I am happy with the progress I am making. Right now, I am figuring out what custom data structures I will need for my program to run. 
+
+# 433
+### Thursday, 18 January, 2024
+
+I got two more data structures planned out. I had to deal with more overtime again and that limited what I could do. Hopefully next week will be the last week for mandatory overtime. 
  
