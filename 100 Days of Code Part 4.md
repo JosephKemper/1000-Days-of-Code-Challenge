@@ -181,7 +181,7 @@ I think I am almost done brainstorming all the features I want in my project man
 
 I got a little farther on brainstorming the features I want in my project management app. I am probably going too big, but I really don't care, I want this to be the biggest most challenging thing I have ever done, and am expecting to spend at least 3 to 4 months completing it, so I am fine going big. 
 
-# 429
+# Day 429
 ### Saturday, 13 January, 2024
 
 I finished brainstorming all the ideas I want to build into my project management app. I now need to build mockups of the software and then from there, I can start the algorithm design phase of my project. 
@@ -190,23 +190,28 @@ I finished brainstorming all the ideas I want to build into my project managemen
 
 Scheduled day off from coding.
 
-# 430
+# Day 430
 ### Monday, 15 January, 2024
 
 Today, I was going to work on either a mockup of the UI or the algorithm for the app, then I realized that I needed a better idea of what I want it to do and how I want it to work. So, today, was spent looking at different existing project management apps to see how they work. I have a bit more work to do on that front, but I have a much better understanding now.
 
-# 431
+# Day 431
 ### Tuesday, 16 January, 2024
 
 Today, I spent gathering info on what I want my app to look like and having an in depth look at the possible features I might add to it. It is a lot more work than I expected it to be. 
 
-# 432
+# Day 432
 ### Wednesday, 17 January, 2024
 
 Today, I started working on the algorithm for the app. I did not get very far, but I am happy with the progress I am making. Right now, I am figuring out what custom data structures I will need for my program to run. 
 
-# 433
+# Day 433
 ### Thursday, 18 January, 2024
 
 I got two more data structures planned out. I had to deal with more overtime again and that limited what I could do. Hopefully next week will be the last week for mandatory overtime. 
+
+# Day 434
+### Friday, 19 January, 2024
+
+I think I finally figured out the roadblock I have been battling through. This will be by far, the biggest project I will have ever completed, and trying to go from where I am currently at, to where I want to go, is too big of a leap. So, instead of trying to plan the whole thing, I am going to plan and build it in stages. First, I will plan and build the minimum viable product, and then will expand on it from there. 
  
