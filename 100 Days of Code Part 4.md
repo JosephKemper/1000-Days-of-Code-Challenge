@@ -214,4 +214,9 @@ I got two more data structures planned out. I had to deal with more overtime aga
 ### Friday, 19 January, 2024
 
 I think I finally figured out the roadblock I have been battling through. This will be by far, the biggest project I will have ever completed, and trying to go from where I am currently at, to where I want to go, is too big of a leap. So, instead of trying to plan the whole thing, I am going to plan and build it in stages. First, I will plan and build the minimum viable product, and then will expand on it from there. 
+
+# Day 435
+### Saturday, 20 January, 2024
+
+Today, I got the goals for the minimum viable project (MVP) version of my project management app written up and broken down into a list of features. I realized that part of what was going on is that I was just having a hard time trying to make the leap from concept in my mind, to a fleshed out app with a proper graphical user interface (GUI). As I looked at the list of features I wanted in the list of features I planned for my MVP version, I could easily conceptualize how the GUI side of things might look and or work. But even with that in mind, I still plan on going through with the console version first, then modifying it to be a graphical version. Yes, I realize that it will be a lot of work, but that will best help me navigate the course from concept to working program. 
  
