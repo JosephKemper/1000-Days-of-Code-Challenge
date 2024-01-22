@@ -219,4 +219,8 @@ I think I finally figured out the roadblock I have been battling through. This w
 ### Saturday, 20 January, 2024
 
 Today, I got the goals for the minimum viable project (MVP) version of my project management app written up and broken down into a list of features. I realized that part of what was going on is that I was just having a hard time trying to make the leap from concept in my mind, to a fleshed out app with a proper graphical user interface (GUI). As I looked at the list of features I wanted in the list of features I planned for my MVP version, I could easily conceptualize how the GUI side of things might look and or work. But even with that in mind, I still plan on going through with the console version first, then modifying it to be a graphical version. Yes, I realize that it will be a lot of work, but that will best help me navigate the course from concept to working program. 
+
+### Sunday, 21 January, 2024
+
+Scheduled day off from coding. 
  
