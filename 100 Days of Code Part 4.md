@@ -223,4 +223,11 @@ Today, I got the goals for the minimum viable project (MVP) version of my projec
 ### Sunday, 21 January, 2024
 
 Scheduled day off from coding. 
+
+# Day 436
+### Monday, 22 January, 2024
+
+A friend responded to my request for ideas for new features for my project management app with a suggestion and that gave me ideas for 8 new features I want to program in. I also realized that I was  not planning a minimum anything for this project. As I look at my goals, it feels like I am trying to build an enterprize grade piece of software that would be used in large companies. So, that is what I am going to shoot for. I want to build this to a scale that a large company might be able to use it if they wanted to. I did not get very far on the process of detailing out the first feature, but, that will take time. I am kind of still in the idea generation phase. So, if I were to describe this project, in a summary form, then how would I describe it?
+
+This currently unnamed project management software, will include a full suite of every tool needed to manage a project, whether as a single person, or as a large corporation. The goal is to include everything you could possibly need to manage a project. From estimating the completion date, to estimating the hours actually spent on the project, and from tracking what resources you might need to figuring out which project or task needs to be completed in which order and it will notify you of when you are risking falling behind. 
  
