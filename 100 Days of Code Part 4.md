@@ -235,4 +235,9 @@ This currently unnamed project management software, will include a full suite of
 ### Tuesday, 23 January, 2024
 
 I ran into a brief roadblock for designing my project management app, specifically the details of what differentiates a project from a task. It is interesting how two things that seem so obviously different at first can have the lines between them so blurred when trying to decide what data should be managed by a class representing each of them. However, today, I was able to plan out what will go into an idea, goal, project, and task. I also decided to add a person class to manage all data connected with a person in the project, but have not planned that as of yet. 
+
+# Day 438
+### Wednesday, 24 January, 2024
+
+Today, I planned out what I want to have my person data class track within my person data class. 
  
