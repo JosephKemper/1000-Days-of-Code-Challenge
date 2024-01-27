@@ -245,4 +245,9 @@ Today, I planned out what I want to have my person data class track within my pe
 ### Thursday, 25 January, 2024
 
 As result of talking with a friend, I added another feature I want to include in my project, specifically analytics technology that will let the program better forecast how long it will take to complete a task using data collected from past jobs completed by an individual. I also want to make versions of this data available to everyone, with the specific goal of encouraging growth opportunities. I realize this is already a huge project, but I really don't care, I am having fun with it, and I know I will learn a lot when I move from the planning to the programming stages. 
+
+# Day 440
+### Friday, 26 January, 2024
+
+I am about half done with fleshing out the details for the features I plan to include in my project management app. From there, I will start planning out the classes and and from there, will start to actually build the program. 
  
