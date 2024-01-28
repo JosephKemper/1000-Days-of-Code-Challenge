@@ -249,5 +249,10 @@ As result of talking with a friend, I added another feature I want to include in
 # Day 440
 ### Friday, 26 January, 2024
 
-I am about half done with fleshing out the details for the features I plan to include in my project management app. From there, I will start planning out the classes and and from there, will start to actually build the program. 
+I am about half done with fleshing out the details for the features I plan to include in my project management app. From there, I will start planning out the classes and from there, will start to actually build the program. 
+
+# Day 441
+### Saturday, 27 January, 2024
+
+I got the details for a few more features planned out. I am hoping to be done fleshing out the details for the features by next Saturday, then I get to start planning out what classes, functions, and variables I will need, and start building the UML diagrams for everything. 
  
