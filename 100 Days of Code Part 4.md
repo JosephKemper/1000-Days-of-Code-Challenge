@@ -255,4 +255,8 @@ I am about half done with fleshing out the details for the features I plan to in
 ### Saturday, 27 January, 2024
 
 I got the details for a few more features planned out. I am hoping to be done fleshing out the details for the features by next Saturday, then I get to start planning out what classes, functions, and variables I will need, and start building the UML diagrams for everything. 
+
+### Sunday, 28 January, 2024
+
+Scheduled day off from coding. 
  
