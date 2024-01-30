@@ -259,4 +259,9 @@ I got the details for a few more features planned out. I am hoping to be done fl
 ### Sunday, 28 January, 2024
 
 Scheduled day off from coding. 
+
+# Day 442
+### Monday, 29 January, 2024
+
+Today, I got a the details for a few more features planned out, and started thinking on how I will build a rather difficult challenge, specifically, how I will teach the computer to give a recommendation on how to plan out the project. That will take a bit, but I have done similar things in the past in my business class, I just need to figure out a way to automate it. 
  
