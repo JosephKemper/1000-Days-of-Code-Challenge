@@ -264,4 +264,9 @@ Scheduled day off from coding.
 ### Monday, 29 January, 2024
 
 Today, I got a the details for a few more features planned out, and started thinking on how I will build a rather difficult challenge, specifically, how I will teach the computer to give a recommendation on how to plan out the project. That will take a bit, but I have done similar things in the past in my business class, I just need to figure out a way to automate it. 
+
+# Day 445
+### Tuesday, 30 January, 2024
+
+Today, I got a plan for how I will build a suggested completion timeline for a list of projects and/or tasks that are being added to my app. I even thought of a few ways for how I will actually write the code. The big things I learned in the process is that when planning out a project, I do not need to worry about how I will write the code, I just need to worry about breaking everything down into workable and logical steps. 
  
