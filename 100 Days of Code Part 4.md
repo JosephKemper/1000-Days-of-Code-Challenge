@@ -269,4 +269,9 @@ Today, I got a the details for a few more features planned out, and started thin
 ### Tuesday, 30 January, 2024
 
 Today, I got a plan for how I will build a suggested completion timeline for a list of projects and/or tasks that are being added to my app. I even thought of a few ways for how I will actually write the code. The big things I learned in the process is that when planning out a project, I do not need to worry about how I will write the code, I just need to worry about breaking everything down into workable and logical steps. 
+
+# Day 446
+### Wednesday, 31 January, 2024
+
+Yay! I finished fleshing out the details to the different features I want to include in my project management app, and I am glad I took the time to do that, because there were a few things I wanted to include that I was not sure if I could actually do, but then by taking the time to think about them in more detail I have a much better idea (and in some cases an actual plan) of how I could do them. So that means starting tomorrow, I can start working on the UML (not ugly monkey legs) diagrams for the classes and planning the details to how I will build everything when I start programming.  
  
