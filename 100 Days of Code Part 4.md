@@ -274,4 +274,9 @@ Today, I got a plan for how I will build a suggested completion timeline for a l
 ### Wednesday, 31 January, 2024
 
 Yay! I finished fleshing out the details to the different features I want to include in my project management app, and I am glad I took the time to do that, because there were a few things I wanted to include that I was not sure if I could actually do, but then by taking the time to think about them in more detail I have a much better idea (and in some cases an actual plan) of how I could do them. So that means starting tomorrow, I can start working on the UML (not ugly monkey legs) diagrams for the classes and planning the details to how I will build everything when I start programming.  
+
+# Day 447
+### Thursday, 1 February, 2024
+
+Today, I made the first UML diagram for my project. I ended up using Draw.io to make the diagram and then just saved it to a png file. And now, that I have everything created, tomorrow I should be able to get more than one done. 
  
