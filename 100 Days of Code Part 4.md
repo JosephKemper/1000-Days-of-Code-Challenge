@@ -280,7 +280,7 @@ Yay! I finished fleshing out the details to the different features I want to inc
 
 Today, I made the first UML diagram for my project. I ended up using Draw.io to make the diagram and then just saved it to a png file. And now, that I have everything created, tomorrow I should be able to get more than one done. 
 
-# Day 447
+# Day 448
 ### Friday, 2 February, 2024
 
 I decided to switch the tool I was using to create UML diagrams. I realized that as useful as draw.io is, it was not ideal for my needs. After a bit of research, I found that UMLet was a lot better for what I am trying to do, and still lets me get good screen shots. So, after I quickly redid the UML for the Idea class, I also did the UML for the Goal and Project classes. 
