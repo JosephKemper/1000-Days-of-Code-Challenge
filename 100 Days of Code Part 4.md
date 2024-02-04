@@ -284,4 +284,9 @@ Today, I made the first UML diagram for my project. I ended up using Draw.io to 
 ### Friday, 2 February, 2024
 
 I decided to switch the tool I was using to create UML diagrams. I realized that as useful as draw.io is, it was not ideal for my needs. After a bit of research, I found that UMLet was a lot better for what I am trying to do, and still lets me get good screen shots. So, after I quickly redid the UML for the Idea class, I also did the UML for the Goal and Project classes. 
+
+# Day 449
+### Saturday, 3 February, 2024
+
+I did not get as much done as I was hoping for today, but I still made progress so I am happy. I got the person and task UML diagrams completed and polished up the features of the task to avoid repetition between parent and child classes. 
  
