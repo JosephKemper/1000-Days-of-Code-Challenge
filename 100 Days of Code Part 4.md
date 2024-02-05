@@ -289,4 +289,8 @@ I decided to switch the tool I was using to create UML diagrams. I realized that
 ### Saturday, 3 February, 2024
 
 I did not get as much done as I was hoping for today, but I still made progress so I am happy. I got the person and task UML diagrams completed and polished up the features of the task to avoid repetition between parent and child classes. 
+
+### Sunday, 4 February, 2024
+
+Scheduled day off from Coding
  
