@@ -293,4 +293,9 @@ I did not get as much done as I was hoping for today, but I still made progress 
 ### Sunday, 4 February, 2024
 
 Scheduled day off from Coding
+
+# Day 450
+### Monday, 5 February, 2024
+
+Today, was a bit of an off day, but I still put in some time working on the plan for my app. In this case, I planned some of the rest of the structure of my app. 
  
