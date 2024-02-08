@@ -303,4 +303,9 @@ Today, was a bit of an off day, but I still put in some time working on the plan
 ### Tuesday, 6 February, 2024
 
 Today I started building the UML diagram for the unique identifier for each idea, goal, project, and task that will be created within an account. I settled on the idea of using the first letter of the item type being created, the date in YYYYMMDD format, and then the number of the particular item that was created that day, so for example if I were creating the 4th project for that day and the date were 6 February, 2024, then the unique project id would be P202402064. I am rather enjoying building out the UML diagrams, for everything after my initial planning as it is forcing me to think at a whole different level on everything. 
+
+# Day 452
+### Wednesday, 7 February, 2024
+
+Today, I finished the UML diagrams for all of the unique identifier classes. 
  
