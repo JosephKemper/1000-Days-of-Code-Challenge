@@ -312,4 +312,8 @@ Today, I finished the UML diagrams for all of the unique identifier classes.
 ### Thursday, 8 February, 2024
 
 Taking a day off to recover. 
+
+### Friday, 9 February, 2024
+
+Took one more day off for recovery. 
  
