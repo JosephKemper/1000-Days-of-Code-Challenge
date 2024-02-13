@@ -324,4 +324,8 @@ Final recovery day off.
 ### Sunday, 11 February, 2024
 
 Scheduled day off of coding
+
+### Monday, 12 February, 2024
+
+Worked on Resume
  
