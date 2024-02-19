@@ -1,4 +1,4 @@
-As the name suggests, this repository is where I am storing my code for my 100 days of code journey. 
+As the name suggests, this repository is where I am storing my code for my 1,000 days of code journey. 
 For my challenge, I am modifying the rules a bit and will be doing more than 100 days of code. First, I am not settling for simply 100 days, I will be going for 1,000 days of coding.
 
 I will code 6 days a week (no Sundays) either until I get a job or I hit 1,000 days whichever comes last. 
