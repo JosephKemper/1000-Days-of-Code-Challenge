@@ -349,6 +349,10 @@ Continued work on Resume
 
 Continued work on Resume
 
+### Sunday, 18 February, 2024
+
+Scheduled day off from coding
+
 ### Monday, 19 February, 2024
 
 Continued work on Resume
