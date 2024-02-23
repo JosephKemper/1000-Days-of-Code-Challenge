@@ -364,4 +364,8 @@ Continued work on Resume
 ### Wednesday, 21 February, 2024
 
 Continued work on Resume
+
+### Thursday, 22 February, 2024
+
+Took day off for date
  
