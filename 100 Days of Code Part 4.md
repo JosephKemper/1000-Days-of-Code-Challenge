@@ -368,4 +368,12 @@ Continued work on Resume
 ### Thursday, 22 February, 2024
 
 Took day off for date
+
+### Friday, 23 February, 2024
+
+Got sick. 
+
+### Saturday, 24 February, 2024
+
+Got sick
  
