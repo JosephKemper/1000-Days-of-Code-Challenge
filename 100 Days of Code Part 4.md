@@ -376,4 +376,8 @@ Got sick.
 ### Saturday, 24 February, 2024
 
 Got sick
+
+### Sunday, 25 February, 2024
+
+Scheduled day off
  
