@@ -380,4 +380,8 @@ Got sick
 ### Sunday, 25 February, 2024
 
 Scheduled day off
+
+### Monday, 26 February, 2024
+
+Hopefully the final day of recovering from being sick. 
  
