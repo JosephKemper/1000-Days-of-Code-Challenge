@@ -384,4 +384,8 @@ Scheduled day off
 ### Monday, 26 February, 2024
 
 Hopefully the final day of recovering from being sick. 
+
+### Tuesday, 27 February, 2024
+
+Continued work on Resume
  
