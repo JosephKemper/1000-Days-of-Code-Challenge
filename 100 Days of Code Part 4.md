@@ -398,3 +398,32 @@ I got a little discouraged with my lack of progress, and because of battling wit
 ### Friday, 28 June, 2024
 
 It feels good to be back in the swing of things for programming. I had to take a bit of time off to figure out my bigger plans and how I wanted to approach things. I have gotten my first app published and even sold a few copies (okay it was to family, but I still have the app published). Today, I got the plan completed for my second app, which will be a Simple Fraction Calculator, which will have the ability to add, subtract, multiply, and divide any combination of fractions, mixed numbers, and whole numbers, and will return the results as a properly reduced whole number, mixed number, or fraction as appropriate. 
+
+# Day 455
+### Monday, 1 July, 2024
+
+Today I got some of the details of my simple fraction calculator app worked out. 
+
+It will need to take in either a whole number, a mixed number, a fraction, or improper fraction followed by a mathematical operator and another whole number, a mixed number, a fraction, or improper fraction
+
+It will need to return a properly worked whole number, mixed number, or fraction as appropriate to the equation given. 
+
+The needs it must meet to achieve that are as follows:
+
+A way to tell what has been entered, 
+
+A way to check for and stop people from entering combinations that will break the calculator. Example, stop and check to make sure a 0 is not entered in as part of the fraction and maybe as the whole number
+
+Teach the program how to perform addition, subtraction, multiplication, and division on any combination of the following: whole number, a mixed number, a fraction, and improper fraction
+
+Track order of operations for the entered string of values. 
+
+Display usable buttons in the form of a calculator. 
+
+Build a radio button (or another alternative) for entering whole numbers, numerators, and/or denominators
+
+Build a way to display answer to user. 
+
+Build a limit for the number of operations the calculator will run. 
+
+Custom designed data structure to define the parts of a fraction
