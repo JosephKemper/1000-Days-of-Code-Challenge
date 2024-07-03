@@ -427,3 +427,30 @@ Build a way to display answer to user.
 Build a limit for the number of operations the calculator will run. 
 
 Custom designed data structure to define the parts of a fraction
+
+# Day 456
+### Tuesday, 2 July, 2024
+
+Today, I got a healthy portion of the algorithm that my fraction calculator will follow written out. I still have a bit more to work out, but it is a good start. 
+
+Algorithm
+1. Collect User input for value
+2. Add value to value list
+3. Collect user input for operator
+4. Add operator to operator list
+5. If 10 separate operators have been entered and none are equal sign, then end and force equal sign. Otherwise repeat steps 1 through 4 until equal sign has been entered. 
+6. Iterate through operator list looking for either multiplication or division symbol
+7. When either is found, take the index and the index plus 1 of the operator found, and pull the values at those indexes from the values list. 
+8. Determine whether value is whole number, mixed number, fraction, or improper fraction
+    - a. Whole number does not have a fraction entered
+    - b. Mixed number has both a whole number and a fraction as part of it
+    - c. Fraction is defined as a value with a numerator and denominator
+    - d. Improper fraction should be checked as part of checking if it is a fraction, specifically to check if the numerator if bigger than the denominator. 
+9. Work out problem of both values (add formulas for working out each combination of values)
+10. Remove operator from list (need to move all following operators up one for this to work ie no blank entries in list)
+11. Put the product of the two values into the values list, replacing the value previously stored within the first of the two indexes the two values were pulled from. 
+12. Remove the second value in the previously worked values from the list shifting all following values up by one (choose a data structure that will let this happen automatically)
+13. Depending on limits of data structure, within the operator list, either iterate back through from the beginning or start from the next index within the list looking for either multiplication or division symbols and repeat steps 6 through 12 until the end of the list has been reached
+
+Next steps build addition and subtraction section of the algorithm
+Add checks for validating and controlling input
