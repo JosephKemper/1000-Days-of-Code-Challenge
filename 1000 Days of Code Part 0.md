@@ -20,3 +20,4 @@ Clarified plan and got prompts adjusted.
 Found bug in AI code for `using` directives. 
 Used prior correct namespace declarations to fix bug.
 Confirmed all tests for GridManager passed
+https://github.com/TeckFirst/InfernoJockey
