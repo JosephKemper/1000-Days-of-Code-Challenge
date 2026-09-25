@@ -14,7 +14,7 @@ Ran tests for GameManager. Found test for DistanceScore failed. Researched reaso
 https://github.com/TeckFirst/InfernoJockey
 
 # Thursday, 24 September, 2026
-## Day 4 of Days of Code for TeckFirst
+## Day 4 of 1,000 Days of Code for TeckFirst
 Spotted flaw in AI prompts. 
 Clarified plan and got prompts adjusted. 
 Found bug in AI code for `using` directives. 
