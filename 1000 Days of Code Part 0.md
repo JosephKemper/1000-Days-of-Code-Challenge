@@ -28,3 +28,13 @@ https://github.com/TeckFirst/InfernoJockey
 * Used prior correct namespace declarations to fix bug.
 * Confirmed all tests for GridManager passed
 https://github.com/TeckFirst/InfernoJockey
+
+# Friday, 25 September, 2026
+## Day 5 of 1,000 Days of Code for TeckFirst
+* Updated AI prompts to ensure movement constraints are properly enforced. 
+* Built PlayerMovementTests class. 
+* Built InputHandler class
+* Built PlayerController class
+* Fixed bug with initial code for PlayerController removing a duplicate namespace for GridManager
+* Got all tests for PlayerMovementTests class to pass. 
+* Created plan to get PlayerController, InputHandler, GridManager, and GameManager implemented in game. 
