@@ -47,3 +47,4 @@ https://github.com/TeckFirst/InfernoJockey
 * Got player to move. 
 * Adjusted game settings to allow for both new and old input settings clearing input handler error
 * Refactored PlayerController class to automatically get InputHandler 
+https://github.com/TeckFirst/InfernoJockey
