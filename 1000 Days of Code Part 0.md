@@ -48,3 +48,6 @@ https://github.com/TeckFirst/InfernoJockey
 * Adjusted game settings to allow for both new and old input settings clearing input handler error
 * Refactored PlayerController class to automatically get InputHandler 
 https://github.com/TeckFirst/InfernoJockey
+
+# Sunday, 27 September, 2026
+Scheduled day off coding. 
