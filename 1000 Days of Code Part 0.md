@@ -38,3 +38,12 @@ https://github.com/TeckFirst/InfernoJockey
 * Fixed bug with initial code for PlayerController removing a duplicate namespace for GridManager
 * Got all tests for PlayerMovementTests class to pass. 
 * Created plan to get PlayerController, InputHandler, GridManager, and GameManager implemented in game. 
+https://github.com/TeckFirst/InfernoJockey
+
+# Saturday, 26 September, 2026
+## Day 6 of 1,000 Days of Code for TeckFirst
+* Got Empty Game Objects created for GameManager and Grid Manager
+* Got GameManger, GridManager, InputHandler, and PlayerController scripts attached to Game objects. 
+* Got player to move. 
+* Adjusted game settings to allow for both new and old input settings clearing input handler error
+* Refactored PlayerController class to automatically get InputHandler 
