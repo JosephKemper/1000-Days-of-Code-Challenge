@@ -60,3 +60,10 @@ Scheduled day off coding.
     * Grid must look like a digital overlay you are seeing on a computer screen. 
 * Got plan in place to build requirements of grid. Will use filler graphics for now. 
 https://github.com/TeckFirst/InfernoJockey
+
+# Tuesday, 29 September, 2026
+## Day 8 of 1,000 Days of Code for TeckFirst
+* Searched for premade assets to use for Inferno Jockey. 
+* Found possible Lava Texture. 
+* Still looking for something for grid outline. 
+https://github.com/TeckFirst/InfernoJockey
