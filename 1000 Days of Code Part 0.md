@@ -67,3 +67,11 @@ https://github.com/TeckFirst/InfernoJockey
 * Found possible Lava Texture. 
 * Still looking for something for grid outline. 
 https://github.com/TeckFirst/InfernoJockey
+
+# Wednesday, 30 September, 2026
+## Day 9 of 1,000 Days of Code for TeckFirst
+* Learned how to make basic objects in Unity
+* Learned how to make basic materials in Unity
+* Created basic cylinder and a basic material. 
+* Combined the two to make a laser like object. 
+https://github.com/TeckFirst/InfernoJockey
