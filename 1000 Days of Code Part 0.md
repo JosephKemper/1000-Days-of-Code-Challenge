@@ -79,5 +79,5 @@ https://github.com/TeckFirst/InfernoJockey
 # Thursday, 1 October, 2026
 ## Day 10 of 1,000 Days of Code for TeckFirst
 * Read the preface of A Philosophy of Software Design
-* Studied procedural gernation
+* Studied procedural generation
 https://github.com/TeckFirst/InfernoJockey
