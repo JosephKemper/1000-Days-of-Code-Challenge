@@ -75,3 +75,9 @@ https://github.com/TeckFirst/InfernoJockey
 * Created basic cylinder and a basic material. 
 * Combined the two to make a laser like object. 
 https://github.com/TeckFirst/InfernoJockey
+
+# Thursday, 1 October, 2026
+## Day 10 of 1,000 Days of Code for TeckFirst
+* Read the preface of A Philosophy of Software Design
+* Studied procedural gernation
+https://github.com/TeckFirst/InfernoJockey
