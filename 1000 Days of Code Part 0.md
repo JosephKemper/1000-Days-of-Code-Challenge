@@ -87,3 +87,4 @@ https://github.com/TeckFirst/InfernoJockey
 * Studied introduction of A Philosophy of Software Design
 * Learned what was holding me back in prior 
 * Worked on building the lane grid for Inferno Jockey
+https://github.com/TeckFirst/InfernoJockey
