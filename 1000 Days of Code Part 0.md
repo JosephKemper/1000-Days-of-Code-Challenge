@@ -81,3 +81,9 @@ https://github.com/TeckFirst/InfernoJockey
 * Read the preface of A Philosophy of Software Design
 * Studied procedural generation
 https://github.com/TeckFirst/InfernoJockey
+
+# Friday, 2 October, 2026
+## Day 11 of 1,000 Days of Code for TeckFirst
+* Studied introduction of A Philosophy of Software Design
+* Learned what was holding me back in prior 
+* Worked on building the lane grid for Inferno Jockey
