@@ -94,3 +94,6 @@ https://github.com/TeckFirst/InfernoJockey
 * Got a basic grid set up for the lane guides 
 * Read chapter 1.1 of A Philosophy of Software Design
 https://github.com/TeckFirst/InfernoJockey
+
+# Sunday, 4 October, 2026
+Scheduled day off. 
