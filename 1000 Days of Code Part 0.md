@@ -88,3 +88,9 @@ https://github.com/TeckFirst/InfernoJockey
 * Learned what was holding me back in prior 
 * Worked on building the lane grid for Inferno Jockey
 https://github.com/TeckFirst/InfernoJockey
+
+# Saturday, 3 October, 2026
+## Day 12 of 1,000 Days of Code for TeckFirst
+* Got a basic grid set up for the lane guides 
+* Read chapter 1.1 of A Philosophy of Software Design
+https://github.com/TeckFirst/InfernoJockey
