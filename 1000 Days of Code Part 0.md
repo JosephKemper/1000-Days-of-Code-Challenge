@@ -97,3 +97,11 @@ https://github.com/TeckFirst/InfernoJockey
 
 # Sunday, 4 October, 2026
 Scheduled day off. 
+
+# Monday, 5 October, 2026
+## Day 13 of 1,000 Days of Code for TeckFirst
+- Add custom emissive laser material using URP transparent workflow for glowing beam effects.
+- Create and instantiate Lane Marker prefabs to construct a permanent 3x3 security-style laser grid.
+- Update SampleScene with the initial navigation grid layout.
+- Read section 2.0 of A Philosophy of Software Design.
+https://github.com/TeckFirst/InfernoJockey
