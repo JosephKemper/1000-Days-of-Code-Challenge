@@ -105,3 +105,11 @@ Scheduled day off.
 - Update SampleScene with the initial navigation grid layout.
 - Read section 2.0 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
+
+# Tuesday, 6 October, 2026
+## Day 14 of 1,000 Days of Code for TeckFirst
+- Found existing code did not meet game design specifications. 
+- Created and refined Game Design Doc 
+- Created LaneGrid.cs and LandGridTests.CS
+- Read section 2.1 of A Philosophy of Software Design.
+https://github.com/TeckFirst/InfernoJockey
