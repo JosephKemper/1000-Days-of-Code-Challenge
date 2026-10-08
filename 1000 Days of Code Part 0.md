@@ -113,3 +113,9 @@ https://github.com/TeckFirst/InfernoJockey
 - Created LaneGrid.cs and LandGridTests.CS
 - Read section 2.1 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
+
+# Wednesday, 7 October, 2026
+## Day 15 of 1,000 Days of Code for TeckFirst
+- Built PiPatter and PiPatternTests, ensured all tests passed. 
+- Built TapResolver and TapResolverTests, and ensured all tests passed. 
+- Read section 2.1 of A Philosophy of Software Design.
