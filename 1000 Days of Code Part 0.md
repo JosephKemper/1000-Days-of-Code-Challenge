@@ -118,4 +118,12 @@ https://github.com/TeckFirst/InfernoJockey
 ## Day 15 of 1,000 Days of Code for TeckFirst
 - Built PiPatter and PiPatternTests, ensured all tests passed. 
 - Built TapResolver and TapResolverTests, and ensured all tests passed. 
-- Read section 2.1 of A Philosophy of Software Design.
+- Read section 2.2 of A Philosophy of Software Design.
+https://github.com/TeckFirst/InfernoJockey
+
+# Thursday, 8 October, 2026
+## Day 16 of 1,000 Days of Code for TeckFirst
+- Built the ObstacleSet and ObstacleSetTests classes, ensured all tests passed
+- Built SpeedMeter and SpeedMeterTests classes, ensured all tests passed
+- Read section 2.3, 2.4, and 2.5 of A Philosophy of Software Design.
+https://github.com/TeckFirst/InfernoJockey
