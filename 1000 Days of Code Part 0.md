@@ -127,3 +127,9 @@ https://github.com/TeckFirst/InfernoJockey
 - Built SpeedMeter and SpeedMeterTests classes, ensured all tests passed
 - Read section 2.3, 2.4, and 2.5 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
+
+# Friday, 9 October, 2026
+## Day 17 of 1,000 Days of Code for TeckFirst
+- Built the RunCosts and RunCostsTests classes, ensured all tests passed.
+- Built the Run and RunTests classe, ensured all tests passed.
+- Read section 3.0 and 3.1 of A Philosophy of Software Design.
