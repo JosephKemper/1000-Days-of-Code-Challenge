@@ -134,3 +134,10 @@ https://github.com/TeckFirst/InfernoJockey
 - Built the Run and RunTests classe, ensured all tests passed.
 - Read section 3.0 and 3.1 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
+
+# Saturday, 10 October, 2026
+## Day 18 of 1,000 Days of Code for TeckFirst
+- Dropped CameraWindow and CameraWindowTests from the classes
+- Built the RunSceneDriver class. 
+- Read section 3.2 of A Philosophy of Software Design.
+https://github.com/TeckFirst/InfernoJockey
