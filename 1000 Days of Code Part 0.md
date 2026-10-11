@@ -141,3 +141,6 @@ https://github.com/TeckFirst/InfernoJockey
 - Built the RunSceneDriver class. 
 - Read section 3.2 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
+
+# Sunday, 11 October, 2026
+Scheduled day off.
