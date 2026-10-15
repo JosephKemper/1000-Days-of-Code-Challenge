@@ -163,6 +163,6 @@ https://github.com/TeckFirst/InfernoJockey
 
 # Wednesday, 14 October, 2026
 ## Day 21 of 1,000 Days of Code for TeckFirst
-- Refized draft of Game Design Document
+- Revised draft of Game Design Document
 - Read section 3.3 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
