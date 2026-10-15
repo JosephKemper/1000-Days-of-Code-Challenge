@@ -156,7 +156,13 @@ https://github.com/TeckFirst/InfernoJockey
 # Tuesday, 13 October, 2026
 ## Day 20 of 1,000 Days of Code for TeckFirst
 - Updated Inferno Jockey Game Design Doc to reflect a play first strategy
-- Cleared out all incorectly built code. 
+- Cleared out all incorrectly built code. 
 - Got project ready for play first build strategy. 
 - Read in A Philosophy of Software Design.
+https://github.com/TeckFirst/InfernoJockey
+
+# Wednesday, 14 October, 2026
+## Day 21 of 1,000 Days of Code for TeckFirst
+- Refized draft of Game Design Document
+- Read section 3.3 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
