@@ -176,4 +176,5 @@ https://github.com/TeckFirst/InfernoJockey
 - Added Box Collider to Lanes to enable them to be interactable
 - Found lacking info with Game Design Document
 - Got the Game Design Document updated. 
+- Read section 3.4 and 3.5 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
