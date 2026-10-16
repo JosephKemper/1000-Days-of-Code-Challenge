@@ -166,3 +166,14 @@ https://github.com/TeckFirst/InfernoJockey
 - Revised draft of Game Design Document
 - Read section 3.3 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
+
+# Wednesday, 15 October, 2026
+## Day 22 of 1,000 Days of Code for TeckFirst
+- Built CameraLaneMover and CameraLaneMover Tests.
+- Got CameraLaneMover attached to camera.
+- Got Lanes Defined.
+- Found Movement was not occuring. 
+- Added Box Collider to Lanes to enable them to be interactable
+- Found lacking info with Game Design Document
+- Got the Game Design Document updated. 
+https://github.com/TeckFirst/InfernoJockey
