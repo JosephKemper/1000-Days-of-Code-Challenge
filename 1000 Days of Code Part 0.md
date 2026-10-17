@@ -178,3 +178,13 @@ https://github.com/TeckFirst/InfernoJockey
 - Got the Game Design Document updated. 
 - Read section 3.4 and 3.5 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
+
+# Thursday, 16 October, 2026
+## Day 23 of 1,000 Days of Code for TeckFirst
+- Refactored CameraLaneMover class
+- Refactored CameraLaneMoverTests class
+- Got all automated tests to pass. 
+- Got all lanes assigned in CameraLaneMover class
+- Found bug during play testing that both jumped the Rig to lane 2 and put the LaneGrid behind the player.
+- Read section 4.0 and 4.1 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
