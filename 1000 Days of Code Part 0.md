@@ -188,3 +188,10 @@ https://github.com/TeckFirst/InfernoJockey
 - Found bug during play testing that both jumped the Rig to lane 2 and put the LaneGrid behind the player.
 - Read section 4.0 and 4.1 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Friday, 17 October, 2026
+## Day 24 of 1,000 Days of Code for TeckFirst
+- Discovered sourece of previously identified movement problem. 
+- Researched solutions. 
+- Removed colliders as first step of fix.
+- https://github.com/TeckFirst/InfernoJockey
