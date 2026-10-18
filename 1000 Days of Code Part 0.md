@@ -194,4 +194,5 @@ https://github.com/TeckFirst/InfernoJockey
 - Discovered source of previously identified movement problem. 
 - Researched solutions. 
 - Removed colliders as first step of fix.
+- Read Section 4.3 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
