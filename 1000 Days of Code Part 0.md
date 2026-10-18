@@ -191,7 +191,7 @@ https://github.com/TeckFirst/InfernoJockey
 
 # Friday, 17 October, 2026
 ## Day 24 of 1,000 Days of Code for TeckFirst
-- Discovered sourece of previously identified movement problem. 
+- Discovered source of previously identified movement problem. 
 - Researched solutions. 
 - Removed colliders as first step of fix.
 - https://github.com/TeckFirst/InfernoJockey
