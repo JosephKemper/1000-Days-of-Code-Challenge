@@ -196,3 +196,6 @@ https://github.com/TeckFirst/InfernoJockey
 - Removed colliders as first step of fix.
 - Read Section 4.3 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Sunday, 18 October, 2026
+Scheduled day off.
