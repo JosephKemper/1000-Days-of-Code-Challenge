@@ -8,3 +8,5 @@ This means that whatever solution I create will need to have two things:
 2. A second point for where the player drone (i.e. the camera) to move to. 
 Thus the problem I have right now, is the script moves the drone to the object I am clicking on, and that is creating the problem. I will also need to get whatever I am trying to click on set up properly. 
 From further research, I think that using a UI button element will work the best for what the player clicks on. I just need to research strategies to figure out where the player moves to, which will need to be far enough behind the lane grid to keep it visible. 
+## Possible solution to bug:
+Add an empty game object to the structure that makes up the lane, and mark it as the place the drone moves to. Position it far enough back from the lane, to leave the lane visible to the player. 
