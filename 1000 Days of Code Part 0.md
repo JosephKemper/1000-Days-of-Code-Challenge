@@ -167,7 +167,7 @@ https://github.com/TeckFirst/InfernoJockey
 - Read section 3.3 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
 
-# Wednesday, 15 October, 2026
+# Thursday, 15 October, 2026
 ## Day 22 of 1,000 Days of Code for TeckFirst
 - Built CameraLaneMover and CameraLaneMover Tests.
 - Got CameraLaneMover attached to camera.
@@ -179,7 +179,7 @@ https://github.com/TeckFirst/InfernoJockey
 - Read section 3.4 and 3.5 of A Philosophy of Software Design.
 https://github.com/TeckFirst/InfernoJockey
 
-# Thursday, 16 October, 2026
+# Friday, 16 October, 2026
 ## Day 23 of 1,000 Days of Code for TeckFirst
 - Refactored CameraLaneMover class
 - Refactored CameraLaneMoverTests class
@@ -189,7 +189,7 @@ https://github.com/TeckFirst/InfernoJockey
 - Read section 4.0 and 4.1 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
 
-# Friday, 17 October, 2026
+# Saturday, 17 October, 2026
 ## Day 24 of 1,000 Days of Code for TeckFirst
 - Discovered source of previously identified movement problem. 
 - Researched solutions. 
@@ -199,3 +199,12 @@ https://github.com/TeckFirst/InfernoJockey
 
 # Sunday, 18 October, 2026
 Scheduled day off.
+
+# Monday, 19 October, 2026
+## Day 25 of 1,000 Days of Code for TeckFirst
+- Researched into how to create UI buttons
+- Got UI Canvas set up and camera connected to UI
+- Added Grid Layout Group to LaneGrid UI Canvas
+- Got the Lane Sizes adjusted to the desired size. 
+- Adjusted Columns for Grid Layout Group to 3 to allow for 3x3 grid. 
+- https://github.com/TeckFirst/InfernoJockey
