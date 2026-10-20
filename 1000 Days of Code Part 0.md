@@ -207,4 +207,5 @@ Scheduled day off.
 - Added Grid Layout Group to LaneGrid UI Canvas
 - Got the Lane Sizes adjusted to the desired size. 
 - Adjusted Columns for Grid Layout Group to 3 to allow for 3x3 grid. 
+- Read Section 4.3 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
