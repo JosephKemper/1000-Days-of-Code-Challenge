@@ -32,3 +32,11 @@ Looking at the options on the other two, it seems to have far too many factors t
 
 ## Button Alignment Research
 Decided on Constant Pixel size for LaneGrid. When placing buttons found that the only place they ever go is below the others. Need to research how to adjust button placement. Also, it does not seem to let me move them. 
+
+# Tuesday, 20 October, 2026
+## Customizing Buttons
+I started to get the Buttons customized in appearance. First thing I deleted all but the first button, and then got I got the button to be transparent. I then got rid of the text from it. 
+To make the button invisible, I had to open the color selections option and then under RGB color options turn the A to 0. Now, I need to figure out how to add an edge to the buttons. 
+Deleted all but the base button. 
+Learned about the Fill center option in the image options of the button. Left it as the default size for the edge as that was about the size I wanted for the edge. Got the colors set to what I wanted them to be. 
+Recreated all 9 buttons from the template button. 

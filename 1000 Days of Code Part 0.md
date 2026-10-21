@@ -209,3 +209,9 @@ Scheduled day off.
 - Adjusted Columns for Grid Layout Group to 3 to allow for 3x3 grid. 
 - Read Section 4.3 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Tuesday, 20 October, 2026
+## Day 26 of 1,000 Days of Code for TeckFirst
+- Got navigation buttons looking the way I want. 
+- Read Section 4.4 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
