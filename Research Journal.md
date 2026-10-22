@@ -40,3 +40,27 @@ To make the button invisible, I had to open the color selections option and then
 Deleted all but the base button. 
 Learned about the Fill center option in the image options of the button. Left it as the default size for the edge as that was about the size I wanted for the edge. Got the colors set to what I wanted them to be. 
 Recreated all 9 buttons from the template button. 
+
+# Wednesday, 21 October, 2026
+## Refactoring CameraLaneMover
+Started working on refactoring the CameraLaneMover class. 
+Stopping to think about it, I think part of the problem I'm having is the name of the class itself. 
+PlayerController makes a lot more sense. It's job is to carry out the actions the player trys to handle. 
+Those actions will be movement and firing. 
+The movement and firing will both respond based on the same button. 
+...
+I need to get more clarity about this. 
+...
+So, what are the details to the problem?
+9 lanes marked by lane sized buttons
+Clicking a button should first move you to that lane. 
+If you are in that lane, then pressing that same button again will fire the gun. 
+In game components
+9 buttons
+9 LaneMarkers
+The 9 buttons are part of the UI canvas
+The 9 LaneMakers are empty game objects positioned to be roughly in the middle of the lanes(marked by the visible edges of the lane sized button)
+...
+When you press the button I want the camera to move over the button without going over the edge of the play area. 
+## Camera Bug
+The Camera has somehow become locked in position in place centered on the first button. 

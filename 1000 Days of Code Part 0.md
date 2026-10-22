@@ -215,3 +215,12 @@ Scheduled day off.
 - Got navigation buttons looking the way I want. 
 - Read Section 4.4 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Wednesday, 21 October, 2026
+## Day 27 of 1,000 Days of Code for TeckFirst
+- Deleted old lane markers from game. 
+- Deleted CameraLaneMover and Camera LaneMoverTests classes in preparation for creating PlayerController class. 
+- Started planning PlayerConroller class. 
+- Discovered bug with camera being stuck over lane 0
+- Read Section 4.5 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
