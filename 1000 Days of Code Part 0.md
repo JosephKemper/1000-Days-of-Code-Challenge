@@ -224,3 +224,18 @@ Scheduled day off.
 - Discovered bug with camera being stuck over lane 0
 - Read Section 4.5 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Thursday, 22 October, 2026
+## Day 28 of 1,000 Days of Code for TeckFirst
+- Planned the PlayerController Script
+- Got the PlayerController Script Built
+- Started debugging the camera glitch. 
+- Read Section 4.6 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
+
+# Friday, 23 October, 2026
+## Day 29 of 1,000 Days of Code for TeckFirst
+- Fleshed out details for UI 
+- Started researching options to build UI
+- Read Section 4.7 and 4.8 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey

@@ -64,3 +64,76 @@ The 9 LaneMakers are empty game objects positioned to be roughly in the middle o
 When you press the button I want the camera to move over the button without going over the edge of the play area. 
 ## Camera Bug
 The Camera has somehow become locked in position in place centered on the first button. 
+
+# Thursday, 22 October, 2026
+Let's start with the high level details of my class PlayerController
+It takes in a click from any of the 9 buttons
+checks if the player is in the lane that button represents
+if not, it moves them to that lane. 
+If so, it fires the gun. 
+I think I want the current lane handled by a variable. 
+I will want to ensure that firing of the gun is able to tracked by the class I will build later to handle collectables and such. 
+
+Problem
+9 buttons, 9 spots to move. 
+I need to map each button to it's respective spot. 
+I need to find a way to get the camera to stop at the edge of the play area when on an edge. 
+I need to find a way to check for legal moves. Technically, the size of the buttons means that they will only ever be able to select a legal move. So, for now, I will just skip this, and just get the rest of the game working. 
+I think for now, I will also skip on worrying about having the camera stop at the edge of the map. 
+
+Summary
+PlayerController
+Upon button click
+checks to see currentLane == Button pressed
+if yes, then it fires the gun. 
+If no, it moves the camera to the position for the button pressed. 
+When it fires the gun, a future class needs to be able to track the firing of the gun for ammo tracking purposes. 
+Requirements. This class will need to have the ability to map 9 buttons to 9 different locations represented by in game objects. I want this to be done in Unity manually. 
+
+# Friday, 23 October, 2026
+
+I need to get clear about what I need with the buttons. I need to get way clear. That is my problem with getting them created. I am not clear enough with what I want. So, I will start with the end experience and move backwards. I think I might describe from the character's experience first. 
+
+Game Details
+Being built in Unity 6
+Mobile first via web development goal WebGL
+3D infinite runner
+Game consists of 9 lanes of travel arranged in a 3x3 grid. 
+
+Inferno Jockey= An independent contractor paid to go to the molten world of Krneal to tag, harvest, and deliver Kytherium to one of the major refineries who turn it into useable materials. Kytherium is a natural super conductor. 
+
+In game perspective of what happens in a run. 
+Inferno Jockey flies into orbit around Krneal. 
+Moves over to drone control station of his/her ship. 
+Presses the launch button for the drone. 
+looks at display screen. 
+The ship's computer divides the refinery equipment on Krneal into a 3x3 grid of 9 lanes via an onscreen HUD using the recommended patterns given by the refineries. 
+The video size from the drone is intentionally small for multiple reasons. 
+1. It keeps the heat lower in both the drone and the ship. 
+2. The drone is one time use only so keeping costs lower is good. 
+3. Interference from Krneal's atmosphere prevents any higher resolution video streams. 
+
+You get enough of a video to see one full lane and a portion of any surrounding lanes. 
+To move to a lane, you simply need to tap on any visible portion of that lane on the display. 
+If you are already in the lane, you can fire the gun on the drone by tapping on the lane you are currently in. 
+
+Unrelated Lore
+Even with the special cooling tech that the ship has by the end of a run, it is not uncommon for the temperature in the ship to get to 150 Degrees F. Experienced Inferno Jockeys will purchase special cooling suits and then will stay in orbit until the temperature gets in excess of 300 degrees. Legend has it that the best Inferno Jockey flew his one drone long enough that it got superheated and then turned to slag midair all while battling 500 degree temperatures in his ship. 
+If you get in a bar where Inferno Jockeys are bragging, you will quickly realize that every last one of them try for that same ideal. They brag about how hot the drone got before it crashed, and how hot their ship got during the run. 
+
+
+UI needs (for initial build)
+Main Menu (initial build)
+One Launch button on a computer looking terminal screen. 
+An Exit button. 
+Future updates will expand this to include things like missions and upgrades. 
+
+The Launch button launches the game. 
+Exit button, exits the game. 
+
+In Game UI needs
+A visible grid that looks like a projection that a computer might display over a low resolution screen marking the lanes. 
+9 invisible buttons that are clickable/tappable
+When pressed the buttons will first center the camera on the center of the button, and then, if they are already in the lane for the button in question, a second press will fire the gun. 
+
+For clarity, if the player is centered over lane 1, they will see all of lane 1, and parts of lanes 2, 4, and 5, and will be able to click on any of the visible lanes to move to them. The rest of the lanes would not be visible. If they then clicked on lane 5 (the center lane) that would put them in the only point where they could see parts of all lanes. In lane 5, they would see all of lane 5 and parts of all of the other lanes. 
