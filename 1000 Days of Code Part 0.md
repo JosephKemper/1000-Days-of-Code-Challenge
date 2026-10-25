@@ -245,3 +245,6 @@ Scheduled day off.
 - Continued research on ways to create needed UI
 - Read Section 5.0 and 5.1 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Sunday, 25 October, 2026
+Scheduled day off.
