@@ -137,3 +137,6 @@ A visible grid that looks like a projection that a computer might display over a
 When pressed the buttons will first center the camera on the center of the button, and then, if they are already in the lane for the button in question, a second press will fire the gun. 
 
 For clarity, if the player is centered over lane 1, they will see all of lane 1, and parts of lanes 2, 4, and 5, and will be able to click on any of the visible lanes to move to them. The rest of the lanes would not be visible. If they then clicked on lane 5 (the center lane) that would put them in the only point where they could see parts of all lanes. In lane 5, they would see all of lane 5 and parts of all of the other lanes. 
+
+# Saturday, 24 October, 2026
+I think I'm going to go way simpler for my game design. Instead of 9 invisible buttons, I will try to add 9 visible buttons below the view area. From there, I can upgrade the game later on. 
