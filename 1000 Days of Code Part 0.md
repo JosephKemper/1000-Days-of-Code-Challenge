@@ -250,7 +250,7 @@ Scheduled day off.
 Scheduled day off.
 
 # Sunday, 26 October, 2026
-## Day 30 of 1,000 Days of Code for TeckFirst
+## Day 31 of 1,000 Days of Code for TeckFirst
 - Experimented with some ways to get the UI set up properly
 - Read Section 5.2 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
