@@ -260,3 +260,11 @@ Scheduled day off.
 - Researched into details about Screen Space - Overlay, Screen Space - Camera, and World Space options in the Unity Canvas
 - Read Section 5.3 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Wednesday, 28 October, 2026
+## Day 34 of 1,000 Days of Code for TeckFirst
+- Found that problem with LaneGrid was with scale. 
+- Got the scale and size adjusted properly to allow for buttons to appear proper size
+- Got script built to allow camera to move between different lanes. 
+- Found camera position is not ideal for each lane, and might be off. 
+- https://github.com/TeckFirst/InfernoJockey

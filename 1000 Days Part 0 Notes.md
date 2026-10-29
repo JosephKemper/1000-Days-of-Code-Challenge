@@ -140,3 +140,7 @@ For clarity, if the player is centered over lane 1, they will see all of lane 1,
 
 # Saturday, 24 October, 2026
 I think I'm going to go way simpler for my game design. Instead of 9 invisible buttons, I will try to add 9 visible buttons below the view area. From there, I can upgrade the game later on. 
+
+# Wednesday, 28 October, 2026
+A Serious win for my new framework today. I was on top of my game enough today, that I had a few hours to work on my programming and finally made some progress on my game. I now have working buttons for the first time since I started working on the game. They are not working exactly the way I want them to, but they are working. 
+The solution I needed was to put the Render Mode for the Canvas to World Space, and then put it as a child under the camera. From there, I formally decided that the camera and lane grid will not move, but the obstacles will move towards the camera while it moves around the x and y axis. I also had to adjust the scale and size in the Rect Transform area to get everything finally looking right. I was so happy when I got it working in the slightest. 
