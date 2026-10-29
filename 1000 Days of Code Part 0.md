@@ -267,4 +267,5 @@ Scheduled day off.
 - Got the scale and size adjusted properly to allow for buttons to appear proper size
 - Got script built to allow camera to move between different lanes. 
 - Found camera position is not ideal for each lane, and might be off. 
+- Read Section 5.4 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
