@@ -144,3 +144,16 @@ I think I'm going to go way simpler for my game design. Instead of 9 invisible b
 # Wednesday, 28 October, 2026
 A Serious win for my new framework today. I was on top of my game enough today, that I had a few hours to work on my programming and finally made some progress on my game. I now have working buttons for the first time since I started working on the game. They are not working exactly the way I want them to, but they are working. 
 The solution I needed was to put the Render Mode for the Canvas to World Space, and then put it as a child under the camera. From there, I formally decided that the camera and lane grid will not move, but the obstacles will move towards the camera while it moves around the x and y axis. I also had to adjust the scale and size in the Rect Transform area to get everything finally looking right. I was so happy when I got it working in the slightest. 
+
+# Thursday, 29 October, 2026
+Goal for the day is to confirm I got the buttons working properly and to get the camera position properly. As this is meant to be a simple and ugly game, if I cannot get the camera position just right, then that is fin. As long as I can get it 70% right, then I'm fine. 
+So, right now, it almost seems random for how the buttons move. The AI seems to think it's connected with the offset, but I think it's a bit more than that. Time to find out. 
+Button Change patterns
+Starting Lane = 7
+Clicking on the 7 button moves to lane 1. 
+Clicking on the 1 buttong moves to lane 7
+Clicking on the 4 button moves to lane 4
+Clicking on the 5 button moves to lane 5. 
+
+So, the whole thing is inverted. Clicking on the top row buttons take you to the mirror position button the bottom. 
+Why?

@@ -269,3 +269,9 @@ Scheduled day off.
 - Found camera position is not ideal for each lane, and might be off. 
 - Read Section 5.4 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Thursday, 29 October, 2026
+## Day 35 of 1,000 Days of Code for TeckFirst
+- Started working on figuring out movement bug with buttons. 
+- Read Section 5.5 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
