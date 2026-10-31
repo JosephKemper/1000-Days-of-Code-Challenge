@@ -288,3 +288,12 @@ Scheduled day off.
 - Discovered that the way my test code was set up in Unity was not set up correctly as it is forcing all of the test code to run under PlayMode instead of EditMode like it should have. 
 - Read Section 5.6 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Saturday, 31 October, 2026
+## Day 37 of 1,000 Days of Code for TeckFirst
+- Fixed test bug to get tests running in EditMode
+- Removed unneeded code 
+- Planned out next build phase
+- Started working out the details to player collisions will be handled. 
+- Read Section 5.7, 5.8, 5.9, 5.10 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
