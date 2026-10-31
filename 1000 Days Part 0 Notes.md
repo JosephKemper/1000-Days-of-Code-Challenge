@@ -150,10 +150,22 @@ Goal for the day is to confirm I got the buttons working properly and to get the
 So, right now, it almost seems random for how the buttons move. The AI seems to think it's connected with the offset, but I think it's a bit more than that. Time to find out. 
 Button Change patterns
 Starting Lane = 7
-Clicking on the 7 button moves to lane 1. 
-Clicking on the 1 buttong moves to lane 7
+Clicking on the 1 button moves to lane 7
+Clicking on the 2 button moves to lane 8
+Clicking on the 3 button moves to lane 9
 Clicking on the 4 button moves to lane 4
 Clicking on the 5 button moves to lane 5. 
+Clicking on the 6 button moves to lane 6.
+Clicking on the 7 button moves to lane 1. 
+Clicking on the 8 button moves to lane 2
+Clicking on the 9 button moves to lane 3
+
+
 
 So, the whole thing is inverted. Clicking on the top row buttons take you to the mirror position button the bottom. 
 Why?
+
+# Friday, 30 October, 2026
+For any button on the top or bottom rows, if I clicked on that button, it would take me to the button on the opposite position. For a patch, I just put a negative symbol in front of the value for y and it fixed it. 
+I had to go back to yesterday's notes, flesh them out, and then from there, I got the problem  clear in my head. From there, as I looked at the code, and what it was doing, I tried putting a negative symbol in front of the y output and that fixed the whole problem. 
+From there, I refactored the code to track the current lane, got a script written to check if the lane selected was the current lane, and then fire the gun if it was the current lane. From there, I got the two different classes combined into one PlayerInput class, and got the test code built for it. For now, I restricted the gun firing to just be console output. But, that means other than possibly fixing the test code, because apparently my test code should run under EditMode not PlayMode, so before I merge this code into the main branch I will fix that one last bug I just discovered. Overall, a really productive day. I now have 9 buttons that work perfectly, and am set up to start working on my next feature, once I get this last thing fixed. 

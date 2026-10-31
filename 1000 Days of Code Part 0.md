@@ -275,3 +275,16 @@ Scheduled day off.
 - Started working on figuring out movement bug with buttons. 
 - Read Section 5.5 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Friday, 30 October, 2026
+## Day 36 of 1,000 Days of Code for TeckFirst
+- Fixed the inverted movement bug
+- Added ability to track current lane
+- Added code to display selected action to console
+- Added logic to check if current lane is the same as lane clicked
+- Added boilerplate code to handle gun firing in the future. For now it just prints to the console
+- Got all player input related code combined under PlayerInput class. 
+- Created test code for PlayerInput
+- Discovered that the way my test code was set up in Unity was not set up correctly as it is forcing all of the test code to run under PlayMode instead of EditMode like it should have. 
+- Read Section 5.6 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
