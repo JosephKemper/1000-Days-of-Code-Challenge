@@ -297,3 +297,6 @@ Scheduled day off.
 - Started working out the details to player collisions will be handled. 
 - Read Section 5.7, 5.8, 5.9, 5.10 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Sunday, 1 November, 2026
+Scheduled Day off From Coding
