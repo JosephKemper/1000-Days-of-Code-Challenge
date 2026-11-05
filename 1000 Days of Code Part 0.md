@@ -312,3 +312,9 @@ Scheduled Day off From Coding
 - Stated planning Collectibles class. 
 - Read Section 6.1 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Wednesday, 4 November, 2026
+## Day 40 of 1,000 Days of Code for TeckFirst
+- Stated planning Collectibles class. 
+- Read Section 6.2 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
