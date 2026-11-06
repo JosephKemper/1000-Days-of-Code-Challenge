@@ -173,3 +173,69 @@ From there, I refactored the code to track the current lane, got a script writte
 # Saturday, 31 October, 2026
 The next code I want to work on is the collectables script. I want to keep this simple. For the variables I have to play with, I have a stationary player that the world will move towards creating the illusion of the player moving. So, for collisions and collecting items, I do not actually need to check for collisions I just need to check for whether the object moves to the z axis where the player is at. From there, if it is collectible, the game will trigger the collectible script, and if it is an obstacle then boom. 
 So, thinking about this, I will need to build a way to mark the lane as clear or otherwise, and then I will need to check what type of object is in the lane, and then handle rules from there. So, while I want to keep the architecture simple, I think I see the need to have 1 class for spawning collectibles, 1 class for spawning obstacles, and one class for handling world interaction, specifically the boom or collecting the object. So, I think I'll still stick with collectibles, I will just spawn them in without the logic of how to collect them. From there, I'll likely do the obstacles, and finally will worry about the script to handle both collisions and collecting. The collisions will be easy, it's called boom. The collectible will be the difficult part. I'll get those details worked out later
+
+# Thursday, 5 November, 2026
+Collectables
+Types
+Fuel
+Ammo (laser cores) 
+Kytherium (what you're paid to collect)
+
+Fuel Details
+Fuel is consumed during the run and needs to be replenished. Ideally the faster you go, the more you consume. 
+Even at the fastest, I want to have the fuel last for a reasonable amount of time. I think needing to refuel 2 or 3 times per the average run sounds like a good amount of time for fuel to last. 
+
+So, how do I want fuel drops to work?
+
+While I won't worry about it for the first version, in the long run, I want the cost of fuel to be deducted from your profits. 
+
+Long term, I want the player to be able to set their fuel drop rate. 
+
+I think for the first version I will just have it start spawning automatically at something like 30% to 50% of fuel capacity. 
+
+Fuel Needs
+Tracking system to track fuel usage and remaining fuel. 
+Ability to trigger fuel drop from ship for collection.
+
+Optional for first version (listed in order of what to do if you can get more done)
+Ability for the drone to use more fuel the faster it goes.
+Ability for the player to select the drop rate of fuel. 
+
+Requires expense tracking to be initiated first
+Deduct fuel costs from profits. 
+
+Ammo (laser cores) Details
+Primary use is to melt the hardened lava from Kythium in order to prep it for harvesting. 
+Secondary use, is to clear obstacles placed by pirates who are trying to steal your tagging data. 
+Like fuel, I think I want enough life in the laser core for it to only need replenished 2 or 3 times in a run. 
+
+Also, like with the fuel, eventually I want to both deduct the cost of laser cores from your profits. Speed will not directly affect laser core usage, though higher speeds will result in the need to use more ammo. I also eventually (though not in the first version) want the ability for the player to set their own drop rates. 
+
+Fuel Needs
+Tracking system to track how many shots fired and how much use the laser core has left. 
+Ability to trigger drops of replacement laser cores from the ship for collection. 
+
+Optional for first version
+Ability for the player to set the drop rates of replacement laser cores. 
+
+Requires expense tracking to be initiated first
+Deduct laser core cost from profits
+
+Kytherium Details
+Kytherium first needs to have the lava melted off it before it can be harvested. 
+Trying to harvest lava covered Kytherium will result in the destruction of your drone. 
+
+The more you tag and collect, the more you get paid. 
+Initial version of game will only have one grade of Kytherium.
+Later versions will have multiple grades with varying different pay scales. 
+Later versions of the game will have a contract system to collect Kytherium including pay deductions for late delivery of the agreed upon Kytherium. 
+Later versions will also add in theft of a small amount of Kytherium by pirates depending on what ends your run. 
+
+Kytherium Needs
+Initial Version
+Simple formula to multiply the number of collected ore samples by a given rate. 
+
+Future versions (listed in order of what to do if you can get more done)
+Multiple grades of Kytherium
+Kytherium theft by pirates
+Contract system including deductions for late delivery
