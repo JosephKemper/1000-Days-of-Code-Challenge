@@ -241,7 +241,7 @@ Kytherium theft by pirates
 Contract system including deductions for late delivery
 
 # Friday, 6 November, 2026
-Did some reasearch into what is needed to get my class ready to build. I worked with an AI and got the following form created. One thing I know already, I want the run to last an average of 3 minutes. 
+Did some research into what is needed to get my class ready to build. I worked with an AI and got the following form created. One thing I know already, I want the run to last an average of 3 minutes. 
 
 **Collectables Class Definition Form**  
 *(Fill in the blanks. Copy the completed version into your AI prompt.)*
