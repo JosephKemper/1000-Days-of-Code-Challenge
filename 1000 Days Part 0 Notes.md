@@ -239,3 +239,57 @@ Future versions (listed in order of what to do if you can get more done)
 Multiple grades of Kytherium
 Kytherium theft by pirates
 Contract system including deductions for late delivery
+
+# Friday, 6 November, 2026
+Did some reasearch into what is needed to get my class ready to build. I worked with an AI and got the following form created. One thing I know already, I want the run to last an average of 3 minutes. 
+
+**Collectables Class Definition Form**  
+*(Fill in the blanks. Copy the completed version into your AI prompt.)*
+
+### 1. Fuel
+- Capacity: ________ units (or seconds)
+- Consumption formula: ________ (e.g. `baseRate * (0.4 + 0.6 * speedNormalized)` units/sec)
+- Target refuels per average run: ________ (usually 2–3)
+- Auto-drop threshold: ________ % remaining
+- Drop behavior: ☐ Instant refill of ________ units  
+  ☐ Spawn pickup that refills ________ units (distance ahead: ________)
+- When fuel hits 0: ________ (slow down / stop / end run / other)
+
+### 2. Laser Cores (Ammo)
+- Capacity: ________ shots (or seconds of beam)
+- Cost per use: ________ (melt = ________, clear obstacle = ________)
+- Target replacements per average run: ________
+- Auto-drop threshold: ________ remaining
+- Drop behavior: ☐ Instant restore of ________ shots  
+  ☐ Spawn pickup that restores ________ shots
+- When ammo hits 0: ________ (cannot melt/clear / soft lock / other)
+
+### 3. Kytherium
+- Value formula (first version): `collectedCount * ________`
+- Attempting to harvest unmelted ore: ________ (destroy drone / end run / damage / other)
+- Average samples per run (optional): ________
+
+### 4. Average Run
+- Length: ________ seconds (or distance / score)
+
+### 5. Architecture Preferences
+- Class style: ☐ Single ResourceManager MonoBehaviour  
+  ☐ Separate components  
+  ☐ Pure C# (no MonoBehaviour)
+- Data: ☐ Serialized fields on the component  
+  ☐ ScriptableObjects
+- Pickup pooling: ☐ Yes ☐ No
+- Required public methods / events:  
+  ________________________________________________  
+  ________________________________________________
+
+### 6. Explicit First-Version Scope (what to exclude)
+- ☐ No player-adjustable drop rates  
+- ☐ No cost deduction from profits  
+- ☐ No multiple Kytherium grades  
+- ☐ No pirate theft or contracts  
+- Other exclusions: ________________________________
+
+### 7. Additional Notes
+________________________________________________  
+________________________________________________

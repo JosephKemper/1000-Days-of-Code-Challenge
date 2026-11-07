@@ -324,3 +324,9 @@ Scheduled Day off From Coding
 - Finished first draft of collectables needs. 
 - Read Section 6.3 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Friday, 6 November, 2026
+## Day 42 of 1,000 Days of Code for TeckFirst
+- Started refining draft of collectables needs. 
+- Read Section 6.4 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
