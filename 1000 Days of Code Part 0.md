@@ -336,3 +336,6 @@ Saturday, 7 November, 2026
 - Continued refining draft of collectables needs. 
 - Read Section 6.5 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Sunday, 8 November, 2026
+Scheduled Day off From Coding
