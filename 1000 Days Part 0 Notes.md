@@ -293,3 +293,25 @@ Did some research into what is needed to get my class ready to build. I worked w
 ### 7. Additional Notes
 ________________________________________________  
 ________________________________________________
+
+# Tuesday, 10 November, 2026
+## Fuel notes
+Note, collecting Kytherium, causes a noticeable and permanent speed increase. Each time the player connects with Kytherium the speed of the drone will permanently increase. This will continue until the drone has hit its maximum physical limits (the limits will be set based on what is still playable).
+On Fuel
+Fuel capacity at base speed 1 tank every 2 minutes. 
+Fuel capacity at max speed, 1 tank every 30 seconds. 
+A fuel tank has 120 units of fuel. 
+The drone has two fuel tanks, one that is active, one that is backup. 
+At base speed, it consumes 1 unit every second. 
+At max speed it consumes 4 units every second. 
+When emptied, the active tank is discharged from the drone, and the backup tank is set to active. 
+The fuel gage will show the level of only one of the fuel tanks.
+When there is a backup fuel tank present, the fuel gage will have an extra ring around it indicating there is a backup fuel tank. 
+When the drone gets down to one fuel tank spare fuel tanks will start dropping until one is picked up. 
+Fuel tanks will always be dropped in the safe lane (which is set by the first 30 digits of pi including the leading 3)
+Fuel tanks will always start with 120 units of fuel. 
+
+## Run Details
+### Background Lore
+Over the short time that Kytherium since Kytherium has been discovered, the refineries have discovered that Kytherium is most prevalent at the equator of Krneal. With that in mind, the refineries have moved all of their Kytherium harvesting machinery to the equator to ensure best harvesting rates. 
+Kytherium harvesting machinery looks like a large collection of pipes and such extending out of the molten lava that covers 90% of the surface of Krneal. From a top down view, the harvesting machinery is roughly square in shape. Kytherium has a predictable pattern for where it will be at in the 9 lanes. 

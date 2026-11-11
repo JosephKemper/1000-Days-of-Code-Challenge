@@ -345,3 +345,10 @@ Scheduled Day off From Coding
 - Continued refining draft of collectables needs. 
 - Read Section 6.6 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Tuesday, 10 November, 2026
+## Day 45 of 1,000 Days of Code for TeckFirst
+- Complted details for how fuel will work in Inferno Jockey
+- Started working details for how the obstacles in the game will work. 
+- Read Section 6.7, 6.8, and 6.9 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
