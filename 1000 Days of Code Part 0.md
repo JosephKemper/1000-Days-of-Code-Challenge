@@ -352,3 +352,12 @@ Scheduled Day off From Coding
 - Started working details for how the obstacles in the game will work. 
 - Read Section 6.7, 6.8, and 6.9 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Wednesday, 11 November, 2026
+## Day 46 of 1,000 Days of Code for TeckFirst
+- Finished lore details to game relating to a play through of the game. 
+- Planned starting speed, max speed, and speed progression
+- Planned fuel burn increase at each speed
+- Planned number of Kytherium Ore deposits you will need to tag to go from base speed to max speed. 
+- Read Section 7.0 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey

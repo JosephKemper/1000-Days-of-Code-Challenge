@@ -315,3 +315,21 @@ Fuel tanks will always start with 120 units of fuel.
 ### Background Lore
 Over the short time that Kytherium since Kytherium has been discovered, the refineries have discovered that Kytherium is most prevalent at the equator of Krneal. With that in mind, the refineries have moved all of their Kytherium harvesting machinery to the equator to ensure best harvesting rates. 
 Kytherium harvesting machinery looks like a large collection of pipes and such extending out of the molten lava that covers 90% of the surface of Krneal. From a top down view, the harvesting machinery is roughly square in shape. Kytherium has a predictable pattern for where it will be at in the 9 lanes. 
+
+# Wednesday, 11 November, 2026
+I'm officially changing the next phase of my development to be the obstacles first. As I have thought about what I need to know to get the collectables properly planned, not having the obstacles planned just does not make sense. I will also need to know more about how the course will look during a run. 
+So, with that in mind, now to actually stop and plan out more of the details of how the game will progress. 
+
+# Run Details Continued
+## Background Lore Continued
+The surface of Kerneal is a blast furnace. It has high speed and extremely hot winds blowing across it constantly. Any Kytherium the harvesting equipment pulls out for collection that is not in an enclosed area is blown from its perch back into the lava. Likewise any replacement fuel or laser cores that are placed for collection that are not placed in an enclosed area are also blown away. A drone that is not travelling at high enough speeds cannot maintain its course. For lower quality drones (which will be the only drone available at start) the max speed will be double of the base speed. 
+
+## Run Mechanics
+### Speed
+Initial speed will be 12 units per second. The max speed will be 24 units per second. This means that the patter for fuel consumption to speed will be as follows. 
+| Fuel Burn Rate | Drone Speed |
+| :--- | :--- |
+| 1 | 12 |
+| 2 | 16 |
+| 3 | 20 |
+| 4 | 24 |
