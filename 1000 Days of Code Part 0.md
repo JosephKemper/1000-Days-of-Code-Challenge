@@ -365,5 +365,5 @@ Scheduled Day off From Coding
 # Thursday, 12 November, 2026
 ## Day 47 of 1,000 Days of Code for TeckFirst
 - Worked out some details to obstacles and lore
-- Read Section 7.0 of A Philosophy of Software Design.
+- Read Section 7.1 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
