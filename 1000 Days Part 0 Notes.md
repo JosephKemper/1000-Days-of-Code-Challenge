@@ -333,3 +333,28 @@ Initial speed will be 12 units per second. The max speed will be 24 units per se
 | 2 | 16 |
 | 3 | 20 |
 | 4 | 24 |
+
+# Thursday, 12 November, 2026
+## Obstacles
+### Related Lore
+Krneal is about 30% larger than the size of Earth's liquid outer core. The lava on its surface has all of the normal traits associated with magma, including being under the kind of extreme pressure that is typically associated with magma. 
+This detail will likely never make it formally into the game, but the reason for this, is because Krneal is the actual core to every planet in the Teldrin galaxy.  
+As the companies who employ Inferno Jockeys have no concern for the lives of those who they employ, but they do care about getting the Kytherium harvested, they have placed what the harvesters at the ideal distance apart to allow for "anyone worth paying" to be able to navigate through the harvesters. 
+
+
+### Obstacle Details
+Things to consider
+The player will only ever be able to see one full lane at a time. 
+There is a possibility that they could end up having to make double moves going through the 3 x 3 play grid, especially when you consider they will not always be navigating to the safe lane, they will be moving to the lane where the Kytherium is at (which is based off of the current digit of Pi plus 7 positions up in the grid wrapping over to 1 if they exceed lane 9), that could easily get into a lot of double moves, especially when you factor in the possibility of elaborate traps being added by pirates later on that could get really intense to navigate. The initial version will simply have the harvesters (which will block certain lanes), Kytherium, and the supplies. 
+This means, that I should assume that for the inital version they will always need to make two moves and fire to get into the correct position. Thus, running at top speed, I would want them to have enough time to make any two moves and fire the gun, before they are fully committed to the lane (ie flying through the harvester).  
+The expected strategy most (ie those who do not have the pattern memorized) will end up using, for moving will be to move from wherever they are, to lane 5 which will be reachable from any lane from there they will scan the lanes figure out their next move, and then to the lane they want to move to. The reason for this expected strategy is that lane 5 is the only lane that gives the player a partial view of the whole play area.
+
+Related digits of Pi
+3.14159265358979323846264338327
+Lane map
+1 2 3
+4 5 6
+7 8 9
+
+I think for the UI, I want to add Visual UI cues to make it quicker to tell various things about the lane. Is it blocked, does it have a hazard in it, are resources in there, or is there Kytherium in that lane? I like that. It will make it far easier for the players and for me, to tell the players where they need to go, than to just rely on the players being able to tell the difference between a mine set by a pirate and a Kytherium deposit while flying at 24 units per second in a claustrophia inducing space. 
+Initial research suggests that spacing will likely need to be about 35 to 42 units apart for the obstacles
