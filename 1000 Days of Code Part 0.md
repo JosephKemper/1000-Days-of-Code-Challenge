@@ -379,3 +379,6 @@ Scheduled Day off From Coding
 - Worked out some details to obstacles and lore
 - Read Section 7.3 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Sunday, 15 November, 2026
+Scheduled day off from coding
