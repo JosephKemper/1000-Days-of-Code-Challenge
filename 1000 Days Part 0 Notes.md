@@ -358,3 +358,24 @@ Lane map
 
 I think for the UI, I want to add Visual UI cues to make it quicker to tell various things about the lane. Is it blocked, does it have a hazard in it, are resources in there, or is there Kytherium in that lane? I like that. It will make it far easier for the players and for me, to tell the players where they need to go, than to just rely on the players being able to tell the difference between a mine set by a pirate and a Kytherium deposit while flying at 24 units per second in a claustrophia inducing space. 
 Initial research suggests that spacing will likely need to be about 35 to 42 units apart for the obstacles
+
+# Monday, 16 November, 2026
+The obstacles class (or method) will track which lane is the safe lane and will tell that to the spawner. The fuel class (or method) will track how much fuel the player has left and will tell the spawner whether it needs to add fuel to the obstacle or not, and the same thing will happen with the replacement laser cores. 
+I need more details. 
+If I'm going to avoid having a shallow class, then I need to have the spawner do far more than just placing objects into the game. When I stop to think about this, everything will be spawned into an obstacle. So, I'm just going to put everything for the obstacles into the spawner. Time to list out what the spawner will do. 
+
+Spawner Class Jobs
+1. Track which lane will be the safe lane
+2. Spawn obstacles (The Kytherium Harvestors) into the game
+3. Spawn Kytherium into a lane equal to the safe lane plus 7 (Rolled over to 1 if it exceeds 9)
+3. Check if fuel needs to be spawned in the safe lane. 
+4. Check if a replacement ammo core needs to be spawned into the safe lane. 
+5. Future only (Not for initial release): Spawn pirate placed obstacles that will try to steal your tagged Kytherium. When you die to these, you will lose 10% of your tagged Kytherium. 
+
+Now, I have two jobs I want to figure out. Will it be better to give the fuel and ammo their own classes, or would they work better as methods in the spawner class?
+Things to consider for fuel and ammo. 
+The computer on your ship is responsible for spawning fuel and ammo. This will never change. It is part of the lore of the game. With that in mind, I do not see a logical reason why fuel and ammo will ever get more complex than is it at a level that would warrant the player needing more fuel and ammo. 
+Eventually, I do want to add the ability for the player to set their own drop points, but initially, what I am going to do is to have fuel and ammo drop when the primary tank/fuel core is depleted. The drone will have a primary fuel tank and primary laser core are empty/depleted. When those are depleted, ship's computer or when it hits the point the player set (at some future point) the ship's computer will start dropping replacement fuel tank's and laser cores to replace the depleted ones. It will never get more complex than that, to do so would be to violate what I consider a core principle of the game. 
+
+Other things to consider for fuel and ammo. 
+While right now, I am only considering getting them into the game, later, I will need to track the fuel used into the game, and track ammo usage, which is decidedly not something that the spawner needs to worry about. And especially with the fuel, the more Kytherium the drone collects, the faster it will go and the more fuel it will need to collect. So, with that in mind, if I put a single consumables class in the game, then that can be responsible for tracking the levels of both of the consumables, have a reasonably deep class, and keep it out of the spawner. And if I change it to a collectibles class, then I can add in details to what type of Kytherium should be spawned later when I add that detail into the game. 

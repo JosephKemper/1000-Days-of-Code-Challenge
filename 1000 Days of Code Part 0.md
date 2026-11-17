@@ -382,3 +382,9 @@ Scheduled Day off From Coding
 
 # Sunday, 15 November, 2026
 Scheduled day off from coding
+
+# Monday, 16 November, 2026
+## Day 50 of 1,000 Days of Code for TeckFirst
+- Worked out details to the spawner and the collectables classes. 
+- Read Section 7.4 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
