@@ -417,6 +417,19 @@ For now, the spacing I will go for with the obstacles will be 14 units apart. Th
 2 | 7 | 3
 7 | 3 | 1
 
+Numbers of each Harvestor Needed
+Safe Lane	Copies of harvester
+1	2
+2	1
+3	2
+4	1
+5	2
+6	2
+7	1
+8	1
+9	2
+
+
 Looking at the list of possible sets the lane configurations I will need two of would be the ones where the safe lane is in lane 1, 3, 5, 6, and 9. 
 From the looks of it, between the 24th and 26th lanes I will need to go from having two lane three safe lane obstacles to using one more 3 the moment the first gets despawned. That means the sequence that would I would need to follow for the obstacle sets is the following, 
 1. Despwan the obstacle the player just passed. 
