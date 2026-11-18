@@ -379,3 +379,74 @@ Eventually, I do want to add the ability for the player to set their own drop po
 
 Other things to consider for fuel and ammo. 
 While right now, I am only considering getting them into the game, later, I will need to track the fuel used into the game, and track ammo usage, which is decidedly not something that the spawner needs to worry about. And especially with the fuel, the more Kytherium the drone collects, the faster it will go and the more fuel it will need to collect. So, with that in mind, if I put a single consumables class in the game, then that can be responsible for tracking the levels of both of the consumables, have a reasonably deep class, and keep it out of the spawner. And if I change it to a collectibles class, then I can add in details to what type of Kytherium should be spawned later when I add that detail into the game. 
+
+# Tuesday, 17 November, 2026
+First up, finish fleshing out the spawner class. 
+For now, the spacing I will go for with the obstacles will be 14 units apart. The distance apart should be able to be changed in Unity for easier testing and adjustments. I want to have a total of 3 obstacles out at any given time, the one the player is flying through, and two beyond that one. Once the player flies through one obstacle that obstacle will be removed from active play and will go back into the obstacles available for being used for future obstacles. 
+
+| Current Lane | Next Lane | Just Spawned Lane|
+| :--- | :--- | :--- |
+3 | 1 | 4
+1 | 4 | 1
+4 | 1 | 5
+1 | 5 | 9
+5 | 9 | 2
+9 | 2 | 6
+2 | 6 | 5
+6 | 5 | 3
+5 | 3 | 5
+3 | 5 | 8
+5 | 8 | 9
+8 | 9 | 7
+9 | 7 | 9
+7 | 9 | 3
+9 | 3 | 2
+3 | 2 | 3
+2 | 3 | 8
+3 | 8 | 4
+8 | 4 | 6
+4 | 6 | 2
+6 | 2 | 6
+2 | 6 | 4
+6 | 4 | 3
+4 | 3 | 3
+3 | 3 | 8
+3 | 8 | 3
+8 | 3 | 2
+3 | 2 | 7
+2 | 7 | 3
+7 | 3 | 1
+
+Looking at the list of possible sets the lane configurations I will need two of would be the ones where the safe lane is in lane 1, 3, 5, 6, and 9. 
+From the looks of it, between the 24th and 26th lanes I will need to go from having two lane three safe lane obstacles to using one more 3 the moment the first gets despawned. That means the sequence that would I would need to follow for the obstacle sets is the following, 
+1. Despwan the obstacle the player just passed. 
+2. Spawn in the next obstacle. 
+
+If I follow that process, then I should only need 14 total obstacle prototypes to use for in game and then could just recycle them continously as the game runs, keeping a rather low footprint for the game. 
+
+Spawner Class Jobs
+One sentence description of job for Spawner: The job of the Spawner class is to keep between two and three harvester sets spawned in game at all times. 
+1. On game start, spawn first two harvester into game, one at 14 units out on the Z axis from the player, and the next at 28 units out on the z axis from the player.
+2. Just before the next harvester gets to the player (0.1 units out on the Z axis from the player), spawn in a new harvester 28 units on the Z axis out from the player. 
+3. Despawn any harvester that passes the player's Z Axis and return it to the object pool. 
+
+
+HarvesterAssembly Class Jobs
+One sentence description for job of HarvesterAssembly Class: The job of the HarvesterAssembly Class is to assemble the next Harvester for placement into the game. 
+1. Track what harvester should be spawned next based on the next digit of Pi. 
+2. Tag next harvester to be spawned with appropriate Kytherium type (initial release will only have one type)
+3. When replacement fuel tanks are needed, tag next harvester to be spawned for inclusion of a replacement fuel tank (will always be placed in the safe lane). 
+4. When replacement laser cores are needed, tag next harvester to be spawned for inclusion of a replacement laser core (will always be placed in the safe lane). 
+
+Consumables Class
+One sentence description for job Consumables class of any in game consumables and create a bool value for when those resources are needed in game. 
+1. Track fuel levels to know when next fuel tank should be spawned. Initially will always be when the primary tank is emptied eventually the player will be able to set this. 
+2. Track laser core depletion levels to know when next replacement laser core should be spawned. Initially will always be when the primary tank is emptied eventually the player will be able to set this. 
+
+ZoneManagement Class
+One sentence description for job of the ZoneManagement Class, track all unique info relating to different zones in the game. 
+1. Determine type of Kytherium to be included in Harvester (initial release will only have one type)
+2. Future (not in current release): Add additional obstacles placed there by pirates trying to steal Kytherium data. 
+
+
+

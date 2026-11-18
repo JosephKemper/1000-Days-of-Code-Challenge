@@ -388,3 +388,9 @@ Scheduled day off from coding
 - Worked out details to the spawner and the collectables classes. 
 - Read Section 7.4 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
+
+# Tuesday, 17 November, 2026
+## Day 51 of 1,000 Days of Code for TeckFirst
+- Planned the Spawner Class, HarvesterAssembly Class, Consumables Class, and ZoneManagement Classes
+- Read Section 7.5 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
