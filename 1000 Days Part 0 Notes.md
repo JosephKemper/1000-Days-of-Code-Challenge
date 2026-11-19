@@ -419,15 +419,17 @@ For now, the spacing I will go for with the obstacles will be 14 units apart. Th
 
 Numbers of each Harvestor Needed
 Safe Lane	Copies of harvester
-1	2
-2	1
-3	2
-4	1
-5	2
-6	2
-7	1
-8	1
-9	2
+Lane | Copies
+| :--- | :--- |
+1 | 2
+2 | 1
+3 | 2
+4 | 1
+5 | 2
+6 | 2
+7 | 1
+8 | 1
+9 | 2
 
 
 Looking at the list of possible sets the lane configurations I will need two of would be the ones where the safe lane is in lane 1, 3, 5, 6, and 9. 
@@ -461,5 +463,32 @@ One sentence description for job of the ZoneManagement Class, track all unique i
 1. Determine type of Kytherium to be included in Harvester (initial release will only have one type)
 2. Future (not in current release): Add additional obstacles placed there by pirates trying to steal Kytherium data. 
 
-
+# Wednesday, 18 November, 2026
+## Things I need to define
+1. Scene / Movement Model (critical)
+Is the player moving forward on the Z-axis, or is the player stationary and the world/harvesters moving toward the player?
+What is the constant forward speed (or is it variable)?
+How many lanes exist, and what is the lane width / spacing?
+Where is the “safe lane”? (e.g., always the center lane, or calculated somehow)
+2. Harvester Prefab Structure
+Is a “Harvester” a single prefab, or is it assembled from multiple pieces at runtime?
+What child objects / markers does it already have? (lane positions, pickup spawn points, collision volumes, etc.)
+Does it need a script of its own (e.g., Harvester or HarvesterSet) that the Spawner talks to, or can the Spawner just treat it as a GameObject?
+3. Object Pooling Approach
+Do you already have (or want) a simple object pool, or should the classes use Unity’s built-in UnityEngine.Pool.ObjectPool<T>?
+Who owns the pools — the Spawner, a separate PoolManager, or the HarvesterAssembly?
+4. Pi Digit Source
+Is the sequence of Pi digits pre-generated and stored (array/list), or do you want it calculated on the fly?
+How far ahead do you need the sequence? (Just the next digit, or a small buffer?)
+Any mapping rules yet (e.g., digit 0–3 = type A, 4–6 = type B, etc.), or is it purely a sequencing mechanism for now?
+5. Consumables Tracking Details
+How are current fuel and laser-core levels represented right now? (floats on a player/ship script, a dedicated resource manager, ScriptableObject, etc.)
+What are the initial max values and depletion rates (even approximate)?
+Should the Consumables class expose events (e.g., OnFuelNeeded, OnCoreNeeded) or just bools that other classes poll?
+6. Communication Style Between Classes
+Preferred pattern: direct references, events/UnityEvents, a simple singleton/service locator, or ScriptableObject channels?
+Are these classes expected to be MonoBehaviours on GameObjects in the scene, or pure C# classes instantiated by a manager?
+7. Minimal Viable Scope Confirmation
+For the first Itch.io release, is it acceptable to hard-code “one Kytherium type” and “always put fuel/core in the safe lane,” with clear TODO comments for the future pirate obstacles and player-configurable thresholds?
+Any other systems these classes must already talk to (player health/damage, score, UI, etc.), or can they be isolated for now?
 
