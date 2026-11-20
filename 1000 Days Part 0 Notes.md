@@ -492,3 +492,102 @@ Are these classes expected to be MonoBehaviours on GameObjects in the scene, or 
 For the first Itch.io release, is it acceptable to hard-code “one Kytherium type” and “always put fuel/core in the safe lane,” with clear TODO comments for the future pirate obstacles and player-configurable thresholds?
 Any other systems these classes must already talk to (player health/damage, score, UI, etc.), or can they be isolated for now?
 
+# Thursday, 19 November, 2026
+## Current Notes Progress
+Who owns the pools — the Spawner, a separate PoolManager, or the HarvesterAssembly?
+4. Pi Digit Source
+Is the sequence of Pi digits pre-generated and stored (array/list), or do you want it calculated on the fly?
+How far ahead do you need the sequence? (Just the next digit, or a small buffer?)
+Any mapping rules yet (e.g., digit 0–3 = type A, 4–6 = type B, etc.), or is it purely a sequencing mechanism for now?
+5. Consumables Tracking Details
+How are current fuel and laser-core levels represented right now? (floats on a player/ship script, a dedicated resource manager, ScriptableObject, etc.)
+What are the initial max values and depletion rates (even approximate)?
+Should the Consumables class expose events (e.g., OnFuelNeeded, OnCoreNeeded) or just bools that other classes poll?
+6. Communication Style Between Classes
+Preferred pattern: direct references, events/UnityEvents, a simple singleton/service locator, or ScriptableObject channels?
+Are these classes expected to be MonoBehaviours on GameObjects in the scene, or pure C# classes instantiated by a manager?
+7. Minimal Viable Scope Confirmation
+For the first Itch.io release, is it acceptable to hard-code “one Kytherium type” and “always put fuel/core in the safe lane,” with clear TODO comments for the future pirate obstacles and player-configurable thresholds?
+Any other systems these classes must already talk to (player health/damage, score, UI, etc.), or can they be isolated for now?
+
+
+
+The player is stationary, the scene (harvesters and the minimal environment) will move towards the player (the goal being to give the player feeling of flying at high rates of speed through the game).
+
+The movement speed of the environment is not set. The speed starts at 12 units per second, and increases with the first three times they tag Kytherium (the thing they are being paid to collect) for collection. The progression is as follows
+| Fuel Burn Rate | Drone Speed |
+| :--- | :--- |
+| 1 | 12 |
+| 2 | 16 |
+| 3 | 20 |
+| 4 | 24 |
+
+
+There will be 9 different prefabricated Kytherium harvesters that the player must navigate through. Each prefabricated harvester will have a set safe lane, which is a lane that will always be safe to fly through without needed to fire the gun to clear anything out. The position of this safe lane be based on this sequence. 
+
+314159265358979323846264338327
+I plan to have that sequence in a set data structure in the game. 
+The play area is divided into a 3 by 3 grid as follows. 
+
+Lane map
+1 2 3
+4 5 6
+7 8 9
+
+The size of each lane is 50 wide and 100 tall. If this is changed it will require the movement script to be adjusted as well. 
+Collision for the player will be determined by an object that the player cannot safely pass, reaching the z index where the player sits when the player is in that lane. 
+I plan to construct the harvesters of multiple smaller parts to allow different lanes to be marked as needed for status tracking of the lane. 
+
+For the spawning of harvesters, I want to have enough to always have a minimum of one additional harvester behind the one the player is directly approaching. This is the reason for the choice of having between 2 and three harvesters out at all times. Breaking down the pi sequence to their spawning order the lane progression would be as follows:
+| Current Lane | Next Lane | Just Spawned Lane|
+| :--- | :--- | :--- |
+3 | 1 | 4
+1 | 4 | 1
+4 | 1 | 5
+1 | 5 | 9
+5 | 9 | 2
+9 | 2 | 6
+2 | 6 | 5
+6 | 5 | 3
+5 | 3 | 5
+3 | 5 | 8
+5 | 8 | 9
+8 | 9 | 7
+9 | 7 | 9
+7 | 9 | 3
+9 | 3 | 2
+3 | 2 | 3
+2 | 3 | 8
+3 | 8 | 4
+8 | 4 | 6
+4 | 6 | 2
+6 | 2 | 6
+2 | 6 | 4
+6 | 4 | 3
+4 | 3 | 3
+3 | 3 | 8
+3 | 8 | 3
+8 | 3 | 2
+3 | 2 | 7
+2 | 7 | 3
+7 | 3 | 1
+
+This means that for purposes of constructing the physical harvester assemblies, I would need to construct a total of 14 harvester prefabs as detailed below. 
+Numbers of each Harvester Needed
+Safe Lane	Copies of harvester
+Lane | Copies
+| :--- | :--- |
+1 | 2
+2 | 1
+3 | 2
+4 | 1
+5 | 2
+6 | 2
+7 | 1
+8 | 1
+9 | 2
+
+The only thing that has currently been built in game is the PlayerInput script, the 9 lanes, and their respective buttons. 
+For object pool, I want to use whatever is simplest while still being effective and not bogging my game down. 
+
+The harvesters will be game objects and will likely have their first version constructed from default Unity assets.
