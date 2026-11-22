@@ -408,7 +408,13 @@ Scheduled day off from coding
 - https://github.com/TeckFirst/InfernoJockey
 
 # Friday, 20 Novemember, 2026
-## Day 53 of 1,000 Days of Code for TeckFirst
-- Started compiling needed before building classes. 
+## Day 54 of 1,000 Days of Code for TeckFirst
+- Continued compiling needed before building classes. 
 - Read Section 8.2 of A Philosophy of Software Design.
+- https://github.com/TeckFirst/InfernoJockey
+
+# Saturday, 21 November, 2026
+## Day 55 of 1,000 Days of Code for TeckFirst
+- Continued compiling needed before building classes. 
+- Read Section 8.3 of A Philosophy of Software Design.
 - https://github.com/TeckFirst/InfernoJockey
